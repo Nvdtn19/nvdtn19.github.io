@@ -1,0 +1,686 @@
+{
+	"#comment": "Star Convert Config here!",
+	"version": 1,
+	"objects": [
+		{
+			"objclass": "StarConvertConfig",
+			"aliases": [
+				"StarConvertConfigData"
+			],
+			"objdata": {
+				"ConvertList": [
+					{
+						"Type": "Feature",
+						"Name": "6_slots",
+						"ConvertItem": [
+							{
+								"ConvertItemId": 1,
+								"PlantStarLevel": 0,
+								"StarRequire": 3
+							}
+						]
+					},
+					{
+						"Type": "Plant",
+						"Name": "peashooter",
+						"ConvertItem": [
+							{
+								"ConvertItemId": 2,
+								"PlantStarLevel": 2,
+								"StarRequire": 4
+							}
+						]
+					},
+					{
+						"Type": "Plant",
+						"Name": "sunflower",
+						"ConvertItem": [
+							{
+								"ConvertItemId": 3,
+								"PlantStarLevel": 2,
+								"StarRequire": 5
+							}
+						]
+					},
+					{
+						"Type": "Plant",
+						"Name": "torchwood",
+						"ConvertItem": [
+							{
+								"ConvertItemId": 4,
+								"PlantStarLevel": 1,
+								"StarRequire": 6
+							},
+							{
+								"ConvertItemId": 23,
+								"PlantStarLevel": 2,
+								"StarRequire": 115
+							},
+							{
+								"ConvertItemId": 35,
+								"PlantStarLevel": 3,
+								"StarRequire": 250
+							}
+						]
+					},
+					{
+						"Type": "Plant",
+						"Name": "wallnut",
+						"ConvertItem": [
+							{
+								"ConvertItemId": 5,
+								"PlantStarLevel": 2,
+								"StarRequire": 8
+							}
+						]
+					},
+					{
+						"Type": "Feature",
+						"Name": "starting_sun_lvl1",
+						"ConvertItem": [
+							{
+								"ConvertItemId": 6,
+								"PlantStarLevel": 0,
+								"StarRequire": 10
+							}
+						]
+					},
+					{
+						"Type": "Feature",
+						"Name": "7_slots",
+						"ConvertItem": [
+							{
+								"ConvertItemId": 7,
+								"PlantStarLevel": 0,
+								"StarRequire": 20
+							}
+						]
+					},
+					{
+						"Type": "Feature",
+						"Name": "sunshovel_lvl1",
+						"ConvertItem": [
+							{
+								"ConvertItemId": 8,
+								"PlantStarLevel": 0,
+								"StarRequire": 25
+							}
+						]
+					},
+					{
+						"Type": "Plant",
+						"Name": "bonkchoy",
+						"ConvertItem": [
+							{
+								"ConvertItemId": 9,
+								"PlantStarLevel": 1,
+								"StarRequire": 30
+							},
+							{
+								"ConvertItemId": 25,
+								"PlantStarLevel": 2,
+								"StarRequire": 130
+							},
+							{
+								"ConvertItemId": 36,
+								"PlantStarLevel": 3,
+								"StarRequire": 270
+							}
+						]
+					},
+					{
+						"Type": "Feature",
+						"Name": "startingsun2",
+						"ConvertItem": [
+							{
+								"ConvertItemId": 10,
+								"PlantStarLevel": 0,
+								"StarRequire": 35
+							}
+						]
+					},
+					{
+						"Type": "Plant",
+						"Name": "powerlily",
+						"ConvertItem": [
+							{
+								"ConvertItemId": 11,
+								"PlantStarLevel": 1,
+								"StarRequire": 45
+							}
+						]
+					},
+					{
+						"Type": "Feature",
+						"Name": "pf_slots_lvl1",
+						"ConvertItem": [
+							{
+								"ConvertItemId": 12,
+								"PlantStarLevel": 0,
+								"StarRequire": 50
+							}
+						]
+					},
+					{
+						"Type": "Plant",
+						"Name": "lavaguava",
+						"ConvertItem": [
+							{
+								"ConvertItemId": 13,
+								"PlantStarLevel": 1,
+								"StarRequire": 55
+							},
+							{
+								"ConvertItemId": 26,
+								"PlantStarLevel": 2,
+								"StarRequire": 150
+							},
+							{
+								"ConvertItemId": 37,
+								"PlantStarLevel": 3,
+								"StarRequire": 280
+							}
+						]
+					},
+					{
+						"Type": "Feature",
+						"Name": "seedslot2",
+						"ConvertItem": [
+							{
+								"ConvertItemId": 14,
+								"PlantStarLevel": 0,
+								"StarRequire": 60
+							}
+						]
+					},
+					{
+						"Type": "Feature",
+						"Name": "sunshovel_lvl2",
+						"ConvertItem": [
+							{
+								"ConvertItemId": 15,
+								"PlantStarLevel": 0,
+								"StarRequire": 65
+							}
+						]
+					},
+					{
+						"Type": "Plant",
+						"Name": "holonut",
+						"ConvertItem": [
+							{
+								"ConvertItemId": 16,
+								"PlantStarLevel": 1,
+								"StarRequire": 75
+							},
+							{
+								"ConvertItemId": 29,
+								"PlantStarLevel": 2,
+								"StarRequire": 180
+							},
+							{
+								"ConvertItemId": 38,
+								"PlantStarLevel": 3,
+								"StarRequire": 290
+							}
+						]
+					},
+					{
+						"Type": "Feature",
+						"Name": "wallnut_firstaid",
+						"ConvertItem": [
+							{
+								"ConvertItemId": 17,
+								"PlantStarLevel": 0,
+								"StarRequire": 80
+							}
+						]
+					},
+					{
+						"Type": "Plant",
+						"Name": "asparagus",
+						"ConvertItem": [
+							{
+								"ConvertItemId": 18,
+								"PlantStarLevel": 1,
+								"StarRequire": 85
+							},
+							{
+								"ConvertItemId": 31,
+								"PlantStarLevel": 2,
+								"StarRequire": 210
+							},
+							{
+								"ConvertItemId": 39,
+								"PlantStarLevel": 3,
+								"StarRequire": 300
+							}
+						]
+					},
+					{
+						"Type": "Feature",
+						"Name": "startingsun3",
+						"ConvertItem": [
+							{
+								"ConvertItemId": 19,
+								"PlantStarLevel": 0,
+								"StarRequire": 90
+							}
+						]
+					},
+					{
+						"Type": "Plant",
+						"Name": "hypnoshroom",
+						"ConvertItem": [
+							{
+								"ConvertItemId": 20,
+								"PlantStarLevel": 1,
+								"StarRequire": 95
+							},
+							{
+								"ConvertItemId": 32,
+								"PlantStarLevel": 2,
+								"StarRequire": 220
+							},
+							{
+								"ConvertItemId": 40,
+								"PlantStarLevel": 3,
+								"StarRequire": 310
+							}
+						]
+					},
+					{
+						"Type": "Plant",
+						"Name": "pepperpult",
+						"ConvertItem": [
+							{
+								"ConvertItemId": 21,
+								"PlantStarLevel": 1,
+								"StarRequire": 100
+							},
+							{
+								"ConvertItemId": 33,
+								"PlantStarLevel": 2,
+								"StarRequire": 230
+							},
+							{
+								"ConvertItemId": 41,
+								"PlantStarLevel": 3,
+								"StarRequire": 330
+							}
+						]
+					},
+					{
+						"Type": "Plant",
+						"Name": "homingthistle",
+						"ConvertItem": [
+							{
+								"ConvertItemId": 22,
+								"PlantStarLevel": 1,
+								"StarRequire": 110
+							},
+							{
+								"ConvertItemId": 34,
+								"PlantStarLevel": 2,
+								"StarRequire": 240
+							},
+							{
+								"ConvertItemId": 42,
+								"PlantStarLevel": 3,
+								"StarRequire": 350
+							}
+						]
+					},
+					{
+						"Type": "Feature",
+						"Name": "sunshovel3",
+						"ConvertItem": [
+							{
+								"ConvertItemId": 24,
+								"PlantStarLevel": 0,
+								"StarRequire": 120
+							}
+						]
+					},
+					{
+						"Type": "Feature",
+						"Name": "startingsun4",
+						"ConvertItem": [
+							{
+								"ConvertItemId": 27,
+								"PlantStarLevel": 0,
+								"StarRequire": 160
+							}
+						]
+					},
+					{
+						"Type": "Feature",
+						"Name": "pf_slots_lvl3",
+						"ConvertItem": [
+							{
+								"ConvertItemId": 28,
+								"PlantStarLevel": 0,
+								"StarRequire": 170
+							}
+						]
+					},
+					{
+						"Type": "Feature",
+						"Name": "sunshovel_lvl4",
+						"ConvertItem": [
+							{
+								"ConvertItemId": 30,
+								"PlantStarLevel": 0,
+								"StarRequire": 190
+							}
+						]
+					},
+					{
+						"Type": "Plant",
+						"Name": "goldbloom",
+						"ConvertItem": [
+							{
+								"ConvertItemId": 43,
+								"PlantStarLevel": 1,
+								"StarRequire": 370
+							}
+						]
+					},
+					{
+						"Type": "Plant",
+						"Name": "peach",
+						"ConvertItem": [
+							{
+								"ConvertItemId": 44,
+								"PlantStarLevel": 1,
+								"StarRequire": 390
+							},
+							{
+								"ConvertItemId": 49,
+								"PlantStarLevel": 2,
+								"StarRequire": 490
+							},
+							{
+								"ConvertItemId": 59,
+								"PlantStarLevel": 3,
+								"StarRequire": 810
+							}
+						]
+					},
+					{
+						"Type": "Avatar",
+						"Name": "torchwood",
+						"ConvertItem": [
+							{
+								"ConvertItemId": 45,
+								"PlantStarLevel": 0,
+								"StarRequire": 410
+							}
+						]
+					},
+					{
+						"Type": "Plant",
+						"Name": "garlic",
+						"ConvertItem": [
+							{
+								"ConvertItemId": 46,
+								"PlantStarLevel": 1,
+								"StarRequire": 430
+							},
+							{
+								"ConvertItemId": 51,
+								"PlantStarLevel": 2,
+								"StarRequire": 540
+							},
+							{
+								"ConvertItemId": 60,
+								"PlantStarLevel": 3,
+								"StarRequire": 840
+							}
+						]
+					},
+					{
+						"Type": "Avatar",
+						"Name": "bonkchoy",
+						"ConvertItem": [
+							{
+								"ConvertItemId": 47,
+								"PlantStarLevel": 0,
+								"StarRequire": 450
+							}
+						]
+					},
+					{
+						"Type": "Plant",
+						"Name": "primalpotatomine",
+						"ConvertItem": [
+							{
+								"ConvertItemId": 48,
+								"PlantStarLevel": 1,
+								"StarRequire": 470
+							},
+							{
+								"ConvertItemId": 56,
+								"PlantStarLevel": 2,
+								"StarRequire": 700
+							},
+							{
+								"ConvertItemId": 61,
+								"PlantStarLevel": 3,
+								"StarRequire": 870
+							}
+						]
+					},
+					{
+						"Type": "Avatar",
+						"Name": "holonut",
+						"ConvertItem": [
+							{
+								"ConvertItemId": 50,
+								"PlantStarLevel": 0,
+								"StarRequire": 510
+							}
+						]
+					},
+					{
+						"Type": "Avatar",
+						"Name": "asparagus",
+						"ConvertItem": [
+							{
+								"ConvertItemId": 52,
+								"PlantStarLevel": 0,
+								"StarRequire": 570
+							}
+						]
+					},
+					{
+						"Type": "Plant",
+						"Name": "caulipower",
+						"ConvertItem": [
+							{
+								"ConvertItemId": 53,
+								"PlantStarLevel": 1,
+								"StarRequire": 600
+							},
+							{
+								"ConvertItemId": 58,
+								"PlantStarLevel": 2,
+								"StarRequire": 770
+							},
+							{
+								"ConvertItemId": 62,
+								"PlantStarLevel": 3,
+								"StarRequire": 910
+							}
+						]
+					},
+					{
+						"Type": "Avatar",
+						"Name": "hypnoshroom",
+						"ConvertItem": [
+							{
+								"ConvertItemId": 54,
+								"PlantStarLevel": 0,
+								"StarRequire": 630
+							}
+						]
+					},
+					{
+						"Type": "Avatar",
+						"Name": "pepperpult",
+						"ConvertItem": [
+							{
+								"ConvertItemId": 55,
+								"PlantStarLevel": 0,
+								"StarRequire": 660
+							}
+						]
+					},
+					{
+						"Type": "Avatar",
+						"Name": "homingthistle",
+						"ConvertItem": [
+							{
+								"ConvertItemId": 57,
+								"PlantStarLevel": 0,
+								"StarRequire": 730
+							}
+						]
+					},
+					{
+						"Type": "Avatar",
+						"Name": "peach",
+						"ConvertItem": [
+							{
+								"ConvertItemId": 63,
+								"PlantStarLevel": 0,
+								"StarRequire": 940
+							}
+						]
+					},
+					{
+						"Type": "Avatar",
+						"Name": "garlic",
+						"ConvertItem": [
+							{
+								"ConvertItemId": 64,
+								"PlantStarLevel": 0,
+								"StarRequire": 970
+							}
+						]
+					},
+					{
+						"Type": "Avatar",
+						"Name": "primalpotatomine",
+						"ConvertItem": [
+							{
+								"ConvertItemId": 65,
+								"PlantStarLevel": 0,
+								"StarRequire": 1000
+							}
+						]
+					},
+					{
+						"Type": "Avatar",
+						"Name": "caulipower",
+						"ConvertItem": [
+							{
+								"ConvertItemId": 66,
+								"PlantStarLevel": 0,
+								"StarRequire": 1050
+							}
+						]
+					},
+					{
+						"Type": "Feature",
+						"Name": "manual_mowers_1",
+						"ConvertItem": [
+							{
+								"ConvertItemId": 67,
+								"PlantStarLevel": 0,
+								"StarRequire": 140
+							}
+						]
+					},
+					{
+						"Type": "Feature",
+						"Name": "pf_refresh",
+						"ConvertItem": [
+							{
+								"ConvertItemId": 68,
+								"PlantStarLevel": 0,
+								"StarRequire": 360
+							}
+						]
+					},
+					{
+						"Type": "World",
+						"Name": "WorldUnlock",
+						"ConvertItem": [
+							{
+								"PlantStarLevel": 2,
+								"StarRequire": 15
+							},
+							{
+								"PlantStarLevel": 3,
+								"StarRequire": 15
+							},
+							{
+								"PlantStarLevel": 4,
+								"StarRequire": 70
+							},
+							{
+								"PlantStarLevel": 5,
+								"StarRequire": 105
+							},
+							{
+								"PlantStarLevel": 6,
+								"StarRequire": 145
+							},
+							{
+								"PlantStarLevel": 7,
+								"StarRequire": 200
+							},
+							{
+								"PlantStarLevel": 8,
+								"StarRequire": 260
+							},
+							{
+								"PlantStarLevel": 9,
+								"StarRequire": 320
+							},
+							{
+								"PlantStarLevel": 10,
+								"StarRequire": 380
+							},
+							{
+								"PlantStarLevel": 11,
+								"StarRequire": 440
+							},
+							{
+								"PlantStarLevel": 12,
+								"StarRequire": 500
+							},
+							{
+								"PlantStarLevel": 13,
+								"StarRequire": 560
+							},
+							{
+								"PlantStarLevel": 14,
+								"StarRequire": 620
+							},
+							{
+								"PlantStarLevel": 15,
+								"StarRequire": 680
+							},
+							{
+								"PlantStarLevel": 16,
+								"StarRequire": 740
+							}
+						]
+					}
+				]
+			}
+		}
+	]
+}
