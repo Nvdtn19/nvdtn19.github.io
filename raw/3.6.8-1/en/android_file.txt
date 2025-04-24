@@ -72,10 +72,10 @@ SECTION_NEED_REVIEW
 
 
 [INFINITY_COINS_HEADER]
-2 Billion Coins/Fix Negative Coins
+Hack Coins/Fix Negative Coins
 
 [INFINITY_COINS_DESC]
-For who have <27M or negative coins
+Think before buying this as you can't undo.
 
 [HEALTH_NOTICE_CONTENT]
 Take care of yourself, beware of scams. Pay attention to self-protection and avoid being deceived. A bit of gaming trains your mind, too much will harm your health. Reasonably spend your time, enjoy a healthy life.
@@ -226,7 +226,7 @@ Registration Inquiry: https://beian.miit.gov.cn/
 
 
 [368_1_NOTICE_7]
-^00FF08^ Find this patch is your lifesaver? Your contribution is appreciated! Consider supporting me via Buy Me A Coffee to give me more motivation to maintain the project and make the patch always free to everyone. https://buymeacoffee.com/nvdtn19
+^00FF08^ Find this patch your lifesaver? Your contribution is appreciated! Consider supporting me via Buy Me A Coffee to give me more motivation to maintain the project and make the patch always free to everyone. https://buymeacoffee.com/nvdtn19
 
 
 [368_1_NOTICE_8]
