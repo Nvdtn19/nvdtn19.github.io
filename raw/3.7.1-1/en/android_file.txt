@@ -557,60 +557,52 @@ Not Just Camel Brand Can Test Your Speed
 The Scamming Couple
 
 [GINGLEBELL_DESCRIPTION]
-Score is total damage to guards.  Daily rewards are earned from new levels.  Three themes (Patrol, Divine Descent, Stationary Defense), each with three levels, unlock every 2 and 6 days respectively. Leaderboards rank scores from the latest theme's levels only; frozen for announcements (00:00-10:00 after theme unlocks, extended May 18th).  Rewards distributed after announcements. Cheaters are disqualified.
+Your total score is based on the damage done to snowmen within a limited time. Points earned from the latest levels contribute to daily bonus missions that refresh every day. Three themes are unlocked in sequence, each with three levels, every two days for levels and six days for themes. The leaderboard ranks players based on the total scores from the three latest theme levels. After a new theme unlocks, there’s an anti cheat detection period from 0:00 to 10:00 when players cannot access the new levels; only scores from up-to-date levels are counted. Rewards are automatically issued post-ranking, and any detected abnormal scores will be excluded. The leaderboard will be visible for one day on April 23th, during which no level challenges are allowed.
 
 [TRAINING_CHALLENGE_ZERO_NAME]
-The most natural translation depends on context, but here are a few options:
-
-* **May Day's clatter/clanging:** This emphasizes the sound.  It works well if the context is about the noise associated with May Day celebrations.
-
-* **The sound of May Day:** This is a more general translation focusing on the auditory aspect.
-
-* **May Day! (onomatopoeia):** This uses the sounds as a direct representation of the holiday, almost like an exclamation.  This works best if the context is informal and playful.
-
-Without more context, it's difficult to choose the *best* translation.  The original phrase uses onomatopoeia to evoke the sound of something associated with May Day.
+Fool's Bell
 
 [GINGLEBELL_TASKDESCRIPTION]
-The latest level deals {NUMBER} damage to Guards.
+Deal {NUMBER} damage to Jester Zombie in the latest level
 
 [A_PILE_SNOWMEN1_TITLE]
-Patroling the area - Checkpoint One
+Live Interaction - Level 1
 
 [A_PILE_SNOWMEN2_TITLE]
-Patroling the area - Checkpoint Two
+Live Interaction - Level 2
 
 [A_PILE_SNOWMEN3_TITLE]
-Patroling the area - Checkpoint Three
+Live Interaction - Level 3
 
 [CONVEYER_BELT1_TITLE]
-Divine Soldier Descends - Level 1
+Improv Show - Level 1
 
 [CONVEYER_BELT2_TITLE]
-Divine Soldier's Descent - Level Two
+Improv Show - Level 2
 
 [CONVEYER_BELT3_TITLE]
-Divine Soldier Descends - Level Three
+Improv Show - Level 3
 
 [RANDOM_SNOWMEN1_TITLE]
-Stationed in place - Checkpoint One
+Planned Show - Level 1
 
 [RANDOM_SNOWMEN2_TITLE]
-Stationed in Place - Checkpoint Two
+Planned Show - Level 2
 
 [RANDOM_SNOWMEN3_TITLE]
-Stationary Deployment - Checkpoint Three
+Planned Show - Level 3
 
 [GINGLEBELL_S1_1_TITLE]
-Patrol Route - Checkpoint One
+Live Interaction - Level 1
 
 [GINGLEBELL_S1_2_TITLE]
-Patroling the area - Checkpoint Two
+Live Interaction - Level 2
 
 [GINGLEBELL_S1_3_TITLE]
-Patroling the area - Checkpoint Three
+Live Interaction - Level 3
 
 [GINGLEBELL_S2_1_TITLE]
-Divine Soldiers Descending - Level 1
+Improv Show - Level 1
 
 [GINGLEBELL_S2_2_TITLE]
 Improv Show - Level 2
@@ -625,31 +617,22 @@ Planned Show - Level 1
 Planned Show - Level 2
 
 [GINGLEBELL_S3_3_TITLE]
-Stationary Deployment - Checkpoint Three
+Planned Show - Level 3
 
 [GINGLEBELL_COLLECTION_SHORT_DESCRIPTION]
 Challenge to deal the highest damage in 30 seconds!
 
 [SNOWNIGHTSTAGE2_LEVEL_NAME]
-Divine Soldiers Descend - Level {LEVEL_NUMBER}
+Improv Show - Level {LEVEL_NUMBER}
 
 [SNOWMODERNSTAGE1_LEVEL_NAME]
-Patrol - Level {LEVEL_NUMBER}
+Live Interaction - Level {LEVEL_NUMBER}
 
 [SNOWNIGHTSTAGE3_LEVEL_NAME]
-On-Site Deployment - Level {LEVEL_NUMBER}
+Planned Show - Level {LEVEL_NUMBER}
 
 [PLAYERS_TRIP_TO_SNOWNIGHT]
-{PLAYER}'s May Day Jingling Journey
-
-Alternatively, depending on the context and intended meaning of "响叮当" (xiǎng dīng dāng),  a more descriptive translation could be:
-
-{PLAYER}'s May Day Jingle Journey
-or
-{PLAYER}'s May Day Chime Journey
-
-
-The best option depends on the specific connotations intended.  "Jingling" suggests a lighter, more playful sound, while "chime" might imply something more melodious or resonant.
+{PLAYER}'s festive fight!
 
 [AVATARCOLLECTIONS_TITLE]
 Collection Album
@@ -658,14 +641,7 @@ Collection Album
 Function Description
 
 [AVATARCOLLECTION_DESCRIPTION]
-1. The collection album features various themed categories.  Each category contains several items that need to be collected, and players can view detailed information about each required item.
-
-2. Current themes include:
-Merry Christmas!  Happy New Year!  Childlike Innocence  Spooky Halloween  Modern Technology
-Don't Forget the Gentleman  Childhood Fun Party  Living the High Life  Wuxia & Chinese Style  Wise as a Fool
-Havoc in Heaven
-
-3. Once a player has collected all the required items within a specific theme, they will receive a super reward corresponding to that theme.
+1. The Collection Album contains different themed content. Under each theme, there are several items that need to be collected. Players can view detailed information about the required collectibles.
 2. Current themes include:
 - Merry Christmas!
 - New Year Arrives
@@ -13417,19 +13393,19 @@ the reward.
 This plant has already reached level three or above, and cannot be rewarded. Please try again. If the problem persists, please try restarting the client.
 
 [STORE_CATEGORY_NAME_REDPACK]
-Gashapon
+Gacha
 
 [STORE_CATEGORY_NAME_REDPACK1_SHORT_DESC]
-10 Diamonds.  Get 1 Gachapon (or gacha) as a gift.
+Diamonds x10. Includes 1 Red Pack.
 
 [STORE_CATEGORY_NAME_REDPACK10_SHORT_DESC]
-120 diamonds.  15 gachapon (or gacha) are included as a gift.
+Diamonds x120. Includes 15 Red Packs.
 
 [STORE_CATEGORY_NAME_REDPACK1_DESC]
-Buy 10 diamonds, get a gachapon (or a capsule toy) free.
+Purchase Diamonds x10. Get 1 Red Pack as a bonus.
 
 [STORE_CATEGORY_NAME_REDPACK10_DESC]
-Purchase 120 diamonds.  Get 15 gachapon (or gacha) as a gift.
+Purchase Diamonds x120. Get 15 Red Packs as a bonus.
 
 [PLANT_PROPERTYUP_LEVEL1]
 Combat Training
@@ -17370,14 +17346,10 @@ Golden Autumn Travel
 Event
 
 [REDPACK_DESCRIPTION_TITLE]
-This translates to:
-
-**Happy Gacha Instructions/Guide**  or **Happy Gacha How-to**
-
-"扭蛋" (niǔdàn) refers to gachapon, which is a type of vending machine that dispenses small capsule toys.  The title is likely the heading for instructions on how to use a gacha machine, especially one with a playful or festive theme.
+Joyful Gacha Opening Explanation Title
 
 [REDPACK_DESCRIPTION]
-Instructions for the Happy Gachapon/Capsule Toy Machine
+Joyful Gacha Opening Explanation Content
 
 [WELFARE_EVENT_TITLE]
 Limited Time Event
@@ -17401,19 +17373,19 @@ Already Purchased
 You have already purchased this plant's experience card once.
 
 [REDPACK_NUM_DESC]
-Remaining gachapon/gashapon.  (or)  Leftover gachapon/gashapon.
+Purchased Red Envelopes
 
 [REDPACK_ACTIVE_TIME]
 Event Duration: From the 25th day of the twelfth month to the 6th day of the first month (2/13-2/24)
 
 [REDPACK_OPEN_TOTAL]
-You have opened a total of {REDPACK_COUNT} gachapon.
+You have opened a total of {REDPACK_COUNT} red envelopes
 
 [REDPACK_NOT_ENOUGH]
-We're running low on gachapon (capsule toys). Would you like to buy some more?
+Insufficient number of red envelopes, do you want to buy more?
 
 [REDPACK_BTN_BUY]
-Buying gachapon.  (or) Buying gacha.
+Buy Red Envelopes
 
 [REDPACK_LEADERBOARD]
 Wealthy List
@@ -19329,7 +19301,7 @@ Unable to communiate with the server, please check your internet connection!
 Battle server under maintenance.
 
 [PVP_ERROR_25002]
-The battle server is about to shut down; please prepare.
+Battle server will be closed soon. Please prepare.
 
 [PVP_ERROR_25003]
 Client version needs updating.
@@ -26841,13 +26813,13 @@ Is it confirmed that this plant casts your valuable vote?
 Conditions not fulfilled
 
 [LUCKBAG_ANNOUNCEMENT_TITLE]
-June 1st Lucky Bag (or Gift Bag)
+Spring Festival Lucky Bag
 
 [LUCKBAG_ANNOUNCEMENT_CONTENT]
 Event Details: Select 6 desired plants to include in the lucky bag. Opening the bag guarantees 1 orange plant + 1 purple plant from your selection.
 
 [LUCKBAG_TITLE]
-June 1st Lucky Bag (or Gift Bag)
+Spring Festival Lucky Bag
 
 [LUCKBAG_SELECT_PLANT]
 Select Plants
@@ -26856,7 +26828,7 @@ Select Plants
 Reselect
 
 [LUCKBAG_SELECT_TITLE]
-June 1st Lucky Bag Gift Package Contents
+Spring Festival Lucky Bag Configuration
 
 [LUCKBAG_CONFIRM]
 Fukuro Confirmation
@@ -26965,7 +26937,7 @@ Blue crystal
 Statue
 
 [ONEYUAN_SHOR_DESCRIPTION]
-Spin the gachapon! You have a chance to win powerful plants like the Apple Mortar, Long-Gun Hoya, and Princess Spring Grass, plus various rare plants waiting for you!
+Double Holiday Red Packs! There's a chance to receive powerful plants like Water Chestnut Brothers, Long Spear Ball Orchid, Princess Spring Grass, and other rare plants waiting for you!
 
 [MAT_COLLECT_COIN_A]
 Basho commemorative coins
@@ -29136,10 +29108,10 @@ Buy Theatre Luxury Pack
 Theatre Luxury Gifts Pack
 
 [STORE_CATEGORY_NAME_LUCKBAG_45]
-Buying a June 1st lucky bag.  (Or, more naturally:  Buying a Children's Day lucky bag.)
+Purchase New Year Lucky Bag
 
 [STORE_CATEGORY_NAME_LUCKBAG_SHORT_DESC_45]
-June 1st Lucky Bag (or Gift Bag)
+New Year Lucky Bag
 
 [MAT_RENAISSANCE_CHALLENGE_STATUE_1_USE]
 Used to exchange items in the Plant Challenge Event
@@ -41303,7 +41275,7 @@ Dragon Crystal
 Treasury Points
 
 [DRAGON_TREASURE_DESCRIPTION]
-Choose 3 rewards from the Dragon Clan Treasury; each draw costs 20 Dragon Crystals.  The prize pool resets after all rewards are claimed, or manually after 5 rewards (10 Crystal fee).  Unclaimed Crystals become Diamonds (1:1), and points become Gold (1:100) after the event.  Reward probabilities vary (see details above).
+Activity rules:
 1. Before getting the rewards from the Dragon Treasure House, please select 3 self-Custom Reward, and a fixed cost of 20 dragon crystals will be spent on each draw, with a probability of getting the final reward.
 2. After obtaining all the rewards in the Dragon Treasure House, the current prize pool will be automatically reset; after players obtain 5 rewards from the treasure house of the current round, they can spend 10 Dragon Crystals to manually reset the lottery.
 3. The progress, dragon crystal and points of this event are not inherited to the next period, after the event the remaining dragon crystal will be converted into diamonds in a ratio of 1:1, and the remaining points will be converted into gold coins in a ratio of 1:100.
@@ -65078,7 +65050,7 @@ It's as strong as eating a taco!
 {NPC_ENTER:crazydave}{SAY}Alright, plant the plants on the right side of the waterline on the lily pads for safety.
 
 [NARRATIVE_COMPENSATION_CHAT_1]
-Crazy Dave (appears):  "I've given you 10 gachapon and 100 diamonds! Remember to open them. Good luck!"
+{NPC_ENTER:crazydave}{SAY}I have given you 10 red envelopes and 100 gems. Remember to open them. Good luck!
 
 [NARRATIVE_ZOMBIE_INTRO_LEVEL2_1]
 {NPC_ENTER:zombossicon}Hehe, my latest creation, ^00FF00 the Super Zombie MKII, ^oldclr finally takes the stage. Based on your intelligence, you would never think of ^00FF00 upgrading your plants to level 2 ^oldclr to deal with it!
@@ -71422,7 +71394,7 @@ One secret level unlocks daily. This level is not yet available for unlocking.
 {NPC_ENTER:crazydave}{PLAYFUL:crazydave}Strange, where are we? Is this still my backyard?
 
 [NARRATIVE_TUTORIAL_PLANTWARS_INTRO_3]
-Crazy Dave entered. Winnie playfully confirmed, "Location confirmed: We're currently on the Western Heaven pilgrimage route in the East."
+{NPC_ENTER:crazydave}{PLAYFUL:winnie}Location confirmed. The current location is Dr. Zomboss's mysterious laboratory.
 
 [NARRATIVE_TUTORIAL_PLANTWARS_INTRO_4]
 {NPC_ENTER:crazydave}{PLAYFUL:crazydave}Oh, you know what, Penny? I still miss my backyard. It's time to prepare to go back.
@@ -71840,7 +71812,7 @@ The amount of Penny Gold consumed on the whole server
 Are you sure about the current configuration?
 
 [PENNY_GIFT_REFRESH_TIMES]
-You have {NUM} refreshes remaining today. (Items on this page will be automatically refreshed for free when cleared.)
+Number of refreshes remaining for the day {NUM}
 
 [PENNY_GIFT_BUY_PENNY_GIFT]
 Are you sure you want to spend {NUM} Penny Gold to buy items?
@@ -72041,7 +72013,7 @@ Open Penny's Future Gift Box to receive great rewards
 Penny's Future Gift Box Event Instructions
 
 [PENNY_GIFT_DESCRIPTION]
-Penny's Future Gift Boxes offer various rewards.  Customize your box selection (at least 3 categories, 8 boxes total). Buy boxes using Penny Gold; discounts apply for bulk purchases. Each box guarantees fixed items plus a chance at extra prizes (diamonds, etc.).  Automatic refresh occurs upon purchase of all items.  Individual and server-wide progress rewards exist, based on total spending.  A leaderboard awards top spenders. Leftover Penny Gold converts to diamonds (1:10) at event's end. Additional item drop rates: Enhancement Materials (33.33%), Plants/Decorations (10%).
+1. Click on Penny's avatar on the left in the custom configuration to select the type of future gift box, and then randomly pick eight gift boxes from the selected configurations to form this round's rewards (at least three reward categories must be selected).
 2. Players can spend Penny Coins to purchase future gift boxes and receive corresponding rewards. When purchasing future gift boxes, Penny will offer discounts based on the number of gift boxes you have purchased in the current round.
 3. Each time you purchase a future gift box, in addition to the fixed rewards, you will also receive additional probabilistic rewards, including more prizes and diamonds. Click on the "?" button in the upper right corner of the future gift box for details.
 4. Accumulating purchases of various future gift boxes can unlock personal progress rewards. The more tokens you spend on future gift boxes, the richer the rewards.
@@ -72134,7 +72106,7 @@ Gold Medal
 Ztalemate Escape
 
 [PLANTWARS_WORLD_LEVEL_PASS_CONDITION]
-Successfully repelled the zombie invasion.
+Do not let zombies eat the brain before the countdown ends
 
 [PLANTWARS_WORLD_UNLOCK]
 Current Ztalemate is not open
@@ -72235,13 +72207,13 @@ Zombie becomes fully immune to all knockback effects or from being knocked off t
 Energy Shield I
 
 [PLANTWARS_ZTSHIELD1_DESCRIPTION]
-The first 3 instances of damage are ineffective, and the effect grants immunity to instant kills during its duration.
+Zombie gains an energy shield, protecting them from the first 5 hits they take and providing an immunity to insta-kills as long as the shield is up.
 
 [PLANTWARS_ZTSHIELD2_NAME]
 Energy Shield II
 
 [PLANTWARS_ZTSHIELD2_DESCRIPTION]
-The first 5 instances of damage are ineffective, and the effect grants immunity to instant death during its duration.
+Zombie gains an energy shield, protecting them from the first 7 hits they take and providing an immunity to insta-kills as long as the shield is up.
 
 [PLANTWARS_ZTSHIELD3_NAME]
 Energy Shield III
@@ -72496,10 +72468,10 @@ The event will be held from 14:00 on September 29 to 0:00 on December 21.
 Zombies with entries will receive additional buffs, so be treated with caution.
 
 [PLANTWARS_MODE_HOWTOPLAY_3_DESCRIPTION]
-This level has no special mechanics; it's the same as normal mode.  Prevent the zombies from eating your brains to unlock the next level.
+When a plant dies or is eradicated, it leaves a tombstone with extremely high health in its place, which will automatically destroy after 5 seconds.
 
 [PLANTWARS_MODE_HOWTOPLAY_4_DESCRIPTION]
-The score is calculated as a deduction system.  Losing sunlight, plant deaths, and using power-ups will reduce your score.  Star rewards are awarded based on your remaining points.
+Accumulate the charge of Pea Rain by dealing damage with pea-based plants.
 
 [PLANTWARS_MODE_HOWTOPLAY_5_DESCRIPTION]
 When fully charged, a rain of peas falls, ignoring entries and damage reduction effects to deal damage to zombies.
@@ -72766,10 +72738,10 @@ The Elite Mirror Queen Zombie has a resilience bar mechanism; physical attacks c
 The Mirror Queen Zombie spends a lot of time each day indulging in her reflection. She fantasizes that her reflection is stronger and more beautiful than she is now. One day, the mirror finally responded to the queen's wish.
 
 [NIGHTTHETOY_TIP]
-Flame Stone Shop
+Stone Shop
 
 [NIGHTTHETOY_SHOP]
-Flame Stone Shop
+Stone Shop
 
 [NIGHTTHETOY_TASK]
 Event tasks
@@ -72790,19 +72762,19 @@ Congratulations ^FFFF00 {NAME}! ^oldclr You got ^0775F7 {ITEM} ^oldclr x {NUMS}
 Congratulations ^FFFF00 {NAME}! ^oldclr You got ^0000FF {ITEM} ^oldclr
 
 [PRODUCT_NIGHTTHETOY_SHORTDESC]
-The most common and natural-sounding translation is **The Monkey King: Conquer the Demons**.  While a literal translation might be "Journey to the West: Demon Subjugation Record," this is less common and less evocative.
+Fiery Frenzy
 
 [TOYNIGHT_TITLE]
-The most common and accurate translation is **The Sorcerer and the White Bone Demon** (referencing the main antagonist).  However, depending on context,  **Conquering the Demons** or **Journey to the West: Conquering the Demons** are also acceptable translations.
+Fiery Frenzy
 
 [PRODUCT_TOY_NIGHT_6_SHORTDESC]
-Beginner Gold Pack (or) Basic Gold Package
+Basic Flame Pack
 
 [PRODUCT_TOY_NIGHT_30_SHORTDESC]
-Intermediate Gold Package
+Intermediate Flame Pack
 
 [PRODUCT_TOY_NIGHT_98_SHORTDESC]
-Premium Gold Pack
+Advanced Flame Pack
 
 [PRODUCT_TOY_NIGHT_45_SHORTDESC]
 Basic Limited-Time Pack
@@ -72814,24 +72786,22 @@ Advanced Limited-Time Pack
 Enter the event for the first time
 
 [TOYNIGHT_TASK_2]
-Obtain the Burdock Super Outfit.  (or) Get the Burdock Super Costume.
+Obtain the Electric Peel Super Outfit
 
 [TOYNIGHT_TASK_3]
-Obtain all four outfits for Burdock.
+Obtain all three Electric Peel outfits
 
 [MAT_TOY_PARTS]
-The most straightforward and natural translation is:
-
-**Fire Stone**
+Cold Flame Stone
 
 [MAT_TOY_PARTS_USE]
-Redeeming rewards in the Journey to the West: Conquering the Demons event's Flame Stone shop.
+Exchange for rewards in the Fiery Frenzy event shop
 
 [MAT_TOY_PARTS_GOT_WAY]
-Obtained through a draw in the Journey to the West: Conquering the Demons event.
+Obtain through draws in the Fiery Frenzy event
 
 [MAT_TOY_CLOCKWORK]
-Moo Moo Gold
+Flame Coins
 
 [MAT_TOY_CLOCKWORK_USE]
 Used for draws in the Fiery Frenzy event
@@ -72840,7 +72810,7 @@ Used for draws in the Fiery Frenzy event
 Purchase from the Fiery Frenzy event pack shop
 
 [TOY_NIGHT_EXPIRED]
-Expired Rewards for Journey to the West: Conquer the Demons
+Expired Fiery Frenzy rewards
 
 [TOY_NIGHT_MAIN_TIPS_INFO]
 Fiery Frenzy Event Summary:
@@ -72931,14 +72901,7 @@ Anime-style Outfit
 Attack power increased by 30%.
 
 [GINGLEBELL_TITLE]
-This is a Chinese onomatopoeia.  A direct translation wouldn't make sense in English.  The best translation depends on context, but some options include:
-
-* **Bang! Bang!** (If it refers to the sound of firecrackers)
-* **Ding! Dong!** (If it refers to a bell or similar sound)
-* **The sound of something ringing/clanging** (A more general translation)
-* **May Day celebrations** (If it's used in the context of the May Day holiday in China, referencing the sounds of festivities)
-
-Without more context, "**Ding! Dong!**" or "**Bang! Bang!**" are probably the closest single-word translations, depending on the intended sound.
+Fool's Bells
 
 [GINGLEBELL_TIPS]
 Challenges are unavailable during the ranking freeze period.
@@ -72965,7 +72928,7 @@ Your ranking: {NUMBER}
 Total Number of Participants: {NUMBER}
 
 [GINGLEBELL_RANK_REWARD_TITLE]
-May Day "Ding Dang" Leaderboard Rewards
+Fool's Bell Leaderboard Rewards
 
 [GINGLEBELL_TAB1]
 Theme Challenge
@@ -72989,31 +72952,31 @@ Damage: {NUMBER}
 Deal as much damage in 30 seconds!
 
 [GINGLEBELL_S4_1_TITLE]
-Patrol route - Checkpoint One
+Live Interaction - Level 1
 
 [GINGLEBELL_S4_2_TITLE]
-Patroling the area - Checkpoint Two
+Live Interaction - Level 2
 
 [GINGLEBELL_S4_3_TITLE]
-Patroling the area - Checkpoint Three
+Live Interaction - Level 3
 
 [GINGLEBELL_S5_1_TITLE]
-Divine Soldier Descends - Level 1
+Improv Show - Level 1
 
 [GINGLEBELL_S5_2_TITLE]
-Divine Soldier Descends - Stage Two
+Improv Show - Level 2
 
 [GINGLEBELL_S5_3_TITLE]
-Divine Soldier Descends - Stage Three
+Improv Show - Level 3
 
 [GINGLEBELL_S6_1_TITLE]
-Stationed in place - Checkpoint One
+Planned Show - Level 1
 
 [GINGLEBELL_S6_2_TITLE]
-Stationed on Site - Checkpoint Two
+Planned Show - Level 2
 
 [GINGLEBELL_S6_3_TITLE]
-Stationed on the spot - Checkpoint Three
+Planned Show - Level 3
 
 [NEW_AVATAR_SHORT_DESCRIPTION_TWINSHONEYSUCKLE_1]
 Floatie, Scarf and Santa Earmuffs
@@ -75120,16 +75083,7 @@ Does one plus one equal two?
 Flame Carnival
 
 [TOYS_HEAD_DES_ID_25678]
-This phrase is incomplete and lacks context.  It literally translates to "participate in activity Journey to the West Demon Quelling Record obtain," but that's not grammatically correct English.  To translate it properly, we need more information.  Possible interpretations include:
-
-* **"Received rewards from participating in the Journey to the West Demon Quelling event."**  This assumes the phrase refers to receiving something as a result of participation.
-
-* **"Obtained [something] from participating in the Journey to the West Demon Quelling activity."** This is a more general interpretation, leaving the "something" obtained unspecified.
-
-* **"Items obtained from participating in the Journey to the West Demon Quelling event."** This is suitable if the activity involved collecting items.
-
-
-To get an accurate translation, please provide the surrounding text or context.
+Obtain through the Flame Carnival event
 
 [PARALLEL_SPIKEWEED]
 No. 41 Spikeweed
@@ -75301,28 +75255,10 @@ The gourd, a climbing vine with heart-shaped leaves and white flowers, produces 
 Treasure Hunt in the Heavenly Palace
 
 [HEAVEN_TREASURE_DESCRIPTION_1]
-Prize Pool:
-
-**Super Rewards:**
-* Greedy Dragon Grass Xiaobailong Outfit: 0.43%
-* Demon-Subduing Cloak Accessory: 0.81%
-
-**Grand Prizes:**
-* Secret Treasure Voucher * 10: 1.48%
-* Outfit Voucher * 800: 1.15%
-* Advancement Book * 1: 1.17%
-* Lingxiao Coin * 100: 1.01%
-
-**Regular Prizes:**
-* Secret Treasure Voucher * 5: 4.76%
-* Advanced Divine Artifact Blessing Voucher * 10: 4.92%
-* Diamonds * 100: 14.99%
-* Lingxiao Coin * 1: 43.21%
-* Lingxiao Coin * 3: 21.82%
-* Lingxiao Coin * 20: 4.25%
+Activity Instructions 1
 
 [HEAVEN_TREASURE_DESCRIPTION_TITLE_1]
-Prize Pool Probability Disclosure
+Activity Description Title 1
 
 [HEAVEN_TREASURE_FILL_IN_CODE_DES]
 Please enter your promotional code.
@@ -75364,7 +75300,7 @@ Congratulations! You've received a 30% discount.
 Your coupon code:
 
 [HERO_CAPE_1]
-Demon-Subduing Cloak
+Hero's cape
 
 [HERO_CAPE_1_BOOST_DES]
 Effects: 1. Attack increased by 5%.  2. Planting cooldown reduced by 12%.  3. Unlocked.
@@ -75385,7 +75321,7 @@ Effects: 1. Attack increased by 25%.  2. Planting cooldown reduced by 25%.  3. P
 Effects: 1. Attack increased by 30%.  2. Planting cooldown reduced by 30%.  3. Probability of activating the fourth-tier ultimate increased by 15%.
 
 [HERO_CAPE_1_DES]
-The cape worn by a famous hero while vanquishing demons and monsters still retains the hero's power.
+The cape worn by a renowned hero still retains the hero's power.
 
 [HYDROCOTYLEDRUMMER_FAMILY]
 Araliaceae
@@ -75430,7 +75366,7 @@ Narcissus, a 40cm perennial, boasts white petals and a golden corona attracting 
 Attack speed increased by 25%.
 
 [NEW_AVATAR_SHORT_DESCRIPTION_KIWIFRUIT_4]
-Kiwi fruit dressed as the Great Sage, Equal of Heaven.
+Kiwi Super Outfit
 
 [OLIVE_FAMILY]
 Oleaceae
@@ -75601,69 +75537,52 @@ Witch hazel
 Witch hazel, a Chinese shrub (to 8m), boasts star-shaped hairs, wavy-edged leaves, and yellow flowers blooming December-March.  Its seed pods explosively disperse seeds.  Named for its golden petals and resemblance to sweet plum blossoms, it's a valuable winter nectar source.  Used in skincare and historically for divination, its flower language signifies inspiration and healing.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST]
-The most straightforward translation is **Basic Journey to the West Zombie**.  However, depending on context,  a more evocative translation might be **Journey to the West:  Basic Zombie** or even **Base-Level Journey to the West Zombie**.  The best option depends on the overall context in which this phrase appears.
+Journey to the West Basic Zombies
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_ALLSTAR]
-Marshal Star Zombie
+Journey to the West All-Star Zombies
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_ALLSTAR_DESCRIPTION]
-Every defeat of Marshal Star Zombie in recent battles has been live-streamed by the Heavenly Court, causing his approval rating to plummet to -110%.
+Mine worker zombies spend three days a week waiting for excavation permits.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_ALLSTAR_DESCRIPTION_HEADER]
-A zombie clad in full plate armor charges your defenses.
+Plants can be directly dug up from where they emerge in the last row.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_ARMOR2_DESCRIPTION]
-The "Magnetite Classic" described the manufacturing process of magnets. Unfortunately, the first half of the book was waterlogged, so the zombies only managed to invent "porcelain" iron.
+Mineworker zombies spend three days a week waiting for digging permits.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_ARMOR2_DESCRIPTION_HEADER]
-His iron-clad helmet could withstand a great deal of damage.
+Plants can be directly dug up from where they appear in the last row.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_DESCRIPTION]
-A common zombie from Journey to the West journeyed west, traversing 108,000 li, enduring eighty-one trials and tribulations, in search of his missing brain.
+Mine worker zombies spend three days a week waiting for digging permits.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_DESCRIPTION_HEADER]
-Ordinary Journey to the West-themed zombies.
+Plants can be directly dug up from where they emerge in the last row.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_FLAG]
-The most natural translation would depend on the context.  However, some possibilities include:
-
-* **Journey to the West flag zombie:** This is a literal translation and works if the context is clear that it refers to a zombie themed around the Journey to the West story.
-
-* **Zombie with a Journey to the West flag:** This is also literal but emphasizes the flag as a possession of the zombie.
-
-* **A zombie from Journey to the West:** This implies the zombie originates from or is a character within the Journey to the West narrative.
-
-
-Without more information, "**Journey to the West flag zombie**" is likely the best general translation.
+Journey to the West Basic Zombie
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_FLAG_DESCRIPTION]
-The Underworld's real estate market is on the verge of collapse, crushed by the booming tourism industry.  A large number of zombies are attempting to alter the Book of Life and Death to escape the Underworld and take advantage of the recent 20% discount offered by the Xi You Flag Zombie's latest promotion.
+Mineworker zombies spend three days a week waiting for digging permits.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_FLAG_DESCRIPTION_HEADER]
-A zombie carrying a flag in Journey to the West usually signifies a large horde of zombies is about to arrive.
+Plants can be directly removed by digging them up from the last row.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_GARGANTUAR]
-The most natural translation would be **Juggernaut Zombie**.  While a literal translation might be "Heavy Hammer Giant Zombie,"  "Juggernaut" better captures the implied sense of unstoppable power and size.
+Giants and Zombies in Journey to the West
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_GARGANTUAR_DESCRIPTION]
-With a spirit that could move mountains and strength that surpasses the world, a king of the battlefield.  The legendary tale of the Juggernaut needs no further telling.
+Mineworker zombies spend three days a week waiting for mining permits.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_GARGANTUAR_DESCRIPTION_HEADER]
-Crushing plants with a heavy hammer.
+The plants can be directly dug out from where they appear in the last row.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_MINER]
-The most natural translation would depend on the context.  However, here are a few options:
-
-* **Land God Zombie:** This is a literal translation and works if you want to emphasize the dual nature of the being.
-
-* **Earth Deity Zombie:** This is a more formal and slightly less literal translation.
-
-* **Zombie of the Land God:** This emphasizes the zombie aspect more.
-
-The best option depends on the surrounding text and the intended tone.
+The Land God Zombies of Journey to the West
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_MINER_DESCRIPTION]
-The land god zombie recently became obsessed with spy movies and yearned to contribute his strength to the "intelligence" work at the village entrance.
+Mineworker zombies spend three days a week waiting for digging permits.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_MINER_DESCRIPTION_HEADER]
 The plants can be directly removed starting from the last row.
@@ -75674,759 +75593,164 @@ Journey to the West Cloak Zombie
 [ZOMBIE_JOURNEY_TO_THE_WEST_PONCHO_DESCRIPTION]
 Mine zombies spend three days a week waiting for digging permits.
 
-[RHEUMNOBILE_NEW_SKILL_LEVEL4_DES]
-There's a chance that planting this will unleash a powerful attack, increasing the number of zombie ranks it can absorb to 8.
+[TRANSLATION_FAILED]
+[BAMBOO_FAMILY]
+禾本科
 
-[NEWYEAR_GIFT_HEAD_ID_25695]
-The most common and accurate translation of 卷帘大将 is **General Roller-Blind**.  While a literal translation might sound strange in English, this is the established and understood translation in the context of Chinese mythology, specifically referring to a character in the *Journey to the West*.
+[BAMBOO_GENUS]
+竹亚科
 
-[PRODUCT_HEAVEN_TREASURE_648_SHORTDESC]
-Celestial Palace Supreme Gift Pack
+[BAMBOO_PEDIA]
+竹笋：破土而出的生命密码
+竹笋是竹类植物的幼嫩茎芽，由地下横走的竹鞭节部萌发。其外层包裹褐色或黄绿色箨壳，密被绒毛或斑点，内藏乳白色笋肉，质地脆嫩。按生长季节和形态可分冬笋（冬季休眠芽，短粗如锥）与春笋（春雨后破土，细长似剑），生长高峰期单日可抽高30厘米以上，展现惊人的爆发力。
+全球竹类90%物种分布于亚洲，中国长江流域为竹笋主产区。“笋”字最早见于甲骨文，上部“竹”表类属，下部“旬”喻其十日成竹的速生特性。《诗经》“其蔌维何，维笋及蒲”印证其3000年食用史。用鲜嫩的笋切片晒干，由于形似玉兰花瓣而被称为“玉兰片”。
 
-[ZOMBIE_JOURNEY_TO_THE_WEST_TRIDENT_DESCRIPTION_HEADER]
-It's a zombie that causes damage to plants from a distance.
+[BANANA_FAMILY]
+芭蕉科
 
-[MAT_HEAVEN_TREASURE_COIN_USE]
-Redeeming items at the Heavenly Palace Treasure Hunt exchange shop.
+[CHERRY_BOMB_PEDIA]
+樱桃：春日舌尖的甜蜜盛宴
+落叶乔木。
+高2-6米，树皮灰白色；叶卵形至椭圆形，边缘有尖锐重锯齿；花序伞房状，先叶开花，花瓣5枚，白色或淡粉，雄蕊30-50枚，雌蕊单生。核果近球形，红色。花期3-4月，果期5-6月。
+因莺鸟喜食其果，古称“莺桃”，后谐音为“樱桃”，原生长江流域，现广泛栽培于欧亚温带。除了食用，也可酿酒，枝、叶、根、花也可供药用。由于中国樱桃较小不易储存，畅销的“车厘子”多为欧洲甜樱桃的改良品种。其栽培品种需冷量高（7℃以下时长达800小时）正常开花结果，使其成为研究气候变化对果树影响的“哨兵物种”。樱桃因其鲜红欲滴的颜色和心形果实 ，在欧洲文化中常被赋予丰收、青春、爱情与诱惑的意象。
+花语：纯真与天真、爱情与珍惜、希望与新生
 
-[NEW_AVATAR_DESCRIPTION_ELEOCURLING_3]
-A 10% reduction in break time.
+[COFFEEBEAN_FAMILY]
+茜草科
 
-[TOYS_HEAD_ID_25693]
-Loving couple
+[COFFEEBEAN_GENUS]
+咖啡属
 
-[RHEUMNOBILE_SKILL_LEVEL5]
-The most straightforward translation is **"Linglong Burning Heaven Flame"**.  However, depending on the context (e.g., a book title, a skill name in a game), a more evocative translation might be preferable.  For example:
+[ELECTRICITEA_FAMILY]
+山茶科
 
-* **Linglong's Heaven-Burning Flame:** This emphasizes possession.
-* **The Exquisite Heaven-Scorching Flame:** This emphasizes the beauty and intensity.
-* **The Exquisite Inferno:** This is a more concise and impactful option.
+[ELECTRICITEA_GENUS]
+山茶属
 
-The best choice depends entirely on the context in which this phrase appears.
+[ELECTRICITEA_PEDIA]
+茶：东方树叶的生命密码
+常绿灌木或小乔木。
+高1-3米，野生种可达10米；叶革质，长圆形或椭圆形，边缘有锯齿；花1-3朵腋生，白色，花瓣5-6枚，雄蕊多数，雌蕊单生，柱头3裂；蒴果3球形，成熟时裂开。花期为10月至翌年2月，果实次年秋季成熟，但人工茶园多修剪控制结果。
+“茶”字源于巴蜀古方言“槚”（jiǎ），唐代陆羽《茶经》统一称“茶”。绿茶因杀青工艺（高温钝化酶活性）保留叶绿素得名，与发酵茶（红茶、乌龙茶）形成对比。其野生种遍见于长江以南各省的山区，现广泛种植于北纬18°-37°的亚热带山地，栽培品种毛被及叶型变化大。
+花语：谦逊的馈赠
 
-[NEW_AVATAR_DESCRIPTION_BEARBERRY_3]
-Attack increased by 20%.
+[FIREGOURD_FAMILY]
+葫芦科
 
-[ZOMBIE_JOURNEY_TO_THE_WEST_SUPERFAN]
-Gunpowder Goblin Zombie
+[HEAVEN_TREASURE_TAB2_DES2]
+填写礼包优惠码
 
-[PVP_ERROR_20000]
-Data anomaly; validation failed.
+[HEAVEN_TREASURE_TAB3]
+累计抽取
 
-[PLANTWARS_LEVEL_NAME_W3_4_B]
-Level Four - Second Half
+[HEAVEN_TREASURE_TAB4]
+兑换商店
 
-[PRODUCT_HEAVEN_TREASURE_30_SHORTDESC]
-Celestial Palace Mid-Level Gift Pack
+[HEAVEN_TREASURE_USE_CODE]
+使用优惠码
 
-[TIME_SUMMON_HEAD_DES_ID_25685]
-To the player who won first place in the limited-time summoning event.
+[LOTUSSHOOTER_PEDIA]
+藕：淤泥中的白玉走廊
+藕是莲（俗称荷花）的地下茎，呈圆柱形，节部缢缩，上生黑色鳞叶，下生须状不定根。具放射状通气孔道适应水下缺氧环境。其断裂时会有“藕断丝连”的现象，拉出的丝为导管壁的螺纹状纤维，主要起支持导管的作用。秋冬成熟的藕长可达1.5米，重达5公斤，淀粉含量高达20%，堪称“水下粮仓”。虽可用莲子繁殖，但农业生产多采用藕节顶芽进行无性繁殖，保留品种优良性状。
+“藕”取“草”字头与“耦”（双生之意），暗喻其节节相连。我国食用藕的历史悠久，早在新石器时代河姆渡遗址已发现碳化藕粉。因“藕”与“偶”谐音，寓意“佳偶天成”，常用于婚庆仪式中。而在水域生态中，藕的根状茎网络可稳定底泥、吸收沉积物中的营养盐，减少水体富营养化；其孔道结构促进水体-底泥间的氧气交换，为鱼虾等水生动物改善栖息环境。
 
-[MAT_HEAVEN_TREASURE_TICKET_GOT_WAY]
-Obtain [item/reward] by purchasing the Heavenly Palace Gift Pack from the Gift Pack Store during the Heavenly Palace Treasure Hunt event.
+[LOTUSSHOWER_FAMILY]
+莲科
 
-[RHEUMNOBILE_PRODUCT_SHORT_DESC]
-It jumps in place, attracting zombies within its attack range below itself, then crushes them as it lands.
+[LOTUSSHOWER_GENUS]
+莲属
 
-[RHEUMNOBILE_SKILL_LEVEL2]
-Nowhere to run/escape.
+[LOTUSSHOWER_PEDIA]
+莲蓬：水泽中的生命摇篮
+莲蓬是莲（俗称荷花）的花托膨大形成的聚合果。其形似倒置的圆锥，表面密布窝状孔洞，每孔嵌一粒果实，俗称莲子。幼时果皮青绿，成熟黑褐色且变致密坚硬，能够有效隔绝水分、空气和微生物的侵入，极大地减缓了种子内部物质的代谢消耗，使其进入长期休眠状态，是宋代古莲子可休眠千年仍发芽的重要因素。随着莲子的成熟，莲蓬也会逐渐变干枯呈现黑褐色，脱落入水，因其疏松多孔浮力大，如同承载莲子的小船，借水流将其传播出去。
+莲原产亚洲热带至温带水域，中国长江流域、印度恒河平原为原生中心。其幼嫩的莲子可生食或煮食，莲心（胚）可做茶饮。莲蓬因“花开见果”的特性，被赋予“因果同时”“生生不息”的哲学寓意。佛教视其为“莲台”，象征涅槃重生；民间以“莲蓬多子”祈愿子孙绵延。
 
-[PLANTWARS_HEAD_ID_25697]
-Master Escape Artist
+[PAMEGRANATE_GENUS]
+石榴属
 
-[RHEUMNOBILE_TOOLTIP]
-It jumps in place, attracting zombies within its attack range beneath itself, then falls down to crush them.
+[PAMEGRANATE_PEDIA]
+石榴：来自安息国的吉祥果
+落叶灌木或小乔木。
+树高通常3-5米；枝顶常成尖锐长刺；叶通常对生，纸质，矩圆状披针形；花1-5朵生枝顶；花萼革质，通常红色或淡黄色；花瓣红色、黄色或白色；浆果近球形，种子多数，肉质的外种皮供食用。花期5-7月；果期9-10月。
+原产伊朗至喜马拉雅山脉，现全世界的温带和热带均有种植。汉代张骞出使西域引入中原，古称“安石榴”，“安”即安息国（现伊朗地区），“石”可能形容果实坚硬如石，或音译其波斯名“asak”的部分发音，或“榴者，瘤也，丹实垂垂如赘瘤也”（《本草纲目》）。除了食用外，其果皮和根皮入药，树皮、根皮和果皮均含多量鞣质，可提制栲胶。在我国，“榴开百子”象征家族兴旺，使其成为婚庆必备吉祥物。
+花语：成熟之美、子孙满堂、富贵
 
-[PLANT_FAMILY_NAME_50050]
-The Abyss
+[PASSIONFLOWER_FAMILY]
+西番莲科
 
-[MONTHLY_POINT_HEAD_ID_25694]
-Growth Pack (or) Starter Pack
+[PASSIONFLOWER_GENUS]
+西番莲属
 
-[HEAVEN_TREASURE_HAS_REWARD]
-Refund issued.  (Or) Rebate given. (Or)  Money refunded.
-The best option depends on the context.
+[PLANTWARS_LEVEL_NAME_w3_4_A]
+第四关——上半场
 
-[TIME_SUMMON_HEAD_ID_25688]
-Limited-time summon participants.  (or)  Limited-time event participants.
+[PLANTWARS_LEVEL_NAME_w3_4_B]
+第四关——下半场
 
-[ZOMBIE_JOURNEY_TO_THE_WEST_HUANGMEI_DESCRIPTION_HEADER]
-Old Man Huangmei, Huangmei is dead.  The image shows his power, and I challenge you to a contest. Who once said, "The strong should be respected and should yield to me, only heroes dare to be first"? But should it be so? This melon here, striking the skull with it will cause intense pain.
+[PLANTWARS_LEVEL_NAME_w3_5]
+第五关
 
-[ZOMBIE_JOURNEY_TO_THE_WEST_CATAPULT_DESCRIPTION]
-The catapult zombie had been diligently working behind the scenes, contributing to others' "immortal arts."
+[PLANTWARS_LEVEL_NAME_w3_5_A]
+第五关——上半场
 
-[AVATARCOLLECTIONS_HEAD_DES_ID_25681]
-What's there to be afraid of, even with a hundred thousand celestial soldiers?
+[RHEUMNOBILE_PEDIA]
+塔黄：高山之巅的“黄金宝塔”
+多年生草本植物。
+高1-2米；茎单生不分枝，粗壮挺直；基生叶数片，呈莲座状，近革质；总状花序分枝腋生，常5-8枝成丛，花被片6或较少；果实宽卵形，种子心状卵形。花果期6-9月，正值高山短暂的夏季。
+作为典型的高山植物，塔黄主要分布在海拔4000-4800米的在喜马拉雅山脉和横断山区的高山流石滩上。因其花序由多层乳黄色或淡绿色苞片包裹，形似一座金黄色的宝塔而得名“塔黄”。这些苞片半透明，能透光并保温，为其花朵和幼果构建了“温室"，使其免受高寒环境的伤害，此外可为小型高山昆虫提供庇护所，它的存在有助于稳定高山脆弱的生态环境。
+花语：坚韧与奇迹
 
-[AVATARCOLLECTIONS_HEAD_ID_25681]
-The Great Monkey King Uprising (or The Great Disturbance in the Heavenly Palace)
+[ROSESWORDMAN_FAMILY]
+蔷薇科
 
-[ZOMBIE_JOURNEY_TO_THE_WEST_BALLOON_DESCRIPTION]
-After the released sky lanterns burned out in the sky, the Kongming Lantern zombies appeared.
+[ROSESWORDMAN_GENUS]
+蔷薇属
 
-[ZOMBIE_JOURNEY_TO_THE_WEST_SUPERFAN_DESCRIPTION]
-"Tell those crazy little fans who love self-destructing that not only does the gunpowder come from here, but the much-lauded act of self-destruction itself originated here!" — *Zombie Minus 3.5 Great Inventions*
+[ROSESWORDMAN_PEDIA]
+玫瑰：美丽芬芳的刺客
+落叶灌木。
+高1-2米；茎干密生皮刺，叶片为羽状复叶，小叶5-9片，叶面皱褶明显；花单生或数朵簇生叶腋，多为重瓣或半重瓣，紫红色或白色，香气浓郁；果实扁球形，红色，肉质。花期5-6月，果期8-9月。
+“玫，石之美者；瑰，珠圆好者”（《说文解字》）。玫瑰因花色如玫，花型饱满如瑰而得名，一说因果实红而圆润得名。与月季相比，其全株密被刺，叶小且皱褶明显，并且叶柄和背部叶脉也具刺。原产中国东北、朝鲜半岛及日本，现广泛栽培于温带地区。除了用于观赏，其花瓣可提取精油；干花可制茶、蜜饯，具疏肝解郁之效；果实富含维生素C，可入药或加工为保健食品。
 
-[ELITE_ZOMBIE_TIPS_TEXT_JOURNEY_TO_THE_WEST_RED_BOY]
-After special training, they can resist control, transform, and achieve instant kills.
+[STORE_CATEGORY_NAME_AD_FREE_DESC]
+购买终身免广告权益
 
-[ZOMBIE_JOURNEY_TO_THE_WEST_HUANGMEI]
-The most accurate and natural-sounding translation depends on the context.  "黄眉大亡" (huáng méi dà wáng) literally translates to "Yellow Brow Great Loss/Death/Ruin."  However, this is not idiomatic English.  It needs more context to be properly translated.  Here are a few possibilities:
+[STORE_CATEGORY_NAME_AD_FREE_SHORT_DESC]
+终身免广告权益
 
-* **If referring to a person:**  "The Yellow-browed [person] suffered a great loss/died/was ruined."  (This assumes "黄眉" refers to a person with a nickname or descriptive term "Yellow Brow.")
+[TULIPTRUMPETER_FAMILY]
+百合科
 
-* **If referring to a group or thing:** "The Yellow-browed [group/thing] was utterly destroyed/suffered a great defeat/met with ruin." (This assumes "黄眉" refers to a group, faction, or entity.)
+[TULIPTRUMPETER_GENUS]
+郁金香属
 
-* **If it's a title or part of a larger work:**  The translation would depend entirely on the context of the work.  It might be a proper noun needing transliteration.
+[TULIPTRUMPETER_PEDIA]
+郁金香：春日的绚烂号手
+多年生草本植物。
+株高约50厘米，具卵球形鳞茎；叶3-5枚，披针形；花单生于茎顶，花瓣6片，形似高脚杯，花色丰富；蒴果圆柱状，有三棱，成熟时开裂，种子扁平。因所见皆园艺品种，需用鳞茎分株繁殖才能保留亲本的观赏性状。花果期为春季。
+原产于中亚及地中海沿岸，其名“Tulip”源于土耳其语“Tülbent”（头巾），因其杯状花型与其相似。16世纪经土耳其传入欧洲，后由荷兰发扬光大，引进我国时因形似姜科的郁金而得名。在17世纪荷兰“郁金香狂热”中，稀有品种的球茎价格堪比豪宅，成为史上首个经济泡沫案例。现为荷兰国花及主要经济作物，为世界春季常用观赏花卉。其鳞茎含少量生物碱可入药，有毒勿自行食用。
+花语：炽热的爱(红色)、永恒的深情（紫色）、失恋后的新生（白色）、阳光与友谊（黄色）
 
-To provide the best translation, please provide more context surrounding the phrase.
+[ZOMBIE_JOURNEY_TO_THE_WEST_ARMOR1]
+西游记基础僵尸
 
-[PLANTWARS_LEVEL_NAME_W3_4]
-Level 4
+[ZOMBIE_JOURNEY_TO_THE_WEST_ARMOR1_DESCRIPTION]
+矿工僵尸每周都要花三天的时间来等候挖地许可。
 
-[PLANTWARS_LEVEL_NAME_W3_3]
-Level 3 / Stage 3 / Third stage / The third level
+[ZOMBIE_JOURNEY_TO_THE_WEST_ARMOR1_DESCRIPTION_HEADER]
+可以从最后一排出现直接挖掉植物
 
-[RHEUMNOBILE_NEW_SKILL_LEVEL3_DES]
-Health increased to 24000. Absorption range increased by one grid to the left and right.  Can now absorb up to tier 6 zombies.
+[ZOMBIE_JOURNEY_TO_THE_WEST_ARMOR2]
+西游记基础僵尸
 
-[RANK_AVATAR_CONTENT_TITLE_61041]
-The most common and natural translation of 一路向西 (yī lù xiàng xī) is:
+[ZOMBIE_JOURNEY_TO_THE_WEST_PONCHO_DESCRIPTION_HEADER]
+可以从最后一排出现直接挖掉植物
 
-**Westward bound.**
+[ZOMBIE_JOURNEY_TO_THE_WEST_RED_BOY]
+西游记土地红孩儿僵尸
 
-[RHEUMNOBILE]
-The most accurate translation depends on context, but "伏僵塔黄" likely refers to a specific type of medicinal herb or plant.  A literal translation would be something like "prostrate stiff pagoda yellow," but that's not meaningful in English.  Without more context (e.g., from a botanical text or traditional medicine document), a precise translation is impossible.  It's possible it's a name with multiple components, each requiring individual interpretation.
+[ZOMBIE_JOURNEY_TO_THE_WEST_RED_BOY_DESCRIPTION]
+矿工僵尸每周都要花三天的时间来等候挖地许可。
 
-[PVP_ERROR_76030]
-Item cheating detected.
-
-[AUTUMN_HARVEST_SUPERCORN_EXCHANGE_CONFIRM]
-Confirm using super corn for redemption.
-
-[RHEUMNOBILE_SKILL_LEVEL1]
-Super strong suction
-
-[TIME_SUMMON_HEAD_ID_25690]
-Limited-Time Summon Event (or) Limited-Time Summon Participants
-
-[PRODUCT_HEAVEN_TREASURE_98_SHORTDESC]
-Celestial Palace Premium Gift Pack
-
-[HARVEST_BATTLE_HEAD_DES_ID_25692]
-In the Farm Frenzy event, by exchanging super corn...
-
-[PLANT_FAMILY_NAME_50049]
-Overload current
-
-[HEAVEN_TREASURE_CODE_OUT_OF_DATA]
-The discount code has expired.  You need to enter a new discount code, or would you like to purchase the special gift package at the original price?
-
-[TIME_SUMMON_HEAD_DES_ID_25690]
-To the players who ranked in the limited-time summoning event.
-
-[PRODUCT_HEAVEN_TREASURE_SP_30_SHORTDESC]
-Heavenly Palace Special Offer Package
-
-[TIME_SUMMON_HEAD_DES_ID_25688]
-To the players who ranked in the limited-time summoning event.
-
-[NEW_AVATAR_SHORT_DESCRIPTION_MONOTROPA_2]
-This phrase is evocative and open to interpretation, lacking a direct, single translation. Here are a few options depending on the intended meaning and context:
-
-* **Ghost Orchid in a Guanyin Costume:** This is a literal translation, highlighting the specific plant (ghost orchid, a common name for *Monotropa uniflora*, also known as Indian pipe, which is often called "crystal orchid" in Chinese) and the deity (Guanyin, a bodhisattva of compassion).  This works if the image is of a literal depiction.
-
-* **Crystal Orchid, Guanyin's Attire:** This suggests the crystal orchid’s appearance resembles Guanyin's clothing.
-
-* **Crystal Orchid, Dressed as Guanyin:**  This emphasizes the orchid being costumed.
-
-* **The Crystal Orchid's Guanyin-like Appearance:** This focuses on the resemblance to Guanyin.
-
-The best option depends on the context.  If you can provide more information about where you found this phrase, I might be able to give a more precise translation.
-
-[HEAVENTREASURE_DESCRIPTION_TITLE]
-Activity Description
-
-[NEW_AVATAR_DESCRIPTION_MONOTROPA_2]
-Attack interval reduced by 15%.
-
-[MAT_HEAVEN_TREASURE_TICKET_USE]
-Drawing prizes in the Heavenly Palace treasure hunt event.
-
-[PRODUCT_HEAVEN_TREASURE_SP_9_SHORTDESC]
-Heavenly Palace Special Offer Package
-
-[AVATARCOLLECTIONS_THEME_DES10]
-What's there to be afraid of, even with a hundred thousand celestial soldiers?
-
-[ADVERTISEMENT_HEAD_DES_ID_25696]
-Purchase a lifetime ad-free card to get...
-
-[RHEUMNOBILE_SKILL_LEVEL5_DES]
-The number of zombies that can be absorbed has increased to 10.
-
-When suppressing, the Tower Yellow sprays flames to both sides, dealing continuous fire damage to ground zombies for 5 seconds. Zombies killed by the flames will turn to ash regardless of the source of the killing blow.
-
-[RHEUMNOBILE_NEW_SKILL_LEVEL5_DES]
-The number of zombies that can be absorbed has increased to 10.
-
-When suppressing, the Tower Yellow sprays flames to both sides, continuously dealing fire damage to ground zombies for 5 seconds.  Zombies killed by the flames will turn to ash regardless of the source of the killing blow.
-
-[NEW_AVATAR_DESCRIPTION_GLUTTONYDRAGON_3]
-Planting cooldown reduced by 20%.
-
-[TIME_SUMMON_HEAD_ID_25686]
-Limited-Time Summon: Silver Prize
-
-[TOYS_HEAD_DES_ID_25693]
-This phrase is incomplete and ambiguous.  It needs more context.  However, here are a few possible translations depending on the intended meaning:
-
-* **"Obtained from participating in the Journey to the West: Demon Quelling activity."** This assumes the phrase refers to obtaining something *as a result* of participating in an event.
-
-* **"Participation in the Journey to the West: Demon Quelling activity."** This is a simpler translation if the phrase is simply stating participation.
-
-* **"Acquired [item/reward] from the Journey to the West: Demon Quelling event."** This version is more specific and implies a reward was received.  You'd need to add the specific item or reward to make it complete.
-
-To provide a more accurate translation, please provide the context in which this phrase was used.
-
-[PLANTWARS_LEVEL_NAME_W3_3_B]
-Level 3 - Second Half
-
-[TIME_SUMMON_HEAD_ID_25687]
-Limited-Time Summon: Bronze Award
-
-[TIANGONG_HEAD_ID_25698]
-The most straightforward translation is **King of Gold and Silver**.  However, depending on context, it could also be translated as:
-
-* **Gold and Silver Tycoon:** This emphasizes wealth and business acumen.
-* **Gold and Silver magnate:** Similar to tycoon, but perhaps suggesting more influence.
-* **Lord of Gold and Silver:** This adds a more regal or archaic feel.
-
-
-The best translation will depend on the specific context in which the phrase is used.
-
-[ZOMBIE_JOURNEY_TO_THE_WEST_CATAPULT]
-Catapult Zombie
-
-[ACTIVITY_REFRESH]
-The most natural translation depends on the context. Here are a few options:
-
-* **Activity refresh:** This is a literal translation and works well if the context is about updating or reloading an activity in a game or app.
-
-* **Activity update:** This is a suitable alternative if the activity is being modified or improved.
-
-* **Event refresh:** This is appropriate if "活动" refers to an event rather than a general activity.
-
-* **Refresh event/activity:** This is another option that emphasizes the refresh action.
-
-
-To choose the best translation, please provide more context.  Where did you see this phrase?
-
-[TIME_SUMMON_HEAD_DES_ID_25686]
-To the player who came in second place in the limited-time summoning event.
-
-[ZOMBIE_JOURNEY_TO_THE_WEST_TRIDENT_DESCRIPTION]
-The little fish-spear demon practiced throwing his trident repeatedly every day, all so he could quickly disarm and flee when the hairy-faced thunder god attacked.
-
-[ELITE_ZOMBIE_TIPS_TEXT_JOURNEY_TO_THE_WEST_HUANGMEI]
-After special training, they are immune to control, can shapeshift, and can achieve instant kills.
-
-[PLANTWARS_LEVEL_NAME_W3_5_A]
-Level 5 – First Half
-
-[ZOMBIE_JOURNEY_TO_THE_WEST_CATAPULT_DESCRIPTION_HEADER]
-Throwing stones at your plants.
-
-[RHEUMNOBILE_NEW_SKILL_LEVEL1_DES]
-Manually click the Pagoda Yellow to attract zombies within one grid to the left and right of it to the center, then suppress them. After 60 seconds, the zombies inside the pagoda will be refined.  Once the zombies inside the pagoda are refined, you can manually click the Pagoda Yellow to release and suppress again.  It can absorb up to Tier 2 zombies.
-
-The Pagoda Yellow can convert the ashes of zombies in its row into incense.  During refinement, it can absorb incense, with each incense absorbed increasing the refinement progress by 10%.
-
-[PLANTWARS_LEVEL_NAME_W3_1]
-Level 1 (or Stage 1, or Round 1)
-
-[TIME_SUMMON_HEAD_DES_ID_25691]
-To players who participated in the limited-time summoning event
-
-[NEW_AVATAR_SHORT_DESCRIPTION_GLUTTONYDRAGON_3]
-The most natural translation would depend on the context. Here are a few options:
-
-* **Little White Dragon Costume:** This is a straightforward and common translation.
-* **Little White Dragon Outfit:** This is a slightly less formal option.
-* **White Dragon Disguise:** This works if the context implies deception or a hidden identity.
-* **A Little White Dragon's Attire:** This is a more literary option.
-
-
-The best choice depends on how "小白龙装扮" is used in the larger text.
-
-[ACTIVITY_HEAVENTREASURE_SHORT_DESCRIPTION]
-You can obtain the Gluttonous Dragon Grass Xiaobailong outfit and other rarer outfit rewards.
-
-[NEW_AVATAR_SHORT_DESCRIPTION_ELEOCURLING_3]
-The title "荸荠兄弟金银大王装扮" translates best as:
-
-**The Water Chestnut Brothers in King Gold and Silver Costumes**  or **The Water Chestnut Brothers Dressed as King Gold and Silver.**
-
-The more literal translation "Water Chestnut Brothers Gold and Silver King Dress-up" is grammatically correct but sounds unnatural in English.  The improved options above provide a more natural and idiomatic English rendering.
-
-[ADVERTISEMENT_HEAD_ID_25696]
-Time acceleration.  (or) Time speeding up.
-
-[NEW_PVP_TASK_DESCRIPTION_31]
-Players level up by completing daily and weekly challenges (4 weekly, 3 daily max).  Level rewards improve, with Duel Coins awarded up to level 50. Premium benefits grant a 20% XP bonus, 270 Duel Coins, a featured plant, and access to all 20 Treasure Spin rewards (Duel Coins used for spins; rewards are unique and probabilities shift after claiming).  After level 50, rewards cycle every 10 levels and no longer include Duel Coins. Duel Coins expire at season's end.
-
-[HEAVEN_TREASURE_BACK_REWARD]
-The most accurate translation depends on the context, but here are a few options:
-
-* **Cashback offer:** This is a good general translation and is widely understood.
-* **Special cashback:** This emphasizes the special nature of the offer.
-* **Special rebate:** This is a more formal alternative to cashback.
-* **Exclusive rebate:** This highlights the exclusivity of the offer.
-
-
-The best option will depend on the specific context in which "特惠返利" appears.
-
-[PRODUCT_HEAVEN_TREASURE_328_SHORTDESC]
-Celestial Palace VIP Gift Pack
-
-[ZOMBIE_JOURNEY_TO_THE_WEST_HUANGMEI_DESCRIPTION]
-* **Riding the Clouds:** While in the cloud state, Huangmei Dawang is invulnerable to attacks until landing.
-* **Summon Zombies:** Swings a spiked club to summon numerous Journey to the West zombies to attack.
-* **Seed Bag:** Throws a seed bag to absorb all plants in an entire row.  It can be destroyed with ash.
-* **Golden Bowl:** Throws a golden bowl, flattening all plants within a 2x2 area.
-* **Row-Switching Movement:** Does not move forward; instead, it moves to a different row at intervals.
-
-[PLANTWARS_LEVEL_NAME_W3_2_A]
-Level Two - First Half
-
-[STORE_PRODUCT_AVATAR_RHEUMNOBILE_TITLE]
-"伏僵塔黄装扮" lacks a single perfect translation.  It combines "corpse/still figure" (伏僵), "pagoda/tower" (塔), "yellow" (黄), and "dress/adornment" (装扮).  Possible interpretations include a yellow-clad corpse in a pagoda, yellow adornments on a still figure in a tower, or evocative phrases like "pagoda yellow attire of the fallen."  Context is crucial for accurate translation.
-
-[TIME_SUMMON_HEAD_ID_25691]
-Limited-Time Summon Commemorative Avatar
-
-[NEW_AVATAR_DESCRIPTION_BURDOCKBATTER_3]
-Sunlight consumption reduced by 25 points.
-
-[NEW_AVATAR_SHORT_DESCRIPTION_KIWIBEAST_2]
-This phrase is evocative and doesn't translate directly.  It's playing on words and imagery.  Here are a few options, depending on the intended nuance:
-
-* **Wild beast kiwi Zhu Bajie costume:** This is a literal translation, but sounds awkward.
-
-* **A kiwi fruit dressed as Zhu Bajie, the wild beast:** This is more natural but still a bit odd.  It highlights the unexpected nature of the image.
-
-* **A wild kiwi, styled as Zhu Bajie:** This is more concise and poetic.
-
-* **Kiwi in a wild Zhu Bajie outfit:**  This option focuses on the clothing aspect.
-
-The best translation depends on the context.  If you can provide more information about where you saw this phrase, I can give you a more precise translation.  (Zhu Bajie is a pig character from *Journey to the West*.)
-
-[RHEUMNOBILE_AVATAR_NAME]
-"伏僵塔黄装扮" lacks a direct English equivalent.  Literal translation ("yellow costume of a prostrate, stiff pagoda") is nonsensical.  Meaning depends heavily on context (e.g., book, game).  Possible interpretations include a character's yellow, rigid costume, a description of a decaying yellow pagoda, or a symbolic metaphor.  More context is crucial for accurate translation.
-
-[PLANTWARS_LEVEL_NAME_W3_3_A]
-Level 3 – First Half
-
-[STORE_PRODUCT_AVATAR_RHEUMNOBILE]
-Immediately absorb and refine the eight zombies with the lowest health on the field.
-
-[HEAVENTREASURE_DESCRIPTION]
-The Heavenly Palace Treasure Hunt lets you buy gift packs for Treasure Keys to win prizes, including the Little White Dragon costume.  Monthly resets occur on the 1st for draws, purchases, and exchanges.  Every ten draws grants a 10-90% discount on the next, and every twenty guarantees a grand prize.  Special offer packs, refreshed monthly, give a discount code for a 30% off purchase by others; successful code use rewards you with a 70% token rebate.  Each code is single-use and expires after 120 seconds of inactivity.
-
-[rank_avatar_diy_44]
-The most common and natural translation of 一路向西 (yī lù xiàng xī) is **westward bound**.  Other options, depending on context, could include:
-
-* **Heading west.**
-* **All the way west.**
-* **Journey to the west.** (This implies a longer journey)
-
-The best choice depends entirely on the context in which the phrase is used.
-
-[RHEUMNOBILE_NEW_SKILL_LEVEL2_DES]
-Health increased to 18000. Absorption range increased by one grid on each side.  Can now absorb up to tier 4 zombies.
-
-[RHEUMNOBILE_PLANTFOOD_DESCRIPTION]
-Immediately absorb and refine the five zombies with the lowest health on the field.
-
-[RHEUMNOBILE_DESCRIPTION_HEADER]
-It jumps in place, attracting zombies within its attack range underneath itself, then falls down to crush them.
-
-[NEW_AVATAR_SHORT_DESCRIPTION_LANCERHOYA_2]
-This phrase describes a specific cultivar of Hoya (wax plant), likely referring to a plant with red leaves or flowers.  A direct translation might be "Long Gun Hoya Red Child Dress/Outfit," but this is awkward.  A more natural English translation would be:
-
-**Red Child Hoya**  (This is the simplest and most common way to name a cultivar)
-
-or, if more context is needed to imply the long gun-like shape of the plant:
-
-**Red Child Hoya (Long-Gun Variety)**
-
-
-The "long gun" likely refers to the shape of the plant's vines or flower stems.
-
-[NEWYEAR_GIFT_HEAD_DES_ID_25695]
-During the celebratory gift pack event, receive rewards based on your cumulative top-up progress.
-
-[TIME_SUMMON_HEAD_DES_ID_25689]
-To the players who ranked in the limited-time summoning event.
-
-[ZOMBIE_JOURNEY_TO_THE_WEST_BALLOON]
-Kongming Lantern Zombie
-
-[PLANTWARS_LEVEL_NAME_W3_5_B]
-Level 5 - Second Half
-
-[RANK_AVATAR_CONTENT_CONTENT_61041]
-Season 31 Master Rank Rewards for 2v2 Duels
-
-[MAT_HEAVEN_TREASURE_COIN_GOT_WAY]
-Obtained through a treasure hunt in Heavenly Palace.
-
-[PLANTWARS_LEVEL_NAME_W3_4_A]
-Level 4 - First Half
-
-[NEW_AVATAR_DESCRIPTION_KIWIBEAST_2]
-Attack increased by 20%.
-
-[ZOMBIE_JOURNEY_TO_THE_WEST_TRIDENT]
-This is a creative name, not a standard phrase. There isn't a single perfect translation, as it depends on the context. Here are a few options:
-
-* **Spear-Wielding Imp Zombie:** This is a literal translation and works well if the context is a game or story.
-
-* **Harpoon Goblin Zombie:**  This slightly alters the imagery, using "goblin" instead of "imp," which might be a better fit depending on the overall tone.
-
-* **The Fish-Spear Little Demon Zombie:** This is a more descriptive option, maintaining the individual words while being more grammatically correct.
-
-
-The best choice depends on the context where you found this phrase.  If you can provide more information, I can give you a more precise translation.
-
-[ZOMBIE_JOURNEY_TO_THE_WEST_BALLOON_DESCRIPTION_HEADER]
-The Kongming lanterns will carry the zombies over obstacles and ground defenses.
-
-[PLANTWARS_LEVEL_NAME_W3_5]
-Level 5 / Stage 5 / Chapter 5
-
-[NEW_AVATAR_SHORT_DESCRIPTION_BEARBERRY_3]
-"Bearberry mortar cannon Sha Monk disguise" is a nonsensical phrase needing context.  Literal translations are unhelpful.  Possible interpretations depend on the source: a descriptive phrase, a whimsical character name, or a scene description involving Sha Monk in a costume with bearberry, mortar, and cannon motifs.  More context is crucial for accurate translation.
-
-[TIME_SUMMON_HEAD_ID_25689]
-Limited-Time Summon Event Participants
-
-[NEW_AVATAR_DESCRIPTION_FLAMELADY_1]
-Sunlight consumption reduced by 25 points.
-
-[SECTION_TRANSLATION_FAILED]
-The following strings could not be translated or summarized correctly:
-
-[GINGLEBELL_S2_2_TITLE]
-神兵天降-关卡二
-
-  seconds: 33
-}
-]
-
-[GINGLEBELL_S2_3_TITLE]
-神兵天降-关卡三
-
-  seconds: 23
-}
-]
-
-[GINGLEBELL_S3_1_TITLE]
-原地驻扎-关卡一
-
-  seconds: 13
-}
-]
-
-[GINGLEBELL_S3_2_TITLE]
-原地驻扎-关卡二
-
-  seconds: 3
-}
-]
-
-[REDPACK_LEADERBOARD_SCORE]
-已开扭蛋
-
-  seconds: 34
-}
-]
-
-[REDPACK_OPEN]
-欢乐开扭蛋
-
-  seconds: 24
-}
-]
-
-[REDPACK_PURCHASE_SUCCESS]
-获得扭蛋x{REDPACK_COUNT}
-
-  seconds: 14
-}
-]
-
-[MINIGAME_RULE_TXT]
-1.本次趣味竞赛开放时间2025年4月30日至2025年5月13日，每天开放一期小游戏。
-
-  seconds: 4
-}
-]
-
-[PLANTWARS_ZTSHIELD3_DESCRIPTION]
-前7次伤害无效，持续期间免疫秒杀效果
-
-  seconds: 26
-}
-]
-
-[PLANTWARS_ZTANTICONTROL1_DESCRIPTION]
-处于控制效果影响时，受到的伤害降低50%
-
-  seconds: 15
-}
-]
-
-[PLANTWARS_MODE_HOWTOPLAY_1_DESCRIPTION]
-活动开启时间为：4月30日14:00到7月31日0:00。
-
-  seconds: 5
-}
-]
-
-[MAT_TOY_CLOCKWORK_USE]
-在西游降魔录活动中抽奖消耗的道具
-
-  seconds: 38
-}
-]
-
-[MAT_TOY_CLOCKWORK_GOT_WAY]
-在西游降魔录活动礼包商店中购买获得
-
-  seconds: 28
-}
-]
-
-[TOY_NIGHT_MAIN_TIPS_INFO]
-活动规则：
-1、通过购买礼包获得哞哞金币，消耗哞哞金币在活动中抽取奖励，哞哞金币与火焰石无法继承至下期活动，活动结束后根据1：10与1：1的比例自动转化为钻石。
-2、每次抽奖有概率获得火焰石或其他奖励，幸运的小僵僵有概率直接获取牛蒡超级装扮。
-3、若连续20次内抽奖未抽到大奖，则下次抽奖奖励会在保底奖池中抽取。
-4、重复抽到的超级装扮会自动转化为200个火焰石奖励。
-
-  seconds: 13
-}
-]
-
-[TOY_NIGHT_GACHA_GOT_HINT]
-如已拥有,自动转换为火焰石奖励
-
-  seconds: 3
-}
-]
-
-[MAT_BATTLE_ORDER_TICKET_GOT_WAY]
-从响叮当活动、每月签到和问卷调查获得
-
-  seconds: 34
-}
-]
-
-[MAT_BATTLE_ORDER_TICKET_USE]
-用于完成战令任务（潘妮的追击指南、戴夫的神秘宝藏、令营活动、双人战令）
-
-  seconds: 23
-}
-]
-
-[MAT_HEAVEN_TREASURE_COIN]
-灵霄币
-
-  seconds: 13
-}
-]
-
-[MAT_HEAVEN_TREASURE_TICKET]
-秘宝钥
-
-  seconds: 3
-}
-]
-
-[ZOMBIE_JOURNEY_TO_THE_WEST_MINER_DESCRIPTION_HEADER]
-这种僵尸通过挖隧道来穿过你的防御。
-
-  seconds: 33
-}
-]
-
-[ZOMBIE_JOURNEY_TO_THE_WEST_PONCHO]
-铁锅僵尸
-
-  seconds: 23
-}
-]
-
-[ZOMBIE_JOURNEY_TO_THE_WEST_PONCHO_DESCRIPTION]
-西部片里常见的剧情。往西走的片好像也算西部片，没啥问题。
-
-  seconds: 13
-}
-]
-
-[RHEUMNOBILE_AVATAR_PLANTFOOD_DESCRIPTION]
-立即吸收场上八个血量最低的僵尸立即炼化。
-
-  seconds: 2
-}
-]
-
-[TIANGONG_HEAD_DES_ID_25698]
-在天宫寻宝活动中，累积抽取阶段奖励获取
-
-  seconds: 36
-}
-]
-
-[PLANTWARS_HEAD_DES_ID_25697]
-在第三赛季的僵局逃脱中获得15星
-
-  seconds: 25
-}
-]
-
-[PLANT_FAMILY_NAME_50048]
-狂欢派对
-
-  seconds: 15
-}
-]
-
-[PRODUCT_HEAVEN_TREASURE_6_SHORTDESC]
-天宫初级礼包
-
-  seconds: 5
-}
-]
-
-[NEW_AVATAR_SHORT_DESCRIPTION_BURDOCKBATTER_3]
-牛蒡击球手牛魔王装扮
-
-  seconds: 37
-}
-]
-
-[AVATARCOLLECTIONS_THEME_TITLE10]
-大闹天宫
-
-  seconds: 27
-}
-]
-
-[PLANTWARS_LEVEL_NAME_W3_2_B]
-第二关——下半场
-
-  seconds: 16
-}
-]
-
-[MONTHLY_POINT_HEAD_DES_ID_25694]
-通过成长礼包获得
-
-  seconds: 6
-}
-]
-
-[RHEUMNOBILE_SKILL_LEVEL2_DES]
-血量上升至24000，吸收范围左右各增加一格，可吸收僵尸的阶数上升至6阶
-
-  seconds: 39
-}
-]
-
-[NEW_AVATAR_DESCRIPTION_LANCERHOYA_2]
-阳光消耗降低25点
-
-  seconds: 28
-}
-]
-
-[NEW_AVATAR_SHORT_DESCRIPTION_FLAMELADY_1]
-火焰花女王芭蕉扇装扮
-
-
-[PLANTWARS_LEVEL_NAME_W3_2]
-第二关
-
-  seconds: 6
-}
-]
-
-[NEW_AVATAR_SHORT_DESCRIPTION_BUBBLECORAL_1]
-泡泡姬珊瑚成长装扮
-
-  seconds: 32
-}
-]
-
-[ZOMBIE_JOURNEY_TO_THE_WEST_SUPERFAN_DESCRIPTION_HEADER]
-一个太过狂热的小鬼，能引爆扛着的炸弹，对单格植物造成致命伤害。
-
-  seconds: 22
-}
-]
-
-[TIME_SUMMON_HEAD_ID_25685]
-限时召唤金奖
-
-  seconds: 12
-}
-]
-
-[PLANTWARS_LEVEL_NAME_W3_1_B]
-第一关——下半场
-
-  seconds: 1
-}
-]
-
-[RHEUMNOBILE_SKILL_LEVEL1_DES]
-血量上升至18000，吸收范围左右各增加一格，可吸收僵尸的阶数上升至4阶
-
-  seconds: 34
-}
-]
-
-[PLANTWARS_LEVEL_NAME_W3_1_A]
-第一关——上半场
-
-  seconds: 24
-}
-]
-
-[TIME_SUMMON_HEAD_DES_ID_25687]
-致在限时召唤活动中获得第3名的玩家
-
-  seconds: 14
-}
-]
-
-[RHEUMNOBILE_DESCRIPTION]
-{KEYWORD}范围：{STAT}左右各1格
-{KEYWORD}特点：{STAT}吸收僵尸并炼化
-{KEYWORD}植物特征：{STAT}橙色植物
-{FLAVOR}把伏僵塔黄托在手心里会有种莫名的压力。但是把她放下之后，压力变得更大了……
-
-  seconds: 3
-}
-]
-
-[HARVEST_BATTLE_HEAD_ID_25692]
-玉龙太子
-
-
-[NEW_AVATAR_DESCRIPTION_BUBBLECORAL_1]
-攻击力增加15%
-
+[ZOMBIE_JOURNEY_TO_THE_WEST_RED_BOY_DESCRIPTION_HEADER]
+可以从最后一排出现直接挖掉植物
