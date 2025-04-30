@@ -197,77 +197,6 @@ Registration Inquiry: https://beian.miit.gov.cn/
 ^00FF08^ Remember to also join my Discord server to get notified whenever the patch is updated!
 ^00FF08^ Invite link can be found in the game settings or in the patch download page.
 
-[371_1_NOTICE_1]
-^00FF08^ Find this patch is your lifesaver? Your contribution is appreciated! Consider supporting me via Buy Me A Coffee - to give me more motivation to maintain the project and make the patch always free to everyone. https://buymeacoffee.com/nvdtn19
-
-[371_1_NOTICE_2]
-^00FF08^ Remember to also join my Discord server to get notified whenever the patch is updated!
-^00FF08^ Invite link can be found in the game settings or in the patch download page.
-
-[371_1_NOTICE_3]
-^00FF08^ Find this patch is your lifesaver? Your contribution is appreciated! Consider supporting me via Buy Me A Coffee to give me more motivation to maintain the project and make the patch always free to everyone. https://buymeacoffee.com/nvdtn19
-
-[371_1_NOTICE_4]
-^00FF08^ Remember to also join my Discord server to get notified whenever the patch is updated!
-^00FF08^ Invite link can be found in the game settings or in the patch download page.
-
-[371_1_NOTICE_5]
-^00FF08^ Find this patch is your lifesaver? Your contribution is appreciated! Consider supporting me via Buy Me A Coffee to give me more motivation to maintain the project and make the patch always free to everyone. https://buymeacoffee.com/nvdtn19
-
-[371_1_NOTICE_6]
-^00FF08^ Remember to also join my Discord server to get notified whenever the patch is updated!
-^00FF08^ Invite link can be found in the game settings or in the patch download page.
-
-[371_1_NOTICE_7]
-^00FF08^ Find this patch your lifesaver? Your contribution is appreciated! Consider supporting me via Buy Me A Coffee to give me more motivation to maintain the project and make the patch always free to everyone. https://buymeacoffee.com/nvdtn19
-
-[371_1_NOTICE_8]
-^00FF08^ Remember to also join my Discord server to get notified whenever the patch is updated!
-^00FF08^ Invite link can be found in the game settings or in the patch download page.
-
-[371_1_NOTICE_9]
-^00FF08^ Find this patch is your lifesaver? Your contribution is appreciated! Consider supporting me via Buy Me A Coffee to give me more motivation to maintain the project and make the patch always free to everyone. https://buymeacoffee.com/nvdtn19
-
-[371_1_NOTICE_10]
-^00FF08^ Remember to also join my Discord server to get notified whenever the patch is updated!
-^00FF08^ Invite link can be found in the game settings or in the patch download page.
-
-[371_2_NOTICE_1]
-^00FF08^ Find this patch is your lifesaver? Your contribution is appreciated! Consider supporting me via Buy Me A Coffee - to give me more motivation to maintain the project and make the patch always free to everyone. https://buymeacoffee.com/nvdtn19
-
-[371_2_NOTICE_2]
-^00FF08^ Remember to also join my Discord server to get notified whenever the patch is updated!
-^00FF08^ Invite link can be found in the game settings or in the patch download page.
-
-[371_2_NOTICE_3]
-^00FF08^ Find this patch is your lifesaver? Your contribution is appreciated! Consider supporting me via Buy Me A Coffee to give me more motivation to maintain the project and make the patch always free to everyone. https://buymeacoffee.com/nvdtn19
-
-[371_2_NOTICE_4]
-^00FF08^ Remember to also join my Discord server to get notified whenever the patch is updated!
-^00FF08^ Invite link can be found in the game settings or in the patch download page.
-
-[371_2_NOTICE_5]
-^00FF08^ Find this patch is your lifesaver? Your contribution is appreciated! Consider supporting me via Buy Me A Coffee to give me more motivation to maintain the project and make the patch always free to everyone. https://buymeacoffee.com/nvdtn19
-
-[371_2_NOTICE_6]
-^00FF08^ Remember to also join my Discord server to get notified whenever the patch is updated!
-^00FF08^ Invite link can be found in the game settings or in the patch download page.
-
-[371_2_NOTICE_7]
-^00FF08^ Find this patch your lifesaver? Your contribution is appreciated! Consider supporting me via Buy Me A Coffee to give me more motivation to maintain the project and make the patch always free to everyone. https://buymeacoffee.com/nvdtn19
-
-[371_2_NOTICE_8]
-^00FF08^ Remember to also join my Discord server to get notified whenever the patch is updated!
-^00FF08^ Invite link can be found in the game settings or in the patch download page.
-
-[371_2_NOTICE_9]
-^00FF08^ Find this patch is your lifesaver? Your contribution is appreciated! Consider supporting me via Buy Me A Coffee to give me more motivation to maintain the project and make the patch always free to everyone. https://buymeacoffee.com/nvdtn19
-
-[371_2_NOTICE_10]
-^00FF08^ Remember to also join my Discord server to get notified whenever the patch is updated!
-^00FF08^ Invite link can be found in the game settings or in the patch download page.
-
-
 [371_3_NOTICE_1]
 ^00FF08^ Find this patch is your lifesaver? Your contribution is appreciated! Consider supporting me via Buy Me A Coffee - to give me more motivation to maintain the project and make the patch always free to everyone. https://buymeacoffee.com/nvdtn19
 
@@ -70299,7 +70228,7 @@ Orange Fragments 74%
 Lucky Chests
 
 [PLANT_WARS_CREDIT_TEXT]
-Please provide the Chinese text.  I need the Chinese text to translate it into English.
+{NUMBER}
 
 [PLANT_WARS_CREDIT_BAR_TEXT]
 {NUMBER}%
