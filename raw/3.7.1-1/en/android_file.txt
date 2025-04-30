@@ -197,53 +197,44 @@ Registration Inquiry: https://beian.miit.gov.cn/
 ^00FF08^ Remember to also join my Discord server to get notified whenever the patch is updated!
 ^00FF08^ Invite link can be found in the game settings or in the patch download page.
 
-
-[368_1_NOTICE_1]
+[371_2_NOTICE_1]
 ^00FF08^ Find this patch is your lifesaver? Your contribution is appreciated! Consider supporting me via Buy Me A Coffee - to give me more motivation to maintain the project and make the patch always free to everyone. https://buymeacoffee.com/nvdtn19
 
-
-[368_1_NOTICE_2]
+[371_2_NOTICE_2]
 ^00FF08^ Remember to also join my Discord server to get notified whenever the patch is updated!
 ^00FF08^ Invite link can be found in the game settings or in the patch download page.
 
-
-[368_1_NOTICE_3]
+[371_2_NOTICE_3]
 ^00FF08^ Find this patch is your lifesaver? Your contribution is appreciated! Consider supporting me via Buy Me A Coffee to give me more motivation to maintain the project and make the patch always free to everyone. https://buymeacoffee.com/nvdtn19
 
-
-[368_1_NOTICE_4]
+[371_2_NOTICE_4]
 ^00FF08^ Remember to also join my Discord server to get notified whenever the patch is updated!
 ^00FF08^ Invite link can be found in the game settings or in the patch download page.
 
-
-[368_1_NOTICE_5]
+[371_2_NOTICE_5]
 ^00FF08^ Find this patch is your lifesaver? Your contribution is appreciated! Consider supporting me via Buy Me A Coffee to give me more motivation to maintain the project and make the patch always free to everyone. https://buymeacoffee.com/nvdtn19
 
-
-[368_1_NOTICE_6]
+[371_2_NOTICE_6]
 ^00FF08^ Remember to also join my Discord server to get notified whenever the patch is updated!
 ^00FF08^ Invite link can be found in the game settings or in the patch download page.
 
-
-[368_1_NOTICE_7]
+[371_2_NOTICE_7]
 ^00FF08^ Find this patch your lifesaver? Your contribution is appreciated! Consider supporting me via Buy Me A Coffee to give me more motivation to maintain the project and make the patch always free to everyone. https://buymeacoffee.com/nvdtn19
 
-
-[368_1_NOTICE_8]
+[371_2_NOTICE_8]
 ^00FF08^ Remember to also join my Discord server to get notified whenever the patch is updated!
 ^00FF08^ Invite link can be found in the game settings or in the patch download page.
 
-
-[368_1_NOTICE_9]
+[371_2_NOTICE_9]
 ^00FF08^ Find this patch is your lifesaver? Your contribution is appreciated! Consider supporting me via Buy Me A Coffee to give me more motivation to maintain the project and make the patch always free to everyone. https://buymeacoffee.com/nvdtn19
 
-
-[368_1_NOTICE_10]
+[371_2_NOTICE_10]
 ^00FF08^ Remember to also join my Discord server to get notified whenever the patch is updated!
 ^00FF08^ Invite link can be found in the game settings or in the patch download page.
 
-
 [SECTION_VERSION_364_NEW_TEXT]
+
+
 [RANK_AVATAR_CONTENT_TITLE_61039]
 All Things Revive
 
@@ -557,82 +548,61 @@ Not Just Camel Brand Can Test Your Speed
 The Scamming Couple
 
 [GINGLEBELL_DESCRIPTION]
-Your total score is based on the damage done to snowmen within a limited time. Points earned from the latest levels contribute to daily bonus missions that refresh every day. Three themes are unlocked in sequence, each with three levels, every two days for levels and six days for themes. The leaderboard ranks players based on the total scores from the three latest theme levels. After a new theme unlocks, there’s an anti cheat detection period from 0:00 to 10:00 when players cannot access the new levels; only scores from up-to-date levels are counted. Rewards are automatically issued post-ranking, and any detected abnormal scores will be excluded. The leaderboard will be visible for one day on April 23th, during which no level challenges are allowed.
+Score is total guard damage.  Daily rewards use scores from the latest unlocked level.  Three 3-level themes unlock every 6 days (new level every 2 days). Leaderboards rank latest theme scores (frozen 00:00-10:00 after theme unlock; unplayable during freeze). Rewards given after 10:00 announcement (May 18th: all-day freeze). Cheaters disqualified.
 
 [TRAINING_CHALLENGE_ZERO_NAME]
-Fool's Bell
+May Day's clang
 
 [GINGLEBELL_TASKDESCRIPTION]
-Deal {NUMBER} damage to Jester Zombie in the latest level
+Deals {NUMBER} damage to the targeted object.
 
 [A_PILE_SNOWMEN1_TITLE]
-Live Interaction - Level 1
+Patrol Route - Checkpoint One
 
 [A_PILE_SNOWMEN2_TITLE]
-Live Interaction - Level 2
+Patroling the area - Checkpoint Two
 
 [A_PILE_SNOWMEN3_TITLE]
-Live Interaction - Level 3
+Patroling the area - Checkpoint Three
 
 [CONVEYER_BELT1_TITLE]
-Improv Show - Level 1
+Divine Soldier Descends - Stage One
 
 [CONVEYER_BELT2_TITLE]
-Improv Show - Level 2
+Divine Soldier Descends - Level Two
 
 [CONVEYER_BELT3_TITLE]
-Improv Show - Level 3
-
-[RANDOM_SNOWMEN1_TITLE]
-Planned Show - Level 1
-
-[RANDOM_SNOWMEN2_TITLE]
-Planned Show - Level 2
-
-[RANDOM_SNOWMEN3_TITLE]
-Planned Show - Level 3
+Divine Soldiers Descend - Level Three
 
 [GINGLEBELL_S1_1_TITLE]
-Live Interaction - Level 1
+Patroling the area - Checkpoint One
 
 [GINGLEBELL_S1_2_TITLE]
-Live Interaction - Level 2
+Patroling the area - Checkpoint Two
 
 [GINGLEBELL_S1_3_TITLE]
-Live Interaction - Level 3
+Patroling the area - Checkpoint Three
 
 [GINGLEBELL_S2_1_TITLE]
-Improv Show - Level 1
-
-[GINGLEBELL_S2_2_TITLE]
-Improv Show - Level 2
-
-[GINGLEBELL_S2_3_TITLE]
-Improv Show - Level 3
-
-[GINGLEBELL_S3_1_TITLE]
-Planned Show - Level 1
-
-[GINGLEBELL_S3_2_TITLE]
-Planned Show - Level 2
+Divine Soldiers Descending - Level One
 
 [GINGLEBELL_S3_3_TITLE]
-Planned Show - Level 3
+Stationed on the spot - Checkpoint Three
 
 [GINGLEBELL_COLLECTION_SHORT_DESCRIPTION]
 Challenge to deal the highest damage in 30 seconds!
 
 [SNOWNIGHTSTAGE2_LEVEL_NAME]
-Improv Show - Level {LEVEL_NUMBER}
+Divine Soldiers Descend - Level {LEVEL_NUMBER}
 
 [SNOWMODERNSTAGE1_LEVEL_NAME]
-Live Interaction - Level {LEVEL_NUMBER}
+Patroling the Area - Level {LEVEL_NUMBER}
 
 [SNOWNIGHTSTAGE3_LEVEL_NAME]
-Planned Show - Level {LEVEL_NUMBER}
+Stationed in Place - Level {LEVEL_NUMBER}
 
 [PLAYERS_TRIP_TO_SNOWNIGHT]
-{PLAYER}'s festive fight!
+{PLAYER}'s May Day Jingle Trip
 
 [AVATARCOLLECTIONS_TITLE]
 Collection Album
@@ -641,18 +611,11 @@ Collection Album
 Function Description
 
 [AVATARCOLLECTION_DESCRIPTION]
-1. The Collection Album contains different themed content. Under each theme, there are several items that need to be collected. Players can view detailed information about the required collectibles.
-2. Current themes include:
-- Merry Christmas!
-- New Year Arrives
-- Childlike Innocence
-- Spooky Halloween Night
-- Modern Technology
-- Don't Forget the Gentleman
-- Childhood Party
-- Living Large
-- Martial Arts & National Style
-3. When players collect all items required under a theme, they will receive a super reward that matches the theme.
+The collection album features various themes, each containing several items to be collected that match the theme. Players can view detailed information about the required collectibles.
+
+Current themes include: Merry Christmas!  Happy New Year!  Childlike Innocence, Spooky Halloween Night, Modern Technology,  Don't Forget the Gentleman,  Childhood Fun Party,  Simply Luxurious,  Wuxia & Chinese Style,  Wise as a Fool, and A Great Disturbance in Heaven's Palace.
+
+Players receive a themed super reward upon completing the collection of all required items within a specific theme.
 
 [AVATARCOLLECTIONS_PROGRESS]
 Collection Progress: {NUMBER1}/{NUMBER2}
@@ -13392,20 +13355,14 @@ the reward.
 [SPRING_GIFT_REWARD_ALREADY_3_LEVEL]
 This plant has already reached level three or above, and cannot be rewarded. Please try again. If the problem persists, please try restarting the client.
 
-[STORE_CATEGORY_NAME_REDPACK]
-Gacha
-
-[STORE_CATEGORY_NAME_REDPACK1_SHORT_DESC]
-Diamonds x10. Includes 1 Red Pack.
-
 [STORE_CATEGORY_NAME_REDPACK10_SHORT_DESC]
-Diamonds x120. Includes 15 Red Packs.
+120 diamonds. 15 gachapon (or gacha) will be given as a gift.
 
 [STORE_CATEGORY_NAME_REDPACK1_DESC]
-Purchase Diamonds x10. Get 1 Red Pack as a bonus.
+Buy 10 diamonds. Get a free gachapon.
 
 [STORE_CATEGORY_NAME_REDPACK10_DESC]
-Purchase Diamonds x120. Get 15 Red Packs as a bonus.
+Purchase 120 diamonds. Receive fifteen gachapon as a gift.
 
 [PLANT_PROPERTYUP_LEVEL1]
 Combat Training
@@ -17346,10 +17303,7 @@ Golden Autumn Travel
 Event
 
 [REDPACK_DESCRIPTION_TITLE]
-Joyful Gacha Opening Explanation Title
-
-[REDPACK_DESCRIPTION]
-Joyful Gacha Opening Explanation Content
+Joyful Gachapon Instructions
 
 [WELFARE_EVENT_TITLE]
 Limited Time Event
@@ -17373,19 +17327,16 @@ Already Purchased
 You have already purchased this plant's experience card once.
 
 [REDPACK_NUM_DESC]
-Purchased Red Envelopes
+Remaining gachapon.
 
 [REDPACK_ACTIVE_TIME]
 Event Duration: From the 25th day of the twelfth month to the 6th day of the first month (2/13-2/24)
 
 [REDPACK_OPEN_TOTAL]
-You have opened a total of {REDPACK_COUNT} red envelopes
+You have opened {REDPACK_COUNT} gachapon.
 
 [REDPACK_NOT_ENOUGH]
-Insufficient number of red envelopes, do you want to buy more?
-
-[REDPACK_BTN_BUY]
-Buy Red Envelopes
+We're running low on gachapon.  Would you like to purchase some more?
 
 [REDPACK_LEADERBOARD]
 Wealthy List
@@ -17400,7 +17351,7 @@ Rank
 Player
 
 [REDPACK_LEADERBOARD_SCORE]
-Opened Red Envelopes
+Gachapon already opened.
 
 [REDPACK_LEADERBOARD_BACK]
 Let me think again
@@ -17431,7 +17382,7 @@ Open red envelopes before the 6th day of the first month (2.24) to participate i
 501st to 1000th Place: Sap-fling thrower fragments *10, Third-tier ornament High-Energy Powder Keg
 
 [REDPACK_OPEN]
-Joyful Gacha Opening
+Happy Gachapon
 
 [REDPACK_BUY]
 Get a few more
@@ -17440,7 +17391,7 @@ Get a few more
 Click to Open
 
 [REDPACK_PURCHASE_SUCCESS]
-You have received red envelopes x{REDPACK_COUNT}
+Received {REDPACK_COUNT} gachapon prizes.
 
 [LANTERN_RIDDLES_NEXT]
 Next Question
@@ -18898,13 +18849,7 @@ Redeem failed, no missing order found. Please try again later.
 Fun Competition Challenge Instructions
 
 [MINIGAME_RULE_TXT]
-1. The fun competition is open from March 12, 2025, to March 25, 2025, with a new mini-game available each day.
-2. During the event, there is no limit on the number of challenges a player can attempt per day. After successfully completing a mini-game level, players will earn corresponding points and enhancement energy.
-3. The points earned upon successfully completing a level consist of base points and time points. Normal levels provide 1000 base points and a time points maximum of 500; difficult levels provide 2000 base points and a time points maximum of 500.
-4. Time points are awarded based on the time taken to complete a level.
-5. Players can redeem corresponding point rewards after completing the mini-game.
-6. Points earned in the mini-game are converted into enhancement energy at a certain ratio.
-7. Enhancement energy can be used to enhance mini-games, providing corresponding enhancement benefits.
+This fun competition will be open from April 30th, 2025 to May 13th, 2025, with one minigame available each day.  Players will have no daily limit on the number of attempts during the event.  Upon successfully completing a minigame level, players will receive corresponding points and enhancement energy. Points earned for successfully completing a level consist of base points and time-based points.  Normal levels award 1000 base points, with a maximum of 500 time-based points; difficult levels award 2000 base points, also with a maximum of 500 time-based points. Time-based points are calculated based on the time taken to complete the level.  Players can claim corresponding point rewards based on the points earned after completing a minigame. Enhancement energy is obtained based on the points earned in the minigame, converted at a fixed rate. Enhancement energy can be used to enhance minigames; enhancements provide corresponding beneficial effects.
 
 [SCORE_RANK_LIST]
 Leaderboard
@@ -19301,7 +19246,7 @@ Unable to communiate with the server, please check your internet connection!
 Battle server under maintenance.
 
 [PVP_ERROR_25002]
-Battle server will be closed soon. Please prepare.
+The battle server is about to shut down; please prepare accordingly.
 
 [PVP_ERROR_25003]
 Client version needs updating.
@@ -26812,23 +26757,14 @@ Is it confirmed that this plant casts your valuable vote?
 [NO_CONDITIONS]
 Conditions not fulfilled
 
-[LUCKBAG_ANNOUNCEMENT_TITLE]
-Spring Festival Lucky Bag
-
 [LUCKBAG_ANNOUNCEMENT_CONTENT]
 Event Details: Select 6 desired plants to include in the lucky bag. Opening the bag guarantees 1 orange plant + 1 purple plant from your selection.
-
-[LUCKBAG_TITLE]
-Spring Festival Lucky Bag
 
 [LUCKBAG_SELECT_PLANT]
 Select Plants
 
 [LUCKBAG_RESELECT_PLANT]
 Reselect
-
-[LUCKBAG_SELECT_TITLE]
-Spring Festival Lucky Bag Configuration
 
 [LUCKBAG_CONFIRM]
 Fukuro Confirmation
@@ -26935,9 +26871,6 @@ Blue crystal
 
 [MAT_RENAISSANCE_CHALLENGE_STATUE]
 Statue
-
-[ONEYUAN_SHOR_DESCRIPTION]
-Double Holiday Red Packs! There's a chance to receive powerful plants like Water Chestnut Brothers, Long Spear Ball Orchid, Princess Spring Grass, and other rare plants waiting for you!
 
 [MAT_COLLECT_COIN_A]
 Basho commemorative coins
@@ -29108,10 +29041,10 @@ Buy Theatre Luxury Pack
 Theatre Luxury Gifts Pack
 
 [STORE_CATEGORY_NAME_LUCKBAG_45]
-Purchase New Year Lucky Bag
+Buying a June 1st lucky bag.
 
 [STORE_CATEGORY_NAME_LUCKBAG_SHORT_DESC_45]
-New Year Lucky Bag
+June 1st Lucky Bag
 
 [MAT_RENAISSANCE_CHALLENGE_STATUE_1_USE]
 Used to exchange items in the Plant Challenge Event
@@ -41275,20 +41208,7 @@ Dragon Crystal
 Treasury Points
 
 [DRAGON_TREASURE_DESCRIPTION]
-Activity rules:
-1. Before getting the rewards from the Dragon Treasure House, please select 3 self-Custom Reward, and a fixed cost of 20 dragon crystals will be spent on each draw, with a probability of getting the final reward.
-2. After obtaining all the rewards in the Dragon Treasure House, the current prize pool will be automatically reset; after players obtain 5 rewards from the treasure house of the current round, they can spend 10 Dragon Crystals to manually reset the lottery.
-3. The progress, dragon crystal and points of this event are not inherited to the next period, after the event the remaining dragon crystal will be converted into diamonds in a ratio of 1:1, and the remaining points will be converted into gold coins in a ratio of 1:100.
-4. Players can obtain rewards from the Dragon Clan Treasure House by spending Dragon Crystals, with a specific probability of:
-Optional Reward 1 (Dragon Lamp Artifact, Cactus Party Assist Event Costume, Mulberry Blaster pieces x20)  1.00%
-Optional Reward 2 (Directional pieces x10, Artifact Blessing Coupons x30, Mulberry Blaster pieces x10)  2.21%
-Optional Reward 3 (Mulberry Blaster pieces x10, Artifact Blessing Coupons x30, Tigerstool piece x10)  1.89%
-Genetic Primacy*4 11.50% Universal Genetic Coin*60 11.50%
-Space-time energy tank*10 5.00% Space-time cubic*2 3.70%
-Spacetime dust*10 13.00% Spacetime dust*20 5.00%
-Spacetime Crystal*5 3.20% Spacetime Crystal*1 16.00%
-Crystal Mystery*6000 8.00% Crystal Mystery*18000 2.50%
-Diamond*200 2.50% Diamond*50 13.00%
+Choose 3 custom rewards (20 Dragon Crystals each draw).  The prize pool resets after all rewards are claimed or manually after 5, costing 10 Dragon Crystals.  Event progress doesn't carry over; leftover Crystals become Diamonds (1:1), points become Gold (1:100).  Reward probabilities vary (see list).
 
 [DRAGON_TREASURE_DESCRIPTION_TITLE]
 Dragon Treasury Event Explanation
@@ -65050,7 +64970,7 @@ It's as strong as eating a taco!
 {NPC_ENTER:crazydave}{SAY}Alright, plant the plants on the right side of the waterline on the lily pads for safety.
 
 [NARRATIVE_COMPENSATION_CHAT_1]
-{NPC_ENTER:crazydave}{SAY}I have given you 10 red envelopes and 100 gems. Remember to open them. Good luck!
+I've given you 10 gachapon capsules and 100 diamonds. Remember to open them! Good luck!
 
 [NARRATIVE_ZOMBIE_INTRO_LEVEL2_1]
 {NPC_ENTER:zombossicon}Hehe, my latest creation, ^00FF00 the Super Zombie MKII, ^oldclr finally takes the stage. Based on your intelligence, you would never think of ^00FF00 upgrading your plants to level 2 ^oldclr to deal with it!
@@ -71394,7 +71314,7 @@ One secret level unlocks daily. This level is not yet available for unlocking.
 {NPC_ENTER:crazydave}{PLAYFUL:crazydave}Strange, where are we? Is this still my backyard?
 
 [NARRATIVE_TUTORIAL_PLANTWARS_INTRO_3]
-{NPC_ENTER:crazydave}{PLAYFUL:winnie}Location confirmed. The current location is Dr. Zomboss's mysterious laboratory.
+Location confirmed. Current location: the Western Heaven pilgrimage route in the East.
 
 [NARRATIVE_TUTORIAL_PLANTWARS_INTRO_4]
 {NPC_ENTER:crazydave}{PLAYFUL:crazydave}Oh, you know what, Penny? I still miss my backyard. It's time to prepare to go back.
@@ -71812,7 +71732,7 @@ The amount of Penny Gold consumed on the whole server
 Are you sure about the current configuration?
 
 [PENNY_GIFT_REFRESH_TIMES]
-Number of refreshes remaining for the day {NUM}
+You have {NUM} refreshes remaining today (items on this page will be cleared and automatically refreshed for free).
 
 [PENNY_GIFT_BUY_PENNY_GIFT]
 Are you sure you want to spend {NUM} Penny Gold to buy items?
@@ -72012,16 +71932,6 @@ Open Penny's Future Gift Box to receive great rewards
 [PENNY_GIFT_DESCRIPTION_TITLE]
 Penny's Future Gift Box Event Instructions
 
-[PENNY_GIFT_DESCRIPTION]
-1. Click on Penny's avatar on the left in the custom configuration to select the type of future gift box, and then randomly pick eight gift boxes from the selected configurations to form this round's rewards (at least three reward categories must be selected).
-2. Players can spend Penny Coins to purchase future gift boxes and receive corresponding rewards. When purchasing future gift boxes, Penny will offer discounts based on the number of gift boxes you have purchased in the current round.
-3. Each time you purchase a future gift box, in addition to the fixed rewards, you will also receive additional probabilistic rewards, including more prizes and diamonds. Click on the "?" button in the upper right corner of the future gift box for details.
-4. Accumulating purchases of various future gift boxes can unlock personal progress rewards. The more tokens you spend on future gift boxes, the richer the rewards.
-5. Purchasing future gift boxes accumulates server-wide progress and unlocks server-wide progress rewards. You must purchase at least one future gift box to claim the server-wide progress rewards.
-6. After players spend Penny Coins to purchase Penny's future gift boxes, they will climb the leaderboard based on the total price of the purchased gift boxes, and those on the leaderboard will receive additional generous rewards during settlement.
-7. Unused Penny Coins from the current period will automatically convert to corresponding diamond rewards at a ratio of 1:10 after the event ends and cannot be carried over to the next period.
-8. The probabilities for additional outputs in various categories are as follows: 1) Strengthening materials – 33.33% 2) Plants and plant costumes – 10.00%.
-
 [PRODUCT_PENNYGIFTBOX_30_SHORTDESC]
 Entry Gift Box
 
@@ -72106,7 +72016,7 @@ Gold Medal
 Ztalemate Escape
 
 [PLANTWARS_WORLD_LEVEL_PASS_CONDITION]
-Do not let zombies eat the brain before the countdown ends
+Successfully repelled the zombie invasion.
 
 [PLANTWARS_WORLD_UNLOCK]
 Current Ztalemate is not open
@@ -72207,19 +72117,19 @@ Zombie becomes fully immune to all knockback effects or from being knocked off t
 Energy Shield I
 
 [PLANTWARS_ZTSHIELD1_DESCRIPTION]
-Zombie gains an energy shield, protecting them from the first 5 hits they take and providing an immunity to insta-kills as long as the shield is up.
+The first three instances of damage are ineffective; during this time, the target is immune to instant-kill effects.
 
 [PLANTWARS_ZTSHIELD2_NAME]
 Energy Shield II
 
 [PLANTWARS_ZTSHIELD2_DESCRIPTION]
-Zombie gains an energy shield, protecting them from the first 7 hits they take and providing an immunity to insta-kills as long as the shield is up.
+The first 5 instances of damage are ineffective, and the effect grants immunity to instant-kill effects during its duration.
 
 [PLANTWARS_ZTSHIELD3_NAME]
 Energy Shield III
 
 [PLANTWARS_ZTSHIELD3_DESCRIPTION]
-Zombie gains an energy shield, protecting them from the first 9 hits they take and providing an immunity to insta-kills as long as the shield is up.
+The first seven instances of damage are ineffective; during this duration, the target is immune to instant-kill effects.
 
 [PLANTWARS_ZTIMMUNECONTROL1_NAME]
 Unyielding
@@ -72231,7 +72141,7 @@ Zombie is stunned and/or slowed for 70% less time.
 Concentration
 
 [PLANTWARS_ZTANTICONTROL1_DESCRIPTION]
-Zombies gains a 99% attack reduction when stunned or slowed.
+While under the effect of control, damage taken is reduced by 50%.
 
 [PLANTWARS_ZTATTACK1_NAME]
 Strength
@@ -72462,16 +72372,16 @@ Parlay conditions
 Points calculation
 
 [PLANTWARS_MODE_HOWTOPLAY_1_DESCRIPTION]
-The event will be held from 14:00 on September 29 to 0:00 on December 21.
+The event will run from 2 PM on April 30th to midnight on July 31st.
 
 [PLANTWARS_MODE_HOWTOPLAY_2_DESCRIPTION]
 Zombies with entries will receive additional buffs, so be treated with caution.
 
 [PLANTWARS_MODE_HOWTOPLAY_3_DESCRIPTION]
-When a plant dies or is eradicated, it leaves a tombstone with extremely high health in its place, which will automatically destroy after 5 seconds.
+This level has no special mechanics; it's the same as normal mode.  Prevent the zombies from eating your brains to unlock the next level.
 
 [PLANTWARS_MODE_HOWTOPLAY_4_DESCRIPTION]
-Accumulate the charge of Pea Rain by dealing damage with pea-based plants.
+The score is calculated as a deduction system.  Sunlight depletion, plant death, and using power-ups will reduce the score.  Star rewards are given based on the remaining score.
 
 [PLANTWARS_MODE_HOWTOPLAY_5_DESCRIPTION]
 When fully charged, a rain of peas falls, ignoring entries and damage reduction effects to deal damage to zombies.
@@ -72737,12 +72647,6 @@ The Elite Mirror Queen Zombie has a resilience bar mechanism; physical attacks c
 [ZOMBIE_PLANTWARS_MIRROR_QUEEN_PHASE3_DESCRIPTION]
 The Mirror Queen Zombie spends a lot of time each day indulging in her reflection. She fantasizes that her reflection is stronger and more beautiful than she is now. One day, the mirror finally responded to the queen's wish.
 
-[NIGHTTHETOY_TIP]
-Stone Shop
-
-[NIGHTTHETOY_SHOP]
-Stone Shop
-
 [NIGHTTHETOY_TASK]
 Event tasks
 
@@ -72762,19 +72666,16 @@ Congratulations ^FFFF00 {NAME}! ^oldclr You got ^0775F7 {ITEM} ^oldclr x {NUMS}
 Congratulations ^FFFF00 {NAME}! ^oldclr You got ^0000FF {ITEM} ^oldclr
 
 [PRODUCT_NIGHTTHETOY_SHORTDESC]
-Fiery Frenzy
-
-[TOYNIGHT_TITLE]
-Fiery Frenzy
+The Demons Fall: Journey to the West
 
 [PRODUCT_TOY_NIGHT_6_SHORTDESC]
-Basic Flame Pack
+Beginner Gold Pack
 
 [PRODUCT_TOY_NIGHT_30_SHORTDESC]
-Intermediate Flame Pack
+Intermediate Gold Package
 
 [PRODUCT_TOY_NIGHT_98_SHORTDESC]
-Advanced Flame Pack
+Premium Gold Package
 
 [PRODUCT_TOY_NIGHT_45_SHORTDESC]
 Basic Limited-Time Pack
@@ -72785,57 +72686,32 @@ Advanced Limited-Time Pack
 [TOYNIGHT_TASK_1]
 Enter the event for the first time
 
-[TOYNIGHT_TASK_2]
-Obtain the Electric Peel Super Outfit
-
-[TOYNIGHT_TASK_3]
-Obtain all three Electric Peel outfits
-
 [MAT_TOY_PARTS]
-Cold Flame Stone
+Flame Stone
 
 [MAT_TOY_PARTS_USE]
-Exchange for rewards in the Fiery Frenzy event shop
+Redeeming rewards from the Journey to the West: Demon Quelling Record event's Flame Stone shop.
 
 [MAT_TOY_PARTS_GOT_WAY]
-Obtain through draws in the Fiery Frenzy event
+Obtained through gacha in the Journey to the West: Demon Quelling record event.
 
 [MAT_TOY_CLOCKWORK]
-Flame Coins
+Moo Moo Gold
 
 [MAT_TOY_CLOCKWORK_USE]
-Used for draws in the Fiery Frenzy event
+Items consumed for drawing prizes in the Journey to the West: Demon Quelling activity.
 
 [MAT_TOY_CLOCKWORK_GOT_WAY]
-Purchase from the Fiery Frenzy event pack shop
+Purchased from the Journey to the West: Demon Quelling Record event pack store.
 
 [TOY_NIGHT_EXPIRED]
-Expired Fiery Frenzy rewards
+Expired Rewards for Journey to the West: Conquering the Demons
 
 [TOY_NIGHT_MAIN_TIPS_INFO]
-Fiery Frenzy Event Summary:
-- Purchase packs to obtain Flame Coins, which are used for draws. Unused Flame Coins and Cold Flame Stones convert to diamonds after the event (1:10 and 1:1 rates).
-- Each draw grants Cold Flame Stones or other rewards, with a chance to win the Electric Peel Super Outfit.
-- If no grand prize is won in 20 draws, the next draw guarantees a grand prize.
-- Duplicate Super Outfits convert into 200 Cold Flame Stones.
-Grand Prize Pool:
-- Electric Peel Super Outfit – 3.72%
-- Cold Flame Stone ×1300 – 5.28%
-- Cold Flame Stone ×700 – 12.55%
-- Cold Flame Stone ×500 – 11.10%
-- Diamonds ×1888 – 32.17%
-- Penny’s Treasure Ticket ×10 – 35.18%
-Regular Reward Pool:
-- Cold Flame Stone ×100 – 6.09%
-- Cold Flame Stone ×50 – 16.00%
-- Cold Flame Stone ×20 – 12.00%
-- Cold Flame Stone ×10 – 35.00%
-- Outfit Ticket ×500 – 2.50%
-- Outfit Ticket ×100 – 9.75%
-- Penny’s Treasure Ticket ×1 – 17.00%
+Buy packages for Moo Moo Coins to draw rewards.  Unused coins/stones become diamonds (1:10, 1:1).  Draws offer Flame Stones and other prizes, including a Burdock Super Outfit.  After 20 draws without a grand prize, the next is guaranteed.  Duplicate outfits convert to 200 Flame Stones.  Guaranteed prizes have varying probabilities (see details).  Regular draws have lower probabilities for better prizes.
 
 [TOY_NIGHT_GACHA_GOT_HINT]
-If already owned, it will automatically convert into Cold Flame Stone rewards.
+If already owned, automatically converted to Flame Stone rewards.
 
 [ACTIVITY_NEW_MINIGAME_TIPS]
 Event Description
@@ -72901,7 +72777,7 @@ Anime-style Outfit
 Attack power increased by 30%.
 
 [GINGLEBELL_TITLE]
-Fool's Bells
+May Day's clang.
 
 [GINGLEBELL_TIPS]
 Challenges are unavailable during the ranking freeze period.
@@ -72928,7 +72804,7 @@ Your ranking: {NUMBER}
 Total Number of Participants: {NUMBER}
 
 [GINGLEBELL_RANK_REWARD_TITLE]
-Fool's Bell Leaderboard Rewards
+May 1st "Ding Dang" Chart Rewards
 
 [GINGLEBELL_TAB1]
 Theme Challenge
@@ -72952,31 +72828,31 @@ Damage: {NUMBER}
 Deal as much damage in 30 seconds!
 
 [GINGLEBELL_S4_1_TITLE]
-Live Interaction - Level 1
+Patrol Route - Checkpoint One
 
 [GINGLEBELL_S4_2_TITLE]
-Live Interaction - Level 2
+Patroling the area - Checkpoint Two
 
 [GINGLEBELL_S4_3_TITLE]
-Live Interaction - Level 3
+Patroling the area - Checkpoint Three
 
 [GINGLEBELL_S5_1_TITLE]
-Improv Show - Level 1
+Divine Soldiers Descend – Level One
 
 [GINGLEBELL_S5_2_TITLE]
-Improv Show - Level 2
+Divine Soldiers Descending - Level Two
 
 [GINGLEBELL_S5_3_TITLE]
-Improv Show - Level 3
+Divine Soldier Descends - Stage Three
 
 [GINGLEBELL_S6_1_TITLE]
-Planned Show - Level 1
+Stationed on site - Checkpoint One
 
 [GINGLEBELL_S6_2_TITLE]
-Planned Show - Level 2
+Stationary Deployment - Checkpoint Two
 
 [GINGLEBELL_S6_3_TITLE]
-Planned Show - Level 3
+Stationed on the spot - Checkpoint Three
 
 [NEW_AVATAR_SHORT_DESCRIPTION_TWINSHONEYSUCKLE_1]
 Floatie, Scarf and Santa Earmuffs
@@ -74082,10 +73958,7 @@ Celebration Pack Purchase Instructions:
 - Celebration Recharge Instructions: During the event, any in-game recharge contributes to the cumulative recharge progress.
 
 [NEWYEARPACK_MAIN_TIPS_INFO]
-Daily Free Gift: 15 Diamonds
-2 Yuan Welfare Pack: 30 Diamonds, 10% chance to get a Basic Costume Chest
-3 Yuan Welfare Pack: 90 Diamonds, 10% chance to get an Intermediate Costume Chest
-6 Yuan Welfare Pack: 180 Diamonds, 10% chance to get an Advanced Costume Chest
+Daily free gift: 15 diamonds.  Welfare packs: 2 yuan (30 diamonds, 10% chance at Beginner box); 3 yuan (90 diamonds, 10% chance at Intermediate box); 6 yuan (180 diamonds, 10% chance at Advanced box). Boxes contain various themed costumes and accessories.
 
 [PRODUCT_NEW_YEAR_PACK_2_SHORTDESC]
 2 Yuan Welfare Gift Box
@@ -75083,7 +74956,7 @@ Does one plus one equal two?
 Flame Carnival
 
 [TOYS_HEAD_DES_ID_25678]
-Obtain through the Flame Carnival event
+Participation in the Xi You Jiang Mo Lu event yielded (rewards).
 
 [PARALLEL_SPIKEWEED]
 No. 41 Spikeweed
@@ -75255,10 +75128,10 @@ The gourd, a climbing vine with heart-shaped leaves and white flowers, produces 
 Treasure Hunt in the Heavenly Palace
 
 [HEAVEN_TREASURE_DESCRIPTION_1]
-Activity Instructions 1
+The prize pool offers various rewards:  Xiaobailong outfit (0.43%/2.25%), Demon-Subduing Cloak (0.81%/3.36%), Mystic Treasure Vouchers (1.48%/9.31%/19.07%), Outfit Vouchers (1.15%/8.19%), Advancement Books (1.17%/7.05%), and Lingxiao Coins (various amounts, totaling ~99%).
 
 [HEAVEN_TREASURE_DESCRIPTION_TITLE_1]
-Activity Description Title 1
+Prize Pool Probability Disclosure
 
 [HEAVEN_TREASURE_FILL_IN_CODE_DES]
 Please enter your promotional code.
@@ -75300,7 +75173,7 @@ Congratulations! You've received a 30% discount.
 Your coupon code:
 
 [HERO_CAPE_1]
-Hero's cape
+Demon-Subduing Cloak
 
 [HERO_CAPE_1_BOOST_DES]
 Effects: 1. Attack increased by 5%.  2. Planting cooldown reduced by 12%.  3. Unlocked.
@@ -75319,9 +75192,6 @@ Effects: 1. Attack increased by 25%.  2. Planting cooldown reduced by 25%.  3. P
 
 [HERO_CAPE_1_BOOST_DES_5]
 Effects: 1. Attack increased by 30%.  2. Planting cooldown reduced by 30%.  3. Probability of activating the fourth-tier ultimate increased by 15%.
-
-[HERO_CAPE_1_DES]
-The cape worn by a renowned hero still retains the hero's power.
 
 [HYDROCOTYLEDRUMMER_FAMILY]
 Araliaceae
@@ -75342,16 +75212,16 @@ Lotus genus
 War Order Voucher
 
 [MAT_BATTLE_ORDER_TICKET_GOT_WAY]
-Check-in rewards, monthly card benefits, and travel log rewards.
+Obtained from the "Xiang Ding Dang" event, monthly check-ins, and questionnaires.
 
 [MAT_BATTLE_ORDER_TICKET_USE]
-For completing the task.
+To complete War Order missions (Penny's Pursuit Guide, Dave's Mysterious Treasure, Camp Activities, and Double War Orders).
 
 [MAT_HEAVEN_TREASURE_COIN]
-Heavenly Palace Treasure Hunt Currency
+Lingxiao Coin
 
 [MAT_HEAVEN_TREASURE_TICKET]
-Heavenly Palace Treasure Hunt Lottery Ticket
+Secret Treasure Key
 
 [NARCISSUSSHOOTER_FAMILY]
 Amaryllidaceae
@@ -75366,7 +75236,7 @@ Narcissus, a 40cm perennial, boasts white petals and a golden corona attracting 
 Attack speed increased by 25%.
 
 [NEW_AVATAR_SHORT_DESCRIPTION_KIWIFRUIT_4]
-Kiwi Super Outfit
+Kiwi fruit dressed as the Great Sage, Equal of Heaven.
 
 [OLIVE_FAMILY]
 Oleaceae
@@ -75537,220 +75407,567 @@ Witch hazel
 Witch hazel, a Chinese shrub (to 8m), boasts star-shaped hairs, wavy-edged leaves, and yellow flowers blooming December-March.  Its seed pods explosively disperse seeds.  Named for its golden petals and resemblance to sweet plum blossoms, it's a valuable winter nectar source.  Used in skincare and historically for divination, its flower language signifies inspiration and healing.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST]
-Journey to the West Basic Zombies
-
-[ZOMBIE_JOURNEY_TO_THE_WEST_ALLSTAR]
-Journey to the West All-Star Zombies
-
-[ZOMBIE_JOURNEY_TO_THE_WEST_ALLSTAR_DESCRIPTION]
-Mine worker zombies spend three days a week waiting for excavation permits.
-
-[ZOMBIE_JOURNEY_TO_THE_WEST_ALLSTAR_DESCRIPTION_HEADER]
-Plants can be directly dug up from where they emerge in the last row.
-
-[ZOMBIE_JOURNEY_TO_THE_WEST_ARMOR2_DESCRIPTION]
-Mineworker zombies spend three days a week waiting for digging permits.
-
-[ZOMBIE_JOURNEY_TO_THE_WEST_ARMOR2_DESCRIPTION_HEADER]
-Plants can be directly dug up from where they appear in the last row.
-
-[ZOMBIE_JOURNEY_TO_THE_WEST_DESCRIPTION]
-Mine worker zombies spend three days a week waiting for digging permits.
-
-[ZOMBIE_JOURNEY_TO_THE_WEST_DESCRIPTION_HEADER]
-Plants can be directly dug up from where they emerge in the last row.
-
-[ZOMBIE_JOURNEY_TO_THE_WEST_FLAG]
 Journey to the West Basic Zombie
 
-[ZOMBIE_JOURNEY_TO_THE_WEST_FLAG_DESCRIPTION]
-Mineworker zombies spend three days a week waiting for digging permits.
+[ZOMBIE_JOURNEY_TO_THE_WEST_ALLSTAR]
+Marshal Star Zombie
+
+[ZOMBIE_JOURNEY_TO_THE_WEST_ALLSTAR_DESCRIPTION]
+Every defeat of Marshal Star Zombie in recent battles was live-streamed by the Heavenly Court, causing his approval rating to plummet to -110%.
+
+[ZOMBIE_JOURNEY_TO_THE_WEST_ALLSTAR_DESCRIPTION_HEADER]
+A zombie clad in full plate armor charging your defenses.
+
+[ZOMBIE_JOURNEY_TO_THE_WEST_ARMOR2_DESCRIPTION]
+The Magnetite Scripture recorded the manufacturing process of magnets. Unfortunately, the first half of the scripture was waterlogged, so the zombies only invented "porcelain" iron.
+
+[ZOMBIE_JOURNEY_TO_THE_WEST_ARMOR2_DESCRIPTION_HEADER]
+His iron-clad helmet could withstand a significant amount of damage.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_FLAG_DESCRIPTION_HEADER]
-Plants can be directly removed by digging them up from the last row.
+A zombie from Journey to the West carrying a flag usually signifies the imminent arrival of a large horde of zombies.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_GARGANTUAR]
-Giants and Zombies in Journey to the West
+Heavy Hammer Giant Zombie
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_GARGANTUAR_DESCRIPTION]
-Mineworker zombies spend three days a week waiting for mining permits.
+With a spirit that could uproot mountains and strength that surpassed the world, a king of the battlefield.  The legendary tale of the Heavy Hammer Giant needs no further telling.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_GARGANTUAR_DESCRIPTION_HEADER]
-The plants can be directly dug out from where they appear in the last row.
+Crushing plants with a heavy hammer.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_MINER]
-The Land God Zombies of Journey to the West
+Land God Zombie
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_MINER_DESCRIPTION]
-Mineworker zombies spend three days a week waiting for digging permits.
+The land deity zombie recently became obsessed with spy films, yearning to contribute his strength to the "intelligence" work at the village entrance.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_MINER_DESCRIPTION_HEADER]
-The plants can be directly removed starting from the last row.
+These zombies burrow through your defenses.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_PONCHO]
-Journey to the West Cloak Zombie
+Iron Pot Zombie
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_PONCHO_DESCRIPTION]
-Mine zombies spend three days a week waiting for digging permits.
-
-[TRANSLATION_FAILED]
-[BAMBOO_FAMILY]
-禾本科
-
-[BAMBOO_GENUS]
-竹亚科
-
-[BAMBOO_PEDIA]
-竹笋：破土而出的生命密码
-竹笋是竹类植物的幼嫩茎芽，由地下横走的竹鞭节部萌发。其外层包裹褐色或黄绿色箨壳，密被绒毛或斑点，内藏乳白色笋肉，质地脆嫩。按生长季节和形态可分冬笋（冬季休眠芽，短粗如锥）与春笋（春雨后破土，细长似剑），生长高峰期单日可抽高30厘米以上，展现惊人的爆发力。
-全球竹类90%物种分布于亚洲，中国长江流域为竹笋主产区。“笋”字最早见于甲骨文，上部“竹”表类属，下部“旬”喻其十日成竹的速生特性。《诗经》“其蔌维何，维笋及蒲”印证其3000年食用史。用鲜嫩的笋切片晒干，由于形似玉兰花瓣而被称为“玉兰片”。
-
-[BANANA_FAMILY]
-芭蕉科
-
-[CHERRY_BOMB_PEDIA]
-樱桃：春日舌尖的甜蜜盛宴
-落叶乔木。
-高2-6米，树皮灰白色；叶卵形至椭圆形，边缘有尖锐重锯齿；花序伞房状，先叶开花，花瓣5枚，白色或淡粉，雄蕊30-50枚，雌蕊单生。核果近球形，红色。花期3-4月，果期5-6月。
-因莺鸟喜食其果，古称“莺桃”，后谐音为“樱桃”，原生长江流域，现广泛栽培于欧亚温带。除了食用，也可酿酒，枝、叶、根、花也可供药用。由于中国樱桃较小不易储存，畅销的“车厘子”多为欧洲甜樱桃的改良品种。其栽培品种需冷量高（7℃以下时长达800小时）正常开花结果，使其成为研究气候变化对果树影响的“哨兵物种”。樱桃因其鲜红欲滴的颜色和心形果实 ，在欧洲文化中常被赋予丰收、青春、爱情与诱惑的意象。
-花语：纯真与天真、爱情与珍惜、希望与新生
-
-[COFFEEBEAN_FAMILY]
-茜草科
-
-[COFFEEBEAN_GENUS]
-咖啡属
-
-[ELECTRICITEA_FAMILY]
-山茶科
-
-[ELECTRICITEA_GENUS]
-山茶属
-
-[ELECTRICITEA_PEDIA]
-茶：东方树叶的生命密码
-常绿灌木或小乔木。
-高1-3米，野生种可达10米；叶革质，长圆形或椭圆形，边缘有锯齿；花1-3朵腋生，白色，花瓣5-6枚，雄蕊多数，雌蕊单生，柱头3裂；蒴果3球形，成熟时裂开。花期为10月至翌年2月，果实次年秋季成熟，但人工茶园多修剪控制结果。
-“茶”字源于巴蜀古方言“槚”（jiǎ），唐代陆羽《茶经》统一称“茶”。绿茶因杀青工艺（高温钝化酶活性）保留叶绿素得名，与发酵茶（红茶、乌龙茶）形成对比。其野生种遍见于长江以南各省的山区，现广泛种植于北纬18°-37°的亚热带山地，栽培品种毛被及叶型变化大。
-花语：谦逊的馈赠
-
-[FIREGOURD_FAMILY]
-葫芦科
-
-[HEAVEN_TREASURE_TAB2_DES2]
-填写礼包优惠码
-
-[HEAVEN_TREASURE_TAB3]
-累计抽取
-
-[HEAVEN_TREASURE_TAB4]
-兑换商店
-
-[HEAVEN_TREASURE_USE_CODE]
-使用优惠码
-
-[LOTUSSHOOTER_PEDIA]
-藕：淤泥中的白玉走廊
-藕是莲（俗称荷花）的地下茎，呈圆柱形，节部缢缩，上生黑色鳞叶，下生须状不定根。具放射状通气孔道适应水下缺氧环境。其断裂时会有“藕断丝连”的现象，拉出的丝为导管壁的螺纹状纤维，主要起支持导管的作用。秋冬成熟的藕长可达1.5米，重达5公斤，淀粉含量高达20%，堪称“水下粮仓”。虽可用莲子繁殖，但农业生产多采用藕节顶芽进行无性繁殖，保留品种优良性状。
-“藕”取“草”字头与“耦”（双生之意），暗喻其节节相连。我国食用藕的历史悠久，早在新石器时代河姆渡遗址已发现碳化藕粉。因“藕”与“偶”谐音，寓意“佳偶天成”，常用于婚庆仪式中。而在水域生态中，藕的根状茎网络可稳定底泥、吸收沉积物中的营养盐，减少水体富营养化；其孔道结构促进水体-底泥间的氧气交换，为鱼虾等水生动物改善栖息环境。
-
-[LOTUSSHOWER_FAMILY]
-莲科
-
-[LOTUSSHOWER_GENUS]
-莲属
-
-[LOTUSSHOWER_PEDIA]
-莲蓬：水泽中的生命摇篮
-莲蓬是莲（俗称荷花）的花托膨大形成的聚合果。其形似倒置的圆锥，表面密布窝状孔洞，每孔嵌一粒果实，俗称莲子。幼时果皮青绿，成熟黑褐色且变致密坚硬，能够有效隔绝水分、空气和微生物的侵入，极大地减缓了种子内部物质的代谢消耗，使其进入长期休眠状态，是宋代古莲子可休眠千年仍发芽的重要因素。随着莲子的成熟，莲蓬也会逐渐变干枯呈现黑褐色，脱落入水，因其疏松多孔浮力大，如同承载莲子的小船，借水流将其传播出去。
-莲原产亚洲热带至温带水域，中国长江流域、印度恒河平原为原生中心。其幼嫩的莲子可生食或煮食，莲心（胚）可做茶饮。莲蓬因“花开见果”的特性，被赋予“因果同时”“生生不息”的哲学寓意。佛教视其为“莲台”，象征涅槃重生；民间以“莲蓬多子”祈愿子孙绵延。
-
-[PAMEGRANATE_GENUS]
-石榴属
-
-[PAMEGRANATE_PEDIA]
-石榴：来自安息国的吉祥果
-落叶灌木或小乔木。
-树高通常3-5米；枝顶常成尖锐长刺；叶通常对生，纸质，矩圆状披针形；花1-5朵生枝顶；花萼革质，通常红色或淡黄色；花瓣红色、黄色或白色；浆果近球形，种子多数，肉质的外种皮供食用。花期5-7月；果期9-10月。
-原产伊朗至喜马拉雅山脉，现全世界的温带和热带均有种植。汉代张骞出使西域引入中原，古称“安石榴”，“安”即安息国（现伊朗地区），“石”可能形容果实坚硬如石，或音译其波斯名“asak”的部分发音，或“榴者，瘤也，丹实垂垂如赘瘤也”（《本草纲目》）。除了食用外，其果皮和根皮入药，树皮、根皮和果皮均含多量鞣质，可提制栲胶。在我国，“榴开百子”象征家族兴旺，使其成为婚庆必备吉祥物。
-花语：成熟之美、子孙满堂、富贵
-
-[PASSIONFLOWER_FAMILY]
-西番莲科
-
-[PASSIONFLOWER_GENUS]
-西番莲属
-
-[PLANTWARS_LEVEL_NAME_w3_4_A]
-第四关——上半场
-
-[PLANTWARS_LEVEL_NAME_w3_4_B]
-第四关——下半场
-
-[PLANTWARS_LEVEL_NAME_w3_5]
-第五关
-
-[PLANTWARS_LEVEL_NAME_w3_5_A]
-第五关——上半场
-
-[RHEUMNOBILE_PEDIA]
-塔黄：高山之巅的“黄金宝塔”
-多年生草本植物。
-高1-2米；茎单生不分枝，粗壮挺直；基生叶数片，呈莲座状，近革质；总状花序分枝腋生，常5-8枝成丛，花被片6或较少；果实宽卵形，种子心状卵形。花果期6-9月，正值高山短暂的夏季。
-作为典型的高山植物，塔黄主要分布在海拔4000-4800米的在喜马拉雅山脉和横断山区的高山流石滩上。因其花序由多层乳黄色或淡绿色苞片包裹，形似一座金黄色的宝塔而得名“塔黄”。这些苞片半透明，能透光并保温，为其花朵和幼果构建了“温室"，使其免受高寒环境的伤害，此外可为小型高山昆虫提供庇护所，它的存在有助于稳定高山脆弱的生态环境。
-花语：坚韧与奇迹
-
-[ROSESWORDMAN_FAMILY]
-蔷薇科
-
-[ROSESWORDMAN_GENUS]
-蔷薇属
-
-[ROSESWORDMAN_PEDIA]
-玫瑰：美丽芬芳的刺客
-落叶灌木。
-高1-2米；茎干密生皮刺，叶片为羽状复叶，小叶5-9片，叶面皱褶明显；花单生或数朵簇生叶腋，多为重瓣或半重瓣，紫红色或白色，香气浓郁；果实扁球形，红色，肉质。花期5-6月，果期8-9月。
-“玫，石之美者；瑰，珠圆好者”（《说文解字》）。玫瑰因花色如玫，花型饱满如瑰而得名，一说因果实红而圆润得名。与月季相比，其全株密被刺，叶小且皱褶明显，并且叶柄和背部叶脉也具刺。原产中国东北、朝鲜半岛及日本，现广泛栽培于温带地区。除了用于观赏，其花瓣可提取精油；干花可制茶、蜜饯，具疏肝解郁之效；果实富含维生素C，可入药或加工为保健食品。
-
-[STORE_CATEGORY_NAME_AD_FREE_DESC]
-购买终身免广告权益
-
-[STORE_CATEGORY_NAME_AD_FREE_SHORT_DESC]
-终身免广告权益
-
-[TULIPTRUMPETER_FAMILY]
-百合科
-
-[TULIPTRUMPETER_GENUS]
-郁金香属
-
-[TULIPTRUMPETER_PEDIA]
-郁金香：春日的绚烂号手
-多年生草本植物。
-株高约50厘米，具卵球形鳞茎；叶3-5枚，披针形；花单生于茎顶，花瓣6片，形似高脚杯，花色丰富；蒴果圆柱状，有三棱，成熟时开裂，种子扁平。因所见皆园艺品种，需用鳞茎分株繁殖才能保留亲本的观赏性状。花果期为春季。
-原产于中亚及地中海沿岸，其名“Tulip”源于土耳其语“Tülbent”（头巾），因其杯状花型与其相似。16世纪经土耳其传入欧洲，后由荷兰发扬光大，引进我国时因形似姜科的郁金而得名。在17世纪荷兰“郁金香狂热”中，稀有品种的球茎价格堪比豪宅，成为史上首个经济泡沫案例。现为荷兰国花及主要经济作物，为世界春季常用观赏花卉。其鳞茎含少量生物碱可入药，有毒勿自行食用。
-花语：炽热的爱(红色)、永恒的深情（紫色）、失恋后的新生（白色）、阳光与友谊（黄色）
+A common plot in Westerns.  Movies that go west seem to qualify as Westerns as well, no problem.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_ARMOR1]
-西游记基础僵尸
+Journey to the West Roadblock Zombies
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_ARMOR1_DESCRIPTION]
-矿工僵尸每周都要花三天的时间来等候挖地许可。
+Someone told the Journey to the West roadblock zombie that it should hinder the master and disciples traveling west, so it became the Journey to the West roadblock zombie.  However, the material of the roadblocks on the Journey to the West seems rather flimsy.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_ARMOR1_DESCRIPTION_HEADER]
-可以从最后一排出现直接挖掉植物
+His bamboo basket barricade made him twice as strong as an ordinary zombie.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_ARMOR2]
-西游记基础僵尸
+Journey to the West Iron Porcelain Cup Zombie
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_PONCHO_DESCRIPTION_HEADER]
-可以从最后一排出现直接挖掉植物
+Sometimes he used a scavenged iron pot as armor.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_RED_BOY]
-西游记土地红孩儿僵尸
+Red Boy Zombie
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_RED_BOY_DESCRIPTION]
-矿工僵尸每周都要花三天的时间来等候挖地许可。
+Flame Rounds: Launches four flame rounds at intervals, dealing massive damage to plants.
+Tri-Flame Inferno: Launches a Tri-Flame Inferno that travels in a straight line, burning all plants in its path.  It can be extinguished by the Iceberg Lettuce's ultimate ability.
+Line Shift:  Moves to the end of another lane at intervals and advances.
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_RED_BOY_DESCRIPTION_HEADER]
-可以从最后一排出现直接挖掉植物
+The Red Boy, a powerful and supernatural infant demon guarding Mount Flaming Cloud, possessed immense magical powers, most notably his ability to breathe three kinds of mystic fire.  However, being a zombie, a lotus throne was hardly a suitable seat for him.
+
+[ACTIVITY_HEAVENTREASURE_SHORT_DESCRIPTION]
+You can obtain the Gluttonous Dragon Grass Xiaobailong outfit and other rarer outfit rewards.
+
+[ACTIVITY_REFRESH]
+Activity refresh
+
+[ADVERTISEMENT_HEAD_DES_ID_25696]
+Purchase a lifetime ad-free card to obtain [something].
+
+[ADVERTISEMENT_HEAD_ID_25696]
+Time acceleration
+
+[AVATARCOLLECTIONS_THEME_DES10]
+What's there to be afraid of, even with a hundred thousand celestial soldiers?
+
+[AVATARCOLLECTIONS_THEME_TITLE10]
+The Great Monkey King's Uprising in Heaven
+
+[ELITE_ZOMBIE_TIPS_TEXT_JOURNEY_TO_THE_WEST_HUANGMEI]
+After special training, they can resist control, transform, and instantly kill.
+
+[ELITE_ZOMBIE_TIPS_TEXT_JOURNEY_TO_THE_WEST_RED_BOY]
+After special training, they are immune to control, can shapeshift, and can achieve instant kills.
+
+[HARVEST_BATTLE_HEAD_DES_ID_25692]
+In the Farm Frenzy event, redeem using super corn.
+
+[HARVEST_BATTLE_HEAD_ID_25692]
+Jade Dragon Prince
+
+[HEAVENTREASURE_DESCRIPTION]
+Get Treasure Keys by buying packages to win Little White Dragon costumes.  Monthly resets (1st) for draws, purchases, and exchanges.  Every 10 draws gets a 10-90% discount; every 20 guarantees a grand prize. Special packages reset monthly; buying one at full price creates a 30% discount code for others.  Successful code use gives you 70% cashback. Codes are single-use and expire after 120 seconds of inactivity.
+
+[HEAVENTREASURE_DESCRIPTION_TITLE]
+Activity Description
+
+[HEAVEN_TREASURE_BACK_REWARD]
+Special Rebate
+
+[HEAVEN_TREASURE_CODE_OUT_OF_DATA]
+The discount code has expired.  You need to enter a new discount code, or would you like to purchase the special package at the original price?
+
+[HEAVEN_TREASURE_HAS_REWARD]
+Refund issued.
+
+[MAT_HEAVEN_TREASURE_COIN_GOT_WAY]
+Obtained by drawing lots in the Heavenly Palace treasure hunt event.
+
+[MAT_HEAVEN_TREASURE_COIN_USE]
+Redeeming items at the Heavenly Palace Treasure Hunt exchange shop.
+
+[MAT_HEAVEN_TREASURE_TICKET_GOT_WAY]
+Treasure chests are obtained by purchasing Celestial Palace gift packs from the in-game shop during the Celestial Palace Treasure Hunt event.
+
+[MAT_HEAVEN_TREASURE_TICKET_USE]
+Lottery draw in the Heavenly Palace treasure hunt event.
+
+[NEW_AVATAR_DESCRIPTION_BEARBERRY_3]
+Attack increased by 20%.
+
+[NEW_AVATAR_DESCRIPTION_BUBBLECORAL_1]
+Attack increased by 15%.
+
+[NEW_AVATAR_DESCRIPTION_BURDOCKBATTER_3]
+Sunlight consumption reduced by 25 points.
+
+[NEW_AVATAR_DESCRIPTION_ELEOCURLING_3]
+A 10% reduction in break time.
+
+[NEW_AVATAR_DESCRIPTION_FLAMELADY_1]
+Sunlight consumption reduced by 25 points.
+
+[NEW_AVATAR_DESCRIPTION_GLUTTONYDRAGON_3]
+Planting cooldown reduced by 20%.
+
+[NEW_AVATAR_DESCRIPTION_KIWIBEAST_2]
+Attack increased by 20%.
+
+[NEW_AVATAR_DESCRIPTION_LANCERHOYA_2]
+Sunlight consumption reduced by 25 points.
+
+[NEW_AVATAR_DESCRIPTION_MONOTROPA_2]
+Attack interval reduced by 15%.
+
+[NEW_AVATAR_SHORT_DESCRIPTION_BEARBERRY_3]
+Sandy, disguised as a bear-berry mortar.
+
+[NEW_AVATAR_SHORT_DESCRIPTION_BUBBLECORAL_1]
+Bubble Fairy Coral Growth and Dressing
+
+[NEW_AVATAR_SHORT_DESCRIPTION_BURDOCKBATTER_3]
+A burdock-swinging Bull Demon King costume.
+
+[NEW_AVATAR_SHORT_DESCRIPTION_ELEOCURLING_3]
+The water chestnut brothers dressed up as the Golden and Silver Kings.
+
+[NEW_AVATAR_SHORT_DESCRIPTION_FLAMELADY_1]
+Flame Flower Queen Banana Leaf Fan Costume
+
+[NEW_AVATAR_SHORT_DESCRIPTION_GLUTTONYDRAGON_3]
+Little White Dragon Costume
+
+[PLANTWARS_HEAD_ID_25697]
+Master Escape Artist
+
+[PLANTWARS_LEVEL_NAME_W3_1]
+Level 1
+
+[PLANTWARS_LEVEL_NAME_W3_1_A]
+Level 1 – First Half
+
+[PLANTWARS_LEVEL_NAME_W3_1_B]
+Level 1 – Second Half
+
+[PLANTWARS_LEVEL_NAME_W3_2]
+Level 2
+
+[PLANTWARS_LEVEL_NAME_W3_2_A]
+Level Two – First Half
+
+[PLANTWARS_LEVEL_NAME_W3_2_B]
+Level Two — Second Half
+
+[PLANTWARS_LEVEL_NAME_W3_3]
+Level 3
+
+[PLANTWARS_LEVEL_NAME_W3_3_A]
+Level Three – First Half
+
+[PLANTWARS_LEVEL_NAME_W3_3_B]
+Level Three – Second Half
+
+[PLANTWARS_LEVEL_NAME_W3_4]
+Level 4
+
+[PLANTWARS_LEVEL_NAME_W3_4_A]
+Level Four – First Half
+
+[PLANTWARS_LEVEL_NAME_W3_4_B]
+Level Four — Second Half
+
+[PLANTWARS_LEVEL_NAME_W3_5]
+Level Five
+
+[PLANTWARS_LEVEL_NAME_W3_5_A]
+Level Five – First Half
+
+[PRODUCT_HEAVEN_TREASURE_328_SHORTDESC]
+Celestial Palace VIP Gift Pack
+
+[PRODUCT_HEAVEN_TREASURE_648_SHORTDESC]
+Celestial Palace Supreme Gift Pack
+
+[PRODUCT_HEAVEN_TREASURE_6_SHORTDESC]
+Tian Gong Beginner Gift Pack
+
+[PRODUCT_HEAVEN_TREASURE_98_SHORTDESC]
+Celestial Palace Premium Gift Pack
+
+[PRODUCT_HEAVEN_TREASURE_SP_30_SHORTDESC]
+Heavenly Palace Special Offer Package
+
+[PRODUCT_HEAVEN_TREASURE_SP_9_SHORTDESC]
+Heavenly Palace Special Gift Pack
+
+[PVP_ERROR_20000]
+Data anomaly; verification failed.
+
+[PVP_ERROR_76030]
+Prop cheating detected.
+
+[RANK_AVATAR_CONTENT_CONTENT_61041]
+Season 31 Master Tier Rewards for Two-Player Duels
+
+[RANK_AVATAR_CONTENT_TITLE_61041]
+Westward bound.
+
+[RHEUMNOBILE]
+Fújiāng Tǎhuánglolz
+
+[RHEUMNOBILE_AVATAR_NAME]
+The yellow-robed figure of the reclining Buddha.
+
+[RHEUMNOBILE_AVATAR_PLANTFOOD_DESCRIPTION]
+Immediately absorb and immediately refine the eight zombies with the lowest health on the field.
+
+[RHEUMNOBILE_DESCRIPTION]
+{KEYWORD} Range: {STAT}±1 grid
+{KEYWORD} Trait:  {STAT}Absorbs and refines zombies using
+{KEYWORD} Plant Features:  {STAT}Orange plant
+{FLAVOR} Holding the Fǔjiāng Tower Yellow in your palm creates a strange pressure. But once you put it down, the pressure becomes even greater...
+
+[RHEUMNOBILE_DESCRIPTION_HEADER]
+Jumping in place draws nearby zombies beneath the character, who then falls down to crush them.
+
+[RHEUMNOBILE_NEW_SKILL_LEVEL5_DES]
+The absorbable zombie tier has been increased to 10.  When suppressing, Pagoda Yellow sprays flames to both sides, continuously dealing fire damage to ground zombies for 5 seconds. Zombies killed by the flames will turn to ash regardless of the kill source.
+
+[RHEUMNOBILE_PLANTFOOD_DESCRIPTION]
+Immediately absorb and immediately refine the five zombies on the field with the lowest health.
+
+[RHEUMNOBILE_PRODUCT_SHORT_DESC]
+The plant jumps in place, drawing nearby zombies beneath it before falling down to crush them.
+
+[RHEUMNOBILE_SKILL_LEVEL1]
+Ultra-strong suction
+
+[RHEUMNOBILE_SKILL_LEVEL1_DES]
+Health increased to 18000; absorption range increased by one grid on each side;  absorbable zombie tier increased to tier 4.
+
+[RHEUMNOBILE_SKILL_LEVEL2]
+Nowhere to escape.
+
+[RHEUMNOBILE_SKILL_LEVEL2_DES]
+Health increased to 24000; absorption range increased by one grid on each side;  absorbable zombie tier increased to tier 6.
+
+[RHEUMNOBILE_SKILL_LEVEL5]
+Linglong Burning Heaven Flame
+
+[RHEUMNOBILE_SKILL_LEVEL5_DES]
+The absorbable zombie level has been increased to 10.  When suppressing, Pagoda Yellow sprays flames to both sides, continuously dealing fire damage to ground zombies for 5 seconds. Zombies killed by the flames turn to ash regardless of the kill source.
+
+[RHEUMNOBILE_TOOLTIP]
+Jumping in place attracts zombies within its attack range beneath itself, then falling down to suppress them.
+
+[STORE_PRODUCT_AVATAR_RHEUMNOBILE]
+Immediately absorb and immediately refine the eight zombies with the lowest health on the field.
+
+[STORE_PRODUCT_AVATAR_RHEUMNOBILE_TITLE]
+The yellowish-brown attire of a collapsed pagoda.
+
+[TIANGONG_HEAD_DES_ID_25698]
+Accumulated stage rewards were obtained during the Heavenly Palace Treasure Hunt event.
+
+[TIANGONG_HEAD_ID_25698]
+King of Gold and Silver
+
+[TIME_SUMMON_HEAD_DES_ID_25685]
+To the player who won first place in the limited-time summoning event.
+
+[TIME_SUMMON_HEAD_DES_ID_25691]
+To players who participated in the limited-time summoning event
+
+[TIME_SUMMON_HEAD_ID_25685]
+Limited-Time Summon: Gold Award
+
+[TIME_SUMMON_HEAD_ID_25686]
+Limited-Time Summon: Silver Prize
+
+[TIME_SUMMON_HEAD_ID_25687]
+Limited-Time Summon: Bronze Award
+
+[TIME_SUMMON_HEAD_ID_25688]
+Limited-Time Summon Participants
+
+[TIME_SUMMON_HEAD_ID_25689]
+Limited-Time Summon Participants
+
+[TIME_SUMMON_HEAD_ID_25690]
+Limited-Time Summon Participants
+
+[TIME_SUMMON_HEAD_ID_25691]
+Limited-Time Summon Commemorative Avatar
+
+[TOYS_HEAD_DES_ID_25693]
+Rewards obtained from participating in the Journey to the West: Demon Quelling activity.
+
+[TOYS_HEAD_ID_25693]
+Loving couple
+
+[ZOMBIE_JOURNEY_TO_THE_WEST_BALLOON]
+Kongming Lantern Zombies
+
+[ZOMBIE_JOURNEY_TO_THE_WEST_BALLOON_DESCRIPTION]
+After the released Kongming lanterns soared into the sky and burned out completely, the Kongming lantern zombies appeared.
+
+[ZOMBIE_JOURNEY_TO_THE_WEST_BALLOON_DESCRIPTION_HEADER]
+Sky lanterns will carry the zombies over obstacles and ground defenses.
+
+[ZOMBIE_JOURNEY_TO_THE_WEST_CATAPULT]
+Catapult Zombie
+
+[ZOMBIE_JOURNEY_TO_THE_WEST_CATAPULT_DESCRIPTION]
+The catapult zombie had been diligently working behind the scenes to contribute to others' "immortal arts."
+
+[ZOMBIE_JOURNEY_TO_THE_WEST_SUPERFAN_DESCRIPTION]
+Tell those crazy little fans who love self-detonation that not only does the gunpowder come from here, but the much-lauded act of self-detonation itself originated here! —From *Zombie Minus 3.5's Five Great Inventions*
+
+[ZOMBIE_JOURNEY_TO_THE_WEST_SUPERFAN_DESCRIPTION_HEADER]
+An overly zealous imp can detonate the bomb they're carrying, inflicting fatal damage on single-tile plants.
+
+[ZOMBIE_JOURNEY_TO_THE_WEST_TRIDENT]
+Fish-Spear Little Demon Zombie
+
+[ZOMBIE_JOURNEY_TO_THE_WEST_TRIDENT_DESCRIPTION]
+The little fish-fork demon practiced throwing his trident repeatedly every day, so that he could quickly disarm and flee when Mao Lian Lei Gong attacked.
+
+[ZOMBIE_JOURNEY_TO_THE_WEST_TRIDENT_DESCRIPTION_HEADER]
+It's a zombie that inflicts long-range damage on plants.
+
+[rank_avatar_diy_44]
+Westward all the way.
+
+[TRANSLATION_FAILED]
+[GINGLEBELL_S2_2_TITLE]
+神兵天降-关卡二
+
+[GINGLEBELL_S2_3_TITLE]
+神兵天降-关卡三
+
+[GINGLEBELL_S3_1_TITLE]
+原地驻扎-关卡一
+
+[GINGLEBELL_S3_2_TITLE]
+原地驻扎-关卡二
+
+[HERO_CAPE_1_DES]
+某位著名英雄降妖除魔时所穿戴的披风，还存留着英雄的力量。
+
+[LUCKBAG_ANNOUNCEMENT_TITLE]
+六一福袋
+
+[LUCKBAG_SELECT_TITLE]
+六一福袋礼包配置
+
+[LUCKBAG_TITLE]
+六一福袋
+
+[NIGHTTHETOY_SHOP]
+焰石商店
+
+[NIGHTTHETOY_TIP]
+焰石商店
+
+[ONEYUAN_SHOR_DESCRIPTION]
+开扭蛋，有概率获得强力植物 苹果迫击炮、长枪球兰、公主弹簧草，还有各种稀有植物等你来拿！
+
+[PENNY_GIFT_DESCRIPTION]
+1、在自选配置中点击左侧的潘妮头像选择未来礼盒种类后随机从已选择的配置中挑选八个礼盒组成本轮奖励（最少选择3个奖励类别）。
+2、玩家可花费潘妮金币购买未来礼盒并获取对应奖励，在购买未来礼盒时潘妮会根据您当前轮次中已购买的礼盒数量进行折扣。
+3、每次购买未来礼盒，除了固定获得的商品内容外，将会额外获得概率产出，领取更多奖品和钻石，点击未来礼盒右上角的“?”按钮可以查看详情。
+4、当礼盒界面的物品全部购买完后，会自动刷新一套奖励配置（不消耗刷新次数）。
+5、累计购买多款未来礼盒，可以解锁个人进度奖励，购买未来礼盒的代币数量越多，奖励越丰厚。
+6、购买未来礼盒积攒全服进度，解锁全服进度奖励。需要至少购买1次未来礼盒才可领取全服进度奖励。
+7、玩家花费潘妮金币购买潘妮的未来礼盒后，根据购买的礼盒的价格总价登上榜单，登上榜单后在结算时会额外获得丰厚奖励。
+8、当期未消耗的潘妮金币将在活动结束后按照1:10的比例自动转化成对应的钻石奖励，不可保留至下期。
+9、各种类中额外产出的概率如下：①强化材料类——33.33%   ②植物及植物装扮类——10.00%。
+
+[RANDOM_SNOWMEN1_TITLE]
+原地驻扎-关卡一
+
+[RANDOM_SNOWMEN2_TITLE]
+原地驻扎-关卡二
+
+[RANDOM_SNOWMEN3_TITLE]
+原地驻扎-关卡三
+
+[REDPACK_BTN_BUY]
+购买扭蛋
+
+[REDPACK_DESCRIPTION]
+欢乐开扭蛋说明内容
+
+[STORE_CATEGORY_NAME_REDPACK1_SHORT_DESC]
+钻石x10。赠送 扭蛋x1
+
+[STORE_CATEGORY_NAME_REDPACK]
+扭蛋
+
+[TOYNIGHT_TASK_2]
+获得牛蒡超级装扮
+
+[TOYNIGHT_TASK_3]
+获得牛蒡全部4个装扮
+
+[TOYNIGHT_TITLE]
+西游降魔录
+
+[ZOMBIE_JOURNEY_TO_THE_WEST_DESCRIPTION]
+西游普通僵尸一路向西，翻越十万八千里，历经九九八十一难，寻求属于他的脑子。
+
+[ZOMBIE_JOURNEY_TO_THE_WEST_DESCRIPTION_HEADER]
+普通的西游主题僵尸。
+
+[ZOMBIE_JOURNEY_TO_THE_WEST_FLAG]
+西游旗子僵尸
+
+[ZOMBIE_JOURNEY_TO_THE_WEST_FLAG_DESCRIPTION]
+地府房地产经济被旅游业打压得濒临崩溃，大量僵尸都尝试通过乱改生死簿的方式离开地府，从而享受西游旗子僵尸最近推出的八折优惠。
+
+[AUTUMN_HARVEST_SUPERCORN_EXCHANGE_CONFIRM]
+确认使用超级玉米进行兑换
+
+[AVATARCOLLECTIONS_HEAD_DES_ID_25681]
+十万天兵有什么好怕的
+
+[AVATARCOLLECTIONS_HEAD_ID_25681]
+大闹天宫
+
+[MONTHLY_POINT_HEAD_DES_ID_25694]
+通过成长礼包获得
+
+[MONTHLY_POINT_HEAD_ID_25694]
+成长礼包
+
+[NEWYEAR_GIFT_HEAD_DES_ID_25695]
+在庆典礼包活动期间，达到活动中累计充值进度领取
+
+[NEWYEAR_GIFT_HEAD_ID_25695]
+卷帘大将
+
+[NEW_AVATAR_SHORT_DESCRIPTION_KIWIBEAST_2]
+野兽猕猴桃八戒装扮
+
+[NEW_AVATAR_SHORT_DESCRIPTION_LANCERHOYA_2]
+长枪球兰红孩儿装扮
+
+[NEW_AVATAR_SHORT_DESCRIPTION_MONOTROPA_2]
+水晶兰观音装扮
+
+[NEW_PVP_TASK_DESCRIPTION_31]
+1、玩家通过完成每日挑战、4个每周挑战中的任务,获得经验。每收集1000经验可以提升至下一等级,获取对应的等级奖励。
+2、每日任务栏位上限为3，每天新增3个，仅在有空余的任务栏位时添加新的任务。每日新增不影响已有的任务进度。
+3、4周的每周任务随时间解锁，解锁后直到赛季结束前都可以完成。
+4、随着等级提升,奖励将会更加丰厚。前50级奖励中包含对决币,达成50级后可以继续升级,奖励以10级为一轮周期固定,不再产出对决币。对决币仅限当前赛季使用，下个赛季无法继承。
+5、激活高级权益后,解锁高级档位的奖励领取资格,每日与每周任务经验提升20%，购买即可立刻获得270对决币和赛季主打植物。
+6、使用对决币可在“幸运转盘”中参与抽奖,抽取丰厚的奖励。截至50级并已激活高级权益,可清空宝藏转盘所有内容,共计20项。
+7、宝藏转盘中所有奖励仅有1次领取机会,当某项奖励被抽取后,其概率将会分配至其他未被获取的奖励。当转盘中20项奖励均未被抽取时,各奖项概率如下:
+金币22.67%、钻石22.66%、挂件19.26%、绿色植物11.33%、蓝色植物7.93%、紫色植物11.33%、橙色植物2.49%、超级挂件2.04%、藤蔓&装扮多选一自选礼盒0.23%、进阶书0.06%。
+
+[PLANTWARS_HEAD_DES_ID_25697]
+在第三赛季的僵局逃脱中获得15星
+
+[PLANTWARS_LEVEL_NAME_W3_5_B]
+第五关——下半场
+
+[PLANT_FAMILY_NAME_50048]
+狂欢派对
+
+[PLANT_FAMILY_NAME_50049]
+过载电流
+
+[PLANT_FAMILY_NAME_50050]
+来自深渊
+
+[PRODUCT_HEAVEN_TREASURE_30_SHORTDESC]
+天宫中级礼包
+
+[RHEUMNOBILE_NEW_SKILL_LEVEL1_DES]
+手动点击塔黄，使塔黄左右各一格范围的僵尸吸引到中间随后镇压这些僵尸,60秒后塔中的僵尸将被炼化。塔内僵尸被炼化后，可手动点击塔黄再次释放镇压。最高吸收2阶僵尸
+塔黄可以将本行僵尸的灰烬转化为香火，炼化时可以吸收香火，每吸收一个香火增加10%炼化进度。
+
+[RHEUMNOBILE_NEW_SKILL_LEVEL2_DES]
+血量上升至18000，吸收范围左右各增加一格，可吸收僵尸的阶数上升至4阶
+
+[RHEUMNOBILE_NEW_SKILL_LEVEL3_DES]
+血量上升至24000，吸收范围左右各增加一格，可吸收僵尸的阶数上升至6阶
+
+[RHEUMNOBILE_NEW_SKILL_LEVEL4_DES]
+种植有中概率释放大招，可吸收僵尸的阶数上升至8阶
+
+[TIME_SUMMON_HEAD_DES_ID_25686]
+致在限时召唤活动中获得第2名的玩家
+
+[TIME_SUMMON_HEAD_DES_ID_25687]
+致在限时召唤活动中获得第3名的玩家
+
+[TIME_SUMMON_HEAD_DES_ID_25688]
+致在限时召唤活动中获得排名的玩家
+
+[TIME_SUMMON_HEAD_DES_ID_25689]
+致在限时召唤活动中获得排名的玩家
+
+[TIME_SUMMON_HEAD_DES_ID_25690]
+致在限时召唤活动中获得排名的玩家
+
+[ZOMBIE_JOURNEY_TO_THE_WEST_CATAPULT_DESCRIPTION_HEADER]
+对你的植物投掷石块
+
+[ZOMBIE_JOURNEY_TO_THE_WEST_HUANGMEI]
+黄眉大亡
+
+[ZOMBIE_JOURNEY_TO_THE_WEST_HUANGMEI_DESCRIPTION]
+腾云驾雾：腾云状态下，黄眉大亡不会受到攻击，直至落地。
+召唤僵尸：挥动狼牙棒，召唤大量西游僵尸进攻。
+人种袋：投掷人种袋，吸取整行所有植物，可用灰烬破坏。
+金钵：投掷金钵，砸扁 2x2 范围内的所有植物。
+位移换行：不会往前走，每隔一段时间移动至其他行。
+
+[ZOMBIE_JOURNEY_TO_THE_WEST_HUANGMEI_DESCRIPTION_HEADER]
+黄眉爷爷，黄眉大亡。设像显能，与汝赌赛。谁曾言“强者为尊该让我，英雄只此敢争先”？然合当如此？此间之瓜，击颅则痛剧。
+
+[ZOMBIE_JOURNEY_TO_THE_WEST_SUPERFAN]
+火药小鬼僵尸
