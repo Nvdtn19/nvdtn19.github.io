@@ -197,38 +197,38 @@ Registration Inquiry: https://beian.miit.gov.cn/
 ^00FF08^ Remember to also join my Discord server to get notified whenever the patch is updated!
 ^00FF08^ Invite link can be found in the game settings or in the patch download page.
 
-[373_1_NOTICE_1]
+[373_2_NOTICE_1]
 ^00FF08^ Find this patch is your lifesaver? Your contribution is appreciated! Consider supporting me via Buy Me A Coffee - to give me more motivation to maintain the project and make the patch always free to everyone. https://buymeacoffee.com/nvdtn19
 
-[373_1_NOTICE_2]
+[373_2_NOTICE_2]
 ^00FF08^ Remember to also join my Discord server to get notified whenever the patch is updated!
 ^00FF08^ Invite link can be found in the game settings or in the patch download page.
 
-[373_1_NOTICE_3]
+[373_2_NOTICE_3]
 ^00FF08^ Find this patch is your lifesaver? Your contribution is appreciated! Consider supporting me via Buy Me A Coffee to give me more motivation to maintain the project and make the patch always free to everyone. https://buymeacoffee.com/nvdtn19
 
-[373_1_NOTICE_4]
+[373_2_NOTICE_4]
 ^00FF08^ Remember to also join my Discord server to get notified whenever the patch is updated!
 ^00FF08^ Invite link can be found in the game settings or in the patch download page.
 
-[373_1_NOTICE_5]
+[373_2_NOTICE_5]
 ^00FF08^ Find this patch is your lifesaver? Your contribution is appreciated! Consider supporting me via Buy Me A Coffee to give me more motivation to maintain the project and make the patch always free to everyone. https://buymeacoffee.com/nvdtn19
 
-[373_1_NOTICE_6]
+[373_2_NOTICE_6]
 ^00FF08^ Remember to also join my Discord server to get notified whenever the patch is updated!
 ^00FF08^ Invite link can be found in the game settings or in the patch download page.
 
-[373_1_NOTICE_7]
+[373_2_NOTICE_7]
 ^00FF08^ Find this patch your lifesaver? Your contribution is appreciated! Consider supporting me via Buy Me A Coffee to give me more motivation to maintain the project and make the patch always free to everyone. https://buymeacoffee.com/nvdtn19
 
-[373_1_NOTICE_8]
+[373_2_NOTICE_8]
 ^00FF08^ Remember to also join my Discord server to get notified whenever the patch is updated!
 ^00FF08^ Invite link can be found in the game settings or in the patch download page.
 
-[373_1_NOTICE_9]
+[373_2_NOTICE_9]
 ^00FF08^ Find this patch is your lifesaver? Your contribution is appreciated! Consider supporting me via Buy Me A Coffee to give me more motivation to maintain the project and make the patch always free to everyone. https://buymeacoffee.com/nvdtn19
 
-[373_1_NOTICE_10]
+[373_2_NOTICE_10]
 ^00FF08^ Remember to also join my Discord server to get notified whenever the patch is updated!
 ^00FF08^ Invite link can be found in the game settings or in the patch download page.
 
@@ -258,11 +258,11 @@ A: Currently, there's no report about someone got banned in-game when using this
 
 [FAQ_7]
 Q: I want to purchase an item in-game with my real money. Is it possible to do that in Android?
-A: Yes, you can. You can use Alipay or WeChat Pay to do it, but there are some requirements. Both platforms may requires you to have Visa/MasterCard + a passport to verify your payment account.
+A: Yes, you can. You can use Alipay or WeChat Pay, but there are some requirements. Both platforms may requires you to have Visa/MasterCard + a passport to verify your payment account. Alternatively, if you're using the Bilibili version, you can also purchase using PayPal, which only requires a Visa.
 
 [FAQ_8]
 Q: I want to purchase an item in-game with my real money. Is it possible to do that in iOS version?
-A: You need to use a Chinese Apple ID to pay and have Alipay or WeChat Pay linked to your Apple ID, but there are some requirements. Both platforms may requires you to have Visa/MasterCard + a passport to verify your payment account. Other choices is using an iTunes gift card, but that requires a Chinese phone number. Though it's possible, but purchasing is not supported if you're installing the patch through IPA method.
+A: You need to have Alipay/WeChat Pay  account and make sure that it's linked to your Chinese Apple ID. Alipay/WeChat Pay may require a Visa/MasterCard and passport verification. Alternatively, you can use an iTunes gift card, but a Chinese phone number is needed. Note that payment isn't supported if installing the patch via the IPA method.
 
 [FAQ_9]
 
