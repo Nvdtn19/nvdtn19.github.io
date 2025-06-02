@@ -76228,10 +76228,10 @@ Lifelong friends
 Warm and harmonious; full of joy and togetherness.
 
 [MEGAGATLING]
-Super Machine Gun Shooter
+Mega Gatling Pea
 
 [MEGAGATLING_AVATAR_NAME]
-Super Machine Gun Shooter Outfit
+Mega Gatling Pea's super costume
 
 [MEGAGATLING_AVATAR_PLANTFOOD_DESCRIPTION]
 Launch 120 peas with random attributes in a fan-shaped area to the right.
@@ -76482,223 +76482,244 @@ Soaring through the starry sky.
 Qigong Master
 
 [TRANSLATION_FAILED]
+
 [GINGLEBELL_DESCRIPTION]
-活动规则：
-1.在限定时间内对巨人造成的所有伤害即为通关分数。
-2.通过最新解锁关卡获得的分数用于完成每日奖励任务，任务每天刷新。
-3.活动时间内将会依次解锁三个主题（火焰训练、电击训练、物理训练），每个主题下有三个关卡。每两天解锁一个新关卡，每六天解锁新主题。
-4.本期主题存在特殊机制，在三个主题中，分别对巨人造成若干次火焰、电击、物理伤害后，可再次对巨人造成一次高额伤害。巨人会拥有除对应属性外的所有抗性。
-5.排行榜会依据最新主题下三关分数之和排序，解锁新主题后0点至10点期间封榜进行排行榜公示，公示期间活动关卡不可游玩。游玩非最新主题关卡不会计入排行榜分数。
-6.10点排行榜公示结束后，自动发放排行榜奖励。6月17日排行榜公示延长至一天，期间不能挑战关卡。
-7.检测到分数异常的玩家，活动期间打出的分数不再计入排行榜。
+Event Rules:
+1. Your total damage to the giant within the time limit is your score.
+2. Scores from newly unlocked levels contribute to daily reward tasks, which refresh daily.
+3. Three themes (Flame, Electric, Physical Training) will unlock sequentially, each with three levels. A new level unlocks every two days, and a new theme every six days.
+4. This event has a special mechanic: after dealing a certain number of Flame, Electric, or Physical damages to the giant within each theme, you can deal one high-damage attack. The giant has resistance to all but the corresponding attribute.
+5. Leaderboards are ranked by the sum of scores from the three levels of the latest theme. From midnight to 10 AM after a new theme unlocks, the leaderboard is frozen for public display, and event levels are unplayable. Playing non-latest theme levels doesn't count for the leaderboard.
+6. Leaderboard rewards are automatically distributed after the 10 AM public display. On June 17th, the leaderboard display extends to one day, preventing level challenges.
+7. Players with abnormal scores will have their scores excluded from the leaderboard.
 
 [GINGLEBELL_RANK_REWARD_TITLE]
-六一响叮当排行榜奖励
+June 1st Jingle Bell Leaderboard Rewards
 
 [GINGLEBELL_S1_2_TITLE]
-火焰训练-关卡二
+Flame Training - Level Two
 
 [GINGLEBELL_S6_3_TITLE]
-物理训练-关卡三
+Physical Training - Level Three
 
 [GINGLEBELL_TITLE]
-六一响叮当
+June 1st Jingle Bell
 
 [HEAVENTREASURE_DESCRIPTION]
-活动规则：
-1.未使用的秘宝钥（抽奖代币）及凌霄币（兑换代币）在每月刷新与版本更新时会完整继承
-2.在天宫寻宝活动中购买礼包获取秘宝钥，消耗秘宝钥可抽取芦荟医师DJ装扮装扮和其他豪华大奖
-3.天宫寻宝累积抽取次数、限购次数与兑换次数每月一日刷新
-4.每十次抽取，下次抽取享1-9折的随机折扣，每20次抽取获得保底大奖，保底大奖从保底奖池中抽取
-特惠礼包规则：
-1.每月1日刷新一次特惠礼包，特惠礼包原价购买后生成优惠码，其他玩家在活动页面填入优惠码可3折购买特惠礼包
-2.若自己的优惠码被他人使用成功，可领取70%返利的代币奖励
-3.一个优惠码只能被使用一次。
-4.优惠码被成功填入后不能再次被其他玩家填入，如果该玩家填入优惠码120秒没有购买特惠礼包，则该优惠码可以重新被其他玩家填入
+Event Rules:
+1. Unused Secret Treasure Keys (gacha tokens) and Lingxiao Coins (exchange tokens) carry over fully each month and with version updates.
+2. Purchase gift packs in the Heavenly Palace Treasure Hunt event to obtain Secret Treasure Keys. Use them to draw Aloe Doctor DJ Costume and other grand prizes.
+3. Accumulated draw counts, purchase limits, and exchange counts for Heavenly Palace Treasure Hunt refresh on the first of each month.
+4. Every ten draws, the next draw gets a random discount of 1-90% off. Every 20 draws guarantee a grand prize from the guaranteed prize pool.
+**Special Offer Pack Rules:**
+1. Special Offer Packs refresh on the 1st of each month. After purchasing at original price, a discount code is generated. Other players can enter this code on the event page to buy the Special Offer Pack at 30% off.
+2. If your discount code is successfully used by another player, you receive a 70% rebate token reward.
+3. A discount code can only be used once.
+4. After a discount code is successfully entered, it cannot be entered again by other players. If a player enters a discount code but doesn't purchase the Special Offer Pack within 120 seconds, the code can be re-entered by other players.
 
 [HEAVEN_TREASURE_DESCRIPTION_1]
-普通奖池：
-超级奖励	芦荟医师DJ装扮	   0.43%
-超级奖励	糖果篮子挂件       0.81%
-大奖	    秘宝券*10	         1.48%
-大奖	    装扮券*800	       1.15%
-大奖	    进阶书*1	         1.17%
-普通	    秘宝券*5	         4.76%
-普通	    高级神器祝福券*10	  4.92%
-普通	    钻石*100	        14.99%
-普通	    灵霄币*1	        43.21%
-普通	    灵霄币*3	        21.82%
-大奖	    灵霄币*100	       1.01%
-普通	    灵霄币*20	         4.25%
+Normal Prize Pool:
+Super Reward: Costume (0.43%)
+Super Reward: Candy Basket Pendant (0.81%)
+Grand Prize: Secret Treasure Voucher * 10 (1.48%)
+Grand Prize: Costume Voucher * 800 (1.15%)
+Grand Prize: Advanced Book * 1 (1.17%)
+Normal: Secret Treasure Voucher * 5 (4.76%)
+Normal: Advanced Artifact Blessing Voucher * 10 (4.92%)
+Normal: Diamond * 100 (14.99%)
+Normal: Lingxiao Coin * 1 (43.21%)
+Normal: Lingxiao Coin * 3 (21.82%)
+Grand Prize: Lingxiao Coin * 100 (1.01%)
+Normal: Lingxiao Coin * 20 (4.25%)
 
-保底奖池：
-超级奖励	芦荟医师DJ装扮	   2.25%
-超级奖励	糖果篮子挂件       3.36%
-大奖	    秘宝券*20	        9.31%
-大奖	    装扮券*800	      8.19%
-大奖	    进阶书*1	        7.05%
-大奖	    灵霄币*100	      4.15%
-大奖	    秘宝券*10	        19.07%
-大奖	    灵霄币*50	        11.63%
-大奖	    灵霄币*20	        34.99%
+Guaranteed Prize Pool:
+Super Reward: Costume (2.25%)
+Super Reward: Candy Basket Pendant (3.36%)
+Grand Prize: Secret Treasure Voucher * 20 (9.31%)
+Grand Prize: Costume Voucher * 800 (8.19%)
+Grand Prize: Advanced Book * 1 (7.05%)
+Grand Prize: Lingxiao Coin * 100 (4.15%)
+Grand Prize: Secret Treasure Voucher * 10 (19.07%)
+Grand Prize: Lingxiao Coin * 50 (11.63%)
+Grand Prize: Lingxiao Coin * 20 (34.99%)
 
 [JACKFRUIT_PEDIA]
-波罗蜜——“热带果王”
-常绿乔木。
-高可达20米，老树常有板根来稳固生长；叶片革质，螺旋状排列，椭圆形；花雌雄同株，花序生老茎或短枝上，以便不被茂密的叶片遮挡而能更易被传粉和帮助传播种子的动物发现；雄花序圆柱形，雌花序球形；聚花果椭圆球形，表面有坚硬六角形瘤状凸体和粗毛。花期2-3月，果期6-8月。
-名字源于梵文“Pāramitā”，意为“到彼岸”即“圆满”（佛教文化），因其果实圆而丰硕与“圆满”理念相契合而得名。原产印度南部，现热带和亚热带多地均有栽培。其单果长可达1米，重可达50公斤，为世界上最大和最重的水果之一，享有“热带果王”的美誉。此外，其核果富含淀粉可煮食，木材可提取桑色素。
+Jackfruit – "King of Tropical Fruits"
+Evergreen tree, up to 20m tall with buttress roots. Leathery, spirally arranged, oval leaves. Monoecious flowers on old stems/short branches for pollination/seed dispersal: cylindrical male, spherical female. Ellipsoid multiple fruit with hard hexagonal bumps and coarse hairs. Flowers Feb-Mar, fruits Jun-Aug.
+Name from Sanskrit "Pāramitā" ("to the other shore," "perfection" in Buddhism), aligning with its round, abundant fruit. Native to Southern India, cultivated in many tropical/subtropical areas. Single fruits can be 1m long, weighing up to 50kg, making it one of the world's largest and heaviest fruits, earning the title "King of Tropical Fruits." Its seeds are starchy and edible when cooked; wood yields morin.
 
 [PRODUCT_NIGHTTHETOY_SHORTDESC]
-高压地带
+High Voltage Zone
 
 [PRODUCT_TOY_NIGHT_30_SHORTDESC]
-中级高压礼包
+Intermediate High Voltage Pack
 
 [PRODUCT_TOY_NIGHT_6_SHORTDESC]
-初级高压礼包
+Beginner High Voltage Pack
 
 [PRODUCT_TOY_NIGHT_98_SHORTDESC]
-高级高压礼包
+Advanced High Voltage Pack
 
 [TRAINING_CHALLENGE_ZERO_NAME]
-六一响叮当
+June 1st Jingle Bell
 
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_1_1]
-完成三个组合挑战：收取阳光减少(1星)，僵尸攻击上升(2星)，僵尸速度加快(3星)
+Complete three combined challenges: Sun collection reduced (1 star), Zombie attack increased (2 stars), Zombie speed increased (3 stars).
 
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_3_1]
-完成三个组合挑战：坚韧植物消耗增加(1星)，左侧菌毯(2星)，植物伤害降低(3星)
+Complete three combined challenges: Tough plant cost increased (1 star), Left-side fungus (2 stars), Plant damage reduced (3 stars).
 
 [ZOMBIE_KONGFU_BASIC_DESCRIPTION]
-{FLAVOR}别小看这些普通僵尸，他们好歹也学了许多年功夫（至于忘了多少就不好说了）。
+{FLAVOR}Don't underestimate these common zombies; they've studied kung fu for years (as for how much they've forgotten, that's another story).
 
 [ZOMBIE_KONGFU_MONK_BASIC_DESCRIPTION]
-{FLAVOR}站桩，蹲马步，静坐，外加渴望脑子，这些构成了武僧僵尸的每日任务
+{FLAVOR}Standing meditation, horse stance, sitting meditation, and a craving for brains—these constitute the daily tasks of a Kung Fu Monk Zombie.
 
 [ANNIVERSARY_KEY_INFO_TEXT_5_UNCHARTED_CHILDRENSDAY_2025]
-3、任务说明
+3. Task Description
 
 [ANNIVERSARY_KEY_INFO_TEXT_6_UNCHARTED_CHILDRENSDAY_2025]
-每关都有指定任务，完成后可获得奖励。
+Each level has designated tasks; completing them grants rewards.
 
 [ANNIVERSARY_KEY_INFO_TEXT_7_UNCHARTED_CHILDRENSDAY_2025]
-4、任务奖励
+4. Task Rewards
 
 [ANNIVERSARY_KEY_INFO_TEXT_8_UNCHARTED_CHILDRENSDAY_2025]
-每关的奖励不可重复获得，困难限定奖励头像的获取时间为2025年5月30日至2025年6月28日
+Rewards for each level cannot be obtained repeatedly. The limited avatar reward for Hard difficulty is available from May 30, 2025, to June 28, 2025.
 
 [AVATARCOLLECTIONS_THEME_DES12]
-聚能！进化！电击！
+Focus! Evolve! Electrocute!
 
 [AVATARCOLLECTIONS_THEME_TITLE11]
-青春活力
+Youthful Vitality
 
 [AVATARCOLLECTIONS_THEME_TITLE12]
-神秘力量
+Mysterious Power
+
+
 
 [BROCCOLI_FAMILY]
-十字花科
+Brassicaceae
+
+
 
 [COTTONYETI_GENUS]
-棉属
+Gossypium
+
+
 
 [DANGERROOM_TASK]
-每周任务
+Weekly Tasks
 
 [DANGERROOM_TASK_NAME_1_1]
-完成第10关
+Complete Level 10
+
+
 
 [EGGPLANTNINJA_GENUS]
-茄属
+Solanum
 
 [EGGPLANTNINJA_PEDIA]
-茄——餐桌上软香的紫色精灵
-一年生草本至亚灌木。
-高可达1米；叶片较大，卵形至长卵圆形，叶面覆盖绒毛，边缘具波状圆裂；花单生，花柄长，常下垂；花萼近钟形，密被绒毛及小皮刺；花冠星状辐形，淡紫色或白色；浆果形态多样，常见为紫黑色，也有绿色、白色等品种。花期6-8月，果期7-10月。
-其野生祖先可能起源于南亚至东南亚地区，现代广泛栽培于全球温暖地区。“茄子”此名源于梵语“vātiṅgaṇa”，经西域传入后，中古汉语取其中音节“ṅga”音译为“伽”，唐代逐渐简化为“茄”（见《本草拾遗》）。其果实为常见蔬菜，但需注意：未成熟果实含茄碱，生食可能引发中毒。中国传统医学中，根、茎、叶被认为具利尿作用，叶片曾有外用麻醉的民间记载（需专业指导）。
+**Eggplant – The Soft, Fragrant Purple Elves of the Dining Table**
+Annual herb to subshrub, up to 1m tall. Large, oval to long-oval leaves, covered in fuzz, wavy-lobed edges. Solitary, long-stalked, often drooping flowers. Calyx bell-shaped, densely fuzzy with small prickles. Corola star-shaped, pale purple or white. Berries vary, commonly purplish-black, also green, white. Flowers Jun-Aug, fruits Jul-Oct.
+Wild ancestors likely from South/Southeast Asia; now widely cultivated globally in warm regions. "Eggplant" from Sanskrit "vātiṅgaṇa," transliterated to "伽" in Middle Chinese, simplified to "茄" in Tang Dynasty. Its fruit is a common vegetable, but unripe fruits contain solanine; raw consumption can cause poisoning. In traditional Chinese medicine, roots, stems, leaves are diuretic; leaves historically used topically for anesthesia (requires professional guidance).
+
+
 
 [GRAPESHOT_FAMILY]
-葡萄科
+Vitaceae
 
 [GRAPESHOT_GENUS]
-葡萄属
+*Vitis*
 
 [GRAPESHOT_PEDIA]
-葡萄——藤蔓上的千年琥珀
-木质藤本植物。
-茎蔓长达20米，具2叉分枝卷须；叶片掌状3-5裂，边缘具锯齿；圆锥花序与叶对生，花黄绿色，花瓣5枚；浆果球形或椭圆形，表皮因品种而异，多紫黑和碧绿色。花期4-5月，果期8-9月。
-原产于亚洲西部，现广植于全球温带区域。据《史记》记载，汉武帝时期张骞出使西域时（公元前138-119年），从大宛国（中亚费尔干纳盆地）引进了酿酒葡萄品种及酿酒技工。其名称可能源自大宛语“budawa”，初音译作“蒲陶”，至唐代演变为“葡萄”。果实除鲜食外，可加工为葡萄干、果汁及酿酒原料；葡萄籽可提取原花青素，用于保健品及化妆品。
-花语：丰饶与羁绊
+**Grape – Ancient Amber on the Vine**
+Woody vine, stems up to 20m, with bifurcated tendrils. Leaves palmately 3-5 lobed, serrated edges. Panicle inflorescence opposite leaves, yellowish-green flowers, 5 petals. Berries spherical or oval, skin color varies by cultivar, often purplish-black and emerald green. Flowers Apr-May, fruits Aug-Sep.
+Native to Western Asia, now widely cultivated in temperate regions worldwide. According to *Records of the Grand Historian*, during Emperor Wu of Han's reign, Zhang Qian introduced wine grape varieties and winemakers from Dayuan (Fergana Valley, Central Asia) during his westward expeditions (138-119 BCE). Its name likely from Dayuan language "budawa," initially transliterated as "蒲陶," evolving to "葡萄" by the Tang Dynasty. Besides fresh eating, fruits are processed into raisins, juice, and wine; grape seeds yield proanthocyanidins for health products and cosmetics.
+Flower Language: Abundance and Bonds
+
+
 
 [IMITATER_PEDIA]
-土豆——低调的地下宝藏
-一年或多年（原产地）生草本。
-株高30-80厘米；地下块茎扁圆形或长圆形，皮颜色因品种而异，常见黄、红、紫等色；叶为奇数不相等的羽状复叶；伞房花序，花白色或蓝紫色，花萼钟形，5裂，花冠辐状，裂片5；浆果圆球状。花期多为夏季，果期多为冬季。
-又名马铃薯、洋芋等，原产于南美洲安第斯山脉，16世纪传入欧洲后广泛种植，如今全球温带地区普遍栽培，中国是最大生产国之一。其块茎富含淀粉，是全球重要粮食作物，可蒸、煮、炸或加工成薯片、淀粉等。嫩芽条、果实及发绿发芽的块茎中富含龙葵碱，其为抵御昆虫、真菌和动物啃食而进化出的天然毒素，人食用亦会引起中毒反应，不可食用。
-花语：朴实与奉献
+**Potato – Humble Underground Treasure**
+Annual or perennial (in native habitat) herb.
+30-80cm tall; underground tubers are flattened or oblong, skin color varies by cultivar (common yellow, red, purple). Leaves are odd pinnately compound. Corymbose inflorescence, white or bluish-purple flowers; calyx bell-shaped, 5-lobed; corolla radial, 5-lobed. Berries spherical. Flowers mostly summer, fruits mostly winter.
+Also known as Irish potato, spud, etc. Native to the Andes Mountains of South America, widely cultivated after its introduction to Europe in the 16th century. Now commonly grown in temperate regions globally, with China being one of the largest producers. Its tubers are rich in starch and are a major global food crop, steamed, boiled, fried, or processed into chips, starch, etc. Young shoots, fruits, and green/sprouted tubers contain solanine, a natural toxin evolved to deter insects, fungi, and animals. Human consumption can cause poisoning and should be avoided.
+Flower Language: Simplicity and Dedication
 
 [IMITATER_PEDIA_EXTRA]
-特别说明：变身茄子的原版英文名为 Imitater，为 Imitator（模仿者）和 tater（土豆）的组合词，为茄科植物。为确保科普严谨性，特此说明。
+Special Note: The original English name for "变身茄子" is Imitater, a portmanteau of Imitator and tater (potato). It is a Solanaceae plant. This clarification is provided for scientific accuracy.
+
+
 
 [JALAPENO_FAMILY]
-茄科
+Solanaceae
 
 [JALAPENO_GENUS]
-辣椒属
+Capsicum
+
+
 
 [MEGAGATLING_NEW_SKILL_LEVEL1_DES]
-可以与其他豌豆叠种，叠种后获得对应豌豆的特殊能力并立即返还消耗的阳光
-每轮普攻发射4颗豌豆，且有2%概率替换为能量豆大招，释放能量豆大招后获得升级：普攻发射豌豆数量+1
+Can be planted over other peas. When planted over, gains the special ability of the corresponding pea and immediately refunds sun cost. Each regular attack fires 4 peas, with a 2% chance to trigger an instant Plant Food ability. After triggering the Plant Food ability, upgrades: regular attack fires +1 pea.
 
 [MEGAGATLING_NEW_SKILL_LEVEL2_DES]
-普攻触发能量豆大招概率提升至3%
-可以额外升级1次，最高可连续发射6颗豌豆
+Chance to trigger Plant Food ability on regular attack increases to 3%. Can be upgraded one more time, firing up to 6 peas continuously.
+
+
 
 [NEW_AVATAR_DESCRIPTION_BUBBLECORAL_2]
-攻击间隔减少20%
+Attack interval reduced by 20%.
 
 [NEW_AVATAR_DESCRIPTION_COLDSNAPDRAGON_3]
-阳光消耗降低25
+Sun cost reduced by 25.
 
 [NEW_AVATAR_DESCRIPTION_EAGLECLAW_2]
-休息时间减少20%
+Rest time reduced by 20%.
 
 [NEW_AVATAR_DESCRIPTION_HYPNOSHROOM_1]
-种植冷却减少25%
+Planting cooldown reduced by 25%.
+
+
 
 [PINEAPPLE_FAMILY]
-凤梨科
+Bromeliaceae
 
 [PINEAPPLE_GENUS]
-凤梨属
+*Ananas*
 
 [PINEAPPLE_PEDIA]
-凤梨——热带果王的多样魅力
-多年生草本植物。
-茎短，叶片呈莲座式排列，剑形；花序顶生，由百余朵小花组成松球状结构，小花具3枚花瓣，紫红色；聚花果由肉质化的花序轴与螺旋排列的子房基部共同发育而成，成熟时呈金黄色。因栽培品种多为三倍体，花常发育不全。花期夏季至冬季，果实发育约需3-4个月。
-凤梨俗称菠萝，原产于南美洲热带地区，现广泛栽培于南北回归线之间。明代后期（16世纪末至17世纪初）传入广东、福建等地，因果顶叶簇形似凤尾，闽南语谐音“凤来”而得名“凤梨”；早期引进时因形态类比，与桑科乔木菠萝蜜混称“草波罗”。清朝的植物权威著作《植名实图考》（1846年）确立“波罗”为其通用名，建国后为明确草本属性增草字头定为“菠萝”。英文名“pineapple”源于欧洲人对其松果（pine）状外观与苹果（apple）般多汁果肉的联想。其果肉富含菠萝蛋白酶和维生素C，可鲜食或加工为罐头、果汁，叶片纤维可制绳织布等。
+**Pineapple – The Diverse Charm of the Tropical Fruit King**
+Perennial herb.
+Short stem, sword-shaped leaves arranged in a rosette. Terminal inflorescence composed of over a hundred small flowers forming a pinecone-like structure; small flowers have 3 purplish-red petals. Multiple fruit develops from the fleshy inflorescence axis and spirally arranged ovary bases, golden yellow when ripe. Cultivated varieties are often triploid, so flowers are often underdeveloped. Flowers summer to winter, fruit development takes about 3-4 months.
+Pineapple, also known as "菠萝" (bōluó), is native to tropical South America and widely cultivated between the Tropics. Introduced to Guangdong and Fujian in the late Ming Dynasty (late 16th to early 17th century), named "凤梨" (fènglí) because its crown of leaves resembles a phoenix tail, and its Hokkien pronunciation sounds like "phoenix coming." Early introductions were also confused with the tree jackfruit (菠萝蜜) due to similar forms, being called "草波罗" (cǎo bōluó - grass jackfruit). The Qing Dynasty botanical work *Zhi Wu Ming Shi Tu Kao* (1846) established "波罗" as its common name. After the founding of the PRC, to clarify its herbaceous nature, the grass radical was added, solidifying "菠萝" as its name. The English name "pineapple" comes from Europeans associating its pinecone-like appearance with the juicy flesh of an apple. Its flesh is rich in bromelain and Vitamin C, edible fresh or processed into canned goods, juice; leaf fibers can be made into ropes and woven fabrics.
+
+
 
 [RANK_AVATAR_CONTENT_CONTENT_61044]
-2025年参加六月同游活动的玩家奖励
+Rewards for players participating in the June 2025 "June Together" event.
 
 [RANK_AVATAR_CONTENT_TITLE_61042]
-繁星舞动
+Dancing Stars
 
 [RANK_AVATAR_CONTENT_TITLE_61043]
-星空遨游
+Starry Voyage
+
+
 
 [ULTOMATO_GENUS]
-茄属
+*Solanum*
 
 [ULTOMATO_PEDIA]
-番茄——从“狼桃”到餐桌上的“红色黄金”
-一年生草本植物。
-株高0.5-2米，全株密被腺毛；叶为羽状复叶或羽状深裂；聚伞花序，常3-7朵花；花萼辐状，裂片披针形，果时宿存；花冠辐状，5-6裂，黄色；浆果扁球状或近球状，颜色因品种而异。花果期夏秋季。
-“番茄”，又名“西红柿”，均因传入途径和形态而得名。原产于南美洲安第斯山脉，16世纪传入欧洲后广泛栽培，明朝万历年间传入中国，如今广泛栽培于全球温带至热带地区。野生番茄果实仅1-2克，因茄科植物多含毒素，长期被当地的印加人和阿兹特克人视为有毒的观赏植物，被称为“狼桃”。传入欧洲后最初也仅用于装饰或象征爱情（因其鲜艳的外表）的礼物，得名“爱情果”。1820年，美国人罗伯特当众食用番茄，彻底打消了大众疑虑，番茄从此登上餐桌，逐步成为家常食材。番茄富含维生素C、番茄红素等成分，具有抗氧化、防癌功效，被誉为“红色黄金”。
-花语：挑战与革新
+**Tomato – From "Wolf Peach" to the "Red Gold" of the Dining Table**
+Annual herb.
+0.5-2m tall, entire plant densely covered with glandular hairs. Leaves pinnately compound or deeply lobed. Cyme inflorescence, usually 3-7 flowers. Calyx radial, lobes lanceolate, persistent in fruit. Corola radial, 5-6 lobed, yellow. Berries oblate or nearly spherical, color varies by cultivar. Flowers and fruits summer and autumn.
+"番茄" (fānqié) and "西红柿" (xīhóngshì) both derive their names from their introduction routes and appearance. Native to the Andes Mountains of South America, widely cultivated after its introduction to Europe in the 16th century, and to China during the Wanli era of the Ming Dynasty. Now widely cultivated in temperate to tropical regions worldwide. Wild tomatoes weighed only 1-2g; due to many Solanaceae plants containing toxins, they were long considered poisonous ornamental plants by the local Incas and Aztecs, called "wolf peaches." Upon reaching Europe, they were initially used only for decoration or as gifts symbolizing love (due to their vibrant appearance), earning the name "love apple." In 1820, American Robert Johnson publicly ate a tomato, completely dispelling public doubts, and tomatoes have since become a common ingredient on dining tables. Tomatoes are rich in Vitamin C, lycopene, etc., with antioxidant and anti-cancer properties, earning them the moniker "red gold."
+Flower Language: Challenge and Innovation
+
 
 [UNCHARTED_CHILDRENSDAY_HEAD_DES_ID_25709]
-完美通关六一限时秘境的证明
+Proof of perfect completion of the June 1st Limited-Time Secret Realm.
 
 [UNCHARTED_CHILDRENSDAY_HEAD_ID_25709]
-我是大哥大
+I am the Big Boss
