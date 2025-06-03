@@ -1,4 +1,4 @@
-[ORIGINAL_TRANSLATION_MADE_BY_PEA_GAMEPLAY]
+H[ORIGINAL_TRANSLATION_MADE_BY_PEA_GAMEPLAY]
 Note: All the translation in this lawnstrings must not exceed 1021 characters or the game will just can't handle it.
 
 [COMPLAIN_CONTENT]
