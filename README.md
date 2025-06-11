@@ -16,11 +16,11 @@ You can refer to [CyberSteve's tutorial](https://github.com/CyberSteve777/cybers
 
 ## Adding to Serverconfig.json
 ### ReleaseFileInfoURL:  
-`
+```
 https://nvdtn19.github.io/<version>/en/ad/res_release
-`
+```
 ## ShippingFileInfoURL:
-`
+```
 https://nvdtn19.github.io/<version>/en/ad/res_shipping/
-`
+```
 
