@@ -75394,7 +75394,7 @@ You can obtain the Aloe Vera DJ outfit and other rarer outfit rewards.
 Activity refresh
 
 [ADVERTISEMENT_HEAD_DES_ID_25696]
-Purchase a lifetime ad-free card to obtain [something].
+Purchase a lifetime ad-free card to obtain good stuffs
 
 [ADVERTISEMENT_HEAD_ID_25696]
 Time acceleration
@@ -76595,7 +76595,7 @@ Dancing Stars
 Starry Voyage
 
 [ULTOMATO_GENUS]
-*Solanum*
+Solanum
 
 [ULTOMATO_PEDIA]
 **Tomato – From "Wolf Peach" to the "Red Gold" of the Dining Table**
@@ -76971,1075 +76971,1076 @@ Neptune's Treasure Event: Acquired through cumulative recharges.
 Sea God Token
 
 [TRANSLATION_FAILED]
+
 [GINGLEBELL_S5_1_TITLE]
-闪避训练-关卡一
+Dodge Training - Level 1
 
 [SNOWMODERNSTAGE1_LEVEL_NAME]
-冲刺训练 - 第 {LEVEL_NUMBER} 关
+Sprint Training - Level {LEVEL_NUMBER}
 
 [MAT_FUTURE_GIFT_TOKEN_GOT_WAY]
-潘妮未来礼盒中购买金币礼包获得
+Obtained by purchasing the coin pack from Penny's Future Gift Box
 
 [MAT_POSEIDON_TREASURE]
-海神宝箱
+Poseidon's Treasure Chest
 
 [MAT_POSEIDON_TREASURE_TICKET_GOT_WAY]
-在海神的宝藏活动中购买礼包获得
+Obtained by purchasing a gift pack in the Poseidon's Treasure event
 
 [MAT_POSEIDON_TREASURE_TICKET_USE]
-在海神的宝藏活动中抽取奖励
+Used to draw a reward in the Poseidon's Treasure event
 
 [MAT_POSEIDON_TREASURE_USE]
-使用可自选奖励并获得
+Use to get a self-selected reward
 
 [MAT_ULTIMATE_TREASURE]
-至臻宝箱
+Ultimate Treasure Chest
 
 [MAT_ULTIMATE_TREASURE_GOT_WAY]
-海神的宝藏活动累积抽奖次数获得
+Obtained by accumulating draws in the Poseidon's Treasure event
 
 [MAT_ULTIMATE_TREASURE_USE]
-使用可获得随机奖励
+Use to get a random reward
 
 [MAYBEE_FAMILY]
-百合科
+Family: Asparagaceae
 
 [MAYBEE_GENUS]
-铃兰属
+Genus: Convallaria
 
 [MAYBEE_PEDIA]
-铃兰——纯洁幸福的“山谷百合”
-多年生草本植物。
-株高18-30厘米；其根状茎细长匍匐，叶片通常2枚，椭圆形或卵状披针形，叶脉弧形；总状花序偏向一侧，着生6-10朵钟形白色小花，花被顶端6浅裂，散发淡雅芳香；浆果球形，红色，种子扁圆形。花期5-6月，果期7-9月。
-广泛分布于北半球温带地区的林下阴湿环境。因其花朵形似垂挂的铃铛而得名，又因其生长环境与植株形态还有“山谷百合”、“君影草”等别称。植株矮小优雅，常作优良林下地被或盆栽观赏。花可提取高级香料铃兰浸膏，用于化妆品及香精调制。全草含强心苷类化合物（如铃兰毒苷），可用于治疗心力衰竭、利尿消肿。 在法国，5月1日“铃兰节”人们互赠此花，祈愿幸福永驻；婚礼中赠送新娘，寓意“幸福降临”。
-花语：幸福归来、纯洁
+Lily of the Valley - The pure and happy "valley lily"
+A perennial herbaceous plant.
+The plant is 18-30 cm tall; its rhizomes are slender and creeping, with two leaves, which are oval or ovate-lanceolate and have arc-shaped veins; the racemes are on one side, bearing 6-10 bell-shaped white flowers with 6 shallow lobes at the top, which give off a light, elegant fragrance; the berries are spherical and red, and the seeds are flat and round. It blooms from May to June and fruits from July to September.
+It is widely distributed in the humid and shaded forests of the Northern Hemisphere's temperate regions. It is named for its bell-shaped flowers and is also known as "valley lily" and "gentleman's shadow grass" due to its growth environment and plant shape. The plant is small and elegant and is often used as an excellent ground cover or potted plant. The flowers can be used to extract high-grade perfume essence, which is used in cosmetics and fragrance blending. The whole plant contains cardiac glycoside compounds (such as convallatoxin), which can be used to treat heart failure and diuresis. In France, people give this flower to each other on May 1st, "Lily of the Valley Day," to wish for eternal happiness; giving it to the bride in a wedding means "happiness arrives."
+Flower language: The return of happiness, purity
 
 [MISSILETOE_FAMILY]
-桑寄生科
+Family: Santalaceae
 
 [MISSILETOE_GENUS]
-槲寄生属
+Genus: Viscum
 
 [MISSILETOE_PEDIA]
-白果槲寄生——“爱与祝福”的圣诞饰物
-常绿灌木。
-株高约0.5米，茎枝圆柱状，多呈二歧或多歧分枝；叶片对生，厚革质，椭圆形至披针形，长倒卵形；雌雄异株，花序顶生或腋生，雄花聚伞状，雌花穗状；果实为球形浆果，白色。花期11-翌年3月，果期7-11月。
-主要分布于欧洲南部、非洲北部及喜马拉雅山以西温带地区，常寄生于阔叶乔木上，如苹果树、杨树、椴树等。我国西藏和云南的山地阔叶林中分布其变种卵叶槲寄生（果黄色）。其成熟果实呈白色，与我国常见的橙红色果实的槲寄生（其常寄生于槲树而得名）形成对比，故得名“白果槲寄生”，因分布而别名“欧寄生”。该类植物会与宿主形成“偏利共栖关系”，虽会吸收宿主水分和养分，但一般不会致死。在欧美，槲寄生是圣诞传统装饰物，象征“爱与和平”，在槲寄生下接吻的情侣被认为会幸福终生。
-花语：幸福与希望、坚忍不拔
+Mistletoe - A Christmas ornament of "love and blessing"
+An evergreen shrub.
+The plant is about 0.5 meters tall, with cylindrical stems and many dichotomous or polytomous branches; the leaves are opposite, thick and leathery, elliptical to lanceolate, or long obovate; it is dioecious, with terminal or axillary inflorescences, cymose male flowers, and spicate female flowers; the fruit is a spherical berry and is white. It blooms from November to March of the following year and fruits from July to November.
+It is mainly distributed in southern Europe, northern Africa, and the temperate regions west of the Himalayas, and often parasitizes broad-leaved trees such as apple, poplar, and linden trees. A variety of it, Viscum ovalifolium (with yellow fruit), is distributed in the broad-leaved forests of Tibet and Yunnan in China. Its mature fruit is white, which contrasts with the orange-red fruit of the common mistletoe in China (named for its common parasitism on oak trees), hence the name "white-fruited mistletoe," and it is also known as "European mistletoe" due to its distribution. This type of plant forms a "commensalistic relationship" with its host; although it absorbs water and nutrients from the host, it generally does not kill it. In Europe and the United States, mistletoe is a traditional Christmas ornament, symbolizing "love and peace," and couples who kiss under mistletoe are believed to be happy for life.
+Flower language: Happiness and hope, perseverance
 
 [MORNINGGLORY_FAMILY]
-旋花科
+Family: Convolvulaceae
 
 [MORNINGGLORY_GENUS]
-番薯属
+Genus: Ipomoea
 
 [MORNINGGLORY_PEDIA]
-牵牛——清晨绽放的“喇叭花”
-一年生缠绕草本。
-茎密被毛；叶宽卵形，基部心形，3-5裂，两面均被毛；花腋生，漏斗状，蓝紫或紫红色；蒴果近球形，种子三棱形，被褐色绒毛。花果期6-10月。
-因其种子的药效被类比为具“牵牛之力”而得名；因花朵清晨绽放、午前凋谢的特性别名“朝颜”；因花冠形似喇叭俗称“喇叭花”。原产于热带美洲，现广泛分布于全球热带及亚热带地区。在我国，除西北和东北部分省份外均有分布。除栽培供观赏外，种子入药名“丑牛子”，具有泻水利尿、逐痰杀虫的功效。
-花语：爱情永固、虚幻的恋
+Morning Glory - The "trumpet flower" that blooms in the morning
+An annual climbing herbaceous plant.
+The stem is densely hairy; the leaves are broadly ovate, heart-shaped at the base, with 3-5 lobes, and hairy on both sides; the flowers are axillary, funnel-shaped, blue-violet or purplish-red; the capsule is nearly spherical, and the seeds are triangular and covered with brown fluff. It blooms and fruits from June to October.
+It is named for the purgative effect of its seeds, which is likened to the "power of a cow"; it is also known as "chao yan" (morning face) due to its characteristic of blooming in the morning and withering before noon; it is commonly known as "trumpet flower" because its corolla is shaped like a trumpet. It originated in tropical America and is now widely distributed in tropical and subtropical regions around the world. In China, it is distributed in all provinces except for some in the northwest and northeast. In addition to being cultivated for ornamental purposes, the seeds are used as medicine called "chou niu zi," which has the effects of diuresis and insect removal.
+Flower language: Eternal love, illusory love
 
 [NARRATIVE_ATLANTIS_10_INTRO_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}僵尸们的进攻越来越猛烈了。
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}The zombies' attacks are getting fiercer.
 
 [NARRATIVE_ATLANTIS_10_INTRO_2]
-{SAY:WINNIE}这可能意味着我们离目的地越来越近了。
+{SAY:WINNIE}This may mean we're getting closer to our destination.
 
 [NARRATIVE_ATLANTIS_10_INTRO_3]
-{EXCITED:CRAZYDAVE}我开始怀念陆地上的生活了。
+{EXCITED:CRAZYDAVE}I'm starting to miss life on land.
 
 [NARRATIVE_ATLANTIS_11_INTRO_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}那些嘴巴尖尖的鱼是什么？
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}What are those fish with pointy mouths?
 
 [NARRATIVE_ATLANTIS_11_INTRO_2]
-{SAY:WINNIE}他们是旗鱼，海洋中游得最快的鱼类。
+{SAY:WINNIE}They are sailfish, the fastest fish in the ocean.
 
 [NARRATIVE_ATLANTIS_11_INTRO_3]
-{SAY:WINNIE}因为游得太快，要小心他们撞上潜艇的甲板。
+{SAY:WINNIE}Be careful, they can be so fast they might crash into the submarine's deck.
 
 [NARRATIVE_ATLANTIS_11_INTRO_4]
-{EXCITED:CRAZYDAVE}我们给潜艇上保险了么？
+{EXCITED:CRAZYDAVE}Did we get insurance on the submarine?
 
 [NARRATIVE_ATLANTIS_12_INTRO_1]
-{NPC_ENTER:zombossicon}{SAY:zombossicon}这艘盛满泡烂的咸菜的漏水电路真的受得了深海水压吗？
+{NPC_ENTER:zombossicon}{SAY:zombossicon}Can this leaky circuit full of soggy pickles really withstand the deep-sea pressure?
 
 [NARRATIVE_ATLANTIS_12_INTRO_2]
-{SAY:zombossicon}真是太不幸了！我已经先一步完成了你们愚蠢的海底探险！
+{SAY:zombossicon}How unfortunate! I've already completed your foolish underwater expedition!
 
 [NARRATIVE_ATLANTIS_12_INTRO_3]
-{SAY:zombossicon}海中翱翔的遗迹僵尸会敲碎你们的美梦！你们的残骸将成为遗迹的一部分永远埋葬！
+{SAY:zombossicon}The relic zombies soaring through the sea will shatter your dreams! Your remains will be buried forever as part of the relics!
 
 [NARRATIVE_ATLANTIS_12_INTRO_4]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}永远住在海底遗迹里嘛？如果海底有桑拿房就好了。
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}Living in the underwater relics forever? I hope there's a sauna room underwater.
 
 [NARRATIVE_ATLANTIS_12_INTRO_5]
-{SAY:WINNIE}眼见为实，戴夫同学，我们会亲自解开遗迹的秘密的。
+{SAY:WINNIE}Seeing is believing, Dave. We will uncover the secrets of the relics ourselves.
 
 [NARRATIVE_ATLANTIS_1_INTRO_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}潜水艇模式开启......100％。
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}Submarine mode starting... 100%.
 
 [NARRATIVE_ATLANTIS_1_INTRO_2]
-{SAY:WINNIE}戴夫同学，数据显示，我们即将前往万年前被淹没的水下遗迹
+{SAY:WINNIE}Dave, the data shows that we are about to head to the underwater relics that were submerged ten thousand years ago.
 
 [NARRATIVE_ATLANTIS_1_INTRO_3]
-{EXCITED:CRAZYDAVE}水下的遗迹，失落的玉米卷！
+{EXCITED:CRAZYDAVE}Underwater relics, lost tacos!
 
 [NARRATIVE_ATLANTIS_1_INTRO_4]
-{EXCITED:CRAZYDAVE}我们一直在找那些弄丢的东西对吧！
+{EXCITED:CRAZYDAVE}We've been looking for those lost things, right?
 
 [NARRATIVE_ATLANTIS_1_INTRO_5]
-{SAY:WINNIE}探测器显示，水下的僵尸们也一直不断对大脑展开搜寻行动。
+{SAY:WINNIE}The detector shows that the underwater zombies have also been constantly searching for brains.
 
 [NARRATIVE_ATLANTIS_1_INTRO_6]
-{SAY:WINNIE}用户戴夫，我们必须做好准备！
+{SAY:WINNIE}User Dave, we must be prepared!
 
 [NARRATIVE_ATLANTIS_1_INTRO_7]
-{EXCITED:CRAZYDAVE}我会准备好风干机，泡水的玉米卷可不好吃。
+{EXCITED:CRAZYDAVE}I'll get the dehydrator ready. Soggy tacos aren't delicious.
 
 [NARRATIVE_ATLANTIS_2_INTRO_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}小心，这片海域不止一位外来者！
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}Be careful, there is more than one outsider in this sea area!
 
 [NARRATIVE_ATLANTIS_2_INTRO_2]
-{EXCITED:CRAZYDAVE}所以游泳真的能减肥吗？
+{EXCITED:CRAZYDAVE}So, does swimming really help you lose weight?
 
 [NARRATIVE_ATLANTIS_3_INTRO_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}潜艇外面好像有些什么
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}There seems to be something outside the submarine.
 
 [NARRATIVE_ATLANTIS_3_INTRO_2]
-{SAY:WINNIE}检测到软体动物门、头足纲、鞘亚纲、乌贼目、乌贼科、乌贼属生物
+{SAY:WINNIE}Detected a creature from the phylum Mollusca, class Cephalopoda, subclass Coleoidea, order Sepiida, family Sepiidae, genus Sepia.
 
 [NARRATIVE_ATLANTIS_3_INTRO_3]
-{SAY:WINNIE}他们的墨汁可不好处理，要多加小心！
+{SAY:WINNIE}Their ink is hard to deal with, so be extra careful!
 
 [NARRATIVE_ATLANTIS_3_INTRO_4]
-{EXCITED:CRAZYDAVE}！！
+{EXCITED:CRAZYDAVE}!!
 
 [NARRATIVE_ATLANTIS_3_INTRO_5]
-{EXCITED:CRAZYDAVE}这次是海鲜味的玉米卷！
+{EXCITED:CRAZYDAVE}This time it's seafood-flavored tacos!
 
 [NARRATIVE_ATLANTIS_4_INTRO_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}星星，我们在太空中吗
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}Stars, are we in space?
 
 [NARRATIVE_ATLANTIS_4_INTRO_2]
-{SAY:WINNIE}检测到那不是真正的星星，是一只海星
+{SAY:WINNIE}Detected that it is not a real star, but a starfish.
 
 [NARRATIVE_ATLANTIS_4_INTRO_3]
-{SAY:WINNIE}受到惊吓的海星旋转撞击潜艇，并使水流加速。
+{SAY:WINNIE}The startled starfish spins and crashes into the submarine, accelerating the water flow.
 
 [NARRATIVE_ATLANTIS_4_INTRO_4]
-{EXCITED:CRAZYDAVE}我已经开始晕了。
+{EXCITED:CRAZYDAVE}I'm already getting dizzy.
 
 [NARRATIVE_ATLANTIS_5_INTRO_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}我知道，水母！
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}I know, a jellyfish!
 
 [NARRATIVE_ATLANTIS_5_INTRO_2]
-{EXCITED:CRAZYDAVE}它可以挤出水母酱
+{EXCITED:CRAZYDAVE}It can squeeze out jellyfish jelly.
 
 [NARRATIVE_ATLANTIS_5_INTRO_3]
-{SAY:WINNIE}水母的含水量高达95%到98%，我认为挤不出水母酱
+{SAY:WINNIE}Jellyfish have a water content of up to 95% to 98%. I don't think you can squeeze out jellyfish jelly.
 
 [NARRATIVE_ATLANTIS_5_INTRO_4]
-{SAY:WINNIE}受到惊吓的水母会带走我们的植物。
+{SAY:WINNIE}Startled jellyfish will take our plants.
 
 [NARRATIVE_ATLANTIS_5_INTRO_5]
-{EXCITED:CRAZYDAVE}水母酱！！
+{EXCITED:CRAZYDAVE}Jellyfish jelly!!
 
 [NARRATIVE_ATLANTIS_6_INTRO_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}那是神奇海螺吗，它可以回答我的问题吗
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}Is that the Magic Conch Shell? Can it answer my questions?
 
 [NARRATIVE_ATLANTIS_6_INTRO_2]
-{SAY:WINNIE}经演算听到回答的概率为0%，听到用户戴夫惨叫的可能性为100%
+{SAY:WINNIE}Calculations show a 0% chance of hearing an answer, and a 100% chance of hearing User Dave scream.
 
 [NARRATIVE_ATLANTIS_6_INTRO_3]
-{SAY:WINNIE}僵尸们喜欢拿寄居蟹装饰脑袋，让它们的头更加安全！
+{SAY:WINNIE}Zombies like to use hermit crabs to decorate their heads to make their heads safer!
 
 [NARRATIVE_ATLANTIS_6_INTRO_4]
-{EXCITED:CRAZYDAVE}我好像知道路障的起源了
+{EXCITED:CRAZYDAVE}I think I know where the barriers came from.
 
 [NARRATIVE_ATLANTIS_7_INTRO_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}警告！传感器检测到水体流速加快
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}Warning! The sensor detected an increase in water flow rate.
 
 [NARRATIVE_ATLANTIS_7_INTRO_2]
-{SAY:WINNIE}用户戴夫，我们要准备应对方案
+{SAY:WINNIE}User Dave, we need to prepare a countermeasure.
 
 [NARRATIVE_ATLANTIS_7_INTRO_3]
-{EXCITED:CRAZYDAVE}关闭传感器！
+{EXCITED:CRAZYDAVE}Turn off the sensor!
 
 [NARRATIVE_ATLANTIS_8_INTRO_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}每次我看到河豚，总想戳上一下。
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}Every time I see a pufferfish, I want to poke it.
 
 [NARRATIVE_ATLANTIS_8_INTRO_2]
-{SAY:WINNIE}我建议你打消这个念头，用户戴夫。
+{SAY:WINNIE}I suggest you abandon that idea, User Dave.
 
 [NARRATIVE_ATLANTIS_8_INTRO_3]
-{SAY:WINNIE}松开的气球到处乱飞，河豚也是一样。
+{SAY:WINNIE}Deflated balloons fly everywhere, and so do pufferfish.
 
 [NARRATIVE_ATLANTIS_8_INTRO_4]
-{EXCITED:CRAZYDAVE}我喜欢气球！
+{EXCITED:CRAZYDAVE}I love balloons!
 
 [NARRATIVE_ATLANTIS_9_INTRO_1]
-{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}有一些强大的存在出现了。
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}Some powerful beings have appeared.
 
 [NARRATIVE_ATLANTIS_9_INTRO_2]
-{EXCITED:CRAZYDAVE}我也想让水母抓着我游。
+{EXCITED:CRAZYDAVE}I also want a jellyfish to hold me and swim.
 
 [NARRATIVE_ATLANTIS_9_INTRO_3]
-{SAY:WINNIE}这可能并不是一个好主意，用户戴夫。
+{SAY:WINNIE}That may not be a good idea, User Dave.
 
 [NEWYEAR_GIFT_HEAD_DES_ID_25713]
-在夏日礼包活动期间，达到活动中累计充值进度领取
+Received by reaching the cumulative recharge progress during the Summer Pack event
 
 [NEWYEAR_GIFT_HEAD_ID_25713]
-军械达人
+Armory Master
 
 [NEW_AVATAR_DESCRIPTION_BONKCHOY_4]
-种植冷却缩短30%
+Planting cooldown shortened by 30%
 
 [NEW_AVATAR_DESCRIPTION_CACTUS_2]
-第一次在缩地状态使用能量豆时，第一波散射尖刺数量翻倍
+The number of scattered spikes in the first wave is doubled when an energy bean is used for the first time in the underground state.
 
 [NEW_AVATAR_DESCRIPTION_FIREPEASHOOTER_2]
-攻击力增加10%
+Attack power increased by 10%
 
 [NEW_AVATAR_DESCRIPTION_GATLINGPEA_3]
-攻击力增加15%
+Attack power increased by 15%
 
 [NEW_AVATAR_DESCRIPTION_GUARDSHROOM_1]
-阳光消耗降低25
+Sun cost reduced by 25
 
 [NEW_AVATAR_DESCRIPTION_HYDROCOTYLEDRUMMER_2]
-攻击间隔减少15%
+Attack interval reduced by 15%
 
 [NEW_AVATAR_DESCRIPTION_MATCHFLOWER_1]
-阳光消耗降低15
+Sun cost reduced by 15
 
 [NEW_AVATAR_DESCRIPTION_MEGAGATLING_1]
-攻击力增加25%
+Attack power increased by 25%
 
 [NEW_AVATAR_DESCRIPTION_SPLITPEA_2]
-攻击力增加10%
+Attack power increased by 10%
 
 [NEW_AVATAR_SHORT_DESCRIPTION_BONKCHOY_4]
-全息狂潮
+Holographic Frenzy
 
 [NEW_AVATAR_SHORT_DESCRIPTION_CACTUS_2]
-深海之影
+Shadow of the Deep Sea
 
 [NEW_AVATAR_SHORT_DESCRIPTION_FIREPEASHOOTER_2]
-火焰豌豆射手眼镜装扮
+Fire Pea Shooter Glasses Costume
 
 [NEW_AVATAR_SHORT_DESCRIPTION_GATLINGPEA_3]
-机枪豌豆耳机装扮
+Gatling Pea Headset Costume
 
 [NEW_AVATAR_SHORT_DESCRIPTION_GUARDSHROOM_1]
-守卫菇巫师装扮
+Guarding Shroom Wizard Costume
 
 [NEW_AVATAR_SHORT_DESCRIPTION_HYDROCOTYLEDRUMMER_2]
-铜钱草鼓手领带装扮
+Hydrocotyle Drummer Tie Costume
 
 [NEW_AVATAR_SHORT_DESCRIPTION_MATCHFLOWER_1]
-火柴花披风装扮
+Match Flower Cape Costume
 
 [NEW_AVATAR_SHORT_DESCRIPTION_MEGAGATLING_1]
-超级机枪豌豆长官装扮
+Mega Gatling Pea Commander Costume
 
 [NEW_AVATAR_SHORT_DESCRIPTION_SPLITPEA_2]
-双向豌豆小红帽装扮
+Split Pea Little Red Riding Hood Costume
 
 [NEW_PVP_TASK_DESCRIPTION_33]
-1、玩家通过完成每日挑战、4个每周挑战中的任务,获得经验。每收集1000经验可以提升至下一等级,获取对应的等级奖励。
-2、每日任务栏位上限为3，每天新增3个，仅在有空余的任务栏位时添加新的任务。每日新增不影响已有的任务进度。
-3、4周的每周任务随时间解锁，解锁后直到赛季结束前都可以完成。
-4、随着等级提升,奖励将会更加丰厚。前50级奖励中包含对决币,达成50级后可以继续升级,奖励以10级为一轮周期固定,不再产出对决币。对决币仅限当前赛季使用，下个赛季无法继承。
-5、激活高级权益后,解锁高级档位的奖励领取资格,每日与每周任务经验提升20%，购买即可立刻获得270对决币和赛季主打植物。
-6、使用对决币可在“幸运转盘”中参与抽奖,抽取丰厚的奖励。截至50级并已激活高级权益,可清空宝藏转盘所有内容,共计20项。
-7、宝藏转盘中所有奖励仅有1次领取机会,当某项奖励被抽取后,其概率将会分配至其他未被获取的奖励。当转盘中20项奖励均未被抽取时,各奖项概率如下:
-金币22.67%、钻石22.66%、挂件19.26%、绿色植物11.33%、蓝色植物7.93%、紫色植物11.33%、橙色植物2.49%、超级挂件2.04%、藤蔓&装扮多选一自选礼盒0.23%、进阶书0.06%。
+1. Players earn experience by completing daily challenges and 4 weekly challenges. Every 1000 experience points collected will increase the player to the next level and get the corresponding level reward.
+2. The maximum number of daily tasks is 3. 3 new tasks are added every day, and new tasks are added only when there are free task slots. The daily additions do not affect the progress of existing tasks.
+3. The weekly tasks for 4 weeks will be unlocked over time. After unlocking, they can be completed until the end of the season.
+4. As the level increases, the rewards will be more generous. The first 50 levels of rewards include duel coins. After reaching level 50, you can continue to upgrade. The rewards are fixed in a 10-level cycle and no longer produce duel coins. Duel coins can only be used in the current season and cannot be inherited in the next season.
+5. After activating the advanced benefits, you can unlock the qualification to receive rewards for advanced tiers, and the daily and weekly task experience will be increased by 20%. Purchase to immediately get 270 duel coins and the season's main plant.
+6. Use duel coins to participate in the lucky draw in the "Lucky Wheel" and draw generous rewards. Up to level 50 and with advanced benefits activated, you can clear all the content of the treasure wheel, a total of 20 items.
+7. All rewards in the treasure wheel can only be claimed once. When a reward is drawn, its probability will be distributed to other unclaimed rewards. When all 20 rewards in the wheel are not drawn, the probabilities of each prize are as follows:
+Gold 22.67%, Diamonds 22.66%, Pendants 19.26%, Green Plants 11.33%, Blue Plants 7.93%, Purple Plants 11.33%, Orange Plants 2.49%, Super Pendants 2.04%, Vines & Costumes Multi-select Gift Box 0.23%, Advanced Book 0.06%.
 
 [NFSLINKAGE_TASK_NAME_10]
-通关海底世界第12关
+Clear World 12 of the Underwater World
 
 [NFSLINKAGE_TASK_NAME_9]
-每日挑战1次新海底世界关卡
+Clear 1 new Underwater World level in the Daily Challenge
 
 [OAKSHOOTER_FAMILY]
-壳斗科
+Family: Fagaceae
 
 [OAKSHOOTER_GENUS]
-栎属
+Genus: Quercus
 
 [OAKSHOOTER_PEDIA]
-橡木——北半球的坚韧之材
-落叶或常绿乔木。
-为栎属植物统称，树高可达20米以上；叶片多呈卵状披针形或长椭圆形，边缘具锯齿；雌雄同株，雄花为下垂的柔荑花序，雌花簇生于叶腋；果实为坚果，外包带刺的壳斗。花期4-5月，果期8-10月。
-橡树广泛分布于北半球温带地区，“橡”可能因其果实形似象头而得名，其英文名“oak”源自原始印欧语对“尖锐/坚硬”的描述。根据木材颜色可分为红橡与白橡木两大类。红橡木（如北美红橡）纹粗犷、色泽偏红，多用于家具、地板及室内装饰；白橡（如夏栎、无花梗栎、栓皮栎）因木质致密且管孔含浸填体，具有防渗特性，是葡萄酒桶及瓶塞、威士忌桶及船舶甲板的优选材料。其在西方象征力量与永恒，凯尔特文化视之为圣树，北欧神话中代表雷神托尔，英国更以橡叶徽章彰显荣耀。
-花语：永恒、荣耀
+Oak - The tough wood of the Northern Hemisphere
+Deciduous or evergreen trees.
+It is a general term for plants of the genus Quercus, and the trees can be more than 20 meters tall; the leaves are mostly ovate-lanceolate or long-elliptical with serrated edges; it is monoecious, with male flowers in drooping catkins and female flowers clustered in the leaf axils; the fruit is a nut wrapped in a spiny involucre. It blooms from April to May and fruits from August to October.
+Oak is widely distributed in the temperate regions of the Northern Hemisphere. The Chinese name "xiang" may be derived from its fruit resembling an elephant's head, while its English name "oak" is derived from the Proto-Indo-European description of "sharp/hard." According to the color of the wood, it can be divided into two categories: red oak and white oak. Red oak (such as North American red oak) has a rough grain and reddish color, and is mostly used for furniture, flooring, and interior decoration; white oak (such as Quercus robur, Quercus petraea, and Quercus suber) has dense wood and filler in its vessels, which gives it seepage resistance, making it an excellent material for wine barrels and corks, whiskey barrels, and ship decks. In the West, it symbolizes strength and eternity. Celtic culture regards it as a sacred tree, Norse mythology represents the god Thor, and in the UK, the oak leaf badge is used to show honor.
+Flower language: Eternity, honor
 
 [OXYGENALGAE]
-氧气海藻
+Oxygen Algae
 
 [OXYGENALGAE_AVATAR_NAME]
-氧气海藻装扮
+Oxygen Algae Costume
 
 [OXYGENALGAE_AVATAR_PLANTFOOD_DESCRIPTION]
-大招立即产生125点阳光，并使得3*3区域内的植物攻击速度略微提升，持续10s
+The big move immediately generates 125 sun and slightly increases the attack speed of plants in a 3x3 area for 10 seconds.
 
 [OXYGENALGAE_DESCRIPTION]
-{KEYWORD}特点：{STAT}生产氧气扩散向周围，可以使自身3*3范围的陆地植物在海水中种植并生存
-{KEYWORD}植物特征：{STAT}白色植物，提供氧气，无尽阳光
-{FLAVOR}氧气海藻每天都会做有氧运动，据悉这是她能向周围持续提供氧气的来源。
+{KEYWORD}Special Features:{STAT}Produces and diffuses oxygen, allowing land plants in its 3x3 area to be planted and survive in the sea.
+{KEYWORD}Plant Features:{STAT}White plant, provides oxygen, infinite sun.
+{FLAVOR}Oxygen Algae does aerobic exercise every day. It is said that this is the source of her continuous oxygen supply to the surroundings.
 
 [OXYGENALGAE_DESCRIPTION_HEADER]
-为周围植物提供阳光和氧气
+Provides sun and oxygen for surrounding plants.
 
 [OXYGENALGAE_NEW_SKILL_LEVEL1_DES]
-为周围植物提供阳光和氧气
+Provides sun and oxygen for surrounding plants.
 
 [OXYGENALGAE_NEW_SKILL_LEVEL2_DES]
-使周围的植物生命值和攻击里微弱增加，减少产阳光的时间间隔
+Slightly increases the health and attack power of surrounding plants, and reduces the sun production interval.
 
 [OXYGENALGAE_NEW_SKILL_LEVEL3_DES]
-进一步增加周围植物的生命值和攻击力，减少产阳光的时间间隔
+Further increases the health and attack power of surrounding plants, and reduces the sun production interval.
 
 [OXYGENALGAE_NEW_SKILL_LEVEL4_DES]
-种植时有中概率直接释放能量豆大招
+There is a medium chance to directly release the energy bean ultimate move when planted.
 
 [OXYGENALGAE_PLANTFOOD_DESCRIPTION]
-大招立即产生125点阳光，并使得3*3区域内的植物攻击速度略微提升，持续10s
+The big move immediately generates 125 sun and slightly increases the attack speed of plants in a 3x3 area for 10 seconds.
 
 [OXYGENALGAE_PRODUCT_SHORT_DESC]
-为周围植物提供阳光和氧气
+Provides sun and oxygen for surrounding plants.
 
 [OXYGENALGAE_SKILL_LEVEL1]
-光合作用
+Photosynthesis
 
 [OXYGENALGAE_SKILL_LEVEL1_DES]
-使周围的植物生命值和攻击里微弱增加，减少产阳光的时间间隔
+Slightly increases the health and attack power of surrounding plants, and reduces the sun production interval.
 
 [OXYGENALGAE_SKILL_LEVEL2]
-极速供氧
+High-speed Oxygen Supply
 
 [OXYGENALGAE_SKILL_LEVEL2_DES]
-进一步增加周围植物的生命值和攻击力，减少产阳光的时间间隔
+Further increases the health and attack power of surrounding plants, and reduces the sun production interval.
 
 [OXYGENALGAE_TOOLTIP]
-为周围植物提供阳光和氧气
+Provides sun and oxygen for surrounding plants.
 
 [PEPPERPULT_FAMILY]
-茄科
+Family: Solanaceae
 
 [PEPPERPULT_GENUS]
-辣椒属
+Genus: Capsicum
 
 [PEPPERPULT_PEDIA]
-甜椒——没有辣味的菜椒
-一年生草本植物。
-为辣椒的无辣味变种。茎直立且基部木质化；叶片矩圆形或卵形；花单生，白色辐射状；果实形似灯笼，表皮光滑，色彩丰富，常见绿色、红色、黄色、白色及紫色等，果肉厚实且略带甜味。花果期因栽培条件而异，若温度适宜一年四季均可开花结果。
-原产于美洲热带地区，明朝末年传入中国，现我国南北均有栽培。“甜椒”一名可追溯至17世纪，哥伦布在加勒比海寻找黑胡椒未果，转而将当地一种不辣的辣椒带回欧洲，因其口感清甜而得名。又因其可做蔬菜食用，又常被称为“菜椒”。此外，其外形圆润如灯笼且栽培品种颜色多彩，还被称为“灯笼椒”或“彩椒”。
+Sweet Pepper - A chili without spiciness
+An annual herbaceous plant.
+It is a non-spicy variety of chili. The stem is erect and woody at the base; the leaves are rectangular or ovate; the flowers are solitary, white, and radial; the fruit is shaped like a lantern, with a smooth skin and a variety of colors, commonly green, red, yellow, white, and purple, and the flesh is thick and slightly sweet. The flowering and fruiting periods vary depending on cultivation conditions. If the temperature is suitable, it can flower and bear fruit all year round.
+It originated in tropical America and was introduced to China at the end of the Ming Dynasty. The name "sweet pepper" can be traced back to the 17th century when Columbus failed to find black pepper in the Caribbean and brought a non-spicy chili back to Europe. It was named for its sweet taste. In addition, it is often called "vegetable pepper" because it can be eaten as a vegetable. In addition, its round lantern-like shape and colorful cultivated varieties also make it known as "lantern pepper" or "colored pepper."
 
 [PHATBEET_FAMILY]
-苋科
+Family: Amaranthaceae
 
 [PHATBEET_GENUS]
-甜菜属
+Genus: Beta
 
 [PHATBEET_PEDIA]
-甜菜——世界第二大制糖蔬菜
-二年生草本植物。
-具肉质块根，圆锥形、纺锤形或楔形，外皮颜色因品种而异，常见红色、紫色、白色等；茎直立；基生叶宽大矩圆形，长可达30厘米，茎生叶互生，较小；花小（径3-5毫米）2-3朵聚集，绿色，风媒传粉；胞果下部陷在硬化的花被内，种子红褐色双凸镜形。花果期5至7月。
-原产欧洲地中海沿岸，现广泛栽培于温带地区。因其块根富含蔗糖（含量可达16%-20%）而得名，是仅次于甘蔗的全球第二大制糖原料。除制糖外，其副产物如茎叶、废菜丝可作饲料，糖蜜可发酵生产乙醇或食品添加剂。此外，甜菜根含天然色素甜菜红，广泛用于食品着色。
+Beet - The world's second-largest sugar-producing vegetable
+A biennial herbaceous plant.
+It has a fleshy taproot, which is conical, spindle-shaped, or wedge-shaped, and the color of the outer skin varies depending on the variety, commonly red, purple, and white; the stem is erect; the basal leaves are large and rectangular, up to 30 cm long, and the stem leaves are alternate and smaller; the flowers are small (3-5 mm in diameter) and clustered in groups of 2-3, green, and pollinated by wind; the utricle is partially embedded in the hardened perianth at the bottom, and the seeds are reddish-brown and biconvex. It blooms and fruits from May to July.
+It originated on the Mediterranean coast of Europe and is now widely cultivated in temperate regions. It is named for its taproot, which is rich in sucrose (up to 16%-20%), making it the second-largest sugar-producing raw material in the world after sugarcane. In addition to sugar production, its by-products such as stems, leaves, and waste pulp can be used as feed, and molasses can be fermented to produce ethanol or food additives. In addition, beetroot contains the natural pigment betanin, which is widely used in food coloring.
 
 [PLANTING_KELPGUARD_ONLY_DEEPSEA]
-海带守卫只能种在海上
+Kelp Guard can only be planted on water.
 
 [PLANTING_NOT_IN_KELPGUARD]
-植物不能种在海带守卫中间
+Plants cannot be planted in the middle of Kelp Guard.
 
 [PLANTING_NOT_ON_SWORDFISH]
-不能种植在剑鱼上
+Cannot be planted on a Swordfish.
 
 [PLAYERS_TRIP_TO_ATLANTIS]
-{PLAYER}的海底世界之旅！
+{PLAYER}'s Trip to the Underwater World!
 
 [PLAYERS_TRIP_TO_MEMORY_S25_15]
-欢迎来到困难15关，本关植物留声曼陀罗有妙用
+Welcome to hard level 15. The Phonograph Mandrake has a magical use in this level.
 
 [PLAYERS_TRIP_TO_MEMORY_S25_16]
-欢迎来到困难16关，本关街机有妙用，注意保护
+Welcome to hard level 16. The arcade has a magical use in this level, so be careful to protect it.
 
 [POKRA_FAMILY]
-锦葵科
+Family: Malvaceae
 
 [POKRA_GENUS]
-秋葵属
+Genus: Abelmoschus
 
 [POKRA_PEDIA]
-秋葵——咖啡黄葵
-一年生草本。
-株高1-2米，茎圆柱形疏生散刺；叶掌状3-7裂，边缘具粗齿，两面被硬毛；花单生叶腋，黄色，基部紫色；蒴果筒状尖塔形，种子球形。花果期5-10月。
-因花瓣基部斑块接近咖啡色，某些地区会用其种子烘培制作咖啡而得名“咖啡黄葵”；其果实主要秋季采收而名“秋葵”；又因其果实形似辣椒和羊角，民间亦有“洋辣椒”和“羊角豆”的俗称。原产于非洲埃塞俄比亚，后经印度、中东传播至全球热带及亚热带地区。我国自20世纪初引进，现广泛种植于南方及华北部分地区。除嫩果作蔬菜外，种子含油15-20%及咖啡碱，可用于榨油或做提神饮品“秋葵咖啡”。
+Okra - The "coffee-scented yellow hibiscus"
+An annual herbaceous plant.
+The plant is 1-2 meters tall, with a cylindrical stem with sparse spines; the leaves are palmately lobed with 3-7 lobes, coarse-toothed edges, and stiff hairs on both sides; the flowers are solitary in the leaf axils, yellow, with a purple base; the capsule is cylindrical and pointed, and the seeds are spherical. It blooms and fruits from May to October.
+It is named "coffee-scented yellow hibiscus" because the patches at the base of the petals are close to coffee color, and in some areas, its seeds are roasted to make coffee; its fruit is mainly harvested in autumn, hence the name "okra" in Chinese; it is also commonly known as "foreign chili" and "sheep's horn bean" because its fruit is shaped like a chili and a sheep's horn. It originated in Ethiopia, Africa, and was later spread to tropical and subtropical regions around the world via India and the Middle East. It was introduced to China in the early 20th century and is now widely grown in the south and some parts of North China. In addition to the tender fruit being used as a vegetable, the seeds contain 15-20% oil and caffeine, and can be used for oil extraction or as a refreshing drink called "okra coffee."
 
 [POSEIDONTREASURE]
-海神的宝藏
+Poseidon's Treasure
 
 [POSEIDONTREASURE_EXPIRED]
-海神的宝藏活动过期奖励
+Poseidon's Treasure event expired rewards
 
 [POSEIDONTREASURE_TAB1]
-宝藏抽奖
+Treasure Draw
 
 [POSEIDONTREASURE_TAB1_DESC]
-每累计抽取30次，必得1个至臻宝箱
+For every 30 cumulative draws, you are guaranteed to get 1 Ultimate Treasure Chest.
 
 [POSEIDONTREASURE_TAB2]
-特惠礼包
+Special Offer Packs
 
 [POSEIDONTREASURE_TAB3]
-至臻宝藏
+Ultimate Treasure
 
 [POSEIDONTREASURE_TAB3_DESC]
-最多再开启 ^ffff00^{NUM}^oldclr^ 次至臻宝藏必得红色奖励
+You are guaranteed to get a red reward within ^ffff00^{NUM}^oldclr^ more Ultimate Treasure openings.
 
 [POSEIDONTREASURE_TAB4]
-海神宝藏
+Poseidon's Treasure
 
 [POSEIDON_DESCRIPTION]
-活动规则：
-1.购买海神系列礼包可获得海神代币，海神代币可用来进行宝藏抽奖
-2.每累计购买100元的海神礼包，可以获得一个海神宝藏，海神宝藏可用来自选兑换一种奖励
-3.海神宝藏可自选新动态边框头像、新海神草装扮、新火柴花拳手装扮、超级机枪射手碎片*10、葫芦神器等道具
-4.每累计宝藏抽奖30次，可以获得一个至臻宝藏，至臻宝藏可用来随机获得一种奖励
-5.至臻宝藏可随机获得超级机枪全身装扮、海神草碎片*10、万能碎片、钻石、进阶书中的一个道具
-6.至臻宝藏累计开启十次必得超级机枪全身装扮
-7.每日首次单抽享6.6折，活动代币请及时使用，活动结束后，剩余海神代币将按照1：30比例转为钻石，海神宝箱和至臻宝箱将按照1：500比例转为钻石
+Event Rules:
+1. Purchase Poseidon's series gift packs to get Poseidon's Tokens, which can be used for the Treasure Draw.
+2. For every 100 yuan of Poseidon's gift packs purchased, you can get a Poseidon's Treasure, which can be used to select one reward.
+3. Poseidon's Treasure can be used to select a new dynamic border avatar, a new Poseidon Grass costume, a new Match Flower Fist costume, 10 Mega Gatling fragments, the Gourd artifact, and other items.
+4. For every 30 cumulative Treasure Draws, you can get an Ultimate Treasure, which can be used to randomly get a reward.
+5. The Ultimate Treasure can randomly give a Mega Gatling full-body costume, 10 Poseidon Grass fragments, universal fragments, diamonds, or an advanced book.
+6. Opening the Ultimate Treasure ten times is guaranteed to give a Mega Gatling full-body costume.
+7. The first single draw every day enjoys a 34% discount. Please use the event tokens in time. After the event ends, the remaining Poseidon's Tokens will be converted into diamonds at a ratio of 1:30, and Poseidon's Treasure Chests and Ultimate Treasure Chests will be converted into diamonds at a ratio of 1:500.
 
 [POSEIDON_DESCRIPTION_1]
-基础奖励公示：
-至臻宝箱：      0.55%    大奖
-海神宝箱：      0.75%    大奖
-定向碎片*1：     5.10%
-定向碎片*2：     2.33%
-定向碎片*10：    1.05%
-钻石*888：       3.57%
-钻石*288：       15.03%
-钻石*150：       21.10%
-时空立方*10：    1.01%
-时空立方*5：     1.42&
-时空立方*2：     2.31&
-时空立方*1：     6.26%
-金币*88888：     6.81%
-金币*166666：    11.37%
-神秘水晶*5000：   12.42%
-神秘水晶*10000：  8.92%
+Basic Reward Probability:
+Ultimate Treasure Chest: 0.55% Grand Prize
+Poseidon's Treasure Chest: 0.75% Grand Prize
+Targeted Fragment*1: 5.10%
+Targeted Fragment*2: 2.33%
+Targeted Fragment*10: 1.05%
+Diamond*888: 3.57%
+Diamond*288: 15.03%
+Diamond*150: 21.10%
+Time and Space Cube*10: 1.01%
+Time and Space Cube*5: 1.42%
+Time and Space Cube*2: 2.31%
+Time and Space Cube*1: 6.26%
+Gold*88888: 6.81%
+Gold*166666: 11.37%
+Mysterious Crystal*5000: 12.42%
+Mysterious Crystal*10000: 8.92%
 
-至臻宝箱概率公示：
-超级机枪全身装扮：   1.15%    大奖
-海神草植物碎片*10：  23.22%
-进阶书：            14.05%
-万能碎片*10：       14.93%
-海神草植物碎片*20：  11.61%
-海神草植物碎片*30：  7.74%
-钻石*1888：         21.49%
-海神草植物碎片*40：  5.81%
+Ultimate Treasure Probability:
+Mega Gatling Full-Body Costume: 1.15% Grand Prize
+Poseidon Grass Plant Fragment*10: 23.22%
+Advanced Book: 14.05%
+Universal Fragment*10: 14.93%
+Poseidon Grass Plant Fragment*20: 11.61%
+Poseidon Grass Plant Fragment*30: 7.74%
+Diamond*1888: 21.49%
+Poseidon Grass Plant Fragment*40: 5.81%
 
 [PRODUCT_POSEIDONTREASURE_30_SHORTDESC]
-海神中级礼包
+Poseidon's Intermediate Pack
 
 [PRODUCT_POSEIDONTREASURE_328_SHORTDESC]
-海神尊贵礼包
+Poseidon's Exclusive Pack
 
 [PRODUCT_POSEIDONTREASURE_6_SHORTDESC]
-海神初级礼包
+Poseidon's Beginner Pack
 
 [PRODUCT_POSEIDONTREASURE_98_SHORTDESC]
-海神高级礼包
+Poseidon's Advanced Pack
 
 [PVZ1MODE_BASSIST]
-贝斯手登场
+Bassist appears
 
 [PVZ1MODE_BASSIST_NORMAL_DESC]
-一声雷响，贝斯手僵尸闪亮登场！
+With a thunderous sound, the Bassist Zombie makes a grand entrance!
 
 [PVZ1MODE_BEJEWELED]
-宝石迷阵
+Bejeweled
 
 [PVZ1MODE_BEJEWELED_NORMAL_DESC]
-划动交换植物，把它们连成一排
+Swipe to swap plants and connect them in a row.
 
 [PVZ1MODE_BUOY]
-移动浮标
+Moving Buoy
 
 [PVZ1MODE_BUOY_NORMAL_DESC]
-僵尸会随着浮标的指向换行
+Zombies will switch lanes according to the direction of the buoy.
 
 [PVZ1MODE_DOCTORMAD]
-疯狂博士
+Dr. Zomboss
 
 [PVZ1MODE_DOCTORMAD_NORMAL_DESC]
-指挥僵尸大军吃光所有植物
+Command the zombie army to eat all the plants.
 
 [PVZ1MODE_INDESTRUCTIBLE]
-坚不可摧
+Indestructible
 
 [PVZ1MODE_INDESTRUCTIBLE_NORMAL_DESC]
-建立你的防线，抵挡僵尸的进攻
+Build your defense line to withstand the zombie attack.
 
 [PVZ1MODE_MOULD]
-霉菌地
+Moldy Lawn
 
 [PVZ1MODE_MOULD_NORMAL_DESC]
-无法在霉菌地上种植植物
+Plants cannot be planted on the moldy lawn.
 
 [PVZ1MODE_RUN]
-僵尸快跑
+Zombie Dash
 
 [PVZ1MODE_RUN_NORMAL_DESC]
-冲刺！冲刺！僵尸速度变快
+Sprint! Sprint! Zombies are speeding up.
 
 [PVZ1MODE_SEED_RAIN]
-种子雨
+Seed Rain
 
 [PVZ1MODE_SEED_RAIN_NORMAL_DESC]
-天空中每隔一段时间会掉落植物卡片
+Plant cards will fall from the sky at intervals.
 
 [PVZ1MODE_SKI]
-滑雪区
+Ski Area
 
 [PVZ1MODE_SKI_NORMAL_DESC]
-小心冰道上的海象与滑雪僵尸
+Beware of the walruses and skiing zombies on the ice.
 
 [PVZ1MODE_SMASH]
-破罐者
+Vasebreaker
 
 [PVZ1MODE_SMASH_NORMAL_DESC]
-砸碎罐子并清理掉所有僵尸
+Break the vases and clear all the zombies.
 
 [PVZ1MODE_ZOMBIE]
-我是僵尸
+I, Zombie
 
 [PVZ1MODE_ZOMBIE_NORMAL_DESC]
-僵尸大战植物
+Zombies vs. Plants
 
 [PVZ1MODE_ZOMBOTANY]
-植物僵尸
+Zombotany
 
 [PVZ1MODE_ZOMBOTANY_NORMAL_DESC]
-小心来自神秘时空的植物头僵尸
+Beware of the plant-headed zombies from a mysterious space-time.
 
 [RANK_AVATAR_CONTENT_CONTENT_61045]
-双人对决第33赛季宗师段位奖励
+2v2 Duels Season 33 Grandmaster Tier Reward
 
 [RANK_AVATAR_CONTENT_TITLE_61045]
-海底万里
+Under the Sea
 
 [REDSTINGER_FAMILY]
-姜科
+Family: Zingiberaceae
 
 [REDSTINGER_GENUS]
-茴香砂仁属
+Genus: Etlingera
 
 [REDSTINGER_PEDIA]
-火炬姜——热带丛林的“瓷玫瑰”
-多年生大型草本植物。
-假茎丛生，高5米；叶片披针形长达80厘米；穗状花序（头状或卵形）具红色总苞，总花梗粗壮长0.8-1.5米；花苞片粉红色，花冠粉红至红色或白色，唇瓣深红镶黄边；果序头状，绿色或带红色，近球形，种子多数黑色。花果期5-10月。
-花序形似燃烧的火炬，故得名“火炬姜”；其苞片瓷质光泽、层叠如玫瑰而别名“瓷玫瑰”。原产于东南亚热带地区（印尼、马来西亚、泰国南部），我国广东、福建、云南等地引种栽培作为观赏植物。其大型盆栽适宜装点广场、酒店大堂等空间，庭园群植可营造热带景观；切花在常规条件下可保鲜半月以上，是高端花艺的优选材料；东南亚地区将未开花蕾及嫩茎用作辛香料，是娘惹料理的重要调味料。
-花语：无缘的爱、永恒的热烈
+Torch Ginger - The "porcelain rose" of the tropical jungle
+A large perennial herbaceous plant.
+The pseudostems are clustered and up to 5 meters tall; the leaves are lanceolate and up to 80 cm long; the spicate inflorescences (capitate or ovate) have red bracts, and the peduncle is stout and 0.8-1.5 meters long; the bracts are pink, the corolla is pink to red or white, and the labellum is deep red with a yellow edge; the infructescence is capitate, green or reddish, nearly spherical, with many black seeds. It blooms and fruits from May to October.
+The inflorescence is shaped like a burning torch, hence the name "torch ginger"; its porcelain-like, glossy, layered bracts resemble roses, hence the name "porcelain rose." It originated in tropical Southeast Asia (Indonesia, Malaysia, southern Thailand) and is cultivated as an ornamental plant in Guangdong, Fujian, Yunnan, and other places in China. Its large potted plants are suitable for decorating public spaces such as squares and hotel lobbies, and cluster planting in gardens can create a tropical landscape; the cut flowers can be kept fresh for more than half a month under normal conditions and are an excellent material for high-end flower arrangements; in Southeast Asia, the unopened flower buds and young stems are used as spices, and are an important seasoning in Peranakan cuisine.
+Flower language: Unrequited love, eternal passion
 
 [S25_MEMORY_LEVEL_NAME_001]
-腹背受敌
+Attacked from Front and Back
 
 [S25_MEMORY_LEVEL_NAME_002]
-人小鬼大
+Small but Mighty
 
 [S25_MEMORY_LEVEL_NAME_003]
-移民计划
+Immigration Plan
 
 [S25_MEMORY_LEVEL_NAME_004]
-机甲迁徙
+Mech Migration
 
 [S25_MEMORY_LEVEL_NAME_005]
-强制打断
+Forced Interruption
 
 [S25_MEMORY_LEVEL_NAME_006]
-雪中送炭
+Timely Help
 
 [S25_MEMORY_LEVEL_NAME_007]
-罗马入侵
+Roman Invasion
 
 [S25_MEMORY_LEVEL_NAME_008]
-缩水草坪
+Shrinking Lawn
 
 [S25_MEMORY_LEVEL_NAME_009]
-前线作战
+Frontline Battle
 
 [S25_MEMORY_LEVEL_NAME_010]
-奇数格点
+Odd Squares
 
 [S25_MEMORY_LEVEL_NAME_011]
-千里冰封
+Icebound Land
 
 [S25_MEMORY_LEVEL_NAME_012]
-滑块迷踪
+Slider Maze
 
 [S25_MEMORY_LEVEL_NAME_013]
-动物世界
+Animal World
 
 [S25_MEMORY_LEVEL_NAME_014]
-资源争夺
+Resource Scramble
 
 [S25_MEMORY_LEVEL_NAME_015]
-童心未泯
+A Child's Heart
 
 [S25_MEMORY_LEVEL_NAME_016]
-夏夜奇观
+Summer Night Spectacle
 
 [S25_MEMORY_LEVEL_NAME_017]
-清凉夏日
+Cool Summer Day
 
 [S25_MEMORY_LEVEL_NAME_018]
-海盗来袭
+Pirate Attack
 
 [S25_MEMORY_LEVEL_NAME_019]
-水上作战
+Water Battle
 
 [S25_MEMORY_LEVEL_NAME_020]
-小僵尸大麻烦
+Little Zombie, Big Trouble
 
 [S25_MEMORY_LEVEL_NAME_021]
-夏夜开始
+Summer Night Begins
 
 [S25_MEMORY_LEVEL_NAME_022]
-开心摇滚
+Happy Rock and Roll
 
 [S25_MEMORY_LEVEL_NAME_023]
-激情澎湃
+Passionate and Exciting
 
 [S25_MEMORY_LEVEL_NAME_024]
-飞驰巨兽来袭
+Racing Beast Attack
 
 [S25_MEMORY_LEVEL_NAME_025]
-左摇右摆
+Swaying
 
 [S25_MEMORY_LEVEL_NAME_026]
-看窝瓜
+Look at the Squash
 
 [S25_MEMORY_LEVEL_NAME_027]
-摧枯拉朽
+Devastating
 
 [S25_MEMORY_LEVEL_NAME_028]
-碎碎平安
+Shattering Peace
 
 [S25_MEMORY_LEVEL_NAME_029]
-暴力摇滚
+Violent Rock and Roll
 
 [S25_MEMORY_LEVEL_NAME_030]
-植物迷阵
+Plant Maze
 
 [S25_MEMORY_LEVEL_NAME_031]
-精准对空
+Accurate Anti-air
 
 [S25_MEMORY_LEVEL_NAME_032]
-狂锤
+Crazy Hammering
 
 [S25_MEMORY_LEVEL_NAME_033]
-潜形匿迹
+Hiding and Sneaking
 
 [S25_MEMORY_LEVEL_NAME_034]
-坚甲利盾
+Strong Armor and Shield
 
 [S25_MEMORY_LEVEL_NAME_035]
-势不可挡
+Irresistible
 
 [S25_MEMORY_LEVEL_NAME_036]
-鸡兔同笼
+The Chicken and Rabbit Problem
 
 [S25_MEMORY_LEVEL_NAME_037]
-酷夏飞雪
+Cool Summer Snow
 
 [S25_MEMORY_LEVEL_NAME_038]
-冰河再临
+The Glacier Returns
 
 [S25_MEMORY_LEVEL_NAME_039]
-北风萧瑟
+Bleak North Wind
 
 [S25_MEMORY_LEVEL_NAME_040]
-铁马冰河
+Iron Horse and Glacier
 
 [S25_MEMORY_LEVEL_NAME_041]
-真假读报僵尸
+Real and Fake Newspaper Zombies
 
 [S25_MEMORY_LEVEL_NAME_042]
-魔法师的测验
+Magician's Test
 
 [S25_MEMORY_LEVEL_NAME_043]
-绅士与钢琴师
+Gentleman and Pianist
 
 [S25_MEMORY_LEVEL_NAME_044]
-骷髅头的照明
+The Skull's Illumination
 
 [S25_MEMORY_LEVEL_NAME_045]
-骑士荣耀
+Knight's Glory
 
 [S25_MEMORY_LEVEL_NAME_046]
-解除束缚
+Unleashed
 
 [S25_MEMORY_LEVEL_NAME_047]
-音乐与科技
+Music and Technology
 
 [S25_MEMORY_LEVEL_NAME_048]
-处决时刻
+Execution Time
 
 [S25_MEMORY_LEVEL_NAME_049]
-电光
+Electric Light
 
 [S25_MEMORY_LEVEL_NAME_050]
-雷霆
+Thunder
 
 [S25_MEMORY_LEVEL_NAME_051]
-闪击
+Blitz
 
 [S25_MEMORY_LEVEL_NAME_052]
-列缺
+Lightning Bolt
 
 [S25_MEMORY_LEVEL_NAME_053]
-创世神之力
+Power of the Creator God
 
 [S25_MEMORY_LEVEL_NAME_054]
-磕头的艺术
+The Art of Bowing
 
 [S25_MEMORY_LEVEL_NAME_055]
-爆粒奶香浓
+Explosive, Creamy Milk
 
 [S25_MEMORY_LEVEL_NAME_056]
-众神归位
+Gods Returning to Their Places
 
 [S25_MEMORY_LEVEL_NAME_057]
-原始内战
+Primitive Civil War
 
 [S25_MEMORY_LEVEL_NAME_058]
-豌豆雨
+Pea Rain
 
 [S25_MEMORY_LEVEL_NAME_059]
-传送门
+Teleportation
 
 [S25_MEMORY_LEVEL_NAME_060]
-双人再临
+Duos Return
 
 [S25_MEMORY_LEVEL_NAME_061]
-嫁接的艺术
+The Art of Grafting
 
 [S25_MEMORY_LEVEL_NAME_062]
-滑雪区
+Ski Area
 
 [S25_MEMORY_LEVEL_NAME_063]
-奔逸绝尘
+Breaking Away from the Dust
 
 [S25_MEMORY_LEVEL_NAME_064]
-雪虐风饕
+Snow and Storm
 
 [S25_MEMORY_LEVEL_NAME_10]
-挽歌幻象
+Elegy Illusion
 
 [S25_MEMORY_LEVEL_NAME_11]
-大败而归
+Crushing Defeat
 
 [S25_MEMORY_LEVEL_NAME_12]
-熊熊燃烧
+Blazing Flames
 
 [S25_MEMORY_LEVEL_NAME_13]
-暖雪纷飞暮色中
+Warm Snowflakes Fluttering in the Twilight
 
 [S25_MEMORY_LEVEL_NAME_14]
-夜阑卧听风吹雨
+Listening to the Wind and Rain in the Quiet Night
 
 [S25_MEMORY_LEVEL_NAME_15]
-每天都睡不够
+Never Getting Enough Sleep
 
 [S25_MEMORY_LEVEL_NAME_16]
-我也想成为神
+I Want to Be a God Too
 
 [S25_MEMORY_LEVEL_NAME_1]
-虚无之体
+Void Body
 
 [S25_MEMORY_LEVEL_NAME_2]
-元素之核
+Core of Elements
 
 [S25_MEMORY_LEVEL_NAME_3]
-能量之源
+Source of Energy
 
 [S25_MEMORY_LEVEL_NAME_4]
-智慧之灵
+Spirit of Wisdom
 
 [S25_MEMORY_LEVEL_NAME_5]
-生命之息
+Breath of Life
 
 [S25_MEMORY_LEVEL_NAME_6]
-轮回之镜
+Mirror of Samsara
 
 [S25_MEMORY_LEVEL_NAME_7]
-永恒之碑
+Eternal Stele
 
 [S25_MEMORY_LEVEL_NAME_8]
-圣洁之光
+Holy Light
 
 [S25_MEMORY_LEVEL_NAME_9]
-young式摇滚
+Young-style Rock and Roll
 
 [SAUCER_FAMILY]
-葫芦科
+Family: Cucurbitaceae
 
 [SAUCER_GENUS]
-南瓜属
+Genus: Cucurbita
 
 [SAUCER_PEDIA]
-飞碟瓜——似“飞碟”的西葫芦
-茎短缩，蔓性或矮生，叶片呈五角掌状，浅至深裂，叶色翠；雌雄异花同株，雄花簇生，雌花单生，花黄色；果实边缘具棱齿，形似飞碟，颜色多样，包括白、黄、绿等，观赏性极强。花果期集中于夏秋季。
-为西葫芦（美洲南瓜）的变种，因扁圆碟状的果实得名；原产于中南美洲，后作为特色蔬菜品种于20世纪90年代从俄罗斯、韩国、美国等地引入中国栽培。其独特的形态和多功能性（食用、药用、观赏）使其逐渐在园艺和特菜种植中推广。但因口感偏硬、纤维多，多以观赏为主，常用于园艺造景或科普教育。
+Pattypan Squash - The "flying saucer" zucchini
+The stem is short and retracted, vining or bushy, and the leaves are pentagonal and palmately lobed, with shallow to deep lobes and a lush green color; the flowers are monoecious, with male flowers clustered and female flowers solitary, and are yellow; the fruit has ridges along the edge, resembling a flying saucer, and comes in various colors, including white, yellow, and green, making it highly ornamental. The flowering and fruiting periods are concentrated in summer and autumn.
+It is a variety of zucchini (Cucurbita pepo) and is named for its flat, round, and disc-shaped fruit; it originated in Central and South America and was later introduced to China from Russia, South Korea, the United States, and other places in the 1990s as a specialty vegetable. Its unique shape and versatility (edible, medicinal, ornamental) have made it increasingly popular in horticulture and specialty vegetable cultivation. However, due to its hard texture and high fiber content, it is mainly for ornamental purposes and is often used in garden landscaping or for popular science education.
 
 [SEAGODTREASURE_SELECT_DESCRIPTION]
-从下列奖励中选择一份吧！
+Choose one of the following rewards!
 
 [SEAGODTREASURE_SELECT_TITLE]
-奖励多选一
+Reward Selection
 
 [SEASHROOM]
-海蘑菇
+Sea-shroom
 
 [SEASHROOM_AVATAR_NAME]
-海蘑菇可以种在水中，射程很近并只能持续一段时间。
+Sea-shroom can be planted in water. It has a very short range and only lasts for a limited time.
 
 [SEASHROOM_AVATAR_PLANTFOOD_DESCRIPTION]
-在周围8格内随机生成一个新的海蘑菇，并立即向前方发射30颗子弹，同时联动场上的所有海蘑菇发动一次大招，并重置消失时间。
+Randomly generates a new Sea-shroom in the surrounding 8 squares and immediately launches 30 bullets forward, while also activating the ultimate move of all Sea-shrooms on the field and resetting their disappearance time.
 
 [SEASHROOM_DESCRIPTION]
-{KEYWORD}植物特征：{STAT}绿色植物
-{FLAVOR}海蘑菇和小喷菇是远房表亲。没有人知道他们的家谱是什么时候分叉的，但家庭聚会总是涉及泳池派对。
+{KEYWORD}Plant Features: {STAT}Green plant
+{FLAVOR}Sea-shroom and Puff-shroom are long distance cousins. No one knows when their family tree diverged, but the family reunions always involve a pool party.
 
 [SEASHROOM_DESCRIPTION_HEADER]
-海蘑菇可以种在水中，射程很近并只能持续一段时间。
+Fire a short range explosive spore that will damage zombies in a radius, but it will wither away after a short time.
 
 [SEASHROOM_NEW_SKILL_LEVEL1_DES]
-海蘑菇可以直接种植在水中，在海水中时，海蘑菇会根据种植区域改变转向。种植后，海蘑菇会攻击同一列中右边三格内的僵尸，并在单格距离范围内溅射，造成少量伤害。海蘑菇仅能在场上存活60s。
+Sea-shroom can be planted directly in the water. In the water, Sea-shroom will change its direction according to the planting area. After being planted, Sea-shroom will attack zombies in the three squares to the right in the same row and cause a small amount of splash damage within a one-square distance. Sea-shroom can only survive on the field for 60 seconds.
 
 [SEASHROOM_NEW_SKILL_LEVEL2_DES]
-海蘑菇的存活时间增加至90s
+Sea-shroom's survival time is increased to 90 seconds.
 
 [SEASHROOM_NEW_SKILL_LEVEL3_DES]
-海蘑菇的存活时间增加至120s
+Sea-shroom's survival time is increased to 120 seconds.
 
 [SEASHROOM_NEW_SKILL_LEVEL4_DES]
-种植时有概率直接释放能量豆大招！
+There is a chance to directly release the energy bean ultimate move when planted!
 
 [SEASHROOM_PLANTFOOD_DESCRIPTION]
-在周围8格内随机生成一个新的海蘑菇，并立即向前方发射30颗子弹，同时联动场上的所有海蘑菇发动一次大招，并重置消失时间。
+Randomly generates a new Sea-shroom in the surrounding 8 squares and immediately launches 30 bullets forward, while also activating the ultimate move of all Sea-shrooms on the field and resetting their disappearance time.
 
 [SEASHROOM_PRODUCT_SHORT_DESC]
-海蘑菇可以种在水中，射程很近并只能持续一段时间。
+Sea-shroom can be planted in water. It has a very short range and only lasts for a limited time.
 
 [SEASHROOM_SKILL_LEVEL1]
-生存强化
+Survival Enhancement
 
 [SEASHROOM_SKILL_LEVEL1_DES]
-海蘑菇的存活时间增加至90s
+Sea-shroom's survival time is increased to 90 seconds.
 
 [SEASHROOM_SKILL_LEVEL2]
-超长待机
+Ultra-long Standby
 
 [SEASHROOM_SKILL_LEVEL2_DES]
-海蘑菇的存活时间增加至120s
+Sea-shroom's survival time is increased to 120 seconds.
 
 [SEASHROOM_TOOLTIP]
-海蘑菇可以种在水中，射程很近并只能持续一段时间。
+Aquatic short-range shooter, lasts for a limited time
 
 [STORE_PRODUCT_AVATAR_AQUAWEED]
-海神草释放大招后额外再召唤3只小鲨鱼，有概率出红色小鲨鱼，在陆地上不生效
+After Aquaweed uses its ultimate move, it summons 3 more small sharks. There is a chance for a red small shark to appear, which is not effective on land.
 
 [STORE_PRODUCT_AVATAR_AQUAWEED_TITLE]
-海神装扮
+Aquaweed Costume
 
 [STORE_PRODUCT_AVATAR_KELPGUARD]
-僵尸被击退的格数增加为2格
+The number of squares a zombie is repelled is increased to 2 squares.
 
 [STORE_PRODUCT_AVATAR_KELPGUARD_TITLE]
-海带守卫装扮
+Kelp Guard Costume
 
 [STORE_PRODUCT_AVATAR_OXYGENALGAE]
-大招立即产生125点阳光，并使得3*3区域内的植物攻击速度略微提升，持续10s
+The ultimate move immediately generates 125 sun and slightly increases the attack speed of plants in a 3x3 area for 10 seconds.
 
 [STORE_PRODUCT_AVATAR_OXYGENALGAE_TITLE]
-氧气海藻装扮
+Oxygen Algae Costume
 
 [STORE_PRODUCT_AVATAR_SEASHROOM]
-大招攻击力提升50%
+Ultimate move attack power is increased by 50%.
 
 [STORE_PRODUCT_AVATAR_SEASHROOM_TITLE]
-海蘑菇装扮
+Sea-shroom Costume
 
 [STUNION_FAMILY]
-石蒜科
+Family: Amaryllidaceae
 
 [STUNION_GENUS]
-葱属
+Genus: Allium
 
 [STUNION_PEDIA]
-洋葱——催泪的调味鳞茎
-多年生草本植物。
-鳞茎球状至扁球状，外皮紫红色、淡黄色或白色，内部肉质鳞片层层包裹；叶片呈圆筒状，中空；花葶粗壮，高可达1米，顶端着生球状伞形花序，小花粉白色，花被片具绿色中脉；果实近球形。花果期5至7月。
-原产于西亚的伊朗、阿富汗等干旱地区，后传入地中海及中国新疆等地，因其形态似葱而得名“洋葱”。洋葱的肉质鳞茎为了适应其原产地的干旱环境，能在沙土中储存水分，抵御高温。洋葱是烹饪中提味增香的重要食材，其含有的硫化物和槲皮素等活性成分具有抗炎、抗氧化功效。切洋葱时细胞破裂会释放酶（蒜氨酸酶）与硫化合物反应生成催泪气体，刺激眼睛的神经末梢，触发泪腺而分泌眼泪来冲洗刺激性物质，这也是其在自然环境中防止被动物啃食的化学防御机制。
+Onion - A tear-inducing flavor bulb
+A perennial herbaceous plant.
+The bulb is spherical to flattened-spherical, with a purplish-red, light yellow, or white outer skin and fleshy scales wrapped layer by layer inside; the leaves are cylindrical and hollow; the scape is stout and can reach 1 meter in height, topped with a spherical umbel, with small pinkish-white flowers with a green midrib; the fruit is nearly spherical. It blooms and fruits from May to July.
+It originated in the arid regions of West Asia, such as Iran and Afghanistan, and was later introduced to the Mediterranean and Xinjiang, China. It is named "yang cong" (foreign onion) in Chinese because of its onion-like shape. The fleshy bulb of the onion can store water in sandy soil to withstand high temperatures, which is an adaptation to the arid environment of its origin. Onion is an important ingredient for flavoring and enhancing the aroma in cooking. The active ingredients it contains, such as sulfides and quercetin, have anti-inflammatory and antioxidant effects. When an onion is cut, the cells break and release an enzyme (alliinase) that reacts with sulfur compounds to produce a tear-inducing gas, which stimulates the nerve endings in the eyes, causing the tear glands to secrete tears to wash away the irritant. This is also its chemical defense mechanism to prevent being eaten by animals in its natural environment.
 
 [SUBMARINE_CRASH_LOSS]
-你的潜艇沉没了！
+Your submarine has sunk!
 
 [SUMMER_MEMORIES_HEAD_DES_ID_25718]
-踩住冲浪板！
+Step on the surfboard!
 
 [SUMMER_MEMORIES_HEAD_ID_25718]
-海上狂欢
+Ocean Carnival
 
 [SWEETPOTATO_FAMILY]
-旋花科
+Family: Convolvulaceae
 
 [SWEETPOTATO_GENUS]
-番薯属
+Genus: Ipomoea
 
 [SWEETPOTATO_PEDIA]
-番薯——跨越千年的“地下黄金”
-多年生草本植物（农业实践作为一年生种植）。
-具圆形、椭圆形或纺锤形块根，表皮及肉质颜色因品种、土壤而异；茎平卧或缠绕，分枝多，茎节易生不定根；叶片宽卵形，基部心形，顶叶颜色为品种特征；聚伞花序腋生，具1-7朵花，花冠钟状或漏斗状，呈粉红、白、淡紫或紫色；蒴果卵形或扁圆形，分4室，含1-4粒种子。因属异花授粉植物，自花难结实，故常见开花少结果现象。
-原产于南美洲及安的列斯群岛，现已广泛栽培在全世界的热带、亚热带地区。明朝万历年间由陈振龙父子从菲律宾引入中国，故名“番（来自域外）薯”，民间亦称“红薯”、“地瓜”和“甘薯”等。其块根除可作主粮外，也是食品加工、淀粉和酒精制造工业的重要原料，根、茎、叶为优良的饲料。
+Sweet Potato - The "underground gold" that has spanned a thousand years
+A perennial herbaceous plant (cultivated as an annual in agricultural practice).
+It has round, oval, or spindle-shaped taproots, and the color of the skin and flesh varies depending on the variety and soil; the stem is prostrate or climbing, with many branches, and the stem nodes are easy to produce adventitious roots; the leaves are broadly ovate, heart-shaped at the base, and the color of the top leaves is a varietal characteristic; the cymes are axillary, with 1-7 flowers, and the corolla is bell-shaped or funnel-shaped, pink, white, light purple, or purple; the capsule is ovate or flattened-spherical, with 4 chambers and 1-4 seeds. Because it is a cross-pollinated plant and is difficult to self-pollinate, it rarely flowers and fruits.
+It originated in South America and the Antilles and is now widely cultivated in tropical and subtropical regions worldwide. It was introduced to China from the Philippines by Chen Zhenlong and his son during the Wanli period of the Ming Dynasty, hence the name "fan shu" (foreign potato). It is also commonly known as "hong shu," "di gua," and "gan shu." In addition to being a staple food, its taproot is also an important raw material for food processing, starch, and alcohol manufacturing, and its roots, stems, and leaves are excellent feed.
 
 [TASK_WORLDTASK_ATLANTIS1]
-通关海底世界第13天的简单关卡
+Clear the easy levels of Day 13 of the Underwater World.
 
 [TASK_WORLDTASK_ATLANTIS2]
-通关海底世界第13天的困难关卡
+Clear the hard levels of Day 13 of the Underwater World.
 
 [TASK_WORLDTASK_ATLANTIS3]
-通关海底世界的终极挑战
+Clear the ultimate challenge of the Underwater World.
 
 [THEME_DISABLE_BOOST_DESCRIPTION]
-禁用全部外部系统对植物的属性加成，只依靠植物原本属性
+Disables all external system attribute bonuses for plants, relying only on the plants' original attributes.
 
 [THEME_DISABLE_BOOST_DESCRIPTION_DETAILS]
-禁用以下效果，1.基因加成 2.挂件效果 3.装扮属性加成 4.家族属性加成 5.神器被动加成
+Disables the following effects: 1. Gene bonuses, 2. Pendant effects, 3. Costume attribute bonuses, 4. Family attribute bonuses, 5. Artifact passive bonuses.
 
 [THEME_DISABLE_BOOST_NAME]
-回归基本功
+Back to Basics
 
 [TIANGONG_HEAD_DES_ID_25720]
-在天宫寻宝活动中，累积抽取阶段奖励获取
+Obtained by accumulating draw rewards in the Treasure Hunt event.
 
 [TIANGONG_HEAD_ID_25720]
-玉露琼浆
+Jade Dew and Nectar
 
 [TOYS_HEAD_DES_ID_25712]
-参与活动海底大作战获得
+Obtained by participating in the Underwater Battle event.
 
 [TOYS_HEAD_ID_25712]
-深海之影
+Shadow of the Deep Sea
 
 [TREASURE_GOT_HEAD_DES_ID_25713]
-海神宝箱自选获得
+Obtained by selecting from the Poseidon's Treasure Chest.
 
 [TREASURE_GOT_HEAD_ID_25713]
-暗潮涌动
+Hidden Tide Surging
 
 [UPGRADE_MOWER_17_INFO]
-得到海底世界简单难度的小推车，可以抵挡一次僵尸对房子的进攻。
+Obtain the lawn mower for the easy difficulty of the Underwater World, which can withstand one zombie attack on the house.
 
 [VASEBREAKER_ATLANTIS_LEVEL_NAME_1]
-海底世界: 速度与激情
+Underwater World: Speed and Passion
 
 [VASEBREAKER_ATLANTIS_LEVEL_NAME_2]
-海底世界: 老爹休息日
+Underwater World: Dad's Day Off
 
 [VASEBREAKER_ATLANTIS_LEVEL_NAME_3]
-海底世界: 掉...掉下来了
+Underwater World: Falling... It's Falling
 
 [WARNING_SPERM_WHALE_BACKGROUND_DESC_1]
-抹香鲸出没，请小心！
+Sperm whales are afoot. Please be careful!
 
 [WARNING_SPERM_WHALE_BACKGROUND_DESC_2]
-抹香鲸更接近了！
+The sperm whale is getting closer!
 
 [WARNING_TIDE_WAVE_TIP]
-洋流出现了！
+Currents have appeared!
 
 [WORLD_NAME_ATLANTIS]
-海底世界
+Underwater World
 
 [ZOMBIE_ATLANTIS_ARMOR1]
-海洋路障僵尸
+Ocean Conehead Zombie
 
 [ZOMBIE_ATLANTIS_ARMOR1_DESCRIPTION]
-上浮下潜和飞来飞去又有什么差别呢？那海洋中路障的存在又有什么意义呢？或许这是空间哲学家和海鲜艺术家的共同杰作。
+What's the difference between floating up and down and flying around? What's the point of a conehead in the ocean? Perhaps this is the shared masterpiece of a spatial philosopher and a seafood artist.
 
 [ZOMBIE_ATLANTIS_ARMOR1_DESCRIPTION_HEADER]
-他的海底路障桶让他的硬度比普通海洋僵尸强壮两倍
+His underwater conehead makes him twice as tough as a regular Ocean Zombie.
 
 [ZOMBIE_ATLANTIS_ARMOR2]
-海洋铁桶僵尸
+Ocean Buckethead Zombie
 
 [ZOMBIE_ATLANTIS_ARMOR2_DESCRIPTION]
-为什么铁桶没有随着浮力飘走？为什么木头没有被水泡烂？问出这样问题的僵尸脑子一定进水了。哪里有脑子？
+Why didn't the bucket float away? Why wasn't the wood soaked? A zombie who asks such questions must have water in his brain. Where are the brains?
 
 [ZOMBIE_ATLANTIS_ARMOR2_DESCRIPTION_HEADER]
-头上的铁桶提供了极大的保护使他免受伤害
+The bucket on his head provides great protection from damage.
 
 [ZOMBIE_ATLANTIS_BASIC]
-海洋普通僵尸
+Ocean Zombie
 
 [ZOMBIE_ATLANTIS_BASIC_DESCRIPTION]
-海洋普通僵尸一肚子坏水，在他每次开口喊“脑子~”的时候灌进去的。
+The Ocean Zombie is full of bad water, which gets poured in every time he opens his mouth to shout "brains~."
 
 [ZOMBIE_ATLANTIS_BASIC_DESCRIPTION_HEADER]
-海底世界的普通僵尸
+A regular zombie from the Underwater World.
 
 [ZOMBIE_ATLANTIS_FLAG]
-海洋旗帜僵尸
+Ocean Flag Zombie
 
 [ZOMBIE_ATLANTIS_FLAG_DESCRIPTION]
-海底僵尸们相信洋流的方向代表脑子的方向，所以海洋旗子僵尸每周五早晨都会被升起来用来测定洋流，每周日晚上被收回来。
+The underwater zombies believe that the direction of the current indicates the direction of the brains, so the Ocean Flag Zombie is raised every Friday morning to measure the current and taken down every Sunday night.
 
 [ZOMBIE_ATLANTIS_FLAG_DESCRIPTION_HEADER]
-标志着一大“波”身缠海带的僵尸来了。
+Signals that a big "wave" of zombies wrapped in kelp is coming.
 
 [ZOMBIE_ATLANTIS_gargantuar]
-遗迹巨人僵尸
+Relic Gargantuar
 
 [ZOMBIE_ATLANTIS_gargantuar_DESCRIPTION]
-传说是高耸的巨人拆毁了石柱引发了大洪水，导致了美好王国被淹没。还有传说海底针对特定群体有实惠的飞行体验服务。遗迹巨人僵尸会告诉你哪个传说才是真的。
+Legend has it that a towering giant destroyed the pillars and caused a great flood, leading to the submersion of a beautiful kingdom. There is also a legend that there is a special air travel service for a specific group of people underwater. The Relic Gargantuar will tell you which legend is true.
 
 [ZOMBIE_ATLANTIS_gargantuar_DESCRIPTION_HEADER]
-砸扁一切植物，还会投掷小鬼。
+Smashes all plants and throws Imp zombies.
 
 [ZOMBIE_ATLANTIS_imp]
-遗迹小鬼僵尸
+Relic Imp
 
 [ZOMBIE_ATLANTIS_imp_DESCRIPTION]
-美好的理想总是从最微小的地方开始病变的。当这些看似微不足道的东西越来越多，理想终将沉没。遗迹小鬼僵尸最喜欢这套理论了。
+A beautiful ideal always starts to rot from the smallest things. When these seemingly insignificant things become more and more numerous, the ideal will eventually sink. The Relic Imp loves this theory the most.
 
 [ZOMBIE_ATLANTIS_imp_DESCRIPTION_HEADER]
-能被投掷出去越过你的防护罩，直接登陆潜水艇。
+Can be thrown over your defenses and directly land on the submarine.
 
 [ZOMBIE_FAT_DIVE]
-深潜僵尸
+Deep-sea Zombie
 
 [ZOMBIE_FAT_DIVE_DESCRIPTION]
-同行的压力越来越大，都把僵尸吹成了气球。幸亏在新的环境里，深潜僵尸终于明白了僵尸潜水的真谛。该摘掉了嘛？
+The pressure from his peers is getting heavier and heavier, turning the zombie into a balloon. Fortunately, in the new environment, the Deep-sea Zombie finally understood the true meaning of zombie diving. Should he take it off?
 
 [ZOMBIE_FAT_DIVE_DESCRIPTION_HEADER]
-受到非直射攻击会让背后的氧气罐破裂喷出氧气，快速带动深潜僵尸向前移动。
+When he is hit by a non-direct attack, the oxygen tank on his back will rupture and spray oxygen, causing the Deep-sea Zombie to move forward quickly.
 
 [ZOMBIE_LANTERNFISH_RIDER]
-剑鱼骑手僵尸
+Swordfish Rider Zombie
 
 [ZOMBIE_LANTERNFISH_RIDER_DESCRIPTION]
-剑鱼骑士僵尸的梦想是在海底开一场后院泳池派对，可是如何在海底再制造一个露天泳池成了大麻烦。
+The Swordfish Rider Zombie's dream is to have a backyard pool party underwater, but how to create another open-air pool in the sea has become a big problem.
 
 [ZOMBIE_LANTERNFISH_RIDER_DESCRIPTION_HEADER]
-碰到潜艇后能引爆身上的炸弹，对潜艇造成大量伤害。
+Can detonate the bomb on his body when he hits the submarine, causing a lot of damage to the submarine.
 
 [rank_avatar_diy_48]
-海底万里
+Under the Sea
