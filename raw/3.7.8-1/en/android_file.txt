@@ -76333,7 +76333,7 @@ Youthful vitality
 Launch 120 peas with random attributes in a fan-shaped area to the right.
 
 [STORE_PRODUCT_AVATAR_MEGAGATLING_TITLE]
-Super Machine Gun Shooter Outfit
+Mega Gatling Pea Outfit
 
 [STRAWBURST_FAMILY]
 Rosaceae
@@ -76620,7 +76620,7 @@ Quercus
 Acorns are the starchy, oblong to ovoid fruits of oak trees (Quercus), found widely in temperate Northern Hemisphere regions. Encased in a spiny cupule, these nuts develop from trees that flower April-May and fruit August-October. Historically, acorns were a vital "life-saving food" during famines, ground into flour for meals, tofu, or brewed into wine, as documented in ancient texts like "Zhuangzi." Modern uses include animal feed, textile sizing, and biodiesel production. Their tannins can chelate heavy metals, and medicinally, they help alleviate diarrhea and boost immunity.
 
 [ACTIVITY_SEAGODTREASURE_SHORT_DESCRIPTION]
-You can obtain the Super Machine Gun full skin and many more rare rewards.
+You can obtain the Mega Gatling Pea full costume and many more rare rewards.
 
 [ADVICE_PLANT_NOT_DEEPSEA]
 This plant cannot be planted in the sea.
@@ -76714,7 +76714,7 @@ Asparagus genus
 Asparagus is a perennial herbaceous plant, growing up to 1 meter tall, with slender stems and needle-like cladophylls. It flowers May-June and fruits Sept-Oct. Known as "Shidiaobai" for its adaptability to poor soil, sharp shoot tips, and cypress-like cladophylls, and "Lusuan" because its edible tender stems emerge like bamboo shoots, slender as reeds. Native to the Mediterranean and West Asia, it is now widely cultivated globally. This high-quality vegetable is valued for its fresh, tender texture, low-calorie content, and richness in dietary fiber, vitamins, and minerals.
 
 [ATLANTIS]
-Underwater world
+Underwater World
 
 [ATLANTIS_FINAL_LEVEL]
 Underwater World - Ultimate Challenge
@@ -77259,10 +77259,10 @@ Split Pea Little Red Riding Hood Costume
 Gold 22.67%, Diamonds 22.66%, Pendants 19.26%, Green Plants 11.33%, Blue Plants 7.93%, Purple Plants 11.33%, Orange Plants 2.49%, Super Pendants 2.04%, Vines & Costumes Multi-select Gift Box 0.23%, Advanced Book 0.06%.
 
 [NFSLINKAGE_TASK_NAME_10]
-Clear World 12 of the Underwater World
+Clear Level 12 of the Underwater World
 
 [NFSLINKAGE_TASK_NAME_9]
-Clear 1 new Underwater World level in the Daily Challenge
+Clear 1 new Underwater World level
 
 [OAKSHOOTER_FAMILY]
 Family: Fagaceae
