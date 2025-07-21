@@ -12991,7 +12991,7 @@ Remaining times:
 Today's challenge has been exhausted, come back tomorrow.
 
 [FESTIVALGAME_OPEN_TIME]
-Open in ^31FFE9
+Available in: ^31FFE9
 
 [FESTIVALGAME_LEFTTIME_TIP]
 Would you like to spend ^FF0000 {GEM_COUNT} ^oldclr gems to get an extra challenge?
@@ -13052,25 +13052,25 @@ Reward: ^FFFF00 plant puzzle pieces
 Reward: ^FFFF00 Costume pieces
 
 [WEEK_MONDAY]
-Monday
+, Monday
 
 [WEEK_TUESDAY]
-Tuesday
+, Tuesday
 
 [WEEK_WEDNESDAY]
-Wednesday
+, Wednesday
 
 [WEEK_THURSDAY]
-Thursday
+, Thursday
 
 [WEEK_FRIDAY]
-Friday
+, Friday
 
 [WEEK_SATURDAY]
-Saturday
+, Saturday
 
 [WEEK_SUNDAY]
-Sunday
+, Sunday
 
 [WEEK_DAY_SEPARATE]
 ,
