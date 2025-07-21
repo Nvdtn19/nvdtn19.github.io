@@ -12991,7 +12991,7 @@ Remaining times:
 Today's challenge has been exhausted, come back tomorrow.
 
 [FESTIVALGAME_OPEN_TIME]
-Available in: ^31FFE9
+Open in: ^31FFE9
 
 [FESTIVALGAME_LEFTTIME_TIP]
 Would you like to spend ^FF0000 {GEM_COUNT} ^oldclr gems to get an extra challenge?
