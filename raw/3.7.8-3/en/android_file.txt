@@ -13052,25 +13052,25 @@ Reward: ^FFFF00 plant puzzle pieces
 Reward: ^FFFF00 Costume pieces
 
 [WEEK_MONDAY]
- Monday
+, Monday
 
 [WEEK_TUESDAY]
- Tuesday
+, Tuesday
 
 [WEEK_WEDNESDAY]
- Wednesday
+, Wednesday
 
 [WEEK_THURSDAY]
- Thursday
+, Thursday
 
 [WEEK_FRIDAY]
- Friday
+, Friday
 
 [WEEK_SATURDAY]
- Saturday
+, Saturday
 
 [WEEK_SUNDAY]
- Sunday
+, Sunday
 
 [WEEK_DAY_SEPARATE]
 ,
