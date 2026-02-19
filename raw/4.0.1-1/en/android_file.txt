@@ -11420,7 +11420,7 @@ Waiting for Data Syncing
 Waiting for the synchronization to complete. Please click "OK" after a short while.
 
 [NET_CONNECTING]
-Connecting to Server...
+
 
 [NET_CONNECTING_DOWNLOAD]
 Loading Level...
