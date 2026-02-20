@@ -115,7 +115,7 @@ Registration Inquiry: https://beian.miit.gov.cn/
 ^00FF08^ After you unlock a world, you will need more stars to unlock the next.
 
 [SPRING_TIPS_2]
-^00FF08 Some of translations in-game are not official. We are not endorsed by the official game developer team.
+^00FF08 This translation patch are not official. We are not endorsed by the official game developer team.
 ^00FF08 Everything presented here, aside from the plants and zombies that came from the original game, is fan-made.
 
 [SPRING_TIPS_3]
@@ -146,7 +146,7 @@ Registration Inquiry: https://beian.miit.gov.cn/
 ^00FF08^ You can get culture medium for upgrading plants to level 5 in the Endless Challenge and Creative Courtyard shops.
 
 [LOADING_1]
-^00FF08^ English Patch Plus features: You have a turbo button that allows you to speed up the game in a level.
+
 
 [LOADING_2]
 ^00FF08^ English Patch Plus features: You will be able to get the Mower Launch and Instant Recharge upgrades in Star Exchange!
@@ -164,14 +164,14 @@ Registration Inquiry: https://beian.miit.gov.cn/
 ^00FF08^ English Patch Plus features: You can get up to 20000 crystal/week after beating an adventure level.
 
 [LOADING_7]
-^00FF08^ Remember to also join my Discord server to get notified whenever the patch is updated!
+^00FF08^ Join my Discord server to get notified whenever the patch is updated!
 ^00FF08^ Invite link can be found in the game settings or in the patch download page.
 
 [LOADING_8]
 ^00FF08^ English Patch Plus features: You have a chance to experience some of VIP Monthly Card privilege features!
 
 [LOADING_9]
-^00FF08^ Enable 60FPS in the game settings for better experience!
+^00FF08^ Enable 60FPS in the game settings for a better experience!
 
 [LOADING_10]
 ^00FF08^ English Patch Plus features: Plant Food and Sun now costs coins!
@@ -192,50 +192,54 @@ Registration Inquiry: https://beian.miit.gov.cn/
 ^00FF08^ English Patch is now including texture translation. Currently it's still in beta phase. Thanks to ShadowVT and RusselSky for making this possible!
 
 [LOADING_16]
-^00FF08^ Remember to also join my Discord server to get notified whenever the patch is updated!
+^00FF08^ Join my Discord server to get notified whenever the patch is updated!
 ^00FF08^ Invite link can be found in the game settings or in the patch download page.
 
 [LOADING_17]
 ^00FF08^ Find this patch is your lifesaver? Your contribution is appreciated! Consider supporting me via Buy Me A Coffee to give me more motivation to maintain the project and make the patch always free to everyone. https://buymeacoffee.com/nvdtn19
 
 [LOADING_18]
-^00FF08^ Remember to also join my Discord server to get notified whenever the patch is updated!
+^00FF08^ Join my Discord server to get notified whenever the patch is updated!
 ^00FF08^ Invite link can be found in the game settings or in the patch download page.
 
-[[FESTIVALGAME_OPEN_TIME]
-_NOTICE_1]
-^00FF08^ Find this patch is your lifesaver? Your contribution is appreciated! Consider supporting me via Buy Me A Coffee - to give me more motivation to maintain the project and make the patch always free to everyone. https://buymeacoffee.com/nvdtn19
+[401_1_NOTICE_1]
+^00FF08^ Find this patch is your lifesaver? Your contribution is appreciated! Consider supporting me via Buy Me A Coffee
+to give me more motivation to maintain the project and make the patch always free to everyone. https://buymeacoffee.com/nvdtn19
 
-[378_3_NOTICE_2]
-^00FF08^ Remember to also join my Discord server to get notified whenever the patch is updated!
+[401_1_NOTICE_2]
+^00FF08^ Join my Discord server to get notified whenever the patch is updated!
 ^00FF08^ Invite link can be found in the game settings or in the patch download page.
 
-[378_3_NOTICE_3]
-^00FF08^ Find this patch is your lifesaver? Your contribution is appreciated! Consider supporting me via Buy Me A Coffee to give me more motivation to maintain the project and make the patch always free to everyone. https://buymeacoffee.com/nvdtn19
+[401_1_NOTICE_3]
+^00FF08^ Find this patch is your lifesaver? Your contribution is appreciated! Consider supporting me via Buy Me A Coffee
+to give me more motivation to maintain the project and make the patch always free to everyone. https://buymeacoffee.com/nvdtn19
 
-[378_3_NOTICE_4]
-^00FF08^ Remember to also join my Discord server to get notified whenever the patch is updated!
+[401_1_NOTICE_4]
+^00FF08^ Join my Discord server to get notified whenever the patch is updated!
 ^00FF08^ Invite link can be found in the game settings or in the patch download page.
 
-[378_3_NOTICE_5]
-^00FF08^ Find this patch is your lifesaver? Your contribution is appreciated! Consider supporting me via Buy Me A Coffee to give me more motivation to maintain the project and make the patch always free to everyone. https://buymeacoffee.com/nvdtn19
+[401_1_NOTICE_5]
+^00FF08^ Find this patch is your lifesaver? Your contribution is appreciated! Consider supporting me via Buy Me A Coffee
+to give me more motivation to maintain the project and make the patch always free to everyone. https://buymeacoffee.com/nvdtn19
 
-[378_3_NOTICE_6]
-^00FF08^ Remember to also join my Discord server to get notified whenever the patch is updated!
+[401_1_NOTICE_6]
+^00FF08^ Join my Discord server to get notified whenever the patch is updated!
 ^00FF08^ Invite link can be found in the game settings or in the patch download page.
 
-[378_3_NOTICE_7]
-^00FF08^ Find this patch your lifesaver? Your contribution is appreciated! Consider supporting me via Buy Me A Coffee to give me more motivation to maintain the project and make the patch always free to everyone. https://buymeacoffee.com/nvdtn19
+[401_1_NOTICE_7]
+^00FF08^ Find this patch your lifesaver? Your contribution is appreciated! Consider supporting me via Buy Me A Coffee
+to give me more motivation to maintain the project and make the patch always free to everyone. https://buymeacoffee.com/nvdtn19
 
-[378_3_NOTICE_8]
-^00FF08^ Remember to also join my Discord server to get notified whenever the patch is updated!
+[401_1_NOTICE_8]
+^00FF08^ Join my Discord server to get notified whenever the patch is updated!
 ^00FF08^ Invite link can be found in the game settings or in the patch download page.
 
-[378_3_NOTICE_9]
-^00FF08^ Find this patch is your lifesaver? Your contribution is appreciated! Consider supporting me via Buy Me A Coffee to give me more motivation to maintain the project and make the patch always free to everyone. https://buymeacoffee.com/nvdtn19
+[401_1_NOTICE_9]
+^00FF08^ Find this patch is your lifesaver? Your contribution is appreciated! Consider supporting me via Buy Me A Coffee
+to give me more motivation to maintain the project and make the patch always free to everyone. https://buymeacoffee.com/nvdtn19
 
-[378_3_NOTICE_10]
-^00FF08^ Remember to also join my Discord server to get notified whenever the patch is updated!
+[401_1_NOTICE_10]
+^00FF08^ Join my Discord server to get notified whenever the patch is updated!
 ^00FF08^ Invite link can be found in the game settings or in the patch download page.
 
 [FAQ_1]
@@ -264,11 +268,11 @@ A: Currently, there's no report about someone got banned in-game when using this
 
 [FAQ_7]
 Q: I want to purchase an item in-game with my real money. Is it possible to do that in Android?
-A: Yes, you can. You can use Alipay or WeChat Pay, but there are some requirements. Both platforms may requires you to have Visa/MasterCard + a passport to verify your payment account. Alternatively, if you're using the Bilibili version, you can also purchase using PayPal, which only requires a Visa.
+A: Yes, you can. You can use Alipay or WeChat Pay.
 
 [FAQ_8]
 Q: I want to purchase an item in-game with my real money. Is it possible to do that in iOS version?
-A: You need to have Alipay/WeChat Pay  account and make sure that it's linked to your Chinese Apple ID. Alipay/WeChat Pay may require a Visa/MasterCard and passport verification. Alternatively, you can use an iTunes gift card, but a Chinese phone number is needed. Note that payment isn't supported if installing the patch via the IPA method.
+A: You need to have Alipay/WeChat Pay  account and make sure that it's linked to your Chinese Apple ID. Alipay/WeChat Pay may require a passport verification. Alternatively, you can use an iTunes gift card, but a Chinese phone number is needed. Note that payment isn't supported if installing the patch via the IPA method.
 
 [FAQ_9]
 
