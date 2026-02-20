@@ -1,6 +1,9 @@
 [ORIGINAL_TRANSLATION_MADE_BY_PEA_GAMEPLAY]
 Note: All the translation in this lawnstrings must not exceed 1021 characters or the game will just can't handle it.
 
+[TEST_UTF_8_BOM]
+植物大战僵尸2
+
 [COMPLAIN_CONTENT]
 Welcome! You're using English patch for PvZ2 Chinese version. Made by Pea Gameplay with some helps from other people.
 This translation is not a fully completed product. However, it's worth noting that it has successfully translated the most important aspects, enhancing your understanding of the game.
