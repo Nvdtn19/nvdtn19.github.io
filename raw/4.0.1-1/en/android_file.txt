@@ -367,10 +367,10 @@ Revival Endless Challenger
 For players who have achieved results in the Revival Endless Challenge.
 
 [IMPPEAR_SKILL_LEVEL5]
-趣味爆破
+Hobbyist Demolition
 
 [IMPPEAR_SKILL_LEVEL5_DES]
-有概率释放随机手雷弹，爆破弹对敌方造成高额伤害并且有概率炸飞僵尸，闪光弹可以对3X3范围内敌方单位造成定身效果，毒气弹可以对3X3范围内敌方单位造成10秒中毒效果。
+Grants a chance to throw a random grenade. Explosive Rounds deal massive damage to enemies with a chance to knock back zombies; Flashbangs immobilize enemy units within a 3x3 area; Gas Grenades inflict a Poison effect on enemy units within a 3x3 area for 10 seconds.
 
 [MAPLEBLADE]
 Maple Swordsman
@@ -35041,7 +35041,7 @@ Purple
 Orange
 
 [NEW_PLANT_UI_SORT_BY_VALUE_P_0]
-Toughness
+HP
 
 [NEW_PLANT_UI_SORT_BY_VALUE_P_1]
 Attack
@@ -35077,7 +35077,7 @@ Pendant
 Damage
 
 [NEW_PLANT_UI_PLANT_VALUE_HP_LABEL]
-Toughness
+HP
 
 [NEW_PLANT_UI_PLANT_VALUE_ATTACK_LABEL]
 Attack
