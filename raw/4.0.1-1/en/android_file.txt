@@ -11446,13 +11446,13 @@ Searching Player...
 Waiting
 
 [DIALOG_WAITING_OVERTIME]
-Complete simultaneously.
+Done!
 
 [DIALOG_WAITING_FAIL_BACK]
-Continue the game.
+OK
 
 [DIALOG_WAITING_SUC_BACK]
-Continue the game.
+OK
 
 [BORROW_PLANT_TITLE]
 Borrow Plants
