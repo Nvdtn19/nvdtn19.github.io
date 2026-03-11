@@ -27678,7 +27678,7 @@ Autumn Excursion
 Winter Battle Pass
 
 [BATTLE_ORDER_SPRINGFESTIVAL]
-Wishing you a happy new year.
+New Year Battle Pass
 
 [BATTLE_ORDER_TAB1]
 Levels
@@ -27699,7 +27699,7 @@ Autumn Excursion
 Lucky Winter
 
 [BATTLE_ORDER_TAB5_SPRINGFESTIVAL]
-Wishing you a happy new year.
+New Year Battle Pass
 
 [BATTLE_ORDER_OBTAIN_EXP]
 Task
@@ -78679,7 +78679,7 @@ Defeat {NUMBER} Ghost Thieves.
 Eliminated {NUMBER} Spring Festival Zombie Series.
 
 [DOOMSHROOM]
-Destroying Mushroom
+Doom-shroom
 
 [DOOMSHROOM_AVATAR_NAME]
 Doomsday Mushroom Costume
@@ -78711,7 +78711,7 @@ There is a 50% chance that the plant will immediately grow to its maximum stage 
 Devastation Shrooms can be planted on Ash Pits, and zombies that receive Devastation Shroom explosion damage but do not die will be irradiated.
 
 [DOOMSHROOM_PLANTFOOD_DESCRIPTION]
-Immediately detonate all Destroying Mushrooms on the field, expanding the blast radius to encompass all zombies.
+Immediately detonate all Doom-shroom on the field, expanding the blast radius to encompass all zombies.
 
 [DOOMSHROOM_SKILL_LEVEL1]
 Mushroom fission.
@@ -79972,7 +79972,7 @@ It's time for "Crazy Dave" to take his final bow.
 Alert! Uncontrolled supercritical fission detected.
 
 [NARRATIVE_PVZ1_S28_5_H_INTRO_2]
-After the Destroying Mushroom explodes, it will randomly scatter spores to reproduce.
+After the Doom-shroom explodes, it will randomly scatter spores to reproduce.
 
 [NARRATIVE_PVZ1_S28_5_H_INTRO_3]
 We need to promptly protect the separated products in order to obtain more experimental data.
