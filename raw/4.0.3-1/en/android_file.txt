@@ -196,47 +196,42 @@ Registration Inquiry: https://beian.miit.gov.cn/
 ^00FF08^ Invite link can be found in the game settings or in the patch download page.
 
 [LOADING_17]
-^00FF08^ Find this patch is your lifesaver? Your contribution is appreciated! Consider supporting me via Buy Me A Coffee to give me more motivation to maintain the project and make the patch always free to everyone. https://buymeacoffee.com/nvdtn19
+
 
 [LOADING_18]
 ^00FF08^ Join my Discord server to get notified whenever the patch is updated!
 ^00FF08^ Invite link can be found in the game settings or in the patch download page.
 
 [401_1_NOTICE_1]
-^00FF08^ Find this patch is your lifesaver? Your contribution is appreciated! Consider supporting me via Buy Me A Coffee
-to give me more motivation to maintain the project and make the patch always free to everyone. https://buymeacoffee.com/nvdtn19
+
 
 [401_1_NOTICE_2]
 ^00FF08^ Join my Discord server to get notified whenever the patch is updated!
 ^00FF08^ Invite link can be found in the game settings or in the patch download page.
 
 [401_1_NOTICE_3]
-^00FF08^ Find this patch is your lifesaver? Your contribution is appreciated! Consider supporting me via Buy Me A Coffee
-to give me more motivation to maintain the project and make the patch always free to everyone. https://buymeacoffee.com/nvdtn19
+
 
 [401_1_NOTICE_4]
 ^00FF08^ Join my Discord server to get notified whenever the patch is updated!
 ^00FF08^ Invite link can be found in the game settings or in the patch download page.
 
 [401_1_NOTICE_5]
-^00FF08^ Find this patch is your lifesaver? Your contribution is appreciated! Consider supporting me via Buy Me A Coffee
-to give me more motivation to maintain the project and make the patch always free to everyone. https://buymeacoffee.com/nvdtn19
+
 
 [401_1_NOTICE_6]
 ^00FF08^ Join my Discord server to get notified whenever the patch is updated!
 ^00FF08^ Invite link can be found in the game settings or in the patch download page.
 
 [401_1_NOTICE_7]
-^00FF08^ Find this patch your lifesaver? Your contribution is appreciated! Consider supporting me via Buy Me A Coffee
-to give me more motivation to maintain the project and make the patch always free to everyone. https://buymeacoffee.com/nvdtn19
+
 
 [401_1_NOTICE_8]
 ^00FF08^ Join my Discord server to get notified whenever the patch is updated!
 ^00FF08^ Invite link can be found in the game settings or in the patch download page.
 
 [401_1_NOTICE_9]
-^00FF08^ Find this patch is your lifesaver? Your contribution is appreciated! Consider supporting me via Buy Me A Coffee
-to give me more motivation to maintain the project and make the patch always free to everyone. https://buymeacoffee.com/nvdtn19
+
 
 [401_1_NOTICE_10]
 ^00FF08^ Join my Discord server to get notified whenever the patch is updated!
@@ -271,8 +266,7 @@ Q: I want to purchase an item in-game with my real money. Is it possible to do t
 A: Yes, you can. You can use Alipay or WeChat Pay.
 
 [FAQ_8]
-Q: I want to purchase an item in-game with my real money. Is it possible to do that in iOS version?
-A: You need to have Alipay/WeChat Pay  account and make sure that it's linked to your Chinese Apple ID. Alipay/WeChat Pay may require a passport verification. Alternatively, you can use an iTunes gift card, but a Chinese phone number is needed. Note that payment isn't supported if installing the patch via the IPA method.
+
 
 [FAQ_9]
 

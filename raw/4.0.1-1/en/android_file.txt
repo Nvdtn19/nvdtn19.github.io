@@ -1217,7 +1217,7 @@ Repeater gains 16% chance to shoot a frozen pea, and fire pea.
 Repeater's have 32% chance to shoot a frozen pea or a fire pea.In addition, he have 16% chance to shoot plasma peas.
 
 [REPEATER_NEW_SKILL_LEVEL4_DES]
-There's a moderate chance of instantly unleashing the ultimate ability (Energy Beans) when planting.
+There's a moderate chance of instantly unleashing the ultimate ability (Plant Food) when planting.
 
 [REPEATER_PLANTFOOD_DESCRIPTION]
 Continuously fires 60 peas, and a giant pea at the end, dealing 400 damage.
@@ -3746,7 +3746,7 @@ The Tulip Trumpeter has a 10% chance to fire a 30-point damage Charm Wave on att
 The triggering probability of the "Misty Sound" skill increases by 100%. When attacking, there is a 20% chance to emit a charming sound wave, charming zombies below level 5 ^ff4284^Charm I^oldclr^. Healing effects are increased to 200 points.
 
 [TULIPTRUMPETER_NEW_SKILL_LEVEL4_DES]
-There's a high probability of directly unleashing the ultimate ability (Energy Beans) when planting!
+There's a high probability of directly unleashing the ultimate ability (Plant Food) when planting!
 
 [TULIPTRUMPETER_NEW_SKILL_LEVEL5_DES]
 There is a 20% chance to continuously fire three 60-point damage red sound waves upon attack, dealing 300 points of damage to nearby zombies. Healing effectiveness is increased to 300 points.
@@ -11446,7 +11446,7 @@ Searching Player...
 Waiting
 
 [DIALOG_WAITING_OVERTIME]
-Done!
+Timeout
 
 [DIALOG_WAITING_FAIL_BACK]
 OK
@@ -11506,7 +11506,7 @@ Second Place
 Third Place
 
 [TELECOM_PURCHASE_TIPS]
-Is it spending % d ¥ to buy % s?
+Do you want to spend % d ¥ to buy % s?
 
 [TELECOM_PURCHASE_SUCCESS]
 Purchase %s Success
@@ -76510,7 +76510,7 @@ Upon summoning the small shark, there is a 15% chance to summon two, while simul
 When summoning a small shark, there is a 20% chance to summon two instead, which simultaneously boosts their attack power and reduces the cooldown for summoning another. The Tier 3 ultimate ability can instantly kill Tier 6 small to medium-sized zombies.
 
 [AQUAWEED_NEW_SKILL_LEVEL4_DES]
-When planted, it has a high chance to directly unleash an Energy Bean ultimate ability; its Level 4 ultimate can instantly kill Level 8 small to medium-sized zombies.
+When planted, it has a high chance to directly unleash an Plant Food ultimate ability; its Level 4 ultimate can instantly kill Level 8 small to medium-sized zombies.
 
 [AQUAWEED_NEW_SKILL_LEVEL5_DES]
 With each summon, there is a chance to call forth a special small shark (which appears red) that will directly devour zombies. The Level 5 ultimate ability can instantly kill Level 10 small and medium-sized zombies.
@@ -77037,7 +77037,7 @@ Armory Master
 Planting cooldown shortened by 30%
 
 [NEW_AVATAR_DESCRIPTION_CACTUS_2]
-The number of scattered spikes in the first wave is doubled when an energy bean is used for the first time in the underground state.
+The number of scattered spikes in the first wave is doubled when an Plant Food is used for the first time in the underground state.
 
 [NEW_AVATAR_DESCRIPTION_FIREPEASHOOTER_2]
 Attack power increased by 10%
@@ -77136,7 +77136,7 @@ Slightly increases the health and attack power of surrounding plants and reduces
 Further increases the health and attack power of surrounding plants, and reduces the sun production interval.
 
 [OXYGENALGAE_NEW_SKILL_LEVEL4_DES]
-There is a medium chance to directly release the energy bean ultimate move when planted.
+There is a medium chance to directly release the Plant Food ultimate move when planted.
 
 [OXYGENALGAE_PLANTFOOD_DESCRIPTION]
 The big move immediately generates 125 sun and slightly increases the attack speed of plants in a 3x3 area for 10 seconds.
@@ -77662,7 +77662,7 @@ Sea-shroom's survival time is increased to 90 seconds.
 Sea-shroom's survival time is increased to 120 seconds.
 
 [SEASHROOM_NEW_SKILL_LEVEL4_DES]
-There is a chance to directly release the energy bean ultimate move when planted!
+There is a chance to directly release the Plant Food ultimate move when planted!
 
 [SEASHROOM_PLANTFOOD_DESCRIPTION]
 Randomly generates a new Sea-shroom in the surrounding 8 squares and immediately launches 30 bullets forward, while also activating the ultimate move of all Sea-shrooms on the field and resetting their disappearance time.
@@ -77905,7 +77905,7 @@ There is a 20% chance of selecting a new enemy generation gift box again.
 There is a 40% chance of selecting a new enemy generation gift box again.
 
 [ACTINOSTEMMA_NEW_SKILL_LEVEL4_DES]
-There's a moderate chance of immediately using the ultimate ability, Energy Beans, when planting.
+There's a moderate chance of immediately using the ultimate ability, Plant Food, when planting.
 
 [ACTINOSTEMMA_NEW_SKILL_LEVEL5_DES]
 When attacking, Box Grass Fireworks have a 10% chance to launch a larger box, and a 50% chance to package zombies within a 3x3 area into new boxes after the effect is triggered.
@@ -78001,7 +78001,7 @@ You can exile two zombies simultaneously; exiled zombies receive 20% increased m
 Up to three zombies can be exiled simultaneously, and exiled zombies receive 30% increased magical damage.
 
 [AEONIUM_NEW_SKILL_LEVEL4_DES]
-There's a moderate chance of immediately using the ultimate ability, Energy Beans, when planting.
+There's a moderate chance of immediately using the ultimate ability, Plant Food, when planting.
 
 [AEONIUM_NEW_SKILL_LEVEL5_DES]
 There is a 30% chance that banishing a zombie will permanently exile it, triggering an explosive impact. Even if a zombie cannot be instantly killed, it will still enter an exiled state and suffer damage equal to ten times your attack power. Elite and boss zombies cannot be exiled.
@@ -78687,7 +78687,7 @@ Destroying Mushroom
 Doomsday Mushroom Costume
 
 [DOOMSHROOM_AVATAR_PLANTFOOD_DESCRIPTION]
-After using the Energy Bean, first cause the existing Doom Shroom on the field to immediately advance one stage of growth.
+After using the Plant Food, first cause the existing Doom Shroom on the field to immediately advance one stage of growth.
 
 [DOOMSHROOM_DESCRIPTION]
 {KEYWORD} Characteristics: {STAT} Explodes upon being attacked by zombies, dealing devastating damage.
@@ -78763,7 +78763,7 @@ After each charge, the Duck Pear has a 15% chance to trigger a special attack, l
 After each charge, the Duck Pear has a 25% chance to trigger a special attack, launching a water orb one level higher.
 
 [DUCKPEAR_NEW_SKILL_LEVEL4_DES]
-There's a moderate chance of instantly unleashing the ultimate ability, Energy Beans, when planting.
+There's a moderate chance of instantly unleashing the ultimate ability, Plant Food, when planting.
 
 [DUCKPEAR_NEW_SKILL_LEVEL5_DES]
 Upon attack, there is a 20% chance of emitting a special jelly water orb, which can absorb a giant zombie into its internal space. Each special orb can absorb only one giant zombie, and a giant zombie occupies only one absorption capacity.
@@ -78992,7 +78992,7 @@ The base left behind when a Gold Cicada Flower dies can continue to attract zomb
 The base left behind when a Gold Cicada Flower dies can continue to attract zombies for 15 seconds.
 
 [GOLDENCASSIA_NEW_SKILL_LEVEL4_DES]
-There's a high probability of directly unleashing the ultimate ability (Energy Beans) when planting.
+There's a high probability of directly unleashing the ultimate ability (Plant Food) when planting.
 
 [GOLDENCASSIA_NEW_SKILL_LEVEL5_DES]
 The Golden Cicada Flower continuously chants scriptures, silently attracting nearby Buddhist zombie monks, preventing them from casting spells.
@@ -79204,7 +79204,7 @@ When in Horse form or Dragon form, the basic attack's explosion range has a 20% 
 The probability of stunning enemies with the explosion from basic attacks in both Horse Form and Dragon Form has been increased to 40%.
 
 [LONGMALILY_NEW_SKILL_LEVEL4_DES]
-There's a moderate chance of instantly unleashing the ultimate ability, Energy Beans, when planting.
+There's a moderate chance of instantly unleashing the ultimate ability, Plant Food, when planting.
 
 [LONGMALILY_NEW_SKILL_LEVEL5_DES]
 Normal attacks evolve into a White Dragon Phantom, gaining full-line penetration ability. The Phantom independently judges and applies the shockwave effect upon contact with zombies along its path (100% trigger on the first target).
@@ -79297,10 +79297,10 @@ Life Restoration III
 Cash coin
 
 [MAT_MAUSOLEUM_POWERUP1]
-Initial Energy Bean I
+Initial Plant Food I
 
 [MAT_MAUSOLEUM_POWERUP2]
-Initial Energy Bean II
+Initial Plant Food II
 
 [MAT_NFSLINKAGE_TICKET_4]
 Gear
@@ -79629,7 +79629,7 @@ It's like the relationship between a burrito and a cast iron spatula, isn't it?
 This unit possesses the ability to induce dormancy in plants.
 
 [NARRATIVE_HALLOWEEN_6_INTRO_6]
-If not awakened in time with coffee beans or energy beans, something terrible might happen!
+If not awakened in time with coffee beans or Plant Food, something terrible might happen!
 
 [NARRATIVE_HALLOWEEN_6_INTRO_7]
 Please handle this with care!
@@ -80814,7 +80814,7 @@ When no zombies are nearby, plants will begin to regenerate, recovering health p
 Shield capacity increased to 2000 points.
 
 [PEONYCHI_NEW_SKILL_LEVEL4_DES]
-There's a moderate chance of instantly unleashing the ultimate ability, Energy Beans, when planting.
+There's a moderate chance of instantly unleashing the ultimate ability, Plant Food, when planting.
 
 [PEONYCHI_NEW_SKILL_LEVEL5_DES]
 After blocking a giant zombie's attack, the user will channel the force to unleash a palm wind that deals damage within a 3-grid range forward, and will knock back the reflected giant 3 grids, as well as launch any medium or small zombies along a 3-grid path into the air.
@@ -80931,7 +80931,7 @@ Chromatic Custom Gift Package
 Ineffectual resilience.
 
 [PROTECTOR_PLANT_NO_PLANTFOOD_DIFFICULTY_1_DESCRIPTION]
-Resilient plants cannot use the Energy Bean ultimate ability.
+Resilient plants cannot use the Plant Food ultimate ability.
 
 [PUMPKINWITCH_NEW_SKILL_LEVEL5_DES]
 There is a 30% chance that a pumpkin will drop with a wizard hat. These pumpkins generate pumpkin golems that can remotely cast spells, dealing damage and applying a silence effect.
@@ -82423,7 +82423,7 @@ The attack transforms into a continuous expulsion of two spores.
 The attack transforms into a continuous expulsion of three spores.
 
 [SCAREDYSHROOM_NEW_SKILL_LEVEL4_DES]
-There's a low chance of directly unleashing the ultimate ability, Energy Beans, when planting.
+There's a low chance of directly unleashing the ultimate ability, Plant Food, when planting.
 
 [SCAREDYSHROOM_NEW_SKILL_LEVEL5_DES]
 Upon rising from a timid state, the Cowardly Shroom will immediately expel 20 spores and inflict a knockback effect.
@@ -82518,7 +82518,7 @@ The number of bullets fired increases when using an ultimate ability.
 Fire three bullets to attack enemies in three directions.
 
 [SEASHOOTER_NEW_SKILL_LEVEL1_DES]
-You can fire bullets in three directions to attack zombies. When unleashing the energy bean ultimate ability, it can trigger up to three elite pea family plants within a 3x3 area to unleash their ultimate abilities simultaneously. After planting, the attack power increases by 5 points and attack speed decreases for each nearby water source; planting in the underwater world grants a full attack power buff.
+You can fire bullets in three directions to attack zombies. When unleashing the Plant Food ultimate ability, it can trigger up to three elite pea family plants within a 3x3 area to unleash their ultimate abilities simultaneously. After planting, the attack power increases by 5 points and attack speed decreases for each nearby water source; planting in the underwater world grants a full attack power buff.
 
 [SEASHOOTER_NEW_SKILL_LEVEL2_DES]
 Level 2 allows linking of regular Pea Shooters and Venom Pea Shooters.
@@ -82527,7 +82527,7 @@ Level 2 allows linking of regular Pea Shooters and Venom Pea Shooters.
 Level 3 allows for synergy with the Pea Shooter Mortar.
 
 [SEASHOOTER_NEW_SKILL_LEVEL4_DES]
-There's a moderate chance of instantly unleashing the ultimate ability, Energy Beans, when planting.
+There's a moderate chance of instantly unleashing the ultimate ability, Plant Food, when planting.
 
 [SEASHOOTER_NEW_SKILL_LEVEL5_DES]
 It is possible to link with Super Monkey, including the fused Super Monkey. After linked plants unleash their special ability, there is a 10% chance to continue unleashing the special ability, excluding Pea Shooter.
@@ -82566,7 +82566,7 @@ Fire three bullets to attack enemies in three directions.
 Ineffective Remote.
 
 [SHOOTER_PLANT_NO_PLANTFOOD_DIFFICULTY_1_DESCRIPTION]
-Remote-type plants cannot use the Energy Bean ultimate ability.
+Remote-type plants cannot use the Plant Food ultimate ability.
 
 [SHOVEL_PLANT_SPAWN_GRAVESTONE_DIFFICULTY_1]
 Shovel for gravestones.
@@ -82655,7 +82655,7 @@ This challenge will not consume your daily challenge attempts!
 Ineffectual Prodigy
 
 [SPECIALIST_PLANT_NO_PLANTFOOD_DIFFICULTY_1_DESCRIPTION]
-Surprise attack-type plants cannot use the Energy Bean ultimate ability.
+Surprise attack-type plants cannot use the Plant Food ultimate ability.
 
 [SPLITPEA_SKILL1_LEVEL5]
 Twist! Another twist!
@@ -82750,7 +82750,7 @@ Phantom Forest Horse: Zombies within the magic circle will be stunned until the 
 Pokémon Trainer Outfit
 
 [STORE_PRODUCT_AVATAR_DOOMSHROOM]
-After using the Energy Bean, first cause the existing Doom Shroom on the field to immediately advance one stage of growth.
+After using the Plant Food, first cause the existing Doom Shroom on the field to immediately advance one stage of growth.
 
 [STORE_PRODUCT_AVATAR_DOOMSHROOM_TITLE]
 Doomsday Mushroom Disguise
@@ -82810,7 +82810,7 @@ The number of bullets fired increases when using an ultimate ability.
 Sweet Pea Costume
 
 [STORE_PRODUCT_AVATAR_UMBRELLALEAF]
-Now, the Energy Bean's ultimate ability can also knock back Giant Zombies.
+Now, the Plant Food's ultimate ability can also knock back Giant Zombies.
 
 [STORE_PRODUCT_AVATAR_UMBRELLALEAF_TITLE]
 Leaf-umbrella attire.
@@ -82867,7 +82867,7 @@ Choose one super outfit.
 Ineffective support.
 
 [SUPPORTER_PLANT_NO_PLANTFOOD_DIFFICULTY_1_DESCRIPTION]
-Support-type plants cannot use the Energy Bean ultimate ability.
+Support-type plants cannot use the Plant Food ultimate ability.
 
 [TAG_ZOMBIE_SPEED_DIFFICULTY_1]
 Ice vehicle zombies have increased movement speed.
@@ -83118,7 +83118,7 @@ Leaf Umbrella
 Leaf-umbrella attire.
 
 [UMBRELLALEAF_AVATAR_PLANTFOOD_DESCRIPTION]
-Now, the Energy Bean's ultimate ability can also knock back Giant Zombies.
+Now, the Plant Food's ultimate ability can also knock back Giant Zombies.
 
 [UMBRELLALEAF_DESCRIPTION]
 {KEYWORD} Characteristics: Deflects falling zombies and knocks them back.
@@ -83138,7 +83138,7 @@ Units like the shambling zombies that can be moved can now be upgraded to level 
 Units like the shambling zombies that can be moved can now be upgraded to level 8.
 
 [UMBRELLALEAF_NEW_SKILL_LEVEL4_DES]
-There's a moderate chance of instantly unleashing the ultimate ability, Energy Beans, when planting.
+There's a moderate chance of instantly unleashing the ultimate ability, Plant Food, when planting.
 
 [UMBRELLALEAF_NEW_SKILL_LEVEL5_DES]
 When facing projectiles from most common zombies, it can reflect them back to the thrower. When facing certain projectiles with powerful effects, it can absorb the impact of those projectiles for plants within a 3x3 area.
@@ -83611,7 +83611,7 @@ The witch is about to arrive, please be careful!
 Ineffectual Vanguard
 
 [WARRIOR_PLANT_NO_PLANTFOOD_DIFFICULTY_1_DESCRIPTION]
-Pioneer-class plants cannot use the Energy Bean ultimate ability.
+Pioneer-class plants cannot use the Plant Food ultimate ability.
 
 [ZCORP_LEVEL_NAME_01_H]
 Z Company (Difficulties) - Day 1
@@ -84376,7 +84376,7 @@ When planted on Serpent Vine, plants of the Poison element gain a 20% increase t
 When planted on Serpent Vine, plants of the Poison type gain a 30% increase to their Poison attack damage and also increase their Poison Mist duration by 1 second.
 
 [poisonvine_NEW_SKILL_LEVEL4_DES]
-There's a moderate chance of immediately using the ultimate ability, Energy Beans, when planting.
+There's a moderate chance of immediately using the ultimate ability, Plant Food, when planting.
 
 [poisonvine_NEW_SKILL_LEVEL5_DES]
 Upon attacking, there is a 30% chance of firing a special bullet. When this special bullet hits a zombie, it triggers a toxic gas explosion within a 3x3 area and spreads any existing poison effects on the zombie to nearby enemies.
