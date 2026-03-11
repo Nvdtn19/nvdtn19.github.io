@@ -202,38 +202,38 @@ Registration Inquiry: https://beian.miit.gov.cn/
 ^00FF08^ Join my Discord server to get notified whenever the patch is updated!
 ^00FF08^ Invite link can be found in the game settings or in the patch download page.
 
-[401_1_NOTICE_1]
+[403_1_NOTICE_1]
 
 
-[401_1_NOTICE_2]
+[403_1_NOTICE_2]
 ^00FF08^ Join my Discord server to get notified whenever the patch is updated!
 ^00FF08^ Invite link can be found in the game settings or in the patch download page.
 
-[401_1_NOTICE_3]
+[403_1_NOTICE_3]
 
 
-[401_1_NOTICE_4]
+[403_1_NOTICE_4]
 ^00FF08^ Join my Discord server to get notified whenever the patch is updated!
 ^00FF08^ Invite link can be found in the game settings or in the patch download page.
 
-[401_1_NOTICE_5]
+[403_1_NOTICE_5]
 
 
-[401_1_NOTICE_6]
+[403_1_NOTICE_6]
 ^00FF08^ Join my Discord server to get notified whenever the patch is updated!
 ^00FF08^ Invite link can be found in the game settings or in the patch download page.
 
-[401_1_NOTICE_7]
+[403_1_NOTICE_7]
 
 
-[401_1_NOTICE_8]
+[403_1_NOTICE_8]
 ^00FF08^ Join my Discord server to get notified whenever the patch is updated!
 ^00FF08^ Invite link can be found in the game settings or in the patch download page.
 
-[401_1_NOTICE_9]
+[403_1_NOTICE_9]
 
 
-[401_1_NOTICE_10]
+[403_1_NOTICE_10]
 ^00FF08^ Join my Discord server to get notified whenever the patch is updated!
 ^00FF08^ Invite link can be found in the game settings or in the patch download page.
 
