@@ -28467,18 +28467,18 @@ Carnival Event Description
 Daily gift packages refresh, redeemable with exchange coupons. Each purchase offers fixed items plus random prizes/diamonds (view details with "?"). Daily "Flash Sales" (20:00-22:00) feature discounted packages (limited 1000, one per person) and "Lucky Bags" (randomly receive a sale package, limited 10,000, one per person). Preview upcoming Flash Sales. Purchasing unlocks personal & server-wide progress rewards (one purchase required for server reward). High-value rewards may trigger a server announcement. Exchange coupons can be saved for future Carnival events; recharge via the "+" button. Detailed rules & rewards are below.
 
 [CARNIVAL_DESCRIPTION_2]
-9. The contents of each Package are as follows:
-A. Preferred orange plant Pack: Purchase the Pack to get ^ff0000 plant pieces*10^oldclrr and 10-675 diamonds, with a 25% probability of getting plant pieces*30；
-B. Orange plant Package: Purchase the Package to get ^ff0000 plant pieces*10^oldclrr and 10-450 diamonds, with a 25% probability of getting plant pieces*30；
-C. Purple plant Package: Purchase the Package to get ^ff0000 plant pieces*10^oldclrr and 10-270 diamonds, with a 20% probability of getting plant pieces*30；
-D. Oriented plant piece Pack: Purchase the Pack to get ^ff0000 Oriented plant piece*10^oldclrr and 10-900 diamonds, with a 15% probability of getting universal piece*30；
-E. Pendant Package: Purchase the Package to get ^ff0000 time and space dust*150^oldclrr and 10-450 diamonds, with a 30% probability of getting purple glove pieces*15；
-F. Dave penny ticket Coupon Pack: Purchase the Pack to get ^ff0000 penny ticket Coupon*8^oldclrr and 10-1500 diamonds, with a 15% probability of getting penny ticket Coupon*22；
-G. Nutrient solution Pack: Purchase the Pack to get ^ff0000 orange nutrient solution*10^oldclrr and 10-450 diamonds, with a 20% probability of getting the advanced book*1；
-H. Diamond Package: Purchase the Package to get ^ff0000 diamond*300^oldclrr and 10-450 diamonds, with a 35% probability of getting diamond*1000；
-I. Gold coin Package: Purchase the Package to get ^ff0000 gold coins*450000^oldclrr and 10-450 diamonds, with a 50% probability of getting gold coins*750000；
-J. Flash sale Package: Purchase the Package to get ^ff0000 plant pieces*10^oldclrr and 10-1000 diamonds, with a 25% probability of getting plant pieces*30；
-K. Artifact material Pack: Purchase the Pack to get ^ff0000 space-time energy tank*20^oldclrr and 10-180 diamonds, with a 35% probability of getting space-time cubic*10；
+1. Package contents:
+A. Preferred orange plant: Get ^ff0000 plant pieces10^oldclrr, 10-675 diamonds; 25% chance of plant pieces30.
+B. Orange plant: Get ^ff0000 plant pieces10^oldclrr, 10-450 diamonds; 25% chance of plant pieces30.
+C. Purple plant: Get ^ff0000 plant pieces10^oldclrr, 10-270 diamonds; 20% chance of plant pieces30.
+D. Oriented plant piece: Get ^ff0000 Oriented piece10^oldclrr, 10-900 diamonds; 15% chance of universal piece30.
+E. Pendant: Get ^ff0000 time/space dust150^oldclrr, 10-450 diamonds; 30% chance of purple glove pieces15.
+F. Dave penny ticket: Get ^ff0000 penny ticket8^oldclrr, 10-1500 diamonds; 15% chance of penny ticket22.
+G. Nutrient solution: Get ^ff0000 orange nutrient10^oldclrr, 10-450 diamonds; 20% chance of advanced book1.
+H. Diamond: Get ^ff0000 diamond300^oldclrr, 10-450 diamonds; 35% chance of diamond1000.
+I. Gold coin: Get ^ff0000 coins450000^oldclrr, 10-450 diamonds; 50% chance of coins750000.
+J. Flash sale: Get ^ff0000 plant pieces10^oldclrr, 10-1000 diamonds; 25% chance of plant pieces30.
+K. Artifact material: Get ^ff0000 energy tank20^oldclrr, 10-180 diamonds; 35% chance of space-time cubic10.
 
 [CARNIVAL]
 Carnival
@@ -76241,7 +76241,7 @@ Soaring through the starry sky.
 Qigong Master
 
 [GINGLEBELL_DESCRIPTION]
-Damage to Umbrella Zombies earns clear scores. Daily rewards use scores from the newest stage, resetting daily. Three sequential themes (Elegant, Painting, Seated, Spring, Scenic) unlock over the event, with new stages every two days and themes every six. Theme mechanics are visible on the main interface. Leaderboard ranking uses the latest theme's three stages. Leaderboards freeze 0:00-10:00 for display, preventing play of older stages. Rewards distribute at 10:00. March 29, 2026, extends display to a full day, disabling stage challenges. Score anomalies disqualify players from the leaderboard.
+Damage to Umbrella Zombies earns clear scores. Daily rewards use scores from the newest stage, resetting daily. Three sequential themes (Elegant, Painting, Seated, Spring, Scenic) unlock over the event, with new stages every two days and themes every six. Theme mechanics are visible on the main interface. Leaderboard ranking uses the latest theme's three stages. Leaderboards freeze 0:00-10:00 for display, preventing play of older stages. Rewards distribute at 10:00. March 30, 2026, extends display to a full day, disabling stage challenges. Score anomalies disqualify players from the leaderboard.
 
 [GINGLEBELL_RANK_REWARD_TITLE]
 Spring Festival Dingdang Ranking Rewards
@@ -76253,7 +76253,7 @@ Gracefully entering a painting - Level Two
 Ice melts, clouds disperse - Level Three
 
 [GINGLEBELL_TITLE]
-Spring has arrived, and the sound of joyful laughter fills the air.
+Spring Joy
 
 [HEAVENTREASURE_DESCRIPTION]
 Monthly server resets retain Treasure Keys and Celestial Coins. Earn Keys through the Celestial Treasure Hunt to draw for prizes; draw attempts, purchase, and redemption limits reset monthly, but guaranteed attempts persist. Every ten draws offer a random discount (1-90%), and every twenty guarantees a grand prize.
@@ -84658,13 +84658,13 @@ Please complete the challenge within this time frame!
 Mini-games
 
 [PVZ1MODE_MINIGAME_TAB_NAME1]
-Play some small games.
+Play some small games
 
 [PVZ1MODE_MINIGAME_TAB_NAME2]
-Vase Terminator
+Vasebreaker
 
 [PVZ1MODE_MINIGAME_TAB_NAME3]
-Zombie Public Enemy
+I, Zombie
 
 [PVZ1MODE_MINIGAME_TAB_NAME4]
 I, Plant
