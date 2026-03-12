@@ -29002,13 +29002,13 @@ Penny Lottery
 Overview
 
 [SECRET_GACHA_OVERVIEW_CONTENT]
-1. Made by evilhack28 (i wish you luuuuuuck and great open)
-2. Treasure Single Draw Coupons can be obtained through cumulative recharge and other activities. Single Draw Coupons can be used as consumables for single draws.
-3. If players have Single Draw Coupons, they will be used first.Players can spend diamonds to purchase additional open
-4. Players can click the Plant Wishlist button in the lower right corner to replace the desired grand prize plant.
-5. After replacing the desired plant, the grand prize plant will be the newly specified plant, with a separate prize pool.
-6. The grand prize plant refreshes automatically every day. Plants that have been refreshed will not be in the replaceable plant list. Be sure to draw in time when you see the desired plant!
-7. Besides diamonds and plant rewards, other reward in the prize pool are for display purposes only and do not include all rewards.
+1. Players can use Penny Lottery Ticket to draw: Single Draw costs 1 voucher; 10-Draws cost 10 vouchers.
+2. Single Draw Vouchers can be obtained via cumulative top-ups or event activities and used as currency for Single Draws.
+3. Vouchers are consumed first. Once exhausted, players may spend Diamonds to buy more Single Draw Vouchers.
+4. Change your preferred Grand Prize plant by clicking "Plant Wishlist" in the bottom right corner.
+5. Once changed, the Grand Prize will update to the chosen plant with its own independent prize pool.
+6. The Grand Prize plant refreshes daily and won't appear in the replaceable list. Act fast when you see a plant you want!
+7. Except for Diamonds and plants, other reward bubbles in the pool are for display only and do not represent all available rewards.
 
 [SECRET_GACHA_TITLE]
 Probability
@@ -58341,19 +58341,12 @@ Rule Explanation
 Score Rewards
 
 [DANGERROOM_RULE_TXT]
-1. Endless Challenge mode is usually open on Thursdays, Fridays, Saturdays, and Sundays, with adjustments on special holidays.
-2. Each Endless Challenge period features a different world, and previews for the next world will be provided on non-open days. Recommended plants and the store for the upcoming world will also be listed.
-3. The Endless Training Ground is now open! You can select the world you want to challenge in the training ground to hone your skills. Note that no points or medals are earned in training mode.
-4. On open days, players can spend gems to reset Endless Challenge multiple times daily. On Saturdays and Sundays, players can reset once for free. Uncompleted challenges extend to the next open day but not the next cycle.
-5. After passing a new level, players earn points: current points and the highest points of the period. Current points reset to 0 upon challenge reset, but the highest points persist. Leaderboards are based on the highest points of the period.
-6. Passing a new level grants a medal. Medals can be used in the Medal Shop. Every Friday, Saturday, and Sunday at midnight, leaderboard rankings determine medal distribution.
-7. Consecutive Endless challenges carry over sun quantity, Tactical Cuke, wheelbarrow quantity, artifact active uses, and remaining plants on the field to the next level. These values reset after a reset.
-8. Tactical Cuke quantity is independent of other modes.
-9. Each plant has a usage limit; planting reduces the count, gradually recovering after each level.
-10. Every 5th level is a boss level. Before a boss level, there's an additional card draw for extra abilities. Players can choose one for free and spend gems for the second.
-11. After the second challenge of the period, skipping levels is possible but limited to the highest level reached in that period.
-12. Special zombies in Endless levels yield unique rewards and effects when defeated.
-13. Active skills of all artifacts share a total use count in Endless Mode, switchable between levels. After exhausting uses, passive effects persist. Values reset after a reset.
+• Schedule & Prep: Runs Thursday–Sunday (plus holidays) with rotating worlds. Previews and a reward-free "Training Ground" are available on off-days.
+• Resets & Progression: Players can reset runs using gems, with one free reset every Saturday and Sunday. Progress carries to the next open day but resets at the end of the cycle.
+• Scoring & Rewards: Points drive leaderboard rankings based on "highest points" per period. Medals earned from levels are spent in the Medal Shop; ranking rewards are issued Fri–Sun at midnight.
+• Core Mechanics: Resources like Sun, Tactical Cukes, and artifacts carry over between levels but reset upon a run restart. Plants have usage limits that gradually recover.
+• Bosses & Skips: Every 5th level features a boss and ability card draws (one free, one for gems). After two runs, you can skip levels up to your period high.
+• Artifacts & Zombies: Artifacts share active use counts while keeping passive effects. Special zombies provide unique rewards upon defeat.
 
 [DANGERROOM_RULE_TXT2]
 Leaderboard daily settlement rewards:
@@ -78380,7 +78373,7 @@ This instance of the Secret Realm is a permanent one. All regular levels will be
 Normal levels feature zombies of tier 3, while the zombie tier in difficult levels varies depending on the mission selected.
 
 [ANNIVERSARY_KEY_INFO_TEXT_4_UNCHARTED_ZCORP]
-Z Company's zombie acquisition campaign has begun! New mechanisms will also be introduced!
+ZCorp's zombie acquisition campaign has begun! New mechanisms will also be introduced!
 
 [ANNIVERSARY_KEY_INFO_TEXT_5_UNCHARTED_CHRISTMAS_202512]
 3. Task Description
@@ -80899,7 +80892,7 @@ The player's journey into the tomb.
 {PLAYER}'s journey through the spacetime rift.
 
 [PLAYERS_TRIP_TO_ZCORP]
-{PLAYER}'s Journey with Z Company
+{PLAYER}'s Journey with ZCorp
 
 [PLAYERS_TRIP_TO_ZOMBIERUSH]
 The player's zombie-clearing journey!
@@ -80977,7 +80970,7 @@ Hamster ball
 The hamster ball is attacking—watch out for the zombies inside!
 
 [PVZ1MODE_IPLANT]
-I am a plant.
+I, Plant
 
 [PVZ1MODE_IPLANT_NORMAL_DESC]
 Planting vegetation on the ground in advance is a way to combat zombies.
@@ -81049,13 +81042,13 @@ Be aware of the unpredictable currents in the water.
 A programmer descended from the heavens.
 
 [PVZ1MODE_ZCORP_HELPDESK_NORMAL_DESC]
-Z Company's technical support zombies descended from the sky, then threw computers that could explode.
+ZCorp's technical support zombies descended from the sky, then threw computers that could explode.
 
 [PVZ1_ZOMBIE_ZCORP_HELPDESK_DESCRIPTION_HEADER]
 A programmer descended from the heavens.
 
 [PVZ1_ZOMBIE_ZCORP_HELPDESK_DESCRIPTION_HEADER_NORMAL_DESC]
-Z Company's technical support zombies descended from the sky, then threw computers that could explode.
+ZCorp's technical support zombies descended from the sky, then threw computers that could explode.
 
 [PVZ2_MAUSOLEUM_MODE_SHOP_BUY_HARD_CONFIRM]
 Should {NUMS} jade stones be purchased?
@@ -81125,7 +81118,7 @@ Some types of zombies will move along the trenches.
 Mech zombies are attacking!
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_ZCORP1]
-Z Company is experiencing zombie-like activity; please be cautious!
+ZCorp is experiencing zombie-like activity; please be cautious!
 
 [PVZ2_UNCHARTED_MODE_MODE_DESC_ZCORP2]
 Giants, imps, and imp-giants? Am I seeing things?
@@ -81206,7 +81199,7 @@ Tunnel
 Final Confrontation
 
 [PVZ2_UNCHARTED_MODE_MODE_TITLE_ZCORP1]
-Z Company is coming.
+ZCorp is coming.
 
 [PVZ2_UNCHARTED_MODE_MODE_TITLE_ZCORP2]
 Identity Swap
@@ -81943,13 +81936,13 @@ Boarding Battle
 Doomed Mine Cart
 
 [S28_MEMORY_LEVEL_NAME_004]
-I am a plant.
+I, Plant
 
 [S28_MEMORY_LEVEL_NAME_005]
-Steel torrent.
+Steel Torrent
 
 [S28_MEMORY_LEVEL_NAME_006]
-Fungal forests
+Fungal Forests
 
 [S28_MEMORY_LEVEL_NAME_007]
 Lost in the Ancient City
@@ -83442,10 +83435,10 @@ Deal damage by playing every few seconds.
 Do you want to reset the current level progress in Hard Mode?
 
 [UNCHARTED_ZCORP_HEAD_DES_ID_25758]
-Proof of Perfect Completion of Z Company's Secret Realm.
+Proof of Perfect Completion of ZCorp's Secret Realm.
 
 [UNCHARTED_ZCORP_ID_25758]
-Z Company Conquerors
+ZCorp Conquerors
 
 [UNCHARTED_ZCORP_TASK_NAME_10_1]
 Complete three combination challenges: Pioneer Planting Cooling Increase (1 star), Prohibition of Carrying Auxiliary Plants (2 stars), Plant Damage Reduction (3 stars).
@@ -83619,16 +83612,16 @@ Ineffectual Vanguard
 Pioneer-class plants cannot use the Plant Food ultimate ability.
 
 [ZCORP_LEVEL_NAME_01_H]
-Z Company (Difficulties) - Day 1
+ZCorp (Difficulties) - Day 1
 
 [ZCORP_LEVEL_NAME_01_N]
-Z Company - Day 1
+ZCorp - Day 1
 
 [ZCORP_LEVEL_NAME_02_H]
 Company Z (Difficulties) - Day 2
 
 [ZCORP_LEVEL_NAME_02_N]
-Z Company - Day 2
+ZCorp - Day 2
 
 [ZCORP_LEVEL_NAME_03_H]
 Company Z (Difficulties) - Day 3
@@ -83670,13 +83663,13 @@ Company Z - Day 8
 Company Z (Difficulties) - Day 9
 
 [ZCORP_LEVEL_NAME_09_N]
-Z Company - Day 9
+ZCorp - Day 9
 
 [ZCORP_LEVEL_NAME_10_H]
 Company Z (Difficulties) - Day 10
 
 [ZCORP_LEVEL_NAME_10_N]
-Z Company - Day 10
+ZCorp - Day 10
 
 [ZENGARDEN_SHOP_BUY_CONFIRM]
 Would you like to spend {NUMS} Garden Coins?
@@ -83779,7 +83772,7 @@ A large wave of zombies, each entangled with seaweed, arrived.
 Christmas Sleigh Zombies
 
 [ZOMBIE_BOBSLED_DESCRIPTION]
-The Zombie Language Translator: "Z Company consistently wastes the budget. They not only added useless decorations to the ice cream trucks, but also revoked my driver's license and let other zombies drive!" — Mysterious Mullet-haired Zombie
+The Zombie Language Translator: "ZCorp consistently wastes the budget. They not only added useless decorations to the ice cream trucks, but also revoked my driver's license and let other zombies drive!" — Mysterious Mullet-haired Zombie
 
 [ZOMBIE_BOBSLED_DESCRIPTION_HEADER]
 Crushing the plants along the road and leaving a trail of ice behind.
@@ -84181,7 +84174,7 @@ Christmas sleigh zombie team
 Some of the team members are temporary transfers from skiing, switching to steered bobsleigh. They heard the pay here was high, but it turned out to be nothing more than a few extra Christmas photos from Dr. Zombie.
 
 [ZOMBIE_SLED_DESCRIPTION]
-Sponsors prepared a new sleigh model for the Christmas theme. However, due to the downturn in the ice track construction industry, the attrition rate for this extreme sport was too high, prompting strong disapproval from Z Company's finance department.
+Sponsors prepared a new sleigh model for the Christmas theme. However, due to the downturn in the ice track construction industry, the attrition rate for this extreme sport was too high, prompting strong disapproval from ZCorp's finance department.
 
 [ZOMBIE_SLED_DESCRIPTION_HEADER]
 A snowmobile helmet can offer a degree of protection against injury.
@@ -84205,19 +84198,19 @@ The wicked old witch zombie has been concocting strange potions in her home all 
 Her incredibly swift speed made her impossible to hit, perhaps the High Nut could block her!
 
 [ZOMBIE_ZCORP]
-Z Company's New Employees are Zombies
+ZCorp's New Employees are Zombies
 
 [ZOMBIE_ZCORP_ARMOR1]
-Z Company Roadblock Zombies
+ZCorp Roadblock Zombies
 
 [ZOMBIE_ZCORP_ARMOR1_DESCRIPTION]
-Z Company leads the way in producing large, cone-shaped fasteners designed to protect the skull.
+ZCorp leads the way in producing large, cone-shaped fasteners designed to protect the skull.
 
 [ZOMBIE_ZCORP_ARMOR1_DESCRIPTION_HEADER]
-An ordinary employee at Z Company, he simply has a bit more going on in his head.
+An ordinary employee at ZCorp, he simply has a bit more going on in his head.
 
 [ZOMBIE_ZCORP_ARMOR2]
-Z Company's Iron Bucket Zombie
+ZCorp's Iron Bucket Zombie
 
 [ZOMBIE_ZCORP_ARMOR2_DESCRIPTION]
 Company Z strictly adheres to local waste disposal regulations.
@@ -84226,34 +84219,34 @@ Company Z strictly adheres to local waste disposal regulations.
 This employee used a recycling bin to protect their head.
 
 [ZOMBIE_ZCORP_CONSULTANT]
-Z Company's Zombie Consultants
+ZCorp's Zombie Consultants
 
 [ZOMBIE_ZCORP_CONSULTANT_DESCRIPTION]
-She is not only an employee of Z Company but also their consulting advisor. Getting this job would be absolutely fantastic!
+She is not only an employee of ZCorp but also their consulting advisor. Getting this job would be absolutely fantastic!
 
 [ZOMBIE_ZCORP_CONSULTANT_DESCRIPTION_HEADER]
-Z Company's consultants are like zombies, capable of overturning your entire thought process – whether it's blue ocean strategy or red ocean strategy, they'll dismantle it all.
+ZCorp's consultants are like zombies, capable of overturning your entire thought process – whether it's blue ocean strategy or red ocean strategy, they'll dismantle it all.
 
 [ZOMBIE_ZCORP_DESCRIPTION]
-During his onboarding training, he received his own Z Company standard coffee cup.
+During his onboarding training, he received his own ZCorp standard coffee cup.
 
 [ZOMBIE_ZCORP_DESCRIPTION_HEADER]
-An ordinary employee of Z Company Limited.
+An ordinary employee of ZCorp Limited.
 
 [ZOMBIE_ZCORP_FEM]
-Z Company's Contract Workers: Zombie Workforce
+ZCorp's Contract Workers: Zombie Workforce
 
 [ZOMBIE_ZCORP_FEM_ARMOR1]
-Z Company's contract workers are acting like barricaded zombies.
+ZCorp's contract workers are acting like barricaded zombies.
 
 [ZOMBIE_ZCORP_FEM_ARMOR1_DESCRIPTION]
-Contract workers at Z Company can purchase Z Company's office supplies at discounted prices.
+Contract workers at ZCorp can purchase ZCorp's office supplies at discounted prices.
 
 [ZOMBIE_ZCORP_FEM_ARMOR1_DESCRIPTION_HEADER]
 It was the ingenious combination of a notebook and oversized pushpins that allowed this temporary worker to stand out.
 
 [ZOMBIE_ZCORP_FEM_ARMOR2]
-Z Company's contract workers are trapped like iron barrels, resembling zombies.
+ZCorp's contract workers are trapped like iron barrels, resembling zombies.
 
 [ZOMBIE_ZCORP_FEM_ARMOR2_DESCRIPTION]
 Company Z encourages its contract workers to think outside the box and come up with innovative solutions for head protection.
@@ -84262,13 +84255,13 @@ Company Z encourages its contract workers to think outside the box and come up w
 Recycling bins not only protect your head, but also help protect the Earth's environment.
 
 [ZOMBIE_ZCORP_FEM_DESCRIPTION]
-Even part-time contract workers get free coffee cups; Z Company is truly very inclusive.
+Even part-time contract workers get free coffee cups; ZCorp is truly very inclusive.
 
 [ZOMBIE_ZCORP_FEM_DESCRIPTION_HEADER]
 An ordinary contract worker at Company Z.
 
 [ZOMBIE_ZCORP_FLAG]
-Z Company's Flag Zombie
+ZCorp's Flag Zombie
 
 [ZOMBIE_ZCORP_FLAG_DESCRIPTION]
 Company Z independently designed its brand flag logo and is deeply proud of it.
@@ -84277,7 +84270,7 @@ Company Z independently designed its brand flag logo and is deeply proud of it.
 This flag not only efficiently boosts brand exposure but also foreshadows—a massive horde of zombies is about to descend, ready to devour your brains!
 
 [ZOMBIE_ZCORP_GARGANTUAR]
-Z Company Headquarters: Giant Little Demon Zombies
+ZCorp Headquarters: Giant Little Demon Zombies
 
 [ZOMBIE_ZCORP_GARGANTUAR_DESCRIPTION]
 The gates of the Headquarter Demon Zombies are always open to you, but I don't recommend you actually believe this.
@@ -84286,16 +84279,16 @@ The gates of the Headquarter Demon Zombies are always open to you, but I don't r
 His enormous head was a blunt instrument for crushing plants.
 
 [ZOMBIE_ZCORP_HELPDESK]
-Z Company's technical support is a zombie.
+ZCorp's technical support is a zombie.
 
 [ZOMBIE_ZCORP_HELPDESK_DESCRIPTION]
-Z Company's technical support team, a dedicated group, is at your service, and particularly skilled at resolving issues with excessive plant growth on lawns!
+ZCorp's technical support team, a dedicated group, is at your service, and particularly skilled at resolving issues with excessive plant growth on lawns!
 
 [ZOMBIE_ZCORP_HELPDESK_DESCRIPTION_HEADER]
-Z Company's technical support zombies descended from the sky, then hurled an explosive laptop.
+ZCorp's technical support zombies descended from the sky, then hurled an explosive laptop.
 
 [ZOMBIE_ZCORP_IMP]
-Z Company Micro Giant Legal Counsel Zombie
+ZCorp Micro Giant Legal Counsel Zombie
 
 [ZOMBIE_ZCORP_IMP_DESCRIPTION]
 The Legal Department's Little Giant zombie delivery of legal letters is quite traditional – they simply pick up a baseball bat.
@@ -84304,10 +84297,10 @@ The Legal Department's Little Giant zombie delivery of legal letters is quite tr
 Though not large in size, it possesses considerable capabilities. The Legal Department of Xiaojuren is not only the strongest in the industry, but also the most formidable.
 
 [ZOMBIE_ZCORP_RACER_CHAIR]
-Z Company's office chairs: Racer Zombies.
+ZCorp's office chairs: Racer Zombies.
 
 [ZOMBIE_ZCORP_RACER_CHAIR_DESCRIPTION]
-The Z Company office chair racers, zombies, brought joy and relaxation to life at Z Company.
+The ZCorp office chair racers, zombies, brought joy and relaxation to life at ZCorp.
 
 [ZOMBIE_ZCORP_RACER_CHAIR_DESCRIPTION_HEADER]
 The racing zombie office chair from Company Z is incredibly fast, and after a violent collision, it ejected gracefully to the left.
@@ -84548,7 +84541,7 @@ The Hovering Yam Potato suspends 5 zombies in mid-air for 5 seconds, with a 25% 
 Attacks cause the zombies to levitate.
 
 [MODE_HOWTOPLAY_6_DESCRIPTION]
-In mini-game mode, there are four sections: Play Mini-Games, Vase Eliminator, Zombie Enemy, and I Am Plants. Completing levels earns rewards.
+In mini-game mode, there are four sections: Play Mini-Games, Vase Eliminator, Zombie Enemy, and I, Plants. Completing levels earns rewards.
 
 [NET_CONNECTING_JSON_UPDATE]
 Updating data...
@@ -84674,190 +84667,190 @@ Vase Terminator
 Zombie Public Enemy
 
 [PVZ1MODE_MINIGAME_TAB_NAME4]
-I am a plant.
+I, Plant
 
 [PVZ1_MINIGAME_ACHIEVEMENT]
 Mini-game achievements
 
 [PVZ1_MINIGAME_ACHIEVEMENT_NAME_10]
-[I am a Zombie]: Summon 200 Zombies.
+I, Zombie: Summon 200 Zombies
 
 [PVZ1_MINIGAME_ACHIEVEMENT_NAME_11]
-[Mini-Game]: Complete 140 mini-games.
+Complete 140 mini-games
 
 [PVZ1_MINIGAME_ACHIEVEMENT_NAME_12]
-[Smashing Cans]: Smash 2000 cans.
+Vasebreaker: Smash 2000 vases
 
 [PVZ1_MINIGAME_ACHIEVEMENT_NAME_1]
-[Mini-Games]: Complete 20 different mini-games.
+Complete 20 different mini-games
 
 [PVZ1_MINIGAME_ACHIEVEMENT_NAME_2]
-[Mini-Games]: Complete 50 different mini-games.
+Complete 50 different mini-games
 
 [PVZ1_MINIGAME_ACHIEVEMENT_NAME_3]
-【Smash the Cans】: Smash 500 cans.
+Vasebreaker: Smash 500 vases
 
 [PVZ1_MINIGAME_ACHIEVEMENT_NAME_4]
-[Smash the Cans]: In a "Smash the Cans" level, players must break all the cans within 30 seconds to pass.
+Vasebreaker: In a "Vasebreaker" level, players must break all the cans within 30 seconds to pass.
 
 [PVZ1_MINIGAME_ACHIEVEMENT_NAME_5]
-[I am a Zombie]: Summons 50 Zombies.
+I, Zombie: Summons 50 Zombies.
 
 [PVZ1_MINIGAME_ACHIEVEMENT_NAME_6]
-[I Am a Zombie]: Summon 100 Zombies.
+I, Zombie: Summon 100 Zombies.
 
 [PVZ1_MINIGAME_ACHIEVEMENT_NAME_7]
-[I Am Plant]: Clear any level with 500 sunlight remaining in "I Am Plant" mode.
+I, Plant: Clear any level with 500 sunlight remaining in "I, Plant" mode.
 
 [PVZ1_MINIGAME_ACHIEVEMENT_NAME_8]
-【Smashing Cans】: Smash 1000 cans.
+Vasebreaker: Smash 1000 vases
 
 [PVZ1_MINIGAME_ACHIEVEMENT_NAME_9]
-[Mini-Game]: Complete 100 mini-games.
+Minigame: Complete 100 mini-games
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_101]
-Eliminate all the plants using zombies.
+Eliminate all the plants using zombies
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_102]
-Eliminate all the plants using zombies.
+Eliminate all the plants using zombies
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_103]
-Eliminate all the plants using zombies.
+Eliminate all the plants using zombies
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_104]
-Eliminate all the plants using zombies.
+Eliminate all the plants using zombies
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_105]
-Eliminate all the plants using zombies.
+Eliminate all the plants using zombies
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_106]
-Eliminate all the plants using zombies.
+Eliminate all the plants using zombies
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_107]
-Eliminate all the plants using zombies.
+Eliminate all the plants using zombies
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_108]
-Eliminate all the plants using zombies.
+Eliminate all the plants using zombies
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_109]
-Eliminate all the plants using zombies.
+Eliminate all the plants using zombies
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_10]
-Eliminate zombies using portals.
+Eliminate zombies using portals
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_110]
-Eliminate all the plants using zombies.
+Eliminate all the plants using zombies
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_111]
-Eliminate all the plants using zombies.
+Eliminate all the plants using zombies
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_112]
-Eliminate all the plants using zombies.
+Eliminate all the plants using zombies
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_113]
-Eliminate all the plants using zombies.
+Eliminate all the plants using zombies
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_114]
-Eliminate all the plants using zombies.
+Eliminate all the plants using zombies
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_115]
-Eliminate all the plants using zombies.
+Eliminate all the plants using zombies
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_116]
-Eliminate all the plants using zombies.
+Eliminate all the plants using zombies
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_117]
-Eliminate all the plants using zombies.
+Eliminate all the plants using zombies
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_118]
-Eliminate all the plants using zombies.
+Eliminate all the plants using zombies
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_119]
-Eliminate all the plants using zombies.
+Eliminate all the plants using zombies
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_11]
-Feed the zombies in the aquarium with food.
+Feed the zombies in the aquarium with food
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_120]
-Eliminate all the plants using zombies.
+Eliminate all the plants using zombies
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_121]
-Use stationary plants to block a fixed lineup of zombies.
+Use stationary plants to block a fixed lineup of zombies
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_122]
-Use stationary plants to block a fixed lineup of zombies.
+Use stationary plants to block a fixed lineup of zombies
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_123]
-Use stationary plants to block a fixed lineup of zombies.
+Use stationary plants to block a fixed lineup of zombies
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_124]
-Use stationary plants to block a fixed lineup of zombies.
+Use stationary plants to block a fixed lineup of zombies
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_125]
-Use stationary plants to block a fixed lineup of zombies.
+Use stationary plants to block a fixed lineup of zombies
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_126]
-Use stationary plants to block a fixed lineup of zombies.
+Use stationary plants to block a fixed lineup of zombies
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_127]
-Use stationary plants to block a fixed lineup of zombies.
+Use stationary plants to block a fixed lineup of zombies
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_128]
-Use stationary plants to block a fixed lineup of zombies.
+Use stationary plants to block a fixed lineup of zombies
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_129]
-Use stationary plants to block a fixed lineup of zombies.
+Use stationary plants to block a fixed lineup of zombies
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_12]
-Halt the advance of the shrinking zombies.
+Halt the advance of the shrinking zombies
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_130]
-Use stationary plants to block a fixed lineup of zombies.
+Use stationary plants to block a fixed lineup of zombies
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_131]
-Use stationary plants to block a fixed lineup of zombies.
+Use stationary plants to block a fixed lineup of zombies
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_132]
-Use stationary plants to block a fixed lineup of zombies.
+Use stationary plants to block a fixed lineup of zombies
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_133]
-Use stationary plants to block a fixed lineup of zombies.
+Use stationary plants to block a fixed lineup of zombies
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_134]
-Use stationary plants to block a fixed lineup of zombies.
+Use stationary plants to block a fixed lineup of zombies
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_135]
-Use stationary plants to block a fixed lineup of zombies.
+Use stationary plants to block a fixed lineup of zombies
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_136]
-Use stationary plants to block a fixed lineup of zombies.
+Use stationary plants to block a fixed lineup of zombies
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_137]
-Use stationary plants to block a fixed lineup of zombies.
+Use stationary plants to block a fixed lineup of zombies
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_138]
-Use stationary plants to block a fixed lineup of zombies.
+Use stationary plants to block a fixed lineup of zombies
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_139]
-Use stationary plants to block a fixed lineup of zombies.
+Use stationary plants to block a fixed lineup of zombies
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_13]
-Eliminate the zombies who like to play in the snow.
+Eliminate the zombies who like to play in the snow
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_140]
-Use stationary plants to block a fixed lineup of zombies.
+Use stationary plants to block a fixed lineup of zombies
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_14]
-Each time, I can plant an entire row of plants.
+Each time, I can plant an entire row of plants
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_15]
-Each time, I can plant an entire row of plants.
+Each time, I can plant an entire row of plants
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_16]
-Tap the zombies on the screen and eliminate them.
+Tap the zombies on the screen and eliminate them
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_17]
-The bouncy zombies are having a dance party.
+The bouncy zombies are having a dance party
 
 [PVZ1_MODE_MINIGAME_MODE_DESC_18]
 Dr. Zombie King has appeared again!
@@ -84950,31 +84943,31 @@ Arrange the formation according to the prompt.
 Arrange the formation according to the prompt.
 
 [PVZ1_MODE_MINIGAME_START_LEVEL]
-Memory Lane - Mini-Games
+Memory Lane - Minigames
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_100]
-The moment of final confrontation.
+The moment of final confrontation
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_101]
-I am a zombie.
+I, Zombie
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_102]
-The old should become more vigorous.
+The old should become more vigorous
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_103]
 Death Zeppelin
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_104]
-Observe from six directions.
+Observe from six directions
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_105]
-Sudden, unforeseen disaster.
+Sudden, unforeseen disaster
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_106]
-Star-crossed lovers.
+Star-crossed lovers
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_107]
-Constant renewal; perpetual existence; unending cycle of life.
+Constant renewal; perpetual existence; unending cycle of life
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_108]
 Company Encounters
@@ -84983,10 +84976,10 @@ Company Encounters
 Parallel universes
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_10]
-The stars revolve, and the constellations shift.
+The stars revolve, and the constellations shift
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_110]
-Swift as the wind and lightning.
+Swift as the wind and lightning
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_111]
 Pharaoh's Curse
@@ -84995,7 +84988,7 @@ Pharaoh's Curse
 Deck Revelry
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_113]
-Cowboy sway.
+Cowboy sway
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_114]
 Shaolin Divine Skill
