@@ -81666,10 +81666,10 @@ Diamond Roarers
 Spellbinder
 
 [S27_MEMORY_LEVEL_NAME_001]
-Nut bowling
+Wall-nut Blowing
 
 [S27_MEMORY_LEVEL_NAME_002]
-Turf warfare.
+Turf warfare
 
 [S27_MEMORY_LEVEL_NAME_003]
 Graveyard Tapping War
@@ -85165,25 +85165,25 @@ Pursuit, interception, and blockade.
 Towering plants reach the clouds.
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_3]
-Nut bowling
+Wall-nut Bowling
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_40]
 Traffic Jam on a Narrow Bridge
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_41]
-Pincer movement.
+Pincer movement
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_42]
 Canned Giant
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_43]
-Piercing through corpses at a hundred paces.
+Piercing through corpses at a hundred paces
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_44]
-Endless stretches of yellow sand.
+Endless stretches of yellow sand
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_45]
-Roasted edamame.
+Roasted edamame
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_46]
 Boarding Battle
@@ -85216,19 +85216,19 @@ Short-range shooter
 Zombie Apocalypse
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_55]
-Shorebreak surfing.
+Shorebreak surfing
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_56]
-Seafood feast.
+Seafood feast
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_57]
-The cold wind howls.
+The cold wind howls
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_58]
-The weather is bitterly cold.
+The weather is bitterly cold
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_59]
-Apply the right medicine to the illness.
+Apply the right medicine to the illness
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_5]
 Jewel Labyrinth
@@ -85237,10 +85237,10 @@ Jewel Labyrinth
 Ancient city ruins
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_61]
-Constant renewal; perpetual existence; unending cycle of life.
+Constant renewal; perpetual existence; unending cycle of life
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_62]
-The lingering melody circles the beams.
+The lingering melody circles the beams
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_63]
 Dragon Age
@@ -85249,19 +85249,19 @@ Dragon Age
 Prehistoric Showdown
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_65]
-Toxic fog pervades.
+Toxic fog pervades
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_66]
 Shadow energy
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_67]
-Crossing the sea while concealing the sky.
+Crossing the sea while concealing the sky
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_68]
 Industrial Revolution
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_69]
-Indomitable.
+Indomitable
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_6]
 Invisible Warfare
@@ -85270,22 +85270,22 @@ Invisible Warfare
 Renaissance
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_71]
-Everyone strives to show their unique abilities.
+Everyone strives to show their unique abilities
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_72]
-Radiantly prosperous.
+Radiantly prosperous
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_73]
-The power of bonds.
+The power of bonds
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_74]
-Deadly poison.
+Deadly poison
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_75]
-Company team-building activity.
+Company team-building activity
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_76]
-A powerful alliance.
+A powerful alliance
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_77]
 Healing magic
@@ -85297,31 +85297,31 @@ Roman Invasion
 Underground Palace Adventure
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_7]
-Look at the stars.
+Look at the stars
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_80]
-Unify the world.
+Unify the world
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_81]
 Overture to the Spring Festival
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_82]
-The cannon fire was thunderous.
+The cannon fire was thunderous
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_83]
-Seeking plum blossoms amidst the snow.
+Seeking plum blossoms amidst the snow
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_84]
-Winter departs, spring arrives.
+Winter departs, spring arrives
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_85]
-Spring is warm and the flowers are blooming.
+Spring is warm and the flowers are blooming
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_86]
-Triple firepower.
+Triple firepower
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_87]
-Mighty in spirit, though small in stature.
+Mighty in spirit, though small in stature
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_88]
 To still possess a childlike heart.
@@ -85330,13 +85330,13 @@ To still possess a childlike heart.
 Magic Duel
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_8]
-Watch the nuts.
+Watch the nuts
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_90]
 Campfire party
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_91]
-Unwavering and resolute.
+Unwavering and resolute
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_92]
 Hurdle race
@@ -85348,7 +85348,7 @@ Halloween Thrills
 Haunted Lawn
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_95]
-It is difficult to move even a single step.
+It is difficult to move even a single step
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_96]
 Christmas party
@@ -85360,10 +85360,10 @@ Birthday celebration
 Celebration Fireworks
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_99]
-An eye for an eye.
+An eye for an eye
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_9]
-Observe the formation.
+Observe the formation
 
 [RANK_AVATAR_CONTENT_CONTENT_61057]
 Season 42 Grandmaster Tier Rewards for 2-Player Duels
