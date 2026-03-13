@@ -26247,7 +26247,7 @@ Exit the game
 OK
 
 [PVZ_LOGIN_LOW_VERSION]
-A new update has been released for the game. Please update the game to the latest version now to continue playing.
+A new update (4.0.4) is already released for the game. Please update to the latest version now to continue playing.
 
 [PVZ_LOGIN_LOW_VERSION_WWAN]
 You are not currently connected to wifi. Are you sure you want to use cellular  data to download updates?
