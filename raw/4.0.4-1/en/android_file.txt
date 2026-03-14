@@ -80776,7 +80776,7 @@ The Nutcracker Giant gains damage reduction.
 The Nutcracker Giant receives a 40% damage reduction.
 
 [OPTIONS_SKIPANIMS]
-Skip the settlement animation.
+Fast Rewards
 
 [PEONYCHI]
 Taijitu Hibiscus
@@ -84639,7 +84639,7 @@ Players earn experience through daily and weekly challenges, leveling up to rece
 Players earn experience through daily and weekly challenges, leveling up to receive rewards like Duel Coins (up to level 50). Rewards cycle every 10 levels after 50. Premium benefits offer a 20% experience boost, initial Duel Coins, and a plant. Duel Coins fund the "Lucky Spin" lottery, with premium players able to clear the Treasure Spin. The Treasure Spin offers various rewards with probabilities: Gold Coins (22.67%), Diamonds (22.66%), Attachments (19.26%), Plants (varying percentages), Super Attachments (2.04%), and rare gifts/scrolls. Each reward has a single claim opportunity, redistributing probabilities.
 
 [OPTIONS_ZOMBIE_STARTRUSHONSCREEN]
-Zombies are accelerating outside the arena.
+Off-lawn Boost
 
 [PEAPOD_NEW_SKILL_LEVEL5_DES]
 Once a pea pod contains five peas, you can continue planting more. Continued planting will cause the peas within the pod to evolve into double-firing peas and machine gun peas. The evolved peas will shoot a greater number of peas.
