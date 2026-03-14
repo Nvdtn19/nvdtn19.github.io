@@ -97,7 +97,7 @@ This online game is suitable for players over 12 years old. For your health, ple
 Take care of yourself, beware of scams. Pay attention to self-protection and avoid being deceived. A bit of gaming trains your mind, too much will harm your health. Reasonably spend your time, enjoy a healthy life.
 Approval Number: New Application Review Letter\[2013]1509 Number; Publication Number: ISBN978-7-89989-834-5; ICP registration number: Hunan B2-20100081-55A.
 
-Copyright Holder of the Game: Electronic Arts Inc.; Publishing Service Provider: Topwise Information System Co., Ltd.
+Copyright Holder of the Game: Electronic Arts Inc.; Publishing Service Provider: Talkweb Information System Co., Ltd.
 
 [HEALTH_NOTICE_CONTENT_3_1]
 This online game is suitable for players over 12 years old. For your health, please reasonably restrict your game time. Avoid games with unhealthy messages, reject unlicensed games.
@@ -69477,7 +69477,7 @@ Chapter 3 Acquisition, use and safekeeping of game accounts
 (5) You fully understand and agree that if Tuowei Information Systems Co., Ltd. restricts, freezes or terminates the use of your game account in accordance with relevant business rules, it may lead to the deletion of game data and related information under your game account, as well as the related For the loss of rights and interests, the loss shall be borne by you, and Tuowei Information Systems Co., Ltd. will not be responsible for this.
 
 [EULA_TXT_6]
-You consent to receiving commercial information via SMS and can opt-out by contacting Topwise through their website. Inactivity may lead to account and data deletion after notification to efficiently manage server resources; Topwise isn't responsible for resulting data loss. Topwise will assist authorities with requests for user data upon verification of identity. Accounts inactive for 365 days will be permanently deleted at 24:00 on that day, with no data recovery possible.
+You consent to receiving commercial information via SMS and can opt-out by contacting Talkweb through their website. Inactivity may lead to account and data deletion after notification to efficiently manage server resources; Talkweb isn't responsible for resulting data loss. Talkweb will assist authorities with requests for user data upon verification of identity. Accounts inactive for 365 days will be permanently deleted at 24:00 on that day, with no data recovery possible.
 
 [EULA_TXT_7]
 CHAPTER IV USER INFORMATION COLLECTION, USE AND PROTECTION
