@@ -10383,7 +10383,7 @@ Earn more coins or buy them in the store!
 BUY
 
 [NETWORK_NOT_CONNECTED_TITLE]
-No Internet Connection
+Network Error
 
 [NETWORK_NOT_CONNECTED_TEXT]
 Please check your internet connection and try again later.
@@ -10406,22 +10406,22 @@ Treasure Yeti has escaped!
 You need to defeat the Yeti before he escapes to get his treasure!
 
 [PLANT_FROM_STAR]
-Collect {STAR_NUM} stars to unlock.
+Collect {STAR_NUM} stars to unlock
 
 [PLANT_FROM_STORE_GOLD]
-Earn {GOLD_NUM} coins to exchange.
+Earn {GOLD_NUM} coins to exchange
 
 [PLANT_FROM_STORE_DIAMOD]
-Can be unlocked by earning pieces.
+Can be unlocked by earning pieces
 
 [PLANT_FROM_STORE_MONEY]
-Purchase to unlock.
+Purchase to unlock
 
 [PLANT_FROM_MONEY]
-Purchase from some events to unlock.
+Purchase from some events to unlock
 
 [PLANT_FROM_GAME]
-Obtain from Adventure Mode levels.
+Obtain from Adventure Mode levels
 
 [VERSION_FORCE_UPDATE_HEAD]
 Version Update
@@ -14886,7 +14886,7 @@ Plant Food
 Costumed Plant Food
 
 [DAILY_REWARD_ERROR_TITLE]
-No Internet Connection
+Network Error
 
 [DAILY_REWARD_ERROR_CONTENT]
 Please check your internet connection and try again later.
@@ -15072,7 +15072,7 @@ Available tomorrow
 All received
 
 [NOT_CONNECTED]
-No Internet Connection
+Network Error
 
 [ACTIVITY_CLOSED]
 Events End
@@ -85120,13 +85120,13 @@ Explosive barrel
 Bronze Man Formation
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_26]
-Going it alone.
+Going it alone
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_27]
 Lone Wolf 2
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_28]
-An eye for an eye.
+An eye for an eye
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_29]
 Arrows strike the head every time.
@@ -85297,7 +85297,7 @@ Roman Invasion
 Underground Palace Adventure
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_7]
-Look at the stars
+Seeing Stars
 
 [PVZ1_MODE_MINIGAME_START_LEVEL_80]
 Unify the world
