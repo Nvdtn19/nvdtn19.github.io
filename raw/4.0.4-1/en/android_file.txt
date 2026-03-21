@@ -32113,15 +32113,7 @@ Wave 8
 Device Binding
 
 [BIND_UNIQUE_ID_DESC]
-Binding a device links your channel account, device, and saved data.
-
-When logging in with the same channel account on a new device, you must first bind a device to continue accessing your saved data.
-
-After binding a device, you will need to wait 12 hours before binding another device.
-
-Factory resets, formatting, flashing, and other deep cleaning operations will be recognized as a new device.
-
-Each account allows binding to multiple devices.
+To keep your progress and account safe, you must link your account to your device through a process called binding. If you switch to a new phone or reset your current one, you will need to bind it again to access your saved data. While you can connect multiple devices to one account, there is a 12-hour waiting period after each binding before you can add another.
 
 [BIND_UNIQUE_ID_HINT]
 A new device login has been detected. Please click "Bind Device" on the main interface to rebind your device before starting the game.
@@ -32136,7 +32128,7 @@ Bind
 It will take at least 12 hours for your old progress to be transferred to this device (if you have it), so please be patient.
 
 [PVZ_ERROR_20321]
-Only 3 devices can be bound within a year.
+Only 4 devices can be bound within a year.
 
 [UNCHARTED_FAIRYTALE_WORLD]
 Secret Realms
