@@ -64786,7 +64786,7 @@ It's as strong as eating a taco!
 {NPC_ENTER:crazydave}{SAY}Alright, plant the plants on the right side of the waterline on the lily pads for safety.
 
 [NARRATIVE_COMPENSATION_CHAT_1]
-I've given you 10 gachapon capsules and 100 diamonds. Remember to open them! Good luck!
+{NPC_ENTER:crazydave}{SAY}I've given you 10 gachapon capsules and 100 diamonds. Remember to open them! Good luck!
 
 [NARRATIVE_ZOMBIE_INTRO_LEVEL2_1]
 {NPC_ENTER:zombossicon}Hehe, my latest creation, ^00FF00 the Super Zombie MKII, ^oldclr finally takes the stage. Based on your intelligence, you would never think of ^00FF00 upgrading your plants to level 2 ^oldclr to deal with it!
@@ -69420,119 +69420,119 @@ Manually launch one mower by tapping and holding!
 User Use License Service Agreement
 
 [EULA_TXT_1]
-Welcome to apply to use the services provided by Tuowei Information Systems Co., Ltd. (hereinafter also referred to as  Tuowei Company )!
-《Tuowei Information Systems Co., Ltd. User License Service Agreement》 (hereinafter referred to as this Agreement) is jointly concluded between you and the game service provider of Tuowei Information Systems Co., Ltd. This agreement has contractual effect. In order to protect your legitimate rights and interests, please be sure to read and fully understand the content of each clause carefully before agreeing to and accepting all terms of this agreement, especially the terms that exempt or limit liability, as well as separate agreements to activate or use a certain service. Restrictions, disclaimer clauses may prompt you in bold to note.
+Welcome to apply to use the services provided by Talkweb Information Systems Co., Ltd. (hereinafter also referred to as  Talkweb Company )!
+《Talkweb Information Systems Co., Ltd. User License Service Agreement》 (hereinafter referred to as this Agreement) is jointly concluded between you and the game service provider of Talkweb Information Systems Co., Ltd. This agreement has contractual effect. In order to protect your legitimate rights and interests, please be sure to read and fully understand the content of each clause carefully before agreeing to and accepting all terms of this agreement, especially the terms that exempt or limit liability, as well as separate agreements to activate or use a certain service. Restrictions, disclaimer clauses may prompt you in bold to note.
 When you click  agree  or  accept  key online, it is deemed that you have read and understood the entire content of this Agreement in detail and agree to abide by the provisions of this Agreement. Unless you have read and accept all the terms of this Agreement, you do not have the right to use Tovi Information Systems GmbH Game Services. Your use of Tovi Information Systems GmbH Game Services is deemed to have been read and you agree to sign this Agreement. Thereafter you may not raise any form of defence for non-reading/non-agreement to the content of this Agreement or similar reasons.
-If you are under the age of 18, you need to read this Agreement accompanied by your guardian, and obtain the guardian's payment to users for the Tuowei Game Services provided by Tuowei Information Systems Co., Ltd., and to Tuowei Information Systems Co., Ltd. After the behavior of the fee and the consent to all terms of this agreement, Only then can you enjoy the Tuowei game services provided by Tuowei Information Systems Co., Ltd.
-This Agreement will be updated in a timely manner in the event of a change. If you do not agree to a change to the Terms of Service, you should stop using or voluntarily cancel the relevant service, otherwise, any of your actions regarding login, viewing, etc. of the relevant service will be deemed to be your understanding and acceptance of the relevant terms of change. Developers and users agree, understand and follow the following terms. These terms not only apply to Tuowei Information Systems Co., Ltd. game services, but also apply if the developer's other related services involve similar or related situations. They are all binding. force.
+If you are under the age of 18, you need to read this Agreement accompanied by your guardian, and obtain the guardian's payment to users for the Talkweb Game Services provided by Talkweb Information Systems Co., Ltd., and to Talkweb Information Systems Co., Ltd. After the behavior of the fee and the consent to all terms of this agreement, Only then can you enjoy the Talkweb game services provided by Talkweb Information Systems Co., Ltd.
+This Agreement will be updated in a timely manner in the event of a change. If you do not agree to a change to the Terms of Service, you should stop using or voluntarily cancel the relevant service, otherwise, any of your actions regarding login, viewing, etc. of the relevant service will be deemed to be your understanding and acceptance of the relevant terms of change. Developers and users agree, understand and follow the following terms. These terms not only apply to Talkweb Information Systems Co., Ltd. game services, but also apply if the developer's other related services involve similar or related situations. They are all binding. force.
 
 [EULA_TXT_2]
 CHAPTER I Definitions
 Without particular explanation, the following terms mean in this Agreement:
 1.1 This Agreement: refers to the text, game rules and revised versions of this Agreement. The foregoing shall be an integral part of this Agreement as soon as it has been officially published.
-1.2 Game rules: Refers to the user codes, player regulations, game announcements and notices of Tuowei Information System Co., Ltd. games published and revised from time to time by the game service provider of Tuowei Information System Co., Ltd.
-1.3 Tuowei Information System Co., Ltd. Game Service Provider: Tuowei Information System Co., Ltd. provides you with games and services.
-1.4 Tuowei Information System Co., Ltd. Games: refers to the collective name for games operated by Tuowei Information System Co., Ltd., including computer client games, web games, mobile games and other forms of games.
-1.5 Game services of Tuowei Information System Co., Ltd.: refers to various online operation services related to games provided to you by Tuowei Information System Co., Ltd.
-1.6 Game components of Tuowei Information System Co., Ltd.: refers to the text, pictures, audio, video, icons, interface design, layout framework, relevant data or electronic documents contained in and related to the game of Tuowei Information System Co., Ltd. and other content and information.
-1.7 You: also known as  player or  user, refers to a natural person authorized to use the products and services of Tuowei Information Systems Co., Ltd.
-1.8 Game data: refers to various data recorded by the server generated by you during the game using Tuowei Information Systems Co., Ltd., including but not limited to game logs, security logs and other data.
-1.9 Illegal recharge: refers to recharge through any recharge channel other than the payment channel connected to the official version of the game of Tuowei Information Systems Co., Ltd.
-1.10 Virtual items: including but not limited to in-game virtual currencies, props, equipment, materials, etc. of Tuowei Information Systems Co., Ltd.
-1.11 User information: refers to the information you registered in the real-name registration system, the game data under your game account, and other information you provide to Tuowei Information System Co., Ltd. in the process of using Tuowei Information System Co., Ltd. game services. Information and data that Tuowei Information System Co., Ltd. needs to collect based on security, user experience optimization, etc.
+1.2 Game rules: Refers to the user codes, player regulations, game announcements and notices of Talkweb Information System Co., Ltd. games published and revised from time to time by the game service provider of Talkweb Information System Co., Ltd.
+1.3 Talkweb Information System Co., Ltd. Game Service Provider: Talkweb Information System Co., Ltd. provides you with games and services.
+1.4 Talkweb Information System Co., Ltd. Games: refers to the collective name for games operated by Talkweb Information System Co., Ltd., including computer client games, web games, mobile games and other forms of games.
+1.5 Game services of Talkweb Information System Co., Ltd.: refers to various online operation services related to games provided to you by Talkweb Information System Co., Ltd.
+1.6 Game components of Talkweb Information System Co., Ltd.: refers to the text, pictures, audio, video, icons, interface design, layout framework, relevant data or electronic documents contained in and related to the game of Talkweb Information System Co., Ltd. and other content and information.
+1.7 You: also known as  player or  user, refers to a natural person authorized to use the products and services of Talkweb Information Systems Co., Ltd.
+1.8 Game data: refers to various data recorded by the server generated by you during the game using Talkweb Information Systems Co., Ltd., including but not limited to game logs, security logs and other data.
+1.9 Illegal recharge: refers to recharge through any recharge channel other than the payment channel connected to the official version of the game of Talkweb Information Systems Co., Ltd.
+1.10 Virtual items: including but not limited to in-game virtual currencies, props, equipment, materials, etc. of Talkweb Information Systems Co., Ltd.
+1.11 User information: refers to the information you registered in the real-name registration system, the game data under your game account, and other information you provide to Talkweb Information System Co., Ltd. in the process of using Talkweb Information System Co., Ltd. game services. Information and data that Talkweb Information System Co., Ltd. needs to collect based on security, user experience optimization, etc.
 
 [EULA_TXT_3]
 CHAPTER 2 STATEMENT OF RIGHTS IN INTELLECTUAL PROPERTY
-2.1 The ownership and all related intellectual property rights of the game data you generate when using the game services of Tuowei Information Systems Co., Ltd. belong to Tuowei Information Systems Co., Ltd., and Tuowei Information Systems Co., Ltd. has the right to dispose of the game data.
-2.2 This Agreement shall not be deemed to be any rights or interests related to Tuowei Information Systems Co., Ltd.'s license or transfer to you of Tuowei Information Systems Co., Ltd.'s games and Tuowei Information Systems Co., Ltd.'s game components.
-2.3 You shall use the intellectual property rights enjoyed by third parties that may be involved in the game components of Tuowei Information Systems Co., Ltd. and Tuowei Information Systems Co., Ltd. in the manner specified in this Agreement. Infringement of intellectual property rights enjoyed by any third party solely due to your violation of the provisions of this Agreement or other unilateral reasons of yours shall be subject to your independent liability and compensation for any losses suffered by Tuowei Information Systems Co., Ltd.
-2.4 The text and LOGO (graphics) of Tuowei, Talkweb reflected in the game services of Tuowei Information System Co., Ltd., as well as the text and LOGO (graphics) used in specific services to identify the service name and source, etc. (Including but not limited to the name, LOGO, and ICON of the game services of Tuowei Information System Co., Ltd, The name, LOGO, ICON, etc. of the game software developer of Tuowei Information Systems Co., Ltd, which is a trademark or registered trademark of Tuowei Information Systems Co., Ltd. and/or its affiliates and cooperating companies in China and/or other countries.
-2.5 Tuowei Information Systems Co., Ltd. respects intellectual property rights and focuses on protecting the rights you enjoy. In the game service of Tuowei Information Systems Co., Ltd., you may need to provide content to Tuowei Information Systems Co., Ltd. through various methods such as uploading and publishing. In this case, you still enjoy the full intellectual property rights to such content.
-2.6 You hereby expressly agree that while providing the aforementioned content, you will irrevocably grant Tuowei Information Systems Co., Ltd. and its affiliates a global and permanent free license, allowing Tuowei Information Systems Co., Ltd. and its affiliates to use, disseminate, copy, modify, sublicense, translate, publish, perform and display such content, and use such content to create derivative works.
-2.7 The rights not expressly granted to you in this Agreement are reserved by Tuowei Information Systems Co., Ltd.
+2.1 The ownership and all related intellectual property rights of the game data you generate when using the game services of Talkweb Information Systems Co., Ltd. belong to Talkweb Information Systems Co., Ltd., and Talkweb Information Systems Co., Ltd. has the right to dispose of the game data.
+2.2 This Agreement shall not be deemed to be any rights or interests related to Talkweb Information Systems Co., Ltd.'s license or transfer to you of Talkweb Information Systems Co., Ltd.'s games and Talkweb Information Systems Co., Ltd.'s game components.
+2.3 You shall use the intellectual property rights enjoyed by third parties that may be involved in the game components of Talkweb Information Systems Co., Ltd. and Talkweb Information Systems Co., Ltd. in the manner specified in this Agreement. Infringement of intellectual property rights enjoyed by any third party solely due to your violation of the provisions of this Agreement or other unilateral reasons of yours shall be subject to your independent liability and compensation for any losses suffered by Talkweb Information Systems Co., Ltd.
+2.4 The text and LOGO (graphics) of Talkweb, Talkweb reflected in the game services of Talkweb Information System Co., Ltd., as well as the text and LOGO (graphics) used in specific services to identify the service name and source, etc. (Including but not limited to the name, LOGO, and ICON of the game services of Talkweb Information System Co., Ltd, The name, LOGO, ICON, etc. of the game software developer of Talkweb Information Systems Co., Ltd, which is a trademark or registered trademark of Talkweb Information Systems Co., Ltd. and/or its affiliates and cooperating companies in China and/or other countries.
+2.5 Talkweb Information Systems Co., Ltd. respects intellectual property rights and focuses on protecting the rights you enjoy. In the game service of Talkweb Information Systems Co., Ltd., you may need to provide content to Talkweb Information Systems Co., Ltd. through various methods such as uploading and publishing. In this case, you still enjoy the full intellectual property rights to such content.
+2.6 You hereby expressly agree that while providing the aforementioned content, you will irrevocably grant Talkweb Information Systems Co., Ltd. and its affiliates a global and permanent free license, allowing Talkweb Information Systems Co., Ltd. and its affiliates to use, disseminate, copy, modify, sublicense, translate, publish, perform and display such content, and use such content to create derivative works.
+2.7 The rights not expressly granted to you in this Agreement are reserved by Talkweb Information Systems Co., Ltd.
 
 [EULA_TXT_4]
 Chapter 3 Acquisition, use and safekeeping of game accounts
 3.1 Obtaining game accounts
-(1) If you need to use and enjoy the games of Tuowei Information System Co., Ltd. and the game services of Tuowei Information System Co., Ltd., you must fully agree to the terms of this agreement, in accordance with the 《 online game management interim regulations 》 and the Ministry of Culture 《 The requirements of the necessary terms of the online game service formatting agreement 》, and complete the registration process in accordance with the requirements of the registration page, Including, but not limited to, inputting correct basic information and information. The user undertakes to register in his or her true identity, including but not limited to real-name authentication in accordance with the requirements of Tuowei Information Systems Co., Ltd. Games and agrees to hand over the filled-in information to a third-party organization for verification, and ensures that the information provided by him or her The information is true, complete and valid, and the user shall bear corresponding legal liability for the information provided in accordance with legal provisions and this agreement.
+(1) If you need to use and enjoy the games of Talkweb Information System Co., Ltd. and the game services of Talkweb Information System Co., Ltd., you must fully agree to the terms of this agreement, in accordance with the 《 online game management interim regulations 》 and the Ministry of Culture 《 The requirements of the necessary terms of the online game service formatting agreement 》, and complete the registration process in accordance with the requirements of the registration page, Including, but not limited to, inputting correct basic information and information. The user undertakes to register in his or her true identity, including but not limited to real-name authentication in accordance with the requirements of Talkweb Information Systems Co., Ltd. Games and agrees to hand over the filled-in information to a third-party organization for verification, and ensures that the information provided by him or her The information is true, complete and valid, and the user shall bear corresponding legal liability for the information provided in accordance with legal provisions and this agreement.
 (2) If you register successfully, you will get the corresponding account, and you can log in to the game and/or use related services.
-(3) If you refuse to provide corresponding information and information as required, or the information and information provided do not meet the requirements, Tuowei Information Systems Co., Ltd. has the right to refuse to provide relevant services or assume any obligations. If there are any changes to the information and information you provide, you should update it in a timely manner, and Tuowei Information Systems Co., Ltd. will provide the service in a timely manner. If the game account information is changed without timely modification, resulting in the inability to prove your valid identity, Tuowei Information Systems Co., Ltd. has the right to refuse to provide any information or assume any obligations.
-(4) You only have the right to use the game account you created, and the ownership of the game account belongs to Tuowei Information Systems Co., Ltd.
-(5) You fully understand and agree that Tuowei Information Systems Co., Ltd. has the right to review whether the identity information provided by your registration is true and valid, and has the right to take reasonable measures such as technology and management to ensure the security and effectiveness of your game account. Tuowei Information Systems Co., Ltd. will apply your real-name registration information to anti-addiction systems in accordance with relevant national requirements. That is, Tuowei Information Systems Co., Ltd. may determine whether you are over 18 years old based on your real-name registration information. Decide whether to impose anti-addiction restrictions on your game account.
+(3) If you refuse to provide corresponding information and information as required, or the information and information provided do not meet the requirements, Talkweb Information Systems Co., Ltd. has the right to refuse to provide relevant services or assume any obligations. If there are any changes to the information and information you provide, you should update it in a timely manner, and Talkweb Information Systems Co., Ltd. will provide the service in a timely manner. If the game account information is changed without timely modification, resulting in the inability to prove your valid identity, Talkweb Information Systems Co., Ltd. has the right to refuse to provide any information or assume any obligations.
+(4) You only have the right to use the game account you created, and the ownership of the game account belongs to Talkweb Information Systems Co., Ltd.
+(5) You fully understand and agree that Talkweb Information Systems Co., Ltd. has the right to review whether the identity information provided by your registration is true and valid, and has the right to take reasonable measures such as technology and management to ensure the security and effectiveness of your game account. Talkweb Information Systems Co., Ltd. will apply your real-name registration information to anti-addiction systems in accordance with relevant national requirements. That is, Talkweb Information Systems Co., Ltd. may determine whether you are over 18 years old based on your real-name registration information. Decide whether to impose anti-addiction restrictions on your game account.
 
 [EULA_TXT_5]
 3.2 Use and storage of user accounts
 (1) You are obliged to properly keep your game account and related passwords, and use your game account and password correctly and securely. The game account you have registered in accordance with this Agreement shall be used only for your personal entertainment or consumption purposes. You have rights and responsibilities in accordance with the law for the behavior caused by the game account you hold after logging in. You are not allowed to share the game account with a third party or transfer or donate the game account to others or ask others to practice on your behalf, etc., because you have not properly kept your account and Password, and use the account and password correctly and securely, resulting in the loss of the account password、 If the account is stolen and other circumstances cause damage to the civil rights of you and others, you will need to bear the resulting legal liability.
-(2) You should notify Tuowei Information System Co., Ltd. as soon as possible after knowing that your account or password has been illegally used, stolen or abnormal by others, and have the right to notify Tuowei Information System Co., Ltd. to take measures to suspend the game. Log in and use the account.
-(3) If Tuowei Information Systems Co., Ltd. takes measures to suspend the login and use of user accounts according to your notice, Tuowei Information Systems Co., Ltd. has the right to require you to provide and verify your personal valid identity information consistent with the registered identity information. If Tuowei Information System Co., Ltd. verifies that the personal valid identity information you provide is consistent with the registered identity information, it shall take timely measures to suspend the login and use of the user account. If the verification information is consistent, Tuowei Information System Co., Ltd. If the company fails to take timely measures to suspend the login and use of the user account, causing losses to the user, Shall bear its corresponding legal responsibility. If you do not provide your personal valid identity certificate or if the personal valid identity certificate you provide is inconsistent with the registered identity information, Tuowei Information Systems Co., Ltd. has the right to refuse your request to suspend the login and use of the game account.
-(4) You fully understand and agree that in order to improve the security level of Tuowei Information System Co., Ltd.'s game services, Tuowei Information System Co., Ltd. has the right to apply relevant technology or software to Tuowei Information System Co., Ltd.'s games, but Tuowei Information System Co., Ltd. does not guarantee that these security measures can completely eliminate the risk of game accounts being stolen or lost by others.
-(5) You fully understand and agree that if Tuowei Information Systems Co., Ltd. restricts, freezes or terminates the use of your game account in accordance with relevant business rules, it may lead to the deletion of game data and related information under your game account, as well as the related For the loss of rights and interests, the loss shall be borne by you, and Tuowei Information Systems Co., Ltd. will not be responsible for this.
+(2) You should notify Talkweb Information System Co., Ltd. as soon as possible after knowing that your account or password has been illegally used, stolen or abnormal by others, and have the right to notify Talkweb Information System Co., Ltd. to take measures to suspend the game. Log in and use the account.
+(3) If Talkweb Information Systems Co., Ltd. takes measures to suspend the login and use of user accounts according to your notice, Talkweb Information Systems Co., Ltd. has the right to require you to provide and verify your personal valid identity information consistent with the registered identity information. If Talkweb Information System Co., Ltd. verifies that the personal valid identity information you provide is consistent with the registered identity information, it shall take timely measures to suspend the login and use of the user account. If the verification information is consistent, Talkweb Information System Co., Ltd. If the company fails to take timely measures to suspend the login and use of the user account, causing losses to the user, Shall bear its corresponding legal responsibility. If you do not provide your personal valid identity certificate or if the personal valid identity certificate you provide is inconsistent with the registered identity information, Talkweb Information Systems Co., Ltd. has the right to refuse your request to suspend the login and use of the game account.
+(4) You fully understand and agree that in order to improve the security level of Talkweb Information System Co., Ltd.'s game services, Talkweb Information System Co., Ltd. has the right to apply relevant technology or software to Talkweb Information System Co., Ltd.'s games, but Talkweb Information System Co., Ltd. does not guarantee that these security measures can completely eliminate the risk of game accounts being stolen or lost by others.
+(5) You fully understand and agree that if Talkweb Information Systems Co., Ltd. restricts, freezes or terminates the use of your game account in accordance with relevant business rules, it may lead to the deletion of game data and related information under your game account, as well as the related For the loss of rights and interests, the loss shall be borne by you, and Talkweb Information Systems Co., Ltd. will not be responsible for this.
 
 [EULA_TXT_6]
 You consent to receiving commercial information via SMS and can opt-out by contacting Talkweb through their website. Inactivity may lead to account and data deletion after notification to efficiently manage server resources; Talkweb isn't responsible for resulting data loss. Talkweb will assist authorities with requests for user data upon verification of identity. Accounts inactive for 365 days will be permanently deleted at 24:00 on that day, with no data recovery possible.
 
 [EULA_TXT_7]
 CHAPTER IV USER INFORMATION COLLECTION, USE AND PROTECTION
-4.1 You agree and authorize Tuowei Information Systems Co., Ltd. to collect and use your user information for the purpose of fulfilling this agreement. The collection, use, sharing, preservation and management of personal information contained in your user information by Tuowei Information Systems Co., Ltd. will comply with the 《 privacy policy 》 and relevant laws and regulations uniformly published by Tuowei Information Systems Co., Ltd.
-4.2 Tuowei Information Systems Co., Ltd. shall not provide, disclose or share personal identity information such as names, personal valid ID numbers, contact information, home addresses, etc. in user registration information to any third party without your permission, except in the following circumstances:
-(1) You or your guardian authorizes Tuowei Company to disclose；
-(2) Relevant laws require Tuowei Information Systems Co., Ltd. to disclose；
-(3) Judicial or administrative agencies require Tuowei Information Systems Co., Ltd. to provide it based on legal procedures；
-(4) When Tuowei Information Systems Co., Ltd. files a lawsuit or arbitration against you in order to safeguard its legitimate rights and interests；
+4.1 You agree and authorize Talkweb Information Systems Co., Ltd. to collect and use your user information for the purpose of fulfilling this agreement. The collection, use, sharing, preservation and management of personal information contained in your user information by Talkweb Information Systems Co., Ltd. will comply with the 《 privacy policy 》 and relevant laws and regulations uniformly published by Talkweb Information Systems Co., Ltd.
+4.2 Talkweb Information Systems Co., Ltd. shall not provide, disclose or share personal identity information such as names, personal valid ID numbers, contact information, home addresses, etc. in user registration information to any third party without your permission, except in the following circumstances:
+(1) You or your guardian authorizes Talkweb Company to disclose；
+(2) Relevant laws require Talkweb Information Systems Co., Ltd. to disclose；
+(3) Judicial or administrative agencies require Talkweb Information Systems Co., Ltd. to provide it based on legal procedures；
+(4) When Talkweb Information Systems Co., Ltd. files a lawsuit or arbitration against you in order to safeguard its legitimate rights and interests；
 (5) When providing your personally identifiable information at the legal request of your guardian.
-4.3 You fully understand and agree: If you disclose important information and information such as your various property accounts, bank cards, credit cards and corresponding passwords to others in the game services of Tuowei Information Systems Co., Ltd., any losses incurred will be borne by you.
+4.3 You fully understand and agree: If you disclose important information and information such as your various property accounts, bank cards, credit cards and corresponding passwords to others in the game services of Talkweb Information Systems Co., Ltd., any losses incurred will be borne by you.
 
 [EULA_TXT_8]
-Chapter 5 Games of Tuowei Information Systems Co, Ltd and Game Services of Tuowei Information Systems Co, Ltd
-5.1 You may use Tuowei Information Systems Co., Ltd. Games and Tuowei Information Systems Co., Ltd. Game Services only for non-commercial purposes in the following ways:
-(1) Receive, download, install, start, upgrade, log in, display, run and/or take screenshots of Tuowei Information Systems Co., Ltd. games；
+Chapter 5 Games of Talkweb Information Systems Co, Ltd and Game Services of Talkweb Information Systems Co, Ltd
+5.1 You may use Talkweb Information Systems Co., Ltd. Games and Talkweb Information Systems Co., Ltd. Game Services only for non-commercial purposes in the following ways:
+(1) Receive, download, install, start, upgrade, log in, display, run and/or take screenshots of Talkweb Information Systems Co., Ltd. games；
 (2) Create game characters, set online names, view game rules, user personal information, game results, purchase and use virtual items through legitimate channels in the game, etc.
-(3) Use one or more other functions supported and allowed by Tuowei Information Systems Co., Ltd. games.
+(3) Use one or more other functions supported and allowed by Talkweb Information Systems Co., Ltd. games.
 Any other form of unlicensed installation, use, access, display, operation, and transfer you make, will be considered a breach of the Agreement.
-5.2 In the process of using Tuowei Information System Co., Ltd.'s game services, you shall not record and disseminate Tuowei Information System Co., Ltd.'s game content to others in any way without Tuowei Information System Co., Ltd.'s permission, including not using any third-party software for online dissemination, etc.
+5.2 In the process of using Talkweb Information System Co., Ltd.'s game services, you shall not record and disseminate Talkweb Information System Co., Ltd.'s game content to others in any way without Talkweb Information System Co., Ltd.'s permission, including not using any third-party software for online dissemination, etc.
 
 [EULA_TXT_9]
-5.3 When provided in the form of software by Tuowei Information Systems Co., Ltd., you should also comply with the provisions of this Agreement on software download and installation when using Tuowei Information Systems Co., Ltd. games and services.
-5.4 If Tuowei Information Systems Co., Ltd. discovers or receives reports or complaints from others that you have violated the provisions of this agreement, Tuowei Information Systems Co., Ltd. has the right to delete relevant content at any time without notice, and will punish illegal game accounts depending on the circumstances of the behavior. Punishments include but are not limited to warnings, restrictions or prohibitions on the use of all or part of functions、 Penalties for banning game accounts until they are cancelled, and announcement of the results.
-5.5 You fully understand and agree that Tuowei Information Systems Co., Ltd. has the right to reasonably judge and punish violations of relevant laws, regulations or the provisions of this agreement, take appropriate legal actions against any user who violates laws and regulations, and save relevant information in accordance with laws and regulations. Report to relevant departments, etc., users should bear all legal responsibilities arising therefrom alone.
-5.6 You fully understand and agree that you shall be independently responsible for any claims, demands or losses caused or caused by third parties due to your violation of this Agreement or relevant terms of service; Tuowei Information Systems Co., Ltd. has suffered losses as a result, you shall also compensate together.
-5.7 You fully understand and agree that virtual items, etc. are part of the game services of Tuowei Information Systems Co., Ltd. Tuowei Information Systems Co., Ltd. hereby allows you to obtain the right to use them in accordance with this agreement. Your purchase and use of virtual items, etc. shall follow the requirements of this Agreement and the specific rules of the game; at the same time, virtual items, etc. may be subject to a certain validity period. If you do not use it within the specified validity period, except for force majeure or attributable to Tuowei Information Systems Co., Ltd., once the validity period expires, it will automatically expire.
-5.8 You fully understand and agree: In order to create a fair and healthy gaming environment, in the process of your use of Tuowei Information System Co., Ltd.'s game services, Tuowei Information System Co., Ltd. has the right to understand your relevant terminal equipment information through technical means. Once any unauthorized procedure has been found that would endanger the normal operation of the game services of Tuowei Information Systems Co, Ltd, Tuowei Information Systems Co, Ltd will collect all information related to this and take reasonable measures to combat it.
+5.3 When provided in the form of software by Talkweb Information Systems Co., Ltd., you should also comply with the provisions of this Agreement on software download and installation when using Talkweb Information Systems Co., Ltd. games and services.
+5.4 If Talkweb Information Systems Co., Ltd. discovers or receives reports or complaints from others that you have violated the provisions of this agreement, Talkweb Information Systems Co., Ltd. has the right to delete relevant content at any time without notice, and will punish illegal game accounts depending on the circumstances of the behavior. Punishments include but are not limited to warnings, restrictions or prohibitions on the use of all or part of functions、 Penalties for banning game accounts until they are cancelled, and announcement of the results.
+5.5 You fully understand and agree that Talkweb Information Systems Co., Ltd. has the right to reasonably judge and punish violations of relevant laws, regulations or the provisions of this agreement, take appropriate legal actions against any user who violates laws and regulations, and save relevant information in accordance with laws and regulations. Report to relevant departments, etc., users should bear all legal responsibilities arising therefrom alone.
+5.6 You fully understand and agree that you shall be independently responsible for any claims, demands or losses caused or caused by third parties due to your violation of this Agreement or relevant terms of service; Talkweb Information Systems Co., Ltd. has suffered losses as a result, you shall also compensate together.
+5.7 You fully understand and agree that virtual items, etc. are part of the game services of Talkweb Information Systems Co., Ltd. Talkweb Information Systems Co., Ltd. hereby allows you to obtain the right to use them in accordance with this agreement. Your purchase and use of virtual items, etc. shall follow the requirements of this Agreement and the specific rules of the game; at the same time, virtual items, etc. may be subject to a certain validity period. If you do not use it within the specified validity period, except for force majeure or attributable to Talkweb Information Systems Co., Ltd., once the validity period expires, it will automatically expire.
+5.8 You fully understand and agree: In order to create a fair and healthy gaming environment, in the process of your use of Talkweb Information System Co., Ltd.'s game services, Talkweb Information System Co., Ltd. has the right to understand your relevant terminal equipment information through technical means. Once any unauthorized procedure has been found that would endanger the normal operation of the game services of Talkweb Information Systems Co, Ltd, Talkweb Information Systems Co, Ltd will collect all information related to this and take reasonable measures to combat it.
 
 [EULA_TXT_10]
-5.9 You fully understand and agree: When you use the charging function of Tuowei Information System Co., Ltd.'s games, you should pay the corresponding fees in accordance with the requirements of Tuowei Information System Co., Ltd. Moreover, this right belongs to the operating autonomy of Tuowei Information System Co., Ltd. Tuowei Information System Co., Ltd. reserves the right to change the business model at any time, that is, it reserves the right to change the rate standard of the charge, the software functions of the charge, the charging objects and the charging time. At the same time, Tuowei Information Systems Co., Ltd. also reserves the right to upgrade, revise, add, delete, modify, change the functions of the application or change the rules of the game. If you do not accept such changes, you should immediately stop using the application; if you continue to use the application, it will be deemed that you accept the changed business model.
-5.10 You fully understand and agree: In order to ensure the game speed of you and other users, Tuowei Information System Co., Ltd. has the right to regularly transfer or clear some past game data stored on the game server of Tuowei Information System Co., Ltd.
-5.11 You fully understand and agree that the game services you are using involve Internet services and may be affected by unstable factors in various aspects of the Internet. There is therefore a risk that this game service will be disrupted or will not meet user requirements due to force majeure, viral or hacking attacks, system instability, location of the user, user shutdown, and any other technology, Internet, communication line causes, etc. In view of this, to the maximum extent permitted by applicable law, Tuowei Information Systems Co., Ltd. does not guarantee that the game services provided will definitely meet your requirements, nor that the game services provided will not be interrupted, and does not guarantee that the game services will not be interrupted. There is no guarantee for the timeliness, security, occurrence of errors, and whether the information can be transmitted accurately, timely, and smoothly.
-5.12 You fully understand and agree that when using the game services of Tuowei Information Systems Co., Ltd., there is threatening, defamatory, objectionable or illegal content or behavior or infringement of the rights of others from any other person. (including intellectual property rights), you must bear the above risks, Tuowei Information Systems Co., Ltd. does not make any type of guarantee for game services, whether explicit or implicit, including all implied guarantees regarding the authenticity, merchantability, fitness for a specific purpose, ownership and non-infringement of the information. and conditions, resulting in any direct, indirect, incidental, special and subsequent damage arising from your improper or illegal use of the service, No liability.
+5.9 You fully understand and agree: When you use the charging function of Talkweb Information System Co., Ltd.'s games, you should pay the corresponding fees in accordance with the requirements of Talkweb Information System Co., Ltd. Moreover, this right belongs to the operating autonomy of Talkweb Information System Co., Ltd. Talkweb Information System Co., Ltd. reserves the right to change the business model at any time, that is, it reserves the right to change the rate standard of the charge, the software functions of the charge, the charging objects and the charging time. At the same time, Talkweb Information Systems Co., Ltd. also reserves the right to upgrade, revise, add, delete, modify, change the functions of the application or change the rules of the game. If you do not accept such changes, you should immediately stop using the application; if you continue to use the application, it will be deemed that you accept the changed business model.
+5.10 You fully understand and agree: In order to ensure the game speed of you and other users, Talkweb Information System Co., Ltd. has the right to regularly transfer or clear some past game data stored on the game server of Talkweb Information System Co., Ltd.
+5.11 You fully understand and agree that the game services you are using involve Internet services and may be affected by unstable factors in various aspects of the Internet. There is therefore a risk that this game service will be disrupted or will not meet user requirements due to force majeure, viral or hacking attacks, system instability, location of the user, user shutdown, and any other technology, Internet, communication line causes, etc. In view of this, to the maximum extent permitted by applicable law, Talkweb Information Systems Co., Ltd. does not guarantee that the game services provided will definitely meet your requirements, nor that the game services provided will not be interrupted, and does not guarantee that the game services will not be interrupted. There is no guarantee for the timeliness, security, occurrence of errors, and whether the information can be transmitted accurately, timely, and smoothly.
+5.12 You fully understand and agree that when using the game services of Talkweb Information Systems Co., Ltd., there is threatening, defamatory, objectionable or illegal content or behavior or infringement of the rights of others from any other person. (including intellectual property rights), you must bear the above risks, Talkweb Information Systems Co., Ltd. does not make any type of guarantee for game services, whether explicit or implicit, including all implied guarantees regarding the authenticity, merchantability, fitness for a specific purpose, ownership and non-infringement of the information. and conditions, resulting in any direct, indirect, incidental, special and subsequent damage arising from your improper or illegal use of the service, No liability.
 
 [EULA_TXT_11]
 5.13 You fully understand and pay attention to the following:
-(1) Tuowei Information Systems Co., Ltd. may update applications from time to time by publishing software upgrade packages or software patches, online upgrades, etc. During the update process, Tuowei Information Systems Co., Ltd. may retrieve and collect your personal client software version information about the game, and automatically replace, modify, delete, add, modify, supplement, etc. This behavior is a necessary operation or step for software update. If you do not agree to Tuowei Information Systems Co., Ltd. to perform such operation, please do not update it; the behavior you use is deemed to be your consent. Tuowei Information Systems Co., Ltd. performs such operation.
+(1) Talkweb Information Systems Co., Ltd. may update applications from time to time by publishing software upgrade packages or software patches, online upgrades, etc. During the update process, Talkweb Information Systems Co., Ltd. may retrieve and collect your personal client software version information about the game, and automatically replace, modify, delete, add, modify, supplement, etc. This behavior is a necessary operation or step for software update. If you do not agree to Talkweb Information Systems Co., Ltd. to perform such operation, please do not update it; the behavior you use is deemed to be your consent. Talkweb Information Systems Co., Ltd. performs such operation.
 (2) For games, some updates may be updates to the software version, and if you do not make such updates, you will not be able to log in to the app. Moreover, such an update will cause the original software version on the terminal you are using to be completely replaced by the new software version.
-(3) Obtaining game coins, game props, game equipment and other virtual items from third parties may pose various risks. You may not obtain the above-mentioned game virtual items from a third party. If you insist on obtaining the above-mentioned game virtual items from a third party, you shall bear the corresponding risks. Tuowei Information Systems Co., Ltd. has the right to directly retrieve or delete such game virtual items. Delete and other processing.
-(4) The measures taken by Tuowei Information Systems Co., Ltd. due to users engaging in violations of this Agreement or regulations may cause virtual items with a service period under your current game account to expire during the period of taking the above measures and be unable to continue to be used, the losses caused to you will be borne by you. That is, the time it takes for Tuowei Information Systems Co., Ltd. to take the above measures is calculated in the use period of virtual items with a use period; after the execution of such measures is terminated, the use period of virtual items will not be extended as a result.
+(3) Obtaining game coins, game props, game equipment and other virtual items from third parties may pose various risks. You may not obtain the above-mentioned game virtual items from a third party. If you insist on obtaining the above-mentioned game virtual items from a third party, you shall bear the corresponding risks. Talkweb Information Systems Co., Ltd. has the right to directly retrieve or delete such game virtual items. Delete and other processing.
+(4) The measures taken by Talkweb Information Systems Co., Ltd. due to users engaging in violations of this Agreement or regulations may cause virtual items with a service period under your current game account to expire during the period of taking the above measures and be unable to continue to be used, the losses caused to you will be borne by you. That is, the time it takes for Talkweb Information Systems Co., Ltd. to take the above measures is calculated in the use period of virtual items with a use period; after the execution of such measures is terminated, the use period of virtual items will not be extended as a result.
 
 [EULA_TXT_12]
-5.14 Tuowei Information Systems Co., Ltd. may provide you with game rule descriptions, bugs (also known as vulnerabilities, defects, etc.) or plug-in complaints, and game item retrieval through the official website, customer service phone number, game administrator, or other channels, game item lock or unlock, account complaint and other customer services, the provision of the above services should be based on the following prerequisites:
-(1) Understand the content, requirements and tariffs of these customer services through the official customer service website of Tuowei Information Systems Co., Ltd. or other channels provided by Tuowei Information Systems Co., Ltd., carefully choose whether you need to enjoy corresponding customer services, and provide Tuowei Information Systems Co., Ltd. to truly and accurately express your needs.
-(2) Agree and accept Tuowei Information Systems Co., Ltd.'s special agreement or terms on these customer services.
-(3) truthfully provide your relevant personal information and game status in accordance with the requirements of Tuowei Information Systems Co., Ltd., as well as other users you know or the online game itself, such as: your account and the personal information under it, Online game login status and game items status, bugs (also known as vulnerabilities, defects, etc.) in the application、 Plug-ins and other players you know about using bugs (also known as vulnerabilities, defects, etc.) or plug-ins.
+5.14 Talkweb Information Systems Co., Ltd. may provide you with game rule descriptions, bugs (also known as vulnerabilities, defects, etc.) or plug-in complaints, and game item retrieval through the official website, customer service phone number, game administrator, or other channels, game item lock or unlock, account complaint and other customer services, the provision of the above services should be based on the following prerequisites:
+(1) Understand the content, requirements and tariffs of these customer services through the official customer service website of Talkweb Information Systems Co., Ltd. or other channels provided by Talkweb Information Systems Co., Ltd., carefully choose whether you need to enjoy corresponding customer services, and provide Talkweb Information Systems Co., Ltd. to truly and accurately express your needs.
+(2) Agree and accept Talkweb Information Systems Co., Ltd.'s special agreement or terms on these customer services.
+(3) truthfully provide your relevant personal information and game status in accordance with the requirements of Talkweb Information Systems Co., Ltd., as well as other users you know or the online game itself, such as: your account and the personal information under it, Online game login status and game items status, bugs (also known as vulnerabilities, defects, etc.) in the application、 Plug-ins and other players you know about using bugs (also known as vulnerabilities, defects, etc.) or plug-ins.
 
 [EULA_TXT_13]
-5.15 When one of the following circumstances occurs, Tuowei Information Systems Co., Ltd. has the right to stop or interrupt the services provided by the game server. For inconvenience or damage caused thereby, Tuowei Information Systems Co., Ltd. will not be liable to users or third parties. No liability:
-(1) For regular inspections or construction, updating software and hardware, etc., Tuowei Information Systems Co., Ltd. has the right to suspend services, but will complete maintenance and update work as soon as possible；
+5.15 When one of the following circumstances occurs, Talkweb Information Systems Co., Ltd. has the right to stop or interrupt the services provided by the game server. For inconvenience or damage caused thereby, Talkweb Information Systems Co., Ltd. will not be liable to users or third parties. No liability:
+(1) For regular inspections or construction, updating software and hardware, etc., Talkweb Information Systems Co., Ltd. has the right to suspend services, but will complete maintenance and update work as soon as possible；
 (2) The server is damaged and cannot operate normally；
 (3) Sudden failure of software, hardware and electronic communication equipment；
 (4) Network provider lines or other faults；
 (5) In order to maintain national security or the personal safety of other users and third parties in emergencies；
 (6) Force majeure and other third-party reasons.
-5.16 Tuowei Information System Co., Ltd. will take effective measures to protect the legitimate rights and interests of minors in the process of using Tuowei Information System Co., Ltd.'s game services in accordance with relevant laws, regulations and the provisions of this agreement, including possible technical measures, prohibit minors from being exposed to inappropriate games or game functions, limit minors' game time, and prevent minors from being addicted to the Internet. All users of minors should carefully read and follow these guidelines and instructions under the guidance of their legal guardian; other players should avoid publishing and producing any content that is harmful to the physical and mental health of minors in the process of using the game services of Tuowei Information System Co., Ltd., and jointly create a healthy gaming environment.
+5.16 Talkweb Information System Co., Ltd. will take effective measures to protect the legitimate rights and interests of minors in the process of using Talkweb Information System Co., Ltd.'s game services in accordance with relevant laws, regulations and the provisions of this agreement, including possible technical measures, prohibit minors from being exposed to inappropriate games or game functions, limit minors' game time, and prevent minors from being addicted to the Internet. All users of minors should carefully read and follow these guidelines and instructions under the guidance of their legal guardian; other players should avoid publishing and producing any content that is harmful to the physical and mental health of minors in the process of using the game services of Talkweb Information System Co., Ltd., and jointly create a healthy gaming environment.
 
 [EULA_TXT_14]
 CHAPTER VI USER CANDARD OF CONDUCT
-6.1 You fully understand and agree that you must be responsible for all actions under your game account, including any content you publish and any consequences arising therefrom. You shall make your own judgment on the content in the game of Tuowei Information Systems Co., Ltd. and bear all risks arising from the use of Tuowei Information Systems Co., Ltd. game services, including due to the correctness of Tuowei Information Systems Co., Ltd. game content. risks arising from reliance on the accuracy, completeness or practicality. Tuowei Information Systems GmbH Games cannot and will not be liable for any loss or damage resulting from the aforementioned risks.
-6.2 In addition to using the game services of Tuowei Information System Co., Ltd. as stipulated in this agreement, you shall not engage in any infringement of the intellectual property rights related to the game of Tuowei Information System Co., Ltd. and the game components of Tuowei Information System Co., Ltd., or conduct other acts that harm the legitimate rights and interests of Tuowei Information System Co., Ltd. or other third parties.
-6.3 Unless permitted by law or with the written permission of Tuowei Information Systems Co., Ltd., you may not commit the following acts while using Tuowei Information Systems Co., Ltd.'s game services:
+6.1 You fully understand and agree that you must be responsible for all actions under your game account, including any content you publish and any consequences arising therefrom. You shall make your own judgment on the content in the game of Talkweb Information Systems Co., Ltd. and bear all risks arising from the use of Talkweb Information Systems Co., Ltd. game services, including due to the correctness of Talkweb Information Systems Co., Ltd. game content. risks arising from reliance on the accuracy, completeness or practicality. Talkweb Information Systems GmbH Games cannot and will not be liable for any loss or damage resulting from the aforementioned risks.
+6.2 In addition to using the game services of Talkweb Information System Co., Ltd. as stipulated in this agreement, you shall not engage in any infringement of the intellectual property rights related to the game of Talkweb Information System Co., Ltd. and the game components of Talkweb Information System Co., Ltd., or conduct other acts that harm the legitimate rights and interests of Talkweb Information System Co., Ltd. or other third parties.
+6.3 Unless permitted by law or with the written permission of Talkweb Information Systems Co., Ltd., you may not commit the following acts while using Talkweb Information Systems Co., Ltd.'s game services:
 (1) Delete all copyright information and content on the game and other copies；
 (2) Reverse engineering, reverse assembly, reverse compilation of the game or otherwise attempt to discover the source code of the software, etc., and use or disclose such source code to any third party；
 (3) Scan, explore, and test game software to detect, discover, and find possible bugs (also known as vulnerabilities, defects, etc.) or weaknesses；
@@ -69540,30 +69540,30 @@ CHAPTER VI USER CANDARD OF CONDUCT
 (5) Modify or forge instructions and data in the operation of the software, add, delete, or change the functions or operating effects of the software, or operate or disseminate the software and methods used for the above purposes to the public, regardless of whether the above behavior is for commercial purposes；
 
 [EULA_TXT_15]
-(6) Use third-party software, plug-ins, plug-ins, and systems developed and authorized by Tuowei Information System Co., Ltd., use Tuowei Information System Co., Ltd. games and Tuowei Information System Co., Ltd. game services, or produce, Publish and disseminate third-party software, plug-ins, plug-ins, and systems developed and authorized by Feituowei Information System Co., Ltd；
-(7) Use, rent, lend, copy, modify, link, reprint, compile, publish, publish, and establish mirror sites for content in the game that Tuowei Information System Co., Ltd. owns intellectual property rights, and establish relevant Tuowei Information System Co., Ltd. Mirror sites for games, or take web (network) snapshots, or use server setup and other methods, Provide others with exactly the same or similar services as the game services of Tuowei Information Systems Co., Ltd；
-(8) Separate any part of the game of Tuowei Information Systems Co., Ltd. for separate use, or perform other uses that do not comply with this Agreement；
-(9) Use the name, trademark or other intellectual property rights of Tuowei Information Systems Co., Ltd.'s games in a manner inconsistent with the provisions of this Agreement；
-(10) Other acts that have not been expressly authorized by Tuowei Information Systems Co., Ltd.
-6.4 If you engage in the following behaviors while using Tuowei Information System Co., Ltd.'s game services, Tuowei Information System Co., Ltd. will temporarily or permanently ban you based on the severity of the case and in accordance with the provisions of this Agreement and relevant game rules. Prohibit login, delete game account and game data, delete relevant information and other processing measures, In serious cases, the administrative authorities concerned will be handed over for administrative penalties, or you will be held criminally responsible:
+(6) Use third-party software, plug-ins, plug-ins, and systems developed and authorized by Talkweb Information System Co., Ltd., use Talkweb Information System Co., Ltd. games and Talkweb Information System Co., Ltd. game services, or produce, Publish and disseminate third-party software, plug-ins, plug-ins, and systems developed and authorized by FeiTalkweb Information System Co., Ltd；
+(7) Use, rent, lend, copy, modify, link, reprint, compile, publish, publish, and establish mirror sites for content in the game that Talkweb Information System Co., Ltd. owns intellectual property rights, and establish relevant Talkweb Information System Co., Ltd. Mirror sites for games, or take web (network) snapshots, or use server setup and other methods, Provide others with exactly the same or similar services as the game services of Talkweb Information Systems Co., Ltd；
+(8) Separate any part of the game of Talkweb Information Systems Co., Ltd. for separate use, or perform other uses that do not comply with this Agreement；
+(9) Use the name, trademark or other intellectual property rights of Talkweb Information Systems Co., Ltd.'s games in a manner inconsistent with the provisions of this Agreement；
+(10) Other acts that have not been expressly authorized by Talkweb Information Systems Co., Ltd.
+6.4 If you engage in the following behaviors while using Talkweb Information System Co., Ltd.'s game services, Talkweb Information System Co., Ltd. will temporarily or permanently ban you based on the severity of the case and in accordance with the provisions of this Agreement and relevant game rules. Prohibit login, delete game account and game data, delete relevant information and other processing measures, In serious cases, the administrative authorities concerned will be handed over for administrative penalties, or you will be held criminally responsible:
 (1) Use games and services to publish, transmit, disseminate, and store content that endangers national security, the reunification of the motherland, and social stability, or insult, slander, pornography, violence, cause uneasiness to others, or violate social ethics and any content that violates national laws, regulations, and policies. Or set up online names and character names containing the above content.
 (2) Use games and services to publish, transmit, disseminate, and store content that infringes upon the legal rights of others such as intellectual property rights, commercial confidentiality rights, portrait rights, and privacy.
 (3) Carry out any behavior that endangers network security, including but not limited to: using unauthorized data or entering unauthorized servers/accounts; entering the public network or other people's terminal systems without permission and deleting, modifying, and adding stored information; Attempt to explore, scan, and test the weaknesses of this software or network or other behaviors that undermine network security without permission; attempt to interfere、 Undermining the normal operation of this  software system or website, deliberately spreading malicious programs or viruses and other acts that undermine and interfere with normal network information services; forging packet names or partial names.
 
 [EULA_TXT_16]
-(4) Carry out any behavior that undermines the fairness of the game services of Tuowei Information System Co., Ltd. or other behaviors that affect the normal order of the game, such as actively or passively brushing points, cheating in partnership, using plug-ins or other cheating software, and using BUG (also called  Vulnerability or  defect, etc.) to obtain improper and illegal benefits, Or use the Internet or other means to make plug-ins, cheating software, and bugs public.
-(5) Use Tuowei Information System Co., Ltd.'s games to engage in any commercial activities such as publishing advertisements and selling goods, or engage in any illegal behavior that infringes on the interests of Tuowei Information System Co., Ltd., such as selling game accounts and selling in-game virtual items or information, illegal recharge, hiring others to provide in-game services and paying remuneration outside the game, For example, for profit-making purposes, make money, power leveling services, trade virtual vouchers for profit-making purposes, or provide intermediary services, spread advertising, etc. Once discovered, Tuowei Information Systems Co., Ltd. has the right to suspend the user account and has the right to determine the suspension period based on the degree of impact you have caused, and Tuowei Information Systems Co., Ltd. has the right to recover and delete all your abnormal income. data.
-(6) Pretend to be Tuowei Information Systems Co., Ltd., game service administrator or game forum administrator, and moderator to publish any fraudulent or false information.
+(4) Carry out any behavior that undermines the fairness of the game services of Talkweb Information System Co., Ltd. or other behaviors that affect the normal order of the game, such as actively or passively brushing points, cheating in partnership, using plug-ins or other cheating software, and using BUG (also called  Vulnerability or  defect, etc.) to obtain improper and illegal benefits, Or use the Internet or other means to make plug-ins, cheating software, and bugs public.
+(5) Use Talkweb Information System Co., Ltd.'s games to engage in any commercial activities such as publishing advertisements and selling goods, or engage in any illegal behavior that infringes on the interests of Talkweb Information System Co., Ltd., such as selling game accounts and selling in-game virtual items or information, illegal recharge, hiring others to provide in-game services and paying remuneration outside the game, For example, for profit-making purposes, make money, power leveling services, trade virtual vouchers for profit-making purposes, or provide intermediary services, spread advertising, etc. Once discovered, Talkweb Information Systems Co., Ltd. has the right to suspend the user account and has the right to determine the suspension period based on the degree of impact you have caused, and Talkweb Information Systems Co., Ltd. has the right to recover and delete all your abnormal income. data.
+(6) Pretend to be Talkweb Information Systems Co., Ltd., game service administrator or game forum administrator, and moderator to publish any fraudulent or false information.
 (7) Various illegal cheating behaviors.
 (8) Stealing other people's game accounts and game items.
 (9) Conduct game account transactions privately, and conduct transactions of game props, game equipment, game coins, etc. privately.
 (10) Exploit possible technical flaws or loopholes in the online game system to make profits for yourself and others in various forms.
-(11) Use all or part of the data information generated and stored in the game during the use of various paid or free games provided by Tuowei Information Systems Co., Ltd. to make profits for yourself and others in various forms.
-(12) Promote plug-ins, private servers, power leveling, coin brushing, Trojans and other content or publicly conduct negative publicity for Tuowei Information Systems Co., Ltd.
-(13) Unauthorized use of the products and services provided by Tuowei Information Systems Co., Ltd. to make profits in reality, as well as other misconduct that is widely recognized in the industry, whether or not it has been expressly enumerated in this Agreement.
+(11) Use all or part of the data information generated and stored in the game during the use of various paid or free games provided by Talkweb Information Systems Co., Ltd. to make profits for yourself and others in various forms.
+(12) Promote plug-ins, private servers, power leveling, coin brushing, Trojans and other content or publicly conduct negative publicity for Talkweb Information Systems Co., Ltd.
+(13) Unauthorized use of the products and services provided by Talkweb Information Systems Co., Ltd. to make profits in reality, as well as other misconduct that is widely recognized in the industry, whether or not it has been expressly enumerated in this Agreement.
 
 [EULA_TXT_17]
-6.5 Except for the usage methods stipulated in this agreement, you may not perform any of the following acts without the permission of Tuowei Information Systems Co., Ltd.; if you want to perform any of the following acts, please contact Tuowei Information Systems Co., Ltd. Contact us and obtain the consent of Tuowei Information Systems Co., Ltd, And at the request of Tuowei Information Systems Co., Ltd., sign an electronic or paper written contract with it:
+6.5 Except for the usage methods stipulated in this agreement, you may not perform any of the following acts without the permission of Talkweb Information Systems Co., Ltd.; if you want to perform any of the following acts, please contact Talkweb Information Systems Co., Ltd. Contact us and obtain the consent of Talkweb Information Systems Co., Ltd, And at the request of Talkweb Information Systems Co., Ltd., sign an electronic or paper written contract with it:
 (1) Modify, copy, distribute, rent, publish, translate, compile, adapt and/or reproduce the game or its various derivative works, or make it public on the Internet or other means.
 (2) Produce, produce, wholesale, sell, publish and/or publish derivatives adapted from the game.
 (3) Provide testing, bugs (also called  vulnerabilities,  defects, etc.) and plug-in tracking reports, soft article writing and promotion, competitive intelligence collection and other services for the game.
@@ -69571,7 +69571,7 @@ CHAPTER VI USER CANDARD OF CONDUCT
 (5) Conduct other relevant game services that require developer consent other than the above behaviors.
 
 [EULA_TXT_18]
-6.6 If a user violates this Agreement or relevant regulations, Tuowei Information Systems Co., Ltd. has the right to take one or more of the following measures:
+6.6 If a user violates this Agreement or relevant regulations, Talkweb Information Systems Co., Ltd. has the right to take one or more of the following measures:
 (1) Immediately disconnect the network connection between the terminal you are currently using and the application server, and you must log in again to continue using the application.
 (2) You are temporarily prohibited from logging into online games with your currently used account.
 (3) You are temporarily prohibited from using a paid function in the application until the date when you pay off the fees owed and pay the corresponding fees in advance to continue using the above paid function.
@@ -69586,80 +69586,80 @@ CHAPTER VI USER CANDARD OF CONDUCT
 (10) Permanently and irrevocably delete all game props, game equipment, game coins, points, levels, honors and other information under the account you are currently using, as well as corresponding game data.
 (11) Permanently and irrevocably prohibit you from logging into the application with the account you are currently using, and delete or clear all data, game coins, props, equipment and other information generated by the account in the application.
 (12) Take measures other than those listed above.
-Tuowei Information Systems Co., Ltd. may take one or more of the aforementioned measures continuously, intermittently or alternately.
-If any account or role of the same user violates this Agreement and other relevant provisions, Tuowei Information Systems Co., Ltd. has the right to sanction all accounts and roles under the user, including but not limited to suspending, terminating, and deleting all accounts under the user.
+Talkweb Information Systems Co., Ltd. may take one or more of the aforementioned measures continuously, intermittently or alternately.
+If any account or role of the same user violates this Agreement and other relevant provisions, Talkweb Information Systems Co., Ltd. has the right to sanction all accounts and roles under the user, including but not limited to suspending, terminating, and deleting all accounts under the user.
 
 [EULA_TXT_20]
 CHAPTER VII DOWNLOAD AND INSTALLATION OF SOFTWARE
-7.1 Using Tuowei Information Systems Co., Ltd. game services may require downloading and installing relevant software. You can obtain the software directly from the relevant websites of Tuowei Information Systems Co., Ltd., or you can obtain it from Tuowei Information Systems Co., Ltd. Authorized third party to obtain. If you have never obtained a game of Tuowei Information Systems Co., Ltd. by a third party authorized by Tuowei Information Systems Co., Ltd. or a game with the same name as the game of Tuowei Information Systems Co., Ltd., you will be deemed to have not obtained Tuowei Information Systems Co., Ltd. authorized by the company, Tuowei Information Systems Co., Ltd. cannot guarantee that the game can be used normally, And is not responsible for the loss caused to you as a result.
-7.2 Tuowei Information Systems Co., Ltd. may have developed different software versions for different terminal devices or operating systems, including but not limited to multiple application versions such as ios and android. You should choose to download the appropriate version for installation according to the actual situation. After downloading and installing the program, you need to follow the steps prompted by the program to install it correctly.
-7.3 In order to provide more secure services, Tuowei Information Systems Co., Ltd. may recommend you to install other software when installing the software. You can choose to install or not install it.
+7.1 Using Talkweb Information Systems Co., Ltd. game services may require downloading and installing relevant software. You can obtain the software directly from the relevant websites of Talkweb Information Systems Co., Ltd., or you can obtain it from Talkweb Information Systems Co., Ltd. Authorized third party to obtain. If you have never obtained a game of Talkweb Information Systems Co., Ltd. by a third party authorized by Talkweb Information Systems Co., Ltd. or a game with the same name as the game of Talkweb Information Systems Co., Ltd., you will be deemed to have not obtained Talkweb Information Systems Co., Ltd. authorized by the company, Talkweb Information Systems Co., Ltd. cannot guarantee that the game can be used normally, And is not responsible for the loss caused to you as a result.
+7.2 Talkweb Information Systems Co., Ltd. may have developed different software versions for different terminal devices or operating systems, including but not limited to multiple application versions such as ios and android. You should choose to download the appropriate version for installation according to the actual situation. After downloading and installing the program, you need to follow the steps prompted by the program to install it correctly.
+7.3 In order to provide more secure services, Talkweb Information Systems Co., Ltd. may recommend you to install other software when installing the software. You can choose to install or not install it.
 7.4 If you no longer need to use the software or need to install a new version, you can uninstall it yourself.
-7.5 In order to ensure the security and functional consistency of Tuowei Information Systems Co., Ltd.'s game services, Tuowei Information Systems Co., Ltd. has the right to update the software without special notice to you, or to modify some functional effects of the software. Make changes or restrictions.
-7.6 After the new version of the software is released, the old version of the software may not be used. Tuowei Information Systems Co., Ltd. does not guarantee that the old version of the software and corresponding customer services will continue to be available. Please check and download the latest version at any time.
+7.5 In order to ensure the security and functional consistency of Talkweb Information Systems Co., Ltd.'s game services, Talkweb Information Systems Co., Ltd. has the right to update the software without special notice to you, or to modify some functional effects of the software. Make changes or restrictions.
+7.6 After the new version of the software is released, the old version of the software may not be used. Talkweb Information Systems Co., Ltd. does not guarantee that the old version of the software and corresponding customer services will continue to be available. Please check and download the latest version at any time.
 
 [EULA_TXT_21]
 Chapter V3 Disclaimer
-8.1 Tuowei Information System Co., Ltd. Games and Tuowei Information System Co., Ltd. game services are subject to the actual situation and version provided to you. Tuowei Information Systems Co., Ltd. does not guarantee that: Tuowei Information Systems Co., Ltd. Games and Tuowei Information Systems Co., Ltd. Game Services are error-free and will not be interrupted, all defects have been corrected, or Tuowei Information Systems Co., Ltd. Game Services will not be compromised by viruses or any other factors. Unless expressly provided by law, Tuowei Information Systems Co., Ltd. hereby expressly disclaims any liability for warranty, express or implied, including, but not limited to, the performance, suitability or non-infringement of Tuowei Information Systems Co., Ltd. Games and Tuowei Information Systems Co., Ltd. Game Services. guarantee.
-8.2 Under any circumstances, Tuowei Information Systems Co., Ltd. shall not be liable for the losses you suffer during the use of Tuowei Information Systems Co., Ltd. games and Tuowei Information Systems Co., Ltd. game services due to force majeure. Such force majeure events include, but are not limited to, national laws, regulations, policies, that is, orders of state organs or other unpredictable, inevitable and insurmountable events such as earthquakes, fires, snow disasters, fires, tsunamis, typhoons, strikes, wars, etc.
-8.3 Tuowei Information Systems Co., Ltd. may independently decide to change, terminate, or suspend your use of any Tuowei Information Systems Co., Ltd. games and Tuowei Information Systems Co., Ltd. game services at any time based on the information or information it knows or has. No advance notice is required from you, but in accordance with laws and regulations、 Except as agreed in this Agreement or your agreement with Tuowei Information Systems Co., Ltd. requires advance notice. If your actions violate the provisions of laws and regulations or the provisions of this Agreement, Tuowei Information System Co., Ltd. terminates or suspends your use of any Tuowei Information System Co., Ltd. games and Tuowei Information System Co., Ltd. games in accordance with relevant regulations. If the company's game services are provided, Tuowei Information System Co., Ltd. does not need to bear any liability to you and has the right to require you to bear corresponding liability.
-8.4 Tuowei Information System Co., Ltd. Games and Tuowei Information System Co., Ltd. game services may cause bugs in game software (also known as vulnerabilities, defects, etc.), version update defects, third-party virus attacks, Internet connections or any other factors. Abnormal account data such as game characters, game props, game equipment, and game coins. Before the cause of the data abnormality is found out, Tuowei Information Systems Co., Ltd. has the right to temporarily freeze the game account; if it is found that the data abnormality is abnormal game behavior, Tuowei Information Systems Co., Ltd. has the right to restore the game account data to the original state before the abnormality occurs (including recovering transferred data from third parties), And Tuowei Information Systems Co., Ltd. does not assume any responsibility to you.
+8.1 Talkweb Information System Co., Ltd. Games and Talkweb Information System Co., Ltd. game services are subject to the actual situation and version provided to you. Talkweb Information Systems Co., Ltd. does not guarantee that: Talkweb Information Systems Co., Ltd. Games and Talkweb Information Systems Co., Ltd. Game Services are error-free and will not be interrupted, all defects have been corrected, or Talkweb Information Systems Co., Ltd. Game Services will not be compromised by viruses or any other factors. Unless expressly provided by law, Talkweb Information Systems Co., Ltd. hereby expressly disclaims any liability for warranty, express or implied, including, but not limited to, the performance, suitability or non-infringement of Talkweb Information Systems Co., Ltd. Games and Talkweb Information Systems Co., Ltd. Game Services. guarantee.
+8.2 Under any circumstances, Talkweb Information Systems Co., Ltd. shall not be liable for the losses you suffer during the use of Talkweb Information Systems Co., Ltd. games and Talkweb Information Systems Co., Ltd. game services due to force majeure. Such force majeure events include, but are not limited to, national laws, regulations, policies, that is, orders of state organs or other unpredictable, inevitable and insurmountable events such as earthquakes, fires, snow disasters, fires, tsunamis, typhoons, strikes, wars, etc.
+8.3 Talkweb Information Systems Co., Ltd. may independently decide to change, terminate, or suspend your use of any Talkweb Information Systems Co., Ltd. games and Talkweb Information Systems Co., Ltd. game services at any time based on the information or information it knows or has. No advance notice is required from you, but in accordance with laws and regulations、 Except as agreed in this Agreement or your agreement with Talkweb Information Systems Co., Ltd. requires advance notice. If your actions violate the provisions of laws and regulations or the provisions of this Agreement, Talkweb Information System Co., Ltd. terminates or suspends your use of any Talkweb Information System Co., Ltd. games and Talkweb Information System Co., Ltd. games in accordance with relevant regulations. If the company's game services are provided, Talkweb Information System Co., Ltd. does not need to bear any liability to you and has the right to require you to bear corresponding liability.
+8.4 Talkweb Information System Co., Ltd. Games and Talkweb Information System Co., Ltd. game services may cause bugs in game software (also known as vulnerabilities, defects, etc.), version update defects, third-party virus attacks, Internet connections or any other factors. Abnormal account data such as game characters, game props, game equipment, and game coins. Before the cause of the data abnormality is found out, Talkweb Information Systems Co., Ltd. has the right to temporarily freeze the game account; if it is found that the data abnormality is abnormal game behavior, Talkweb Information Systems Co., Ltd. has the right to restore the game account data to the original state before the abnormality occurs (including recovering transferred data from third parties), And Talkweb Information Systems Co., Ltd. does not assume any responsibility to you.
 
 [EULA_TXT_22]
-8.5 Tuowei Information Systems Co., Ltd. does not authorize you to obtain game accounts, game props, game equipment, game coins, etc. from any third party by purchasing, accepting gifts or other means. Tuowei Information Systems Co., Ltd. is not responsible for third-party transactions, and will not accept complaints caused by disputes over any third-party transactions.
-8.6 You fully understand that the advertisements, links or other forms of promotional content placed by third parties in the games of Tuowei Information Systems Co., Ltd. are provided by them themselves. You should judge their authenticity by yourself. Tuowei Information Systems Co., Ltd. does not make any express or implied guarantee for its promotional content. The transaction of the services or goods you purchase through Tuowei Information Systems Co., Ltd. or the websites it links to exists only between you and the provider of the goods or services, and has nothing to do with Tuowei Information Systems Co., Ltd., Tuowei Information Systems Co., Ltd. does not assume any legal liability arising between you and the provider of the goods or services.
-8.7 You fully understand that there is an objective situation of non-interoperability between different operating systems. This objective situation is not caused by Tuowei Information Systems Co., Ltd., which may cause your recharge and game data in one operating system to not be smoothly transferred to another operating system. operating system. The risk of loss of recharge and loss of game data due to your switching on different systems shall be your own responsibility and Tovi Information Systems Ltd shall not be required to assume any liability.
-8.8 You fully understand that: Tuowei Information Systems Co., Ltd. may set up a forced battle area or gameplay in the game. If you do not agree to the forced battle, please do not enter the game or game area; your entry will be deemed to agree to the gameplay. and accept the corresponding consequences.
+8.5 Talkweb Information Systems Co., Ltd. does not authorize you to obtain game accounts, game props, game equipment, game coins, etc. from any third party by purchasing, accepting gifts or other means. Talkweb Information Systems Co., Ltd. is not responsible for third-party transactions, and will not accept complaints caused by disputes over any third-party transactions.
+8.6 You fully understand that the advertisements, links or other forms of promotional content placed by third parties in the games of Talkweb Information Systems Co., Ltd. are provided by them themselves. You should judge their authenticity by yourself. Talkweb Information Systems Co., Ltd. does not make any express or implied guarantee for its promotional content. The transaction of the services or goods you purchase through Talkweb Information Systems Co., Ltd. or the websites it links to exists only between you and the provider of the goods or services, and has nothing to do with Talkweb Information Systems Co., Ltd., Talkweb Information Systems Co., Ltd. does not assume any legal liability arising between you and the provider of the goods or services.
+8.7 You fully understand that there is an objective situation of non-interoperability between different operating systems. This objective situation is not caused by Talkweb Information Systems Co., Ltd., which may cause your recharge and game data in one operating system to not be smoothly transferred to another operating system. operating system. The risk of loss of recharge and loss of game data due to your switching on different systems shall be your own responsibility and Tovi Information Systems Ltd shall not be required to assume any liability.
+8.8 You fully understand that: Talkweb Information Systems Co., Ltd. may set up a forced battle area or gameplay in the game. If you do not agree to the forced battle, please do not enter the game or game area; your entry will be deemed to agree to the gameplay. and accept the corresponding consequences.
 
 [EULA_TXT_23]
 Chapter 10 Interruption, suspension and termination of services
 10.1 Suspension and termination of your services
-(1) If you publish illegal information, seriously violate social ethics, or other behaviors that violate legal prohibitions, Tuowei Information Systems Co., Ltd. shall immediately terminate the provision of services to you.
-(2) If you commit improper acts when accepting services from Tuowei Information Systems Co., Ltd., Tuowei Information Systems Co., Ltd. has the right to terminate the provision of services to you. The specific circumstances of the improper conduct shall be clearly stipulated in this agreement or shall be prohibited sexual conduct that shall be terminated as expressly notified in advance by Tuowei Information System Co., Ltd. Otherwise, Tuowei Information System Co., Ltd. shall not terminate the service to you. provide services.
-(3) If you provide false registered identity information or commit any violation of this Agreement, Tuowei Information System Co., Ltd. has the right to suspend all or part of its services to you; Tuowei Information System Co., Ltd. shall notify you of the suspension measures and inform you During the suspension period, the suspension period should be reasonable, and Tuowei Information System Co., Ltd. shall resume its services to you in a timely manner upon expiration of the suspension period.
-(4) If Tuowei Information Systems Co., Ltd. suspends or terminates the provision of some or all services to you in accordance with the provisions of items (1), (2), and (3) of this paragraph, Tuowei Information Systems Co., Ltd. shall bear the burden of proof.
+(1) If you publish illegal information, seriously violate social ethics, or other behaviors that violate legal prohibitions, Talkweb Information Systems Co., Ltd. shall immediately terminate the provision of services to you.
+(2) If you commit improper acts when accepting services from Talkweb Information Systems Co., Ltd., Talkweb Information Systems Co., Ltd. has the right to terminate the provision of services to you. The specific circumstances of the improper conduct shall be clearly stipulated in this agreement or shall be prohibited sexual conduct that shall be terminated as expressly notified in advance by Talkweb Information System Co., Ltd. Otherwise, Talkweb Information System Co., Ltd. shall not terminate the service to you. provide services.
+(3) If you provide false registered identity information or commit any violation of this Agreement, Talkweb Information System Co., Ltd. has the right to suspend all or part of its services to you; Talkweb Information System Co., Ltd. shall notify you of the suspension measures and inform you During the suspension period, the suspension period should be reasonable, and Talkweb Information System Co., Ltd. shall resume its services to you in a timely manner upon expiration of the suspension period.
+(4) If Talkweb Information Systems Co., Ltd. suspends or terminates the provision of some or all services to you in accordance with the provisions of items (1), (2), and (3) of this paragraph, Talkweb Information Systems Co., Ltd. shall bear the burden of proof.
 
 [EULA_TXT_24]
 10.2 Interruption, suspension and termination of game server operations
-(1) In order to maintain the normal operation of the game server, Tuowei Information Systems Co., Ltd. needs to regularly shut down and maintain the game server or perform emergency shutdown maintenance for emergencies; normal service interruptions and suspensions caused by the above circumstances, please understand, Tuowei Information Systems Co., Ltd. is obliged to try its best to limit the interruption time to the shortest time. When any of the following circumstances occurs, Tuowei Information Systems Co., Ltd. has the right to terminate or interrupt all or part of the services provided by the game server. Tuowei will not be liable to you or a third party for any inconvenience or damage caused thereby. Any liability: ① regular inspection or construction, update of software and hardware, etc., Tuowei Information Systems Co., Ltd. has the right to suspend services, However, Tuowei Information Systems Co., Ltd. will complete the maintenance and update work as soon as possible; the ② game server is damaged and cannot operate normally; ③ sudden software and hardware equipment and electronic communication equipment failures; ④ network provider lines or other failures; ⑤ Under emergencies, in accordance with legal provisions or for the personal safety of you and third parties; ⑥ third-party reasons or other force majeure situations.
-(2) Tuowei Information Systems Co., Ltd. reserves the right to terminate or partially terminate the provision of Tuowei game services if it deems it necessary, and will announce it 60 days in advance before termination.
-Regardless of the reason for terminating the game service of Tuowei Information Systems Co., Ltd., you should take corresponding measures to handle the game virtual items yourself, including but not limited to canceling or stopping the use of your account, game virtual items and other related matters. You may not require Tuowei Information Systems Co., Ltd. to assume any form of liability for compensation or compensation other than the game virtual currency you have purchased but have not yet used due to the complete termination of Tuowei Information Systems Co., Ltd.'s game services, including but not limited to compensation required for no longer being able to continue using user accounts, game virtual items, etc.
+(1) In order to maintain the normal operation of the game server, Talkweb Information Systems Co., Ltd. needs to regularly shut down and maintain the game server or perform emergency shutdown maintenance for emergencies; normal service interruptions and suspensions caused by the above circumstances, please understand, Talkweb Information Systems Co., Ltd. is obliged to try its best to limit the interruption time to the shortest time. When any of the following circumstances occurs, Talkweb Information Systems Co., Ltd. has the right to terminate or interrupt all or part of the services provided by the game server. Talkweb will not be liable to you or a third party for any inconvenience or damage caused thereby. Any liability: ① regular inspection or construction, update of software and hardware, etc., Talkweb Information Systems Co., Ltd. has the right to suspend services, However, Talkweb Information Systems Co., Ltd. will complete the maintenance and update work as soon as possible; the ② game server is damaged and cannot operate normally; ③ sudden software and hardware equipment and electronic communication equipment failures; ④ network provider lines or other failures; ⑤ Under emergencies, in accordance with legal provisions or for the personal safety of you and third parties; ⑥ third-party reasons or other force majeure situations.
+(2) Talkweb Information Systems Co., Ltd. reserves the right to terminate or partially terminate the provision of Talkweb game services if it deems it necessary, and will announce it 60 days in advance before termination.
+Regardless of the reason for terminating the game service of Talkweb Information Systems Co., Ltd., you should take corresponding measures to handle the game virtual items yourself, including but not limited to canceling or stopping the use of your account, game virtual items and other related matters. You may not require Talkweb Information Systems Co., Ltd. to assume any form of liability for compensation or compensation other than the game virtual currency you have purchased but have not yet used due to the complete termination of Talkweb Information Systems Co., Ltd.'s game services, including but not limited to compensation required for no longer being able to continue using user accounts, game virtual items, etc.
 
 [EULA_TXT_25]
 Chapter 11 Rules for the processing of data exceptions
-11.1 If Tuowei Information Systems Co., Ltd. discovers that your data is abnormal or there is illegal or other unfair behavior,  other unfair behavior  includes but is not limited to: (1) Using bugs or abnormal game methods to improve game character data and in-game character rankings behavior; (2) Do not conduct transactions for the purpose of normal game entertainment interaction needs；  (3) Abnormal trading behavior with the purpose of transferring game virtual items or improving the strength of specific game characters, including but not limited to purchasing game virtual items that are not required for your own game character games, trading game virtual items at abnormal prices, and using your own control Multiple game accounts trade game virtual items with each other, etc.  Tuowei Information Systems Co., Ltd. has the right to conduct investigations and take corresponding measures, including but not limited to: (1) deleting game virtual items; (2) confiscating improper benefits; (3) data retracement or clearing; (4) banning; (5) temporarily prohibiting login; (6) permanently prohibiting login; (7) temporarily isolating; (8) permanently isolating； (9) Forced offline; (10) Cancellation of transactions; (11) Deduction of illegal transactions; (12) Trading function restrictions; (13) Blocking until user accounts are deleted, etc. Users are not entitled to therefore require Tuowei Company to assume any liability including but not limited to refund of recharge money, compensation for game virtual items, etc.
+11.1 If Talkweb Information Systems Co., Ltd. discovers that your data is abnormal or there is illegal or other unfair behavior,  other unfair behavior  includes but is not limited to: (1) Using bugs or abnormal game methods to improve game character data and in-game character rankings behavior; (2) Do not conduct transactions for the purpose of normal game entertainment interaction needs；  (3) Abnormal trading behavior with the purpose of transferring game virtual items or improving the strength of specific game characters, including but not limited to purchasing game virtual items that are not required for your own game character games, trading game virtual items at abnormal prices, and using your own control Multiple game accounts trade game virtual items with each other, etc.  Talkweb Information Systems Co., Ltd. has the right to conduct investigations and take corresponding measures, including but not limited to: (1) deleting game virtual items; (2) confiscating improper benefits; (3) data retracement or clearing; (4) banning; (5) temporarily prohibiting login; (6) permanently prohibiting login; (7) temporarily isolating; (8) permanently isolating； (9) Forced offline; (10) Cancellation of transactions; (11) Deduction of illegal transactions; (12) Trading function restrictions; (13) Blocking until user accounts are deleted, etc. Users are not entitled to therefore require Talkweb Company to assume any liability including but not limited to refund of recharge money, compensation for game virtual items, etc.
 Chapter 12 Rules for the use of game graphics
-12.1 Without the prior written permission of Tuowei Information Systems Co., Ltd., you may not publicly display, copy, disseminate, or play game screens in Tuowei Information Systems Co., Ltd.'s services in whole or in part through third-party software, websites, or platforms, otherwise Tuowei Information Systems Co., Ltd. will have the right to take various handling measures based on your breach of contract, including but not limited to one or more of the following, And Tuowei Information Systems Co., Ltd. reserves the right to further pursue your legal liability: temporarily prohibiting login, forcing offline, and blocking accounts.
+12.1 Without the prior written permission of Talkweb Information Systems Co., Ltd., you may not publicly display, copy, disseminate, or play game screens in Talkweb Information Systems Co., Ltd.'s services in whole or in part through third-party software, websites, or platforms, otherwise Talkweb Information Systems Co., Ltd. will have the right to take various handling measures based on your breach of contract, including but not limited to one or more of the following, And Talkweb Information Systems Co., Ltd. reserves the right to further pursue your legal liability: temporarily prohibiting login, forcing offline, and blocking accounts.
 
 [EULA_TXT_26]
 Chapter 13 Special Conventions on Custom Levels
-13.1 Custom level refers to the new function of Tuowei Game in its game. You can customize the content of the game level, that is, you can use Tuowei game materials in Tuowei Game to create levels for other players to entertain. Tuowei Information Systems Co., Ltd. owns the relevant rights of any character, world view, dialogue, art work, animation, music, video, game scene, design concept, etc. in Tuowei game software and services, or has obtained authorization from the legal rights holder (Tuowei game material)
-13.2 In the custom level, Tuowei Information Systems Co., Ltd. agrees to grant you a personal, limited, non-exclusive, non-sublicensable, non-transferable, non-commercial, and revocable license to create using Tuowei game materials. license. Please abide by this agreement, 《 privacy policy 》 and various policies and agreements published from time to time while creating.
-13.3 You agree to transfer ownership, copyright and other related rights and interests in custom level content globally to Tuowei Information Systems Co., Ltd. Where the foregoing is not enforceable, to the maximum extent permitted by law, you agree to grant Tovi Information Systems GmbH exclusive, irrevocable, royalty-free, transferable, sublicensable, permanent, worldwide rights to use custom level content for any purpose and manner. If Tuowei Information Systems Co., Ltd. needs to register custom level content or obtain relevant certificates, you should cooperate with Tuowei Information Systems Co., Ltd. in a timely manner.
-13.4 You guarantee that the customized level content created will not derogate or damage the image of Tuowei Information Systems Co., Ltd. and the world view of related games, and will not violate any applicable laws and regulations. The use of custom level content will not infringe the intellectual property rights and other legitimate interests of Tuowei Information Systems Co., Ltd. and any third party. If you violate the aforementioned regulations, Tuowei Games has the right to suspend or terminate your use of custom level functions and offline the content of the set custom level. At the same time, it will be processed in accordance with Chapter 14 of this Agreement
+13.1 Custom level refers to the new function of Talkweb Game in its game. You can customize the content of the game level, that is, you can use Talkweb game materials in Talkweb Game to create levels for other players to entertain. Talkweb Information Systems Co., Ltd. owns the relevant rights of any character, world view, dialogue, art work, animation, music, video, game scene, design concept, etc. in Talkweb game software and services, or has obtained authorization from the legal rights holder (Talkweb game material)
+13.2 In the custom level, Talkweb Information Systems Co., Ltd. agrees to grant you a personal, limited, non-exclusive, non-sublicensable, non-transferable, non-commercial, and revocable license to create using Talkweb game materials. license. Please abide by this agreement, 《 privacy policy 》 and various policies and agreements published from time to time while creating.
+13.3 You agree to transfer ownership, copyright and other related rights and interests in custom level content globally to Talkweb Information Systems Co., Ltd. Where the foregoing is not enforceable, to the maximum extent permitted by law, you agree to grant Tovi Information Systems GmbH exclusive, irrevocable, royalty-free, transferable, sublicensable, permanent, worldwide rights to use custom level content for any purpose and manner. If Talkweb Information Systems Co., Ltd. needs to register custom level content or obtain relevant certificates, you should cooperate with Talkweb Information Systems Co., Ltd. in a timely manner.
+13.4 You guarantee that the customized level content created will not derogate or damage the image of Talkweb Information Systems Co., Ltd. and the world view of related games, and will not violate any applicable laws and regulations. The use of custom level content will not infringe the intellectual property rights and other legitimate interests of Talkweb Information Systems Co., Ltd. and any third party. If you violate the aforementioned regulations, Talkweb Games has the right to suspend or terminate your use of custom level functions and offline the content of the set custom level. At the same time, it will be processed in accordance with Chapter 14 of this Agreement
 
 [EULA_TXT_27]
 Chapter XIV Damages
-14.1 If your in-game violations cause damage to Tuowei Information Systems Co., Ltd. or a third party, you shall bear corresponding legal liability, and Tuowei Information Systems Co., Ltd. has the right to take all reasonable actions against its own damage. actions, including but not limited to taking back game virtual items, etc, Tuowei Information Systems Co., Ltd. and has the right to claim back the loss from you and require you to bear the reasonable recourse costs of Tuowei Information Systems Co., Ltd.
+14.1 If your in-game violations cause damage to Talkweb Information Systems Co., Ltd. or a third party, you shall bear corresponding legal liability, and Talkweb Information Systems Co., Ltd. has the right to take all reasonable actions against its own damage. actions, including but not limited to taking back game virtual items, etc, Talkweb Information Systems Co., Ltd. and has the right to claim back the loss from you and require you to bear the reasonable recourse costs of Talkweb Information Systems Co., Ltd.
 
 [EULA_TXT_28]
 CHAPTER XV STORAGE AND SECURITY OF INFORMATION AND RESTRICTIONS OF SERVICES
-15.1 Tuowei Information Systems Co., Ltd. will try its best to maintain the security and convenience of the services provided under this agreement, but will not be responsible for the deletion or failure to store information that appears in the service (including but not limited to information posted by users). Tuowei Information Systems Co., Ltd. reserves the right to determine whether your behavior complies with the provisions of this Agreement. If you violate the provisions of this Agreement, Tuowei Information Systems Co., Ltd. has the right to interrupt the services provided to you in accordance with this Agreement.
+15.1 Talkweb Information Systems Co., Ltd. will try its best to maintain the security and convenience of the services provided under this agreement, but will not be responsible for the deletion or failure to store information that appears in the service (including but not limited to information posted by users). Talkweb Information Systems Co., Ltd. reserves the right to determine whether your behavior complies with the provisions of this Agreement. If you violate the provisions of this Agreement, Talkweb Information Systems Co., Ltd. has the right to interrupt the services provided to you in accordance with this Agreement.
 
 [EULA_TXT_29]
 CHAPTER XVI Legal regulation
-16.1 When using the game services of Tuowei Information Systems Co., Ltd., you should abide by relevant local laws and regulations and respect local customs and habits. If your actions violate local laws and regulations or moral customs, you should be independently responsible for them.
-16.2 You should avoid involving Tuowei Information Systems Co., Ltd. in political and public events due to the use of Tuowei Information Systems Co., Ltd. game services, otherwise Tuowei Information Systems Co., Ltd. has the right to suspend or terminate its services to you.
+16.1 When using the game services of Talkweb Information Systems Co., Ltd., you should abide by relevant local laws and regulations and respect local customs and habits. If your actions violate local laws and regulations or moral customs, you should be independently responsible for them.
+16.2 You should avoid involving Talkweb Information Systems Co., Ltd. in political and public events due to the use of Talkweb Information Systems Co., Ltd. game services, otherwise Talkweb Information Systems Co., Ltd. has the right to suspend or terminate its services to you.
 
 [EULA_TXT_30]
-Chapter 17 Game Software Licensing and Restrictions of Tuowei Information Systems Co., Ltd
-17.1 Subject to your agreement to accept all terms of this Agreement, Tuowei Information Systems Co., Ltd. agrees to grant you non-commercial, revocable, changeable, non-proprietary, non-transferable and non-transferable use of this Agreement. The right to use the game software and Tuowei game services of Tuowei Information Systems Co., Ltd. You can install Bentuowei Information Systems Co., Ltd. game software on a mobile smart device or computer terminal for personal use within the scope of authorization and run a copy of Bentuowei Information Systems Co., Ltd. game software in a manner specified by Bentuowei Information Systems Co., Ltd. and enjoy the services provided by Bentuowei Information Systems Co., Ltd.
-17.2 The license granted to you by Tuowei Information Systems Co., Ltd. based on this agreement is for personal use. If you need to use Tuowei Information System Co., Ltd. game software and Tuowei Information System Co., Ltd. game services outside the scope of personal use, or use Tuowei Information System Co., Ltd. game software and Tuowei Information System Co., Ltd. game services for any commercial use, Then you should contact Tuowei Information Systems Co., Ltd. and obtain separate authorization from Tuowei Information Systems Co., Ltd. Any installation, use, access, display, operation, commercial use, etc. without the permission of Tuowei Information Systems Co., Ltd. is an infringement of Tuowei Information Systems Co., Ltd.
-17.3 Unless otherwise agreed in this Agreement, you may not commit the following acts (whether for profit or non-profit) without the prior written consent of Tuowei Information Systems Co., Ltd:
-(1) Copy, rip, decompile, disassemble, disseminate and display all or part of the programs, user manuals and other graphic, text and audio-visual materials of Tuowei Information Systems Co., Ltd. game software, or to Tuowei Information Systems Co., Ltd. Any functions or programs of the company's game software are reverse engineered.
-(2) Publicly display and play all or part of the game software of Tuowei Information System Co., Ltd./Tuowei Information System Co., Ltd. game services in various forms and on various platforms (including but not limited to online live broadcast platforms, websites, APPs, etc.) part of the content.
-(3) Rent or sell game software of Tuowei Information System Co., Ltd. or use game software of Tuowei Information System Co., Ltd. to engage in any profit-making behavior.
-(4) Modify or cover the service name, company logo, trademark (or) copyright information, other intellectual property statements, etc. on the game software programs, images, animations, packaging and manuals of Tuowei Information Systems Co., Ltd.
+Chapter 17 Game Software Licensing and Restrictions of Talkweb Information Systems Co., Ltd
+17.1 Subject to your agreement to accept all terms of this Agreement, Talkweb Information Systems Co., Ltd. agrees to grant you non-commercial, revocable, changeable, non-proprietary, non-transferable and non-transferable use of this Agreement. The right to use the game software and Talkweb game services of Talkweb Information Systems Co., Ltd. You can install BenTalkweb Information Systems Co., Ltd. game software on a mobile smart device or computer terminal for personal use within the scope of authorization and run a copy of BenTalkweb Information Systems Co., Ltd. game software in a manner specified by BenTalkweb Information Systems Co., Ltd. and enjoy the services provided by BenTalkweb Information Systems Co., Ltd.
+17.2 The license granted to you by Talkweb Information Systems Co., Ltd. based on this agreement is for personal use. If you need to use Talkweb Information System Co., Ltd. game software and Talkweb Information System Co., Ltd. game services outside the scope of personal use, or use Talkweb Information System Co., Ltd. game software and Talkweb Information System Co., Ltd. game services for any commercial use, Then you should contact Talkweb Information Systems Co., Ltd. and obtain separate authorization from Talkweb Information Systems Co., Ltd. Any installation, use, access, display, operation, commercial use, etc. without the permission of Talkweb Information Systems Co., Ltd. is an infringement of Talkweb Information Systems Co., Ltd.
+17.3 Unless otherwise agreed in this Agreement, you may not commit the following acts (whether for profit or non-profit) without the prior written consent of Talkweb Information Systems Co., Ltd:
+(1) Copy, rip, decompile, disassemble, disseminate and display all or part of the programs, user manuals and other graphic, text and audio-visual materials of Talkweb Information Systems Co., Ltd. game software, or to Talkweb Information Systems Co., Ltd. Any functions or programs of the company's game software are reverse engineered.
+(2) Publicly display and play all or part of the game software of Talkweb Information System Co., Ltd./Talkweb Information System Co., Ltd. game services in various forms and on various platforms (including but not limited to online live broadcast platforms, websites, APPs, etc.) part of the content.
+(3) Rent or sell game software of Talkweb Information System Co., Ltd. or use game software of Talkweb Information System Co., Ltd. to engage in any profit-making behavior.
+(4) Modify or cover the service name, company logo, trademark (or) copyright information, other intellectual property statements, etc. on the game software programs, images, animations, packaging and manuals of Talkweb Information Systems Co., Ltd.
 (5) Other violations of trademark law, copyright law, computer software protection regulations and relevant laws, regulations, and international treaties.
 
 [EULA_TXT_31]
@@ -69671,17 +69671,17 @@ Chapter 18 Jurisdiction and application of the law
 
 [EULA_TXT_32]
 CHAPTER 19 CHANGES TO TERMS
-19.1 Tuowei Information Systems Co., Ltd. has the right to modify the terms of this agreement when necessary. Please check the relevant content regularly. If you continue to use the services covered by this Agreement, you will be deemed to have given your consent to the modification of the content; if you do not agree to the modification of the content, you shall uninstall Tuowei Information Systems Co., Ltd. Game Software, terminate this Agreement and cease using Tuowei Information Systems Co., Ltd. Game Services.
+19.1 Talkweb Information Systems Co., Ltd. has the right to modify the terms of this agreement when necessary. Please check the relevant content regularly. If you continue to use the services covered by this Agreement, you will be deemed to have given your consent to the modification of the content; if you do not agree to the modification of the content, you shall uninstall Talkweb Information Systems Co., Ltd. Game Software, terminate this Agreement and cease using Talkweb Information Systems Co., Ltd. Game Services.
 CHAPTER XX NOTIFICATION
-20.1 All notifications sent to you by Tuowei Information Systems Co., Ltd. can be transmitted through announcements, emails or regular phone calls, e-mails, letters, etc. on important pages of the game, the game official website or the game official forum. At the same time, you hereby agree that Tuowei Information Systems Co., Ltd. can send commercial information to its email, telephone, Yixin and letter.
+20.1 All notifications sent to you by Talkweb Information Systems Co., Ltd. can be transmitted through announcements, emails or regular phone calls, e-mails, letters, etc. on important pages of the game, the game official website or the game official forum. At the same time, you hereby agree that Talkweb Information Systems Co., Ltd. can send commercial information to its email, telephone, Yixin and letter.
 Chapter 21 Game Data
-Any data information generated during your participation in the game and stored in the server of Tuowei Information System Co., Ltd., including but not limited to account data information, character data information, level and virtual item data information, etc. (but the user's name, Except for personal identity data such as ID number and phone number), it is part of the game software, Owned and managed by Tuowei Information Systems Co., Ltd., users have the right to modify, transfer, abandon, etc. the data information belonging to their own user accounts through legitimate channels on the premise of complying with the rules of the game.
+Any data information generated during your participation in the game and stored in the server of Talkweb Information System Co., Ltd., including but not limited to account data information, character data information, level and virtual item data information, etc. (but the user's name, Except for personal identity data such as ID number and phone number), it is part of the game software, Owned and managed by Talkweb Information Systems Co., Ltd., users have the right to modify, transfer, abandon, etc. the data information belonging to their own user accounts through legitimate channels on the premise of complying with the rules of the game.
 
 [EULA_TXT_33]
 Chapter XXII Other
-22.1 In order to avoid disputes, the user agrees to use the data stored in Tuowei's server as the judgment standard for relevant data and technical issues involved in this agreement. Tovi guarantees the authenticity of this data.
-22.2 According to the advice of the State Administration of Press and Publication on healthy games, Tuowei Information Systems Co., Ltd. reminds you: boycott bad games and refuse pirated games; pay attention to self-protection and beware of being deceived; moderate games benefit the brain and addiction to games hurts the body.
-22.3 If you have any comments or suggestions on this agreement or Tuowei Information Systems Co., Ltd. game services, you can contact Tuowei Information Systems Co., Ltd. customer service department and we will provide you with necessary help.
+22.1 In order to avoid disputes, the user agrees to use the data stored in Talkweb's server as the judgment standard for relevant data and technical issues involved in this agreement. Tovi guarantees the authenticity of this data.
+22.2 According to the advice of the State Administration of Press and Publication on healthy games, Talkweb Information Systems Co., Ltd. reminds you: boycott bad games and refuse pirated games; pay attention to self-protection and beware of being deceived; moderate games benefit the brain and addiction to games hurts the body.
+22.3 If you have any comments or suggestions on this agreement or Talkweb Information Systems Co., Ltd. game services, you can contact Talkweb Information Systems Co., Ltd. customer service department and we will provide you with necessary help.
 Contact details are as follows:
 Contact Email: csonline@139.com
 Customer Service QQ: 4008932088
@@ -71094,7 +71094,7 @@ Secret realm levels unlock 2 per day, but this level hasn't reached its unlock t
 {NPC_ENTER:crazydave}{PLAYFUL:crazydave}Strange, where are we? Is this still my backyard?
 
 [NARRATIVE_TUTORIAL_PLANTWARS_INTRO_3]
-Location confirmed. Current location: the Western Heaven pilgrimage route in the East.
+{NPC_ENTER:crazydave}{PLAYFUL:winnie}Location confirmed. Current location: the Western Heaven pilgrimage route in the East.
 
 [NARRATIVE_TUTORIAL_PLANTWARS_INTRO_4]
 {NPC_ENTER:crazydave}{PLAYFUL:crazydave}Oh, you know what, Penny? I still miss my backyard. It's time to prepare to go back.
@@ -73716,8 +73716,7 @@ Celebration Cumulative Recharge Instructions:
 During the event period, any recharge within the game can be stacked to progress the cumulative recharge progress bar.
 
 [NEWYEARPACK_MAIN_TIPS_INFO]
-Daily free gifts include 15 diamonds. Welfare packages offer increasing diamond rewards (30, 90, 180) for 2, 3, and 6 yuan respectively. Each package has a 10% chance to grant a costume chest: Novice (Pea, Potato, Beet, Agave, Cabbage, Pufferfish), Intermediate (Primitive Nut, Thistle Cake, Kelp Guard, Flame Pea, Sunflower, Mushroom, Veggie Question, Stealth Archer), or Advanced (Maple Shadow, Venom Pea, Electric Hook, Thunder Dragon Grass Rabbit/Dragon/Fire Dragon/Ice Dragon, 荸荠 Brothers). These chests contain various themed costumes.
-
+Daily free gifts include 15 diamonds. Welfare packages offer increasing diamond rewards (30, 90, 180) for 2, 3, and 6 yuan respectively. Each package has a 10% chance to grant a costume chest: Novice (Pea, Potato, Beet, Agave, Cabbage, Pufferfish), Intermediate (Primitive Nut, Thistle Cake, Kelp Guard, Flame Pea, Sunflower, Mushroom, Veggie Question, Stealth Archer), or Advanced (Maple Shadow, Venom Pea, Electric Hook, Thunder Dragon Grass Rabbit/Dragon/Fire Dragon/Ice Dragon, ?? Brothers). These chests contain various themed costumes.
 [PRODUCT_NEW_YEAR_PACK_2_SHORTDESC]
 2 Yuan Welfare Gift Box
 
@@ -73761,10 +73760,10 @@ Claim a daily red envelope (12:00-14:00 & 18:00-21:00, max 2/day) for a chance t
 New Year Red Packet Activity Description
 
 [NARRATIVE_TUTORIAL_NEWYEARREDPACKET_1]
-{NPC_ENTER:newyearcrazydave}{PLAYFUL:newyearcrazydave} Congratulations on getting rich! Here's your New Year red packet.
+{NPC_ENTER:newyearcrazydave}{PLAYFUL:newyearcrazydave}Congratulations on getting rich! Here's your New Year red packet.
 
 [NARRATIVE_TUTORIAL_NEWYEARREDPACKET_2]
-New Year red envelopes!
+{SAY:newyearcrazydave}New Year red envelopes!
 
 [NARRATIVE_TUTORIAL_NEWYEARREDPACKET_3]
 {NPC_EXIT:newyearcrazydave}
@@ -74522,19 +74521,19 @@ Chapter 18 Jurisdiction and application of the law
 18.3 The titles of all provisions of this Agreement are for ease of reading only and have no actual meaning themselves. They cannot be used as the basis for the interpretation of the meaning of this Agreement.
 18.4 Regardless of the reasons for which the provisions of this Agreement are partially invalid, the remaining provisions remain valid and binding on all parties.
 CHAPTER 19 CHANGES TO TERMS
-19.1 Tuowei Information Systems Co., Ltd. has the right to modify the terms of this agreement when necessary. Please check the relevant content regularly. If you continue to use the services covered by this Agreement, you will be deemed to have given your consent to the modification of the content; if you do not agree to the modification of the content, you shall uninstall Tuowei Information Systems Co., Ltd. Game Software, terminate this Agreement and cease using Tuowei Information Systems Co., Ltd. Game Services.
+19.1 Talkweb Information Systems Co., Ltd. has the right to modify the terms of this agreement when necessary. Please check the relevant content regularly. If you continue to use the services covered by this Agreement, you will be deemed to have given your consent to the modification of the content; if you do not agree to the modification of the content, you shall uninstall Talkweb Information Systems Co., Ltd. Game Software, terminate this Agreement and cease using Talkweb Information Systems Co., Ltd. Game Services.
 
 [PRIVACY_RULE_TXT_24]
 CHAPTER XX NOTIFICATION
-20.1 All notifications sent to you by Tuowei Information Systems Co., Ltd. can be transmitted through announcements, emails or regular phone calls, e-mails, letters, etc. on important pages of the game, the game official website or the game official forum. At the same time, you hereby agree that Tuowei Information Systems Co., Ltd. can send commercial information to its email, telephone, Yixin and letter.
+20.1 All notifications sent to you by Talkweb Information Systems Co., Ltd. can be transmitted through announcements, emails or regular phone calls, e-mails, letters, etc. on important pages of the game, the game official website or the game official forum. At the same time, you hereby agree that Talkweb Information Systems Co., Ltd. can send commercial information to its email, telephone, Yixin and letter.
 Chapter 21 Game Data
-Any data information generated during your participation in the game and stored in the server of Tuowei Information System Co., Ltd., including but not limited to account data information, character data information, level and virtual item data information, etc. (but the user's name, Except for personal identity data such as ID number and phone number), it is part of the game software, Owned and managed by Tuowei Information Systems Co., Ltd., users have the right to modify, transfer, abandon, etc. the data information belonging to their own user accounts through legitimate channels on the premise of complying with the rules of the game.
+Any data information generated during your participation in the game and stored in the server of Talkweb Information System Co., Ltd., including but not limited to account data information, character data information, level and virtual item data information, etc. (but the user's name, Except for personal identity data such as ID number and phone number), it is part of the game software, Owned and managed by Talkweb Information Systems Co., Ltd., users have the right to modify, transfer, abandon, etc. the data information belonging to their own user accounts through legitimate channels on the premise of complying with the rules of the game.
 
 [PRIVACY_RULE_TXT_25]
 Chapter XXII Other
-22.1 In order to avoid disputes, the user agrees to use the data stored in Tuowei's server as the judgment standard for relevant data and technical issues involved in this agreement. Tovi guarantees the authenticity of this data.
-22.2 According to the advice of the State Administration of Press and Publication on healthy games, Tuowei Information Systems Co., Ltd. reminds you: boycott bad games and refuse pirated games; pay attention to self-protection and beware of being deceived; moderate games benefit the brain and addiction to games hurts the body.
-22.3 If you have any comments or suggestions on this agreement or Tuowei Information Systems Co., Ltd. game services, you can contact the customer service department of Tuowei Information Systems Co., Ltd. and we will provide you with necessary help.
+22.1 In order to avoid disputes, the user agrees to use the data stored in Talkweb's server as the judgment standard for relevant data and technical issues involved in this agreement. Tovi guarantees the authenticity of this data.
+22.2 According to the advice of the State Administration of Press and Publication on healthy games, Talkweb Information Systems Co., Ltd. reminds you: boycott bad games and refuse pirated games; pay attention to self-protection and beware of being deceived; moderate games benefit the brain and addiction to games hurts the body.
+22.3 If you have any comments or suggestions on this agreement or Talkweb Information Systems Co., Ltd. game services, you can contact the customer service department of Talkweb Information Systems Co., Ltd. and we will provide you with necessary help.
 Contact details are as follows:
 Contact Email: csonline@139.com
 Customer service QQ: 4008932088
@@ -76234,7 +76233,6 @@ Qigong Master
 
 [GINGLEBELL_DESCRIPTION]
 Damage to Umbrella Zombies determines your score. Daily rewards use scores from the newest level, resetting daily. Three themed sets (each with three levels) unlock sequentially over six and two days, respectively. Theme mechanics are visible on the main interface. Leaderboard rankings use scores from the latest theme's levels. Leaderboards freeze daily from 0:00-10:00 for display, preventing gameplay. Rewards are distributed at 10:00. March 30, 2026, extends display, disabling challenges. Anomalous scores are excluded from the leaderboard.
-
 [GINGLEBELL_RANK_REWARD_TITLE]
 Spring Festival Dingdang Ranking Rewards
 
@@ -79459,214 +79457,214 @@ Left-side Mycelial Patch (1 star)
 The left side of the venue is covered with a row of fungal mats.
 
 [NARRATIVE_ATLANTIS_13_INTRO_1]
-Dave, we've finally successfully arrived at the underwater ruins.
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}Dave, we've finally successfully arrived at the underwater ruins.
 
 [NARRATIVE_ATLANTIS_13_INTRO_2]
-Please be careful, the blue whales traveling with us now have an exceptionally large appetite.
+{SAY:WINNIE}Please be careful, the blue whales traveling with us now have an exceptionally large appetite.
 
 [NARRATIVE_ATLANTIS_13_INTRO_3]
-To dive so deep just to find food?
+{EXCITED:CRAZYDAVE}To dive so deep just to find food?
 
 [NARRATIVE_ATLANTIS_13_INTRO_4]
-If only the Pupu fish vine could also curb your appetite.
+{SAY:WINNIE}If only the Pupu fish vine could also curb your appetite.
 
 [NARRATIVE_ATLANTIS_14_INTRO_1]
-Data indicates that these ruin zombies appear to be preparing to deliver a judgment upon outsiders.
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}Data indicates that these ruin zombies appear to be preparing to deliver a judgment upon outsiders.
 
 [NARRATIVE_ATLANTIS_14_INTRO_2]
-We haven't gotten a single speeding ticket, even if we were traveling faster than light every day!
+{EXCITED:CRAZYDAVE}We haven't gotten a single speeding ticket, even if we were traveling faster than light every day!
 
 [NARRATIVE_ATLANTIS_15_INTRO_1]
-My analyzer requires more information about these underwater ruin zombies.
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}My analyzer requires more information about these underwater ruin zombies.
 
 [NARRATIVE_ATLANTIS_15_INTRO_2]
-Please complete the virtual experiment according to the operating instructions and assist my analyzer in reaching a conclusion.
+{SAY:WINNIE}Please complete the virtual experiment according to the operating instructions and assist my analyzer in reaching a conclusion.
 
 [NARRATIVE_ATLANTIS_15_INTRO_3]
-The items in the upper prop bar, from left to right, function as follows:
+{SAY:WINNIE}The items in the upper prop bar, from left to right, function as follows:
 
 [NARRATIVE_ATLANTIS_15_INTRO_4]
-1. Upgrade and enhance the quality of the brain cake, accelerating zombie growth.
+{SAY:WINNIE}1. Upgrade and enhance the quality of the brain cake, accelerating zombie growth.
 
 [NARRATIVE_ATLANTIS_15_INTRO_5]
-Upgrade to increase the number of brain cakes that can be fed simultaneously.
+{SAY:WINNIE}2. Upgrade to increase the number of brain cakes that can be fed simultaneously.
 
 [NARRATIVE_ATLANTIS_15_INTRO_6]
-Upgrade and enhance the damage inflicted on fish by attacks.
+{SAY:WINNIE}3. Upgrade and enhance the damage inflicted on fish by attacks.
 
 [NARRATIVE_ATLANTIS_15_INTRO_7]
-Unlock new zombie types.
+{SAY:WINNIE}4. Unlock new zombie types.
 
 [NARRATIVE_ATLANTIS_15_INTRO_8]
-After purchase, the next Brain Cake placed will transform into sushi, the use of which is currently unknown.
+{SAY:WINNIE}5. After purchase, the next Brain Cake placed will transform into sushi, the use of which is currently unknown.
 
 [NARRATIVE_ATLANTIS_15_INTRO_9]
-Purchase three trophies to complete this level.
+{SAY:WINNIE}6. Purchase three trophies to complete this level.
 
 [NARRATIVE_ATLANTIS_16_INTRO_1]
-What are those on the seabed?
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}What are those on the seabed?
 
 [NARRATIVE_ATLANTIS_16_INTRO_2]
-Mollusks, protected by shells.
+{SAY:WINNIE}Mollusks, protected by shells.
 
 [NARRATIVE_ATLANTIS_16_INTRO_3]
-Just like the iron pot on my head!
+{EXCITED:CRAZYDAVE}Just like the iron pot on my head!
 
 [NARRATIVE_ATLANTIS_16_INTRO_4]
-{SAY:WINNIE} indicates that their opening and closing force appears to be considerable.
+{SAY:WINNIE}The data shows that their opening and closing force seems quite strong.
 
 [NARRATIVE_ATLANTIS_17_INTRO_1]
-What are those black spiky balls?
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}What are those black spiky balls?
 
 [NARRATIVE_ATLANTIS_17_INTRO_2]
-Phylum Echinodermata, class Echinoidea, suborder Echinoidea.
+{SAY:WINNIE}Phylum Echinodermata, class Echinoidea, suborder Echinoidea.
 
 [NARRATIVE_ATLANTIS_17_INTRO_3]
-It looks perfect for scrubbing skin!
+{EXCITED:CRAZYDAVE}It looks perfect for scrubbing skin!
 
 [NARRATIVE_ATLANTIS_17_INTRO_4]
-The plants wouldn't think that way, Dave.
+{SAY:WINNIE}The plants wouldn't think that way, Dave.
 
 [NARRATIVE_ATLANTIS_18_INTRO_1]
-These zombies seem to want to initiate an underwater beast battle.
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}These zombies seem to want to initiate an underwater beast battle.
 
 [NARRATIVE_ATLANTIS_18_INTRO_2]
-Absolutely do not bring a cat!
+{EXCITED:CRAZYDAVE}Absolutely do not bring a cat!
 
 [NARRATIVE_ATLANTIS_18_INTRO_3]
-Dave's cat hates water.
+{SAY:WINNIE}Dave's cat hates water.
 
 [NARRATIVE_ATLANTIS_21_INTRO_1]
-The Beast Taming event is still underway, and even stranger creatures are about to appear.
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}The Beast Taming event is still underway, and even stranger creatures are about to appear.
 
 [NARRATIVE_ATLANTIS_21_INTRO_2]
-Data indicates they appear to originate from the terrifying depths of the ocean.
+{SAY:WINNIE}The data indicates they appear to originate from the terrifying depths of the ocean.
 
 [NARRATIVE_ATLANTIS_21_INTRO_3]
-I once went fifteen years without sleep, staring into the abyss.
+{EXCITED:CRAZYDAVE}I once went fifteen years without sleep, staring into the abyss.
 
 [NARRATIVE_ATLANTIS_21_INTRO_4]
-Yes.
+{EXCITED:CRAZYDAVE}Yes.
 
 [NARRATIVE_ATLANTIS_24_INTRO_1]
-The scanner still needs more data!
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}The scanner still needs more data!
 
 [NARRATIVE_ATLANTIS_24_INTRO_2]
-Please continue to complete the further simulation experiments!
+{SAY:WINNIE}Please continue to complete the further simulation experiments!
 
 [NARRATIVE_CHRISTMAS_202512_UNCHARTED_EVENT_TUTORIAL_1]
-Beep beep, my spacetime jump alarm is sounding.
+{NPC_ENTER:winnie}{PLAYFUL:winnie}Beep beep, my spacetime jump alarm is sounding.
 
 [NARRATIVE_CHRISTMAS_202512_UNCHARTED_EVENT_TUTORIAL_2]
-Oh, that doesn't sound like good news at all.
+{NPC_ENTER:crazydave}{PLAYFUL:crazydave}Oh, that doesn't sound like good news at all.
 
 [NARRATIVE_CHRISTMAS_202512_UNCHARTED_EVENT_TUTORIAL_3]
-It seems... it seems like something has gone awry in the Ice Age.
+{NPC_ENTER:winnie}{PLAYFUL:winnie}It seems... it seems like something has gone awry in the Ice Age.
 
 [NARRATIVE_CHRISTMAS_202512_UNCHARTED_EVENT_TUTORIAL_4]
-It looks like Big Head is up to no good again, let's go see what's happening!
+{NPC_ENTER:crazydave}{EXCITED:crazydave}It looks like Big Head is up to no good again, let's go see what's happening!
 
 [NARRATIVE_HALLOWEEN_1_INTRO_1]
-Hey! Is that a pumpkin?
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}Hey! Is that a pumpkin?
 
 [NARRATIVE_HALLOWEEN_1_INTRO_2]
-Winnie denies, identifying the target as a magical changing room imbued with mysterious power.
+{SAY:WINNIE}Winnie denies, identifying the target as a magical changing room imbued with mysterious power.
 
 [NARRATIVE_HALLOWEEN_1_INTRO_3]
-Defeating the pumpkin house's magic requires hitting the pumpkin ghost's head with a thrown projectile. Please switch to a projectile-based ranged character!
+{SAY:WINNIE}Defeating the pumpkin house's magic requires hitting the pumpkin ghost's head with a thrown projectile. Please switch to a projectile-based ranged character!
 
 [NARRATIVE_HALLOWEEN_1_INTRO_4]
-I dare say they must be proponents of the "no body" theory!
+{EXCITED:CRAZYDAVE}I dare say they must be proponents of the "no body" theory!
 
 [NARRATIVE_HALLOWEEN_4_INTRO_1]
-Penny, what things are flying up and down in the sky?
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}Penny, what things are flying up and down in the sky?
 
 [NARRATIVE_HALLOWEEN_4_INTRO_2]
-Scanning complete. That's the Scarecrow Witch. It is said she only appears on Halloween.
+{SAY:WINNIE}Scanning complete. That's the Scarecrow Witch. It is said she only appears on Halloween.
 
 [NARRATIVE_HALLOWEEN_4_INTRO_3]
-When Winnie appears, she will ride a broomstick, constantly dashing forward and throwing potions downwards, many of which have struck plants on the head.
+{SAY:WINNIE}When Winnie appears, she will ride a broomstick, constantly dashing forward and throwing potions downwards, many of which have struck plants on the head.
 
 [NARRATIVE_HALLOWEEN_4_INTRO_4]
-Ah! I have a super helmet, I'm going to grab her!
+{EXCITED:CRAZYDAVE}Ah! I have a super helmet, I'm going to grab her!
 
 [NARRATIVE_HALLOWEEN_4_INTRO_5]
-An unwise choice; with your height, you won't be able to catch her.
+{SAY:WINNIE}An unwise choice; with your height, you won't be able to catch her.
 
 [NARRATIVE_HALLOWEEN_4_INTRO_6]
-Perhaps only tall people can stop the witch...
+{SAY:WINNIE}Perhaps only tall people can stop the witch...
 
 [NARRATIVE_HALLOWEEN_6_INTRO_1]
-Who is that? The Pumpkin Knight, without his mount!
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}Who is that? The Pumpkin Knight, without his mount!
 
 [NARRATIVE_HALLOWEEN_6_INTRO_2]
-Winnie denies, after testing, that this unit and the Pumpkin Knight are related individuals.
+{SAY:WINNIE}Winnie denies, after testing, that this unit and the Pumpkin Knight are related individuals.
 
 [NARRATIVE_HALLOWEEN_6_INTRO_3]
-It's like the relationship between a burrito and a cast iron spatula, isn't it?
+{EXCITED:CRAZYDAVE}It's like the relationship between a burrito and a cast iron spatula, isn't it?
 
 [NARRATIVE_HALLOWEEN_6_INTRO_4]
 {SAY:WINNIE}......
 
 [NARRATIVE_HALLOWEEN_6_INTRO_5]
-This unit possesses the ability to induce dormancy in plants.
+{SAY:WINNIE}This unit possesses the ability to induce dormancy in plants.
 
 [NARRATIVE_HALLOWEEN_6_INTRO_6]
-If not awakened in time with coffee beans or Plant Food, something terrible might happen!
+{SAY:WINNIE}If not awakened in time with coffee beans or Plant Food, something terrible might happen!
 
 [NARRATIVE_HALLOWEEN_6_INTRO_7]
-Please handle this with care!
+{SAY:WINNIE}Please handle this with care!
 
 [NARRATIVE_MAUSOLEUM_10_INTRO_1]
-A powerful aura is detected, awakening.
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}A powerful aura is detected, awakening.
 
 [NARRATIVE_MAUSOLEUM_10_INTRO_2]
-It's okay, I'm the invincible, ultimate super machine-gun pea!
+{EXCITED:CRAZYDAVE}It's okay, I'm the invincible, ultimate super machine-gun pea!
 
 [NARRATIVE_MAUSOLEUM_10_INTRO_3]
 {SAY:WINNIE}…………
 
 [NARRATIVE_MAUSOLEUM_10_INTRO_4]
-Is it still possible to run now?
+{EXCITED:CRAZYDAVE}Is it still possible to run now?
 
 [NARRATIVE_MAUSOLEUM_1_INTRO_1]
-Wow~! A brand new world!! Is this… the Mausoleum of the First Qin Emperor…！？ Do they have burritos here?
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}Wow~! A brand new world!! Is this… the Mausoleum of the First Qin Emperor…！？ Do they have burritos here?
 
 [NARRATIVE_MAUSOLEUM_1_INTRO_2]
-Dave, the people of this era did not yet cultivate corn.
+{SAY:WINNIE}Dave, the people of this era did not yet cultivate corn.
 
 [NARRATIVE_MAUSOLEUM_1_INTRO_3]
-Burritos!!!
+{EXCITED:CRAZYDAVE}Burritos!!!
 
 [NARRATIVE_MAUSOLEUM_2_INTRO_1]
-What secrets might these strange and peculiar tunnels conceal?
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}What secrets might these strange and peculiar tunnels conceal?
 
 [NARRATIVE_MAUSOLEUM_2_INTRO_2]
-No matter how you look at it, it doesn't resemble a burrito conveyor belt.
+{EXCITED:CRAZYDAVE}No matter how you look at it, it doesn't resemble a burrito conveyor belt.
 
 [NARRATIVE_MAUSOLEUM_3_INTRO_1]
-So it turns out this tunnel is a dedicated road for some zombies. I really wonder what kind of strange zombies we'll encounter next!
+{NPC_ENTER:CRAZYDAVE}{EXCITED:CRAZYDAVE}So it turns out this tunnel is a dedicated road for some zombies. I really wonder what kind of strange zombies we'll encounter next!
 
 [NARRATIVE_MAUSOLEUM_5_INTRO_1]
-Detected some zombies carrying ranged weapons.
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}Detected some zombies carrying ranged weapons.
 
 [NARRATIVE_MAUSOLEUM_5_INTRO_2]
-The carrot missile vehicle can bypass the zombies in front to directly attack the zombies behind.
+{SAY:WINNIE}The carrot missile vehicle can bypass the zombies in front to directly attack the zombies behind.
 
 [NARRATIVE_MAUSOLEUM_7_INTRO_1]
-There are some piles of pottery on the ground; could burritos be buried within them?
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}There are some piles of pottery on the ground; could burritos be buried within them?
 
 [NARRATIVE_MAUSOLEUM_7_INTRO_2]
-This is the Terracotta Army, a miraculous display of the splendor of ancient civilization.
+{SAY:WINNIE}This is the Terracotta Army, a miraculous display of the splendor of ancient civilization.
 
 [NARRATIVE_MAUSOLEUM_7_INTRO_3]
-Be careful, magic traces have been detected on the pottery.
+{SAY:WINNIE}Be careful, magic traces have been detected on the pottery.
 
 [NARRATIVE_MAUSOLEUM_7_INTRO_4]
-Magic burritos?
+{EXCITED:CRAZYDAVE}Magic burritos?
 
 [NARRATIVE_MAUSOLEUM_7_INTRO_5]
-The Demon Vine will be highly effective against the Terracotta Army.
+{SAY:WINNIE}The Demon Vine will be highly effective against the Terracotta Army.
 
 [NARRATIVE_PVZ1_S27_10_H_INTRO_1]
 We're surrounded!
@@ -79738,409 +79736,409 @@ According to the information, it's Halloween, and Dave...
 Hehe! Mischief for not giving brains!
 
 [NARRATIVE_PVZ1_S27_1_H_INTRO_1]
-Data indicates that excessive exposure to sunlight will anger the Sun God.
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}Data indicates that excessive exposure to sunlight will anger the Sun God.
 
 [NARRATIVE_PVZ1_S27_1_H_INTRO_2]
-Wow! I really don't want him to go on strike!
+{SAY:CRAZYDAVE}Wow! I really don't want him to go on strike!
 
 [NARRATIVE_PVZ1_S27_2_H_INTRO_1]
-Crazy Dave and Winnie are excited – the corn cannon wants to race the coconut cannon.
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}Crazy Dave and Winnie are excited – the corn cannon wants to race the coconut cannon.
 
 [NARRATIVE_PVZ1_S27_2_H_INTRO_2]
-I suspect you're thinking about trying coconut-flavored popcorn.
+{SAY:WINNIE}I suspect you're thinking about trying coconut-flavored popcorn.
 
 [NARRATIVE_PVZ1_S27_3_H_INTRO_1]
-Data indicates the gravestone on the lawn is cursed.
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}Data indicates the gravestone on the lawn is cursed.
 
 [NARRATIVE_PVZ1_S27_3_H_INTRO_2]
-Wow! Then I really need to study them carefully!
+{SAY:CRAZYDAVE}Wow! Then I really need to study them carefully!
 
 [NARRATIVE_PVZ1_S27_3_H_INTRO_3]
-It’s best not to damage them.
+{SAY:WINNIE}It’s best not to damage them.
 
 [NARRATIVE_PVZ1_S27_4_H_INTRO_1]
-Welcome to my new product launch event.
+{NPC_ENTER:ZOMBOSSICON}{SAY:ZOMBOSSICON}Welcome to my new product launch event.
 
 [NARRATIVE_PVZ1_S27_4_H_INTRO_2]
-Z-Mech 2.0 will represent my forceful acquisition of your minds!
+{SAY:ZOMBOSSICON}Z-Mech 2.0 will represent my forceful acquisition of your minds!
 
 [NARRATIVE_PVZ1_S27_4_H_INTRO_3]
-Enjoy the time ahead!
+{SAY:ZOMBOSSICON}Enjoy the time ahead!
 
 [NARRATIVE_PVZ1_S27_4_H_INTRO_4]
 {NPC_EXIT:ZOMBOSSICON}{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:CRAZYDAVE}I want to file for bankruptcy.
 
 [NARRATIVE_PVZ1_S27_4_H_INTRO_5]
-Dave, we did not purchase brain insurance.
+{SAY:WINNIE}Dave, we did not purchase brain insurance.
 
 [NARRATIVE_PVZ1_S27_5_H_INTRO_1]
-What's so dark up in the sky?
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:CRAZYDAVE}What's so dark up in the sky?
 
 [NARRATIVE_PVZ1_S27_5_H_INTRO_2]
-{SAY:WINNIE} Detecting a large number of airborne zombies, they will launch an aerial assault like a torrential downpour.
+{SAY:WINNIE}Detecting a large number of airborne zombies, they will launch an aerial assault like a torrential downpour.
 
 [NARRATIVE_PVZ1_S27_5_H_INTRO_3]
-How did they get up there?
+{SAY:CRAZYDAVE}How did they get up there?
 
 [NARRATIVE_PVZ1_S27_6_H_INTRO_1]
-Rotating the turnip allows you to fire projectiles in four directions simultaneously.
+{NPC_ENTER:WINNIE}{SAY:WINNIE}Rotating the turnip allows you to fire projectiles in four directions simultaneously.
 
 [NARRATIVE_PVZ1_S27_6_H_INTRO_2]
-Winnie is better suited to attacking adjacent rows of zombies than facing them directly.
+{SAY:WINNIE}Winnie is better suited to attacking adjacent rows of zombies than facing them directly.
 
 [NARRATIVE_PVZ1_S27_6_H_INTRO_3]
-Just like a breakfast burrito in the morning.
+{NPC_ENTER:CRAZYDAVE}{EXCITED:CRAZYDAVE}Just like a breakfast burrito in the morning.
 
 [NARRATIVE_PVZ1_S27_6_H_INTRO_4]
-Every side is cooked perfectly!
+{BRINGOUT_TACO:CRAZYDAVE}{SAY:CRAZYDAVE}Every side is cooked perfectly!
 
 [NARRATIVE_PVZ1_S27_6_H_INTRO_5]
-So delicious!
+{EAT_TACO:CRAZYDAVE}{SPECIAL2:CRAZYDAVE}So delicious!
 
 [NARRATIVE_PVZ1_S27_6_H_INTRO_6]
-I want to eat ten!
+{EXCITED:CRAZYDAVE}I want to eat ten!
 
 [NARRATIVE_PVZ1_S27_7_H_INTRO_1]
-Where did the sunshine go?
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:CRAZYDAVE}Where did the sunshine go?
 
 [NARRATIVE_PVZ1_S27_7_H_INTRO_2]
-Data indicates that now is the optimal time to deploy reserve low-power weaponry.
+{SAY:WINNIE}Data indicates that now is the optimal time to deploy reserve low-power weaponry.
 
 [NARRATIVE_PVZ1_S27_7_H_INTRO_3]
-Beware the glowing zombies carrying plant cards.
+{SAY:WINNIE}Beware the glowing zombies carrying plant cards.
 
 [NARRATIVE_PVZ1_S27_8_H_INTRO_1]
 {NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:CRAZYDAVE} Mech zombies must have a good bite.
 
 [NARRATIVE_PVZ1_S27_8_H_INTRO_2]
-According to the data, Chef Shakulan's culinary skills will remain flourishing and enduring, extending into the distant future.
+{SAY:WINNIE}According to the data, Chef Shakulan's culinary skills will remain flourishing and enduring, extending into the distant future.
 
 [NARRATIVE_PVZ1_S27_8_H_INTRO_3]
-Perhaps that will offer some assistance with preparing corn tortillas.
+{SAY:WINNIE}Perhaps that will offer some assistance with preparing corn tortillas.
 
 [NARRATIVE_PVZ1_S27_9_H_INTRO_1]
-What's all the commotion on the lawn?
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:CRAZYDAVE}What's all the commotion on the lawn?
 
 [NARRATIVE_PVZ1_S27_9_H_INTRO_2]
-{SAY:WINNIE} is a dinosaur, and records indicate they once dominated this land.
+{SAY:WINNIE}They are dinosaurs; the data shows they were once the rulers of this land.
 
 [NARRATIVE_PVZ1_S27_9_H_INTRO_3]
-CrazyDave: Is this the Jurassic period?
+{SAY:CRAZYDAVE}Is this the Jurassic period?
 
 [NARRATIVE_PVZ1_S28_10_H_INTRO_1]
-If the magic mirror is placed in the correct way, it can form a closed loop.
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:CRAZYDAVE}If the magic mirror is placed in the correct way, it can form a closed loop.
 
 [NARRATIVE_PVZ1_S28_10_H_INTRO_2]
-{SAY:WINNIE} Create a maze from which a zombie can never escape.
+{SAY:WINNIE}Create a maze from which a zombie can never escape.
 
 [NARRATIVE_PVZ1_S28_10_H_INTRO_3]
-How are we going to lock the zombies in?
+{SAY:CRAZYDAVE}How are we going to lock the zombies in?
 
 [NARRATIVE_PVZ1_S28_11_H_INTRO_1]
-It's strange, sunflowers sleep during the day, and Gemini spits out cabbage rolls...
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:CRAZYDAVE}It's strange, sunflowers sleep during the day, and Gemini spits out cabbage rolls...
 
 [NARRATIVE_PVZ1_S28_11_H_INTRO_2]
-CrazyDave just finished shoveling snow, yet the front yard is scorching hot.
+{SAY:CRAZYDAVE}It just finished snowing, yet the front yard feels scorching hot.
 
 [NARRATIVE_PVZ1_S28_11_H_INTRO_3]
 {SAY:WINNIE} A spacetime collapse has been detected; the reality we inhabit is dissolving due to an unknown cause.
 
 [NARRATIVE_PVZ1_S28_11_H_INTRO_4]
-That's terrifying! We should run up to the roof!
+{EXCITED:CRAZYDAVE}That's terrifying! We should run up to the roof!
 
 [NARRATIVE_PVZ1_S28_12_H_INTRO_1]
-Zombies have even climbed onto the rooftops.
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SHOUT:CRAZYDAVE}Zombies have even climbed onto the rooftops.
 
 [NARRATIVE_PVZ1_S28_12_H_INTRO_2]
-The cause of the collapse has been determined: multiple past timelines have been damaged and require urgent repair.
+{SAY:CRAZYDAVE}The cause of the collapse has been determined: multiple past timelines have been damaged and require urgent repair.
 
 [NARRATIVE_PVZ1_S28_12_H_INTRO_3]
-We're about to depart! But the spacetime jump recharge still needs some time.
+{SAY:WINNIE}We're about to depart! But the spacetime jump recharge still needs some time.
 
 [NARRATIVE_PVZ1_S28_12_H_INTRO_4]
-A new adventure! But let's clear the roof first.
+{EXCITED:CRAZYDAVE}A new adventure! But let's clear the roof first.
 
 [NARRATIVE_PVZ1_S28_13_H_INTRO_1]
-Current time: late 17th century, a major naval battle between pirates is about to occur.
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}Current time: late 17th century, a major naval battle between pirates is about to occur.
 
 [NARRATIVE_PVZ1_S28_13_H_INTRO_2]
-SAY: WINNIE. Wind direction: Northeast, wind speed: 54 knots.
+{SAY:WINNIE}Wind direction: Northeast, wind speed: 54 knots.
 
 [NARRATIVE_PVZ1_S28_13_H_INTRO_3]
-Hot oil, loaded and ready… Sailors burning with righteous fury, all personnel are in position!
+{SAY:CRAZYDAVE}Hot oil, loaded and ready… Sailors burning with righteous fury, all personnel are in position!
 
 [NARRATIVE_PVZ1_S28_13_H_INTRO_4]
-Everything is ready; it's time to launch the fire attack.
+{SAY:WINNIE}Everything is ready; it's time to launch the fire attack.
 
 [NARRATIVE_PVZ1_S28_14_H_INTRO_1]
-The atmosphere feels off.
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:CRAZYDAVE}The atmosphere feels off.
 
 [NARRATIVE_PVZ1_S28_14_H_INTRO_2]
-We are about to experience a decisive showdown of the late 19th-century Western gold rush fever.
+{SAY:WINNIE}We are about to experience a decisive showdown of the late 19th-century Western gold rush fever.
 
 [NARRATIVE_PVZ1_S28_14_H_INTRO_3]
-Wow! All aboard the minecart, peas loaded, find cover!
+{SAY:CRAZYDAVE}Wow! All aboard the minecart, peas loaded, find cover!
 
 [NARRATIVE_PVZ1_S28_15_H_INTRO_1]
-Penny, this long, drawn-out conflict and the seemingly endless winter have left me quite exhausted.
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{TIRED:CRAZYDAVE}Penny, this long, drawn-out conflict and the seemingly endless winter have left me quite exhausted.
 
 [NARRATIVE_PVZ1_S28_15_H_INTRO_2]
-I miss summer, the sunshine, and the beach!
+{SAY:CRAZYDAVE}I miss summer, the sunshine, and the beach!
 
 [NARRATIVE_PVZ1_S28_15_H_INTRO_3]
-No problem! We've traveled back to a time when we were on a seaside vacation.
+{SAY:WINNIE}No problem! We've traveled back to a time when we were on a seaside vacation.
 
 [NARRATIVE_PVZ1_S28_15_H_INTRO_4]
-Now, all that's needed is to repel some unwelcome guests who shouldn't exist.
+{SAY:WINNIE}Now, all that's needed is to repel some unwelcome guests who shouldn't exist.
 
 [NARRATIVE_PVZ1_S28_16_H_INTRO_1]
-Hey! How do you catch a rat that's running wild?
+{NPC_ENTER:ZOMBOSSICON}{SAY:ZOMBOSSICON}Hey! How do you catch a rat that's running wild?
 
 [NARRATIVE_PVZ1_S28_16_H_INTRO_2]
-1. Traveled to the "future."
+{SAY:ZOMBOSSICON}1. Traveled to the "future."
 
 [NARRATIVE_PVZ1_S28_16_H_INTRO_3]
-2. Follow the trail of paw prints.
+{SAY:ZOMBOSSICON}2. Follow the trail of paw prints.
 
 [NARRATIVE_PVZ1_S28_16_H_INTRO_4]
-3. Travel back to the "past" and set a trap!
+{SAY:ZOMBOSSICON}3. Travel back to the "past" and set a trap!
 
 [NARRATIVE_PVZ1_S28_16_H_INTRO_5]
-We have fallen into the longest and most severe winter in history.
+{NPC_EXIT:ZOMBOSSICON}{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}We have fallen into the longest and most severe winter in history.
 
 [NARRATIVE_PVZ1_S28_16_H_INTRO_6]
-Will spring be here soon?
+{SAY:CRAZYDAVE}Will spring be here soon?
 
 [NARRATIVE_PVZ1_S28_1_H_INTRO_1]
-Some heavy hitters have quietly joined the lawn.
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:CRAZYDAVE}Some heavy hitters have quietly joined the lawn.
 
 [NARRATIVE_PVZ1_S28_1_H_INTRO_2]
-Destroyer Shroom possesses a terrifying new power, and it's uncertain whether it originates from the past.
+{SAY:WINNIE}Destroyer Shroom possesses a terrifying new power, and it's uncertain whether it originates from the past.
 
 [NARRATIVE_PVZ1_S28_1_H_INTRO_3]
-Because [he/she/it] is powerful enough to even tear through space and time.
+{SAY:WINNIE}Because it is so powerful that it could even tear space and time apart.
 
 [NARRATIVE_PVZ1_S28_2_H_INTRO_1]
-Many magic and wonders are born from harmony with the forces of nature.
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}Many magic and wonders are born from harmony with the forces of nature.
 
 [NARRATIVE_PVZ1_S28_2_H_INTRO_2]
-People and seeds, seeds and courtyards, plants and celestial bodies.
+{SAY:WINNIE}People and seeds, seeds and courtyards, plants and celestial bodies.
 
 [NARRATIVE_PVZ1_S28_2_H_INTRO_3]
-Wow, that "miracle" will definitely befall the zombies.
+{SAY:CRAZYDAVE}Wow, that "miracle" will definitely befall the zombies.
 
 [NARRATIVE_PVZ1_S28_3_H_INTRO_1]
-Alert! Something is falling from the sky.
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}Alert! Something is falling from the sky.
 
 [NARRATIVE_PVZ1_S28_3_H_INTRO_2]
-Oh! The fireworks for the cosmic party have arrived.
+{SAY:CRAZYDAVE}Oh! The fireworks for the cosmic party have arrived.
 
 [NARRATIVE_PVZ1_S28_3_H_INTRO_3]
-It will summon meteorites to attack zombies, like cracking peanuts with the Milky Way.
+{SAY:CRAZYDAVE}It will summon meteorites to attack zombies, like cracking peanuts with the Milky Way.
 
 [NARRATIVE_PVZ1_S28_3_H_INTRO_4]
-Don't forget that you can manually switch the attack attribute of the Moonflower (or Daylily, depending on the context).
+{SAY:WINNIE}Don't forget that you can manually switch the attack attribute of the Moonflower (or Daylily, depending on the context).
 
 [NARRATIVE_PVZ1_S28_4_H_INTRO_1]
-Meteor? Magic? Destructive Mushroom? This power does not belong to you!
+{NPC_ENTER:ZOMBOSSICON}{SAY:ZOMBOSSICON}Meteor? Magic? Destructive Mushroom? This power does not belong to you!
 
 [NARRATIVE_PVZ1_S28_4_H_INTRO_2]
-Before everything goes out of control, I'm going to take away the brain you use to think!
+{SAY:ZOMBOSSICON}Before everything goes out of control, I'm going to take away the brain you use to think!
 
 [NARRATIVE_PVZ1_S28_4_H_INTRO_3]
-Detected a large-scale offensive; suggesting the use of banishment magic.
+{NPC_EXIT:ZOMBOSSICON}{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}Detected a large-scale offensive; suggesting the use of banishment magic.
 
 [NARRATIVE_PVZ1_S28_4_H_INTRO_4]
-It's time for "Crazy Dave" to take his final bow.
+{EXCITED:CRAZYDAVE}It's time for "Crazy Dave" to take his final bow.
 
 [NARRATIVE_PVZ1_S28_5_H_INTRO_1]
-Alert! Uncontrolled supercritical fission detected.
+{NPC_ENTER:WINNIE}{SAY:WINNIE}Alert! Uncontrolled supercritical fission detected.
 
 [NARRATIVE_PVZ1_S28_5_H_INTRO_2]
-After the Doom-shroom explodes, it will randomly scatter spores to reproduce.
+{SAY:WINNIE}After the Doom-shroom explodes, it will randomly scatter spores to reproduce.
 
 [NARRATIVE_PVZ1_S28_5_H_INTRO_3]
-We need to promptly protect the separated products in order to obtain more experimental data.
+{SAY:WINNIE}We need to promptly protect the separated products in order to obtain more experimental data.
 
 [NARRATIVE_PVZ1_S28_6_H_INTRO_1]
-How cold! The plants on the lawn are frozen solid.
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}How cold! The plants on the lawn are frozen solid.
 
 [NARRATIVE_PVZ1_S28_6_H_INTRO_2]
-We experienced a very rapid and unusual drop in temperature.
+{SAY:WINNIE}We experienced a very rapid and unusual drop in temperature.
 
 [NARRATIVE_PVZ1_S28_6_H_INTRO_3]
-Winnie recommends using a red snowsuit, a sled, and baked potatoes.
+{SAY:WINNIE}It is recommended to use a red snow suit, a sled, and roasted potatoes.
 
 [NARRATIVE_PVZ1_S28_7_H_INTRO_1]
-The zombies have invited us to "have a dance battle for the ages."
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:CRAZYDAVE}The zombies have invited us to "have a dance battle for the ages."
 
 [NARRATIVE_PVZ1_S28_7_H_INTRO_2]
-This is a code phrase, it signifies
+{SAY:WINNIE}This is a code phrase, it signifies.
 
 [NARRATIVE_PVZ1_S28_7_H_INTRO_3]
-"Jump to the point where you're physically and mentally exhausted, a zombie with a brain barely functioning!"
+{SAY:WINNIE}"Jump to the point where you're physically and mentally exhausted, a zombie with a brain barely functioning!"
 
 [NARRATIVE_PVZ1_S28_8_H_INTRO_1]
-Wow, the Winter Games have come to our front yard!
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}Wow, the Winter Games have come to our front yard!
 
 [NARRATIVE_PVZ1_S28_8_H_INTRO_2]
-The ice rink has been cleared, and the ice skating waltz has been downloaded.
+{SAY:WINNIE}The ice rink has been cleared, and the ice skating waltz has been downloaded.
 
 [NARRATIVE_PVZ1_S28_8_H_INTRO_3]
-Field rules announced: No metal objects allowed!
+{SAY:WINNIE}Field rules announced: No metal objects allowed!
 
 [NARRATIVE_PVZ1_S28_8_H_INTRO_4]
-The opening ceremony is over, the warm-up is complete. I announce that the Winter Games have begun!
+{NPC_ENTER:ZOMBOSSICON}{SAY:ZOMBOSSICON}The opening ceremony is over, the warm-up is complete. I announce that the Winter Games have begun!
 
 [NARRATIVE_PVZ1_S28_9_H_INTRO_1]
-Bungee Zombie stealthily moved our flower bed.
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}Bungee Zombie stealthily moved our flower bed.
 
 [NARRATIVE_PVZ1_S28_9_H_INTRO_2]
-They want to extort brains with this.
+{SAY:WINNIE}They want to extort brains with this.
 
 [NARRATIVE_PVZ1_S28_9_H_INTRO_3]
-I seem to finally understand what "killing the rat to scare the snake" means.
+{SAY:CRAZYDAVE}I seem to finally understand what "killing the rat to scare the snake" means.
 
 [NARRATIVE_PVZ1_S29_10_H_INTRO_1]
-An evil magic circle has taken over our lawn!
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:CRAZYDAVE}An evil magic circle has taken over our lawn!
 
 [NARRATIVE_PVZ1_S29_10_H_INTRO_2]
-This is a mysterious ritual to summon a spacetime black hole.
+{SAY:WINNIE}This is a mysterious ritual to summon a spacetime black hole.
 
 [NARRATIVE_PVZ1_S29_10_H_INTRO_3]
-Perhaps we can utilize it to break this formation.
+{SAY:WINNIE}Perhaps we can utilize it to break this formation.
 
 [NARRATIVE_PVZ1_S29_11_H_INTRO_1]
-We have traveled back to the most distant past of our journey.
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}We have traveled back to the most distant past of our journey.
 
 [NARRATIVE_PVZ1_S29_11_H_INTRO_2]
-There are approximately 150 million years left until Winnie reaches success in 2026.
+{SAY:WINNIE}There are approximately 150 million years left until Winnie reaches success in 2026.
 
 [NARRATIVE_PVZ1_S29_11_H_INTRO_3]
-CrazyDave feels like there isn't much time left, yet it also seems like there is plenty.
+{SAY:WINNIE}Spacetime collapse detected; the reality we are in is disintegrating for unknown reasons.
 
 [NARRATIVE_PVZ1_S29_12_H_INTRO_1]
-The zombies have also gotten their hands on barrels of gunpowder. They intend to blow open the gate with an explosion.
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}The zombies have also gotten their hands on barrels of gunpowder. They intend to blow open the gate with an explosion.
 
 [NARRATIVE_PVZ1_S29_12_H_INTRO_2]
-Woohoo! It seems they don't realize they're escorting dangerous goods.
+{EXCITED:CRAZYDAVE}Woohoo! It seems they don't realize they're escorting dangerous goods.
 
 [NARRATIVE_PVZ1_S29_12_H_INTRO_3]
-They say it's a real ticking time bomb!
+{SAY:CRAZYDAVE}They say it's a real ticking time bomb!
 
 [NARRATIVE_PVZ1_S29_13_H_INTRO_1]
-The mysterious tent will continuously spew out various zombies, like a four-dimensional pocket.
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}The mysterious tent will continuously spew out various zombies, like a four-dimensional pocket.
 
 [NARRATIVE_PVZ1_S29_13_H_INTRO_2]
-Quickly, let Babao Doulan pull those marvelous little props from her pocket and lend them to us.
+{SAY:CRAZYDAVE}Quickly, let Babao Doulan pull those marvelous little props from her pocket and lend them to us.
 
 [NARRATIVE_PVZ1_S29_14_H_INTRO_1]
-There are approximately 2.85 million years left until 2026!
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}There are approximately 2.85 million years left until 2026!
 
 [NARRATIVE_PVZ1_S29_14_H_INTRO_2]
-The Ring Time Paradox prevents us from using plants harvested after leaving here.
+{SAY:WINNIE}The Ring Time Paradox prevents us from using plants harvested after leaving here.
 
 [NARRATIVE_PVZ1_S29_14_H_INTRO_3]
-Crazy Dave says: It seems colder here than it was before we arrived.
+{SAY:CRAZYDAVE}Crazy Dave says: It seems colder here than it was before we arrived.
 
 [NARRATIVE_PVZ1_S29_15_H_INTRO_1]
-According to the cultivation history of artichokes in ancient Egypt, we are only about 4000 years away from the modern era!
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}According to the cultivation history of artichokes in ancient Egypt, we are only about 4000 years away from the modern era!
 
 [NARRATIVE_PVZ1_S29_15_H_INTRO_2]
-There are no zombies here, only large groups of strange camels.
+{SAY:CRAZYDAVE}There are no zombies here, only large groups of strange camels.
 
 [NARRATIVE_PVZ1_S29_15_H_INTRO_3]
-This is an ambush; no disguise can deceive the eyes of a dart master.
+{SAY:WINNIE}This is an ambush; no disguise can deceive the eyes of a dart master.
 
 [NARRATIVE_PVZ1_S29_16_H_INTRO_1]
-Bearing 365 days of worries, only the night is a refuge for the mind.
+{NPC_ENTER:ZOMBOSSICON}{SAY:ZOMBOSSICON}Bearing 365 days of worries, only the night is a refuge for the mind.
 
 [NARRATIVE_PVZ1_S29_16_H_INTRO_2]
-Let go of hope for tomorrow, and abandon the idea of reaching the New Year!
+{SAY:ZOMBOSSICON}Let go of hope for tomorrow, and abandon the idea of reaching the New Year!
 
 [NARRATIVE_PVZ1_S29_16_H_INTRO_3]
 {NPC_EXIT:ZOMBOSSICON}{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:CRAZYDAVE}But I still want new burritos!
 
 [NARRATIVE_PVZ1_S29_16_H_INTRO_4]
-If we are lost in the past, we will lose the possibilities of the future!
+{SAY:WINNIE}If we are lost in the past, we will lose the possibilities of the future!
 
 [NARRATIVE_PVZ1_S29_1_H_INTRO_1]
-Wow, we're back! And it's a new year again!
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}Wow, we're back! And it's a new year again!
 
 [NARRATIVE_PVZ1_S29_1_H_INTRO_2]
-Detected a familiar malevolent force attempting to thwart our successful New Year's celebration.
+{SAY:WINNIE}Detected a familiar malevolent force attempting to thwart our successful New Year's celebration.
 
 [NARRATIVE_PVZ1_S29_1_H_INTRO_3]
-I saw it! It's the giant nutcracker from Christmas coming at me!
+{SAY:CRAZYDAVE}I saw it! It's the giant nutcracker from Christmas coming at me!
 
 [NARRATIVE_PVZ1_S29_2_H_INTRO_1]
-How could I dream about the New Year?
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:CRAZYDAVE}How could I dream about the New Year?
 
 [NARRATIVE_PVZ1_S29_2_H_INTRO_2]
-That is the reality we are experiencing, situated on a corrected timeline after restoration.
+{SAY:WINNIE}That is the reality we are experiencing, situated on a corrected timeline after restoration.
 
 [NARRATIVE_PVZ1_S29_2_H_INTRO_3]
-Winnie, we've encountered a massive "meteor" ahead. We need to return to the modern era as quickly as possible!
+{SAY:WINNIE}We've encountered a massive "meteor" ahead. We need to return to the modern era as quickly as possible!
 
 [NARRATIVE_PVZ1_S29_2_H_INTRO_4]
-Why do they look so much like bronze statues?
+{SAY:CRAZYDAVE}Why do they look so much like bronze statues?
 
 [NARRATIVE_PVZ1_S29_3_H_INTRO_1]
-The zombies have even brought out Halloween props.
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:CRAZYDAVE}The zombies have even brought out Halloween props.
 
 [NARRATIVE_PVZ1_S29_3_H_INTRO_2]
-Airspace intrusion warning, aircraft formation dispatched.
+{SAY:WINNIE}Airspace intrusion warning, aircraft formation dispatched.
 
 [NARRATIVE_PVZ1_S29_3_H_INTRO_3]
-Mission: Eliminate enemy aircraft, enemy zombies, and enemy crows!
+{SAY:WINNIE}Mission: Eliminate enemy aircraft, enemy zombies, and enemy crows!
 
 [NARRATIVE_PVZ1_S29_4_H_INTRO_1]
-Welcome to the live event of the Deadly Chase Racing Tournament!
+{NPC_ENTER:ZOMBOSSICON}{SAY:ZOMBOSSICON}Welcome to the live event of the Deadly Chase Racing Tournament!
 
 [NARRATIVE_PVZ1_S29_4_H_INTRO_2]
-As long as I remain rooted to this land, my supreme flying zombies will forever hunt you!
+{SAY:ZOMBOSSICON}As long as I remain rooted to this land, my supreme flying zombies will forever hunt you!
 
 [NARRATIVE_PVZ1_S29_4_H_INTRO_3]
-Perhaps we can no longer stay on the ground.
+{NPC_EXIT:ZOMBOSSICON}{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}Perhaps we can no longer stay on the ground.
 
 [NARRATIVE_PVZ1_S29_4_H_INTRO_4]
-But I can't fly, you know.
+{SAY:CRAZYDAVE}But I can't fly, you know.
 
 [NARRATIVE_PVZ1_S29_5_H_INTRO_1]
-Zombies are gathering, and there's a 120% chance of a sandbag fight happening in the front yard.
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}Zombies are gathering, and there's a 120% chance of a sandbag fight happening in the front yard.
 
 [NARRATIVE_PVZ1_S29_5_H_INTRO_2]
-Let me catch them and throw them back!
+{SAY:CRAZYDAVE}Let me catch them and throw them back!
 
 [NARRATIVE_PVZ1_S29_6_H_INTRO_1]
-The zombies have invited us to a thrilling and exciting auto-battler showdown!
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{EXCITED:CRAZYDAVE}The zombies have invited us to a thrilling and exciting auto-battler showdown!
 
 [NARRATIVE_PVZ1_S29_6_H_INTRO_2]
-I think we have no choice but to play the role of the plant side.
+{SAY:WINNIE}I think we have no choice but to play the role of the plant side.
 
 [NARRATIVE_PVZ1_S29_7_H_INTRO_1]
-The deck is too crowded, so I moved the potato mines to the side.
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:CRAZYDAVE}The deck is too crowded, so I moved the potato mines to the side.
 
 [NARRATIVE_PVZ1_S29_7_H_INTRO_2]
-That's not a good idea; once it's triggered, our ship will take on water.
+{SAY:WINNIE}That's not a good idea; once it's triggered, our ship will take on water.
 
 [NARRATIVE_PVZ1_S29_7_H_INTRO_3]
-Absolutely cannot let the zipline zombies successfully board the ship!
+{SAY:WINNIE}Absolutely cannot let the zipline zombies successfully board the ship!
 
 [NARRATIVE_PVZ1_S29_8_H_INTRO_1]
-I've prepared gunpowder for the New Year's fireworks display and need a highly capable security person.
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:WINNIE}I've prepared gunpowder for the New Year's fireworks display and need a highly capable security person.
 
 [NARRATIVE_PVZ1_S29_8_H_INTRO_2]
-As the saying goes, many skills are never a burden. Let the zombies witness the bonds of the Pea family!
+{SAY:CRAZYDAVE}As the saying goes, many skills are never a burden. Let the zombies witness the bonds of the Pea family!
 
 [NARRATIVE_PVZ1_S29_9_H_INTRO_1]
-I have a bad feeling, we've been here before!
+{NPC_ENTER:CRAZYDAVE}{NPC_ENTER:WINNIE}{SAY:CRAZYDAVE}I have a bad feeling, we've been here before!
 
 [NARRATIVE_PVZ1_S29_9_H_INTRO_2]
-I hope you won't be careless in the same place again.
+{SAY:WINNIE}I hope you won't be careless in the same place again.
 
 [NARRATIVE_PVZ1_S29_9_H_INTRO_3]
-Don't worry, I brought my burrito this time.
+{SAY:CRAZYDAVE}Don't worry, I brought my burrito this time.
 
 [NEWYEARREDPACKET_REWARDNAME]
 February {NUMBER}th
@@ -84536,7 +84534,7 @@ Attacks cause the zombies to levitate.
 In mini-game mode, there are four sections: Play Mini-Games, Vase Eliminator, Zombie Enemy, and I, Plants. Completing levels earns rewards.
 
 [NET_CONNECTING_JSON_UPDATE]
-Updating data...
+Updating Data...
 
 [NEWYEAR_GIFT_HEAD_DES_ID_25838]
 During the celebration package event, receive rewards by reaching the cumulative recharge progress specified within the event.
@@ -84562,34 +84560,34 @@ Solar consumption reduced by 25%.
 Growth time reduced by 2 seconds.
 
 [NEW_AVATAR_DESCRIPTION_DUCKPEAR_1]
-Solar consumption reduced by 25%.
+Solar consumption reduced by 25%
 
 [NEW_AVATAR_DESCRIPTION_ELECTRICBLUEBERRY_2]
-Attack power increased by 15%.
+Attack power increased by 15%
 
 [NEW_AVATAR_DESCRIPTION_GARDENERGRASS_1]
-Attack power increased by 15%.
+Attack power increased by 15%
 
 [NEW_AVATAR_DESCRIPTION_POISONPEASHOOTER_2]
-Sunlight consumption reduced by 25 points.
+Sunlight consumption reduced by 25 points
 
 [NEW_AVATAR_SHORT_DESCRIPTION_ACTINOSTEMMA_1]
-Boxwood firecrackers, parasol, and costume.
+Boxwood firecrackers, parasol, and costume
 
 [NEW_AVATAR_SHORT_DESCRIPTION_AEONIUM_2]
 Dark Mage's Magic Book Costume
 
 [NEW_AVATAR_SHORT_DESCRIPTION_ANIMNUTS_3]
-Dressing as the child of the fruit forest.
+Dressing as the child of the fruit forest
 
 [NEW_AVATAR_SHORT_DESCRIPTION_COTTONYETI_1]
-Cotton Xiaoxue in a hooded outfit.
+Cotton Xiaoxue in a hooded outfit
 
 [NEW_AVATAR_SHORT_DESCRIPTION_DOOMSHROOM_2]
 Destroyer Mushroom Brave Warrior Attire
 
 [NEW_AVATAR_SHORT_DESCRIPTION_DUCKPEAR_1]
-Pear, coconut shell, and disguise.
+Pear, coconut shell, and disguise
 
 [NEW_AVATAR_SHORT_DESCRIPTION_ELECTRICBLUEBERRY_2]
 Electric Blueberry Graduation Cap Outfit
@@ -84635,7 +84633,6 @@ Off-lawn Boost
 
 [PEAPOD_NEW_SKILL_LEVEL5_DES]
 Once a pea pod contains five peas, you can continue planting more. Continued planting will cause the peas within the pod to evolve into double-firing peas and machine gun peas. The evolved peas will shoot a greater number of peas.
-
 [PEAPOD_SKILL1_LEVEL5]
 Evolution
 
