@@ -78,7 +78,7 @@ SECTION_NEED_REVIEW
 Hack Coins/Fix Negative Coins
 
 [INFINITY_COINS_DESC]
-Hack Coins/Fix Negative Coins
+Think before buying. ONLY if ur coins <20M or negative
 
 [HEALTH_NOTICE_CONTENT]
 Take care of yourself, beware of scams. Pay attention to self-protection and avoid being deceived. A bit of gaming trains your mind, too much will harm your health. Reasonably spend your time, enjoy a healthy life.
@@ -605,7 +605,7 @@ Not Just Camel Brand Can Test Your Speed
 The Scamming Couple
 
 [GINGLEBELL_TASKDESCRIPTION]
-The latest level deals {NUMBER} damage to Umbrella Zombies.
+The latest level deals {NUMBER} damage to Zombie Chickens.
 
 [A_PILE_SNOWMEN1_TITLE]
 Icy skies and snowy lands - Level One
@@ -626,16 +626,16 @@ Heavy snow falling - Level Two
 Heavy snow falling - Level Three
 
 [GINGLEBELL_S1_1_TITLE]
-Gracefully entering a painting - Level One
+Sudden chicken rush - Level One
 
 [GINGLEBELL_S1_3_TITLE]
-Gracefully entering a painting - Level Three
+Sudden chicken rush - Level Three
 
 [GINGLEBELL_S2_1_TITLE]
-Sitting on the ground - Level One
+Slightly forward, the chicken disappears - Level One
 
 [GINGLEBELL_S3_3_TITLE]
-Spring Excursion and Scenic Viewing - Level Three
+Chicken coming, chicken going - Level Three
 
 [GINGLEBELL_COLLECTION_SHORT_DESCRIPTION]
 Challenge to deal the highest damage in 30 seconds!
@@ -644,10 +644,10 @@ Challenge to deal the highest damage in 30 seconds!
 Dodge Training - Level {LEVEL_NUMBER}
 
 [SNOWNIGHTSTAGE3_LEVEL_NAME]
-Spring Excursion and Scenic Viewing - Level {LEVEL_NUMBER}
+Chick comes, chick goes - Level {LEVEL_NUMBER}
 
 [PLAYERS_TRIP_TO_SNOWNIGHT]
-{PLAYER}'s delightful spring outing.
+{PLAYER}'s Foolish April Fool's Journey
 
 [AVATARCOLLECTIONS_TITLE]
 Collection Album
@@ -17442,7 +17442,7 @@ Next Question
 Today's Reward:
 
 [LANTERN_RIDDLES_TITLE]
-Guess the Lantern Riddles
+Dunhuang Enigma
 
 [LANTERN_RIDDLES_FINISH_TODAY]
 Completed
@@ -17481,7 +17481,7 @@ Cumulative Answering Ten Days Reward
 Cumulative Answering Sixteen Days Reward
 
 [LANTERN_RIDDLES_PRIZE]
-Congratulations! You have received
+Return to answering questions.
 
 [LANTERN_RIDDLES_SPECIAL_PRIZE_DESC]
 Answer all lantern riddles correctly to receive the New Year plant
@@ -17493,8 +17493,8 @@ Congratulations! You have received the New Year plant
 Answered Today
 
 [LANTERN_RIDDLES_RESULT]
-You have answered all questions, with {CORRECT_COUNT} correct and {WRONG_COUNT} wrong.
-Congratulations, you have received {REDPACK_COUNT} red envelopes!
+You have answered all the questions, with a total of {CORRECT_COUNT} correct and {WRONG_COUNT} incorrect.
+Congratulations, you have earned {REDPACK_COUNT} red packets!
 
 [LANTERN_RIDDLES_TOTAL]
 Answered for {DAY_GUESS} days, accuracy rate {CORRECT_COUNT}%, missed {DAY_MISSED} days
@@ -17509,445 +17509,445 @@ Supplemental Answer
 Return to Answering
 
 [LANTERN_RIDDLES_RED_PACK]
-Go Open Red Envelopes
+Go open lucky bags.
 
 [LANTERN_RIDDLES_0]
-Under the stimulation of the Plant Food, how much sun can a Sunflower produce each time?
+In which province of our country are the Mogao Caves of Dunhuang located?
 
 [LANTERN_RIDDLES_ANSWER_0]
-ca=150|100|200|300|
+Gansu Province|Sichuan Province|Shaanxi Province|Qinghai Province|
 
 [LANTERN_RIDDLES_1]
-Among the Peashooter family, whose costume ultimate cannot release fire bullets?
+Inside the Mogao Caves of Dunhuang, there are a large number of Buddhist sculptures and murals, affectionately known as?
 
 [LANTERN_RIDDLES_ANSWER_1]
-ca=Peashooter|Split Pea|Repeater|Pea Pod|
+ca=Thousand Buddha Cave|Ten Thousand Buddha Cave|Thousand Buddha Rock|Ten Thousand Buddha Rock|
 
 [LANTERN_RIDDLES_2]
-Which of the following plants' costumes is not glasses?
+What were the main Mogao Caves of Dunhuang excavated into?
 
 [LANTERN_RIDDLES_ANSWER_2]
-ca=Wall-nut|Torchwood|Sunflower|Spikeweed|
+cliffs and precipices|high mountains|plains|deserts|
 
 [LANTERN_RIDDLES_3]
-How many clones can Potato Mine summon at most when using its ultimate?
+Dunhuang is located in the northwest inland of our country, to which climate type does it belong in China?
 
 [LANTERN_RIDDLES_ANSWER_3]
-ca=3|1|2|4|
+temperate continental climate|temperate monsoon climate|tropical rainforest climate|subtropical monsoon climate|
 
 [LANTERN_RIDDLES_4]
-Which plant enjoys having snowball fights?
+Known as the "Pearl of Oriental Art," what is the most famous World Heritage site in Dunhuang?
 
 [LANTERN_RIDDLES_ANSWER_4]
-ca=Iceberg Lettuce|Winter Melon|Snow Pea|Torchwood|
+Mogao Caves|Singing Sand Mountain|Yangguan Pass|Yadan Landform|
 
 [LANTERN_RIDDLES_5]
-What kind of bullet, when penetrating through a Torchwood, will turn into a normal bullet?
+Around what period was the construction of the Mogao Caves?
 
 [LANTERN_RIDDLES_ANSWER_5]
-ca=Ice Bullet|Fire Bullet|Laser|Peanut|
+ca=Northern and Southern Dynasties|Han Dynasty|Qin Dynasty|Tang Dynasty|
 
 [LANTERN_RIDDLES_6]
-What is the costume of Spring Bean?
+Which important node was Dunhuang in during ancient times?
 
 [LANTERN_RIDDLES_ANSWER_6]
-ca=Ballet costume|Ballet Shoes|Baseball Bat|Dr. Zomboss|
+Silk Road (terrestrial)|Tea-Horse Road|Grand Canal of Beijing and Hangzhou|Maritime Silk Road|
 
 [LANTERN_RIDDLES_7]
-What happens when Spikeweed encounters a rolling tube on the deck?
+What does the name Dunhuang mean?
 
 [LANTERN_RIDDLES_ANSWER_7]
-ca=Little Imp Zombie pops out|Dr. Zomboss pops out|Falls into the sea|A shark pops out|
+ca=Splendid Glory|A small town by the river|The Emperor's name|A place to grow melons|
 
 [LANTERN_RIDDLES_8]
-What other proud profession does Snapdragon have?
+Approximately how many caves survive in the Mogao Caves?
 
 [LANTERN_RIDDLES_ANSWER_8]
-ca=Firefighter|Police Officer|Lawyer|Pterodactyl|
+ca=700+ | 1000+ | 2000+ | 3000+ |
 
 [LANTERN_RIDDLES_9]
-What magical fruit can an Electric Peashooter reveal?
+What world lists has the Mogao Caves of Dunhuang been included in?
 
 [LANTERN_RIDDLES_ANSWER_9]
-ca=Plant Food|Elixir|Lima Bean|Lotus Seed|
+ca=World Cultural Heritage|World Natural Heritage|World Intangible Cultural Heritage|World Geopark|
 
 [LANTERN_RIDDLES_10]
-What effect can Coconut Cannon's regular ultimate achieve?
+What is the most important subject matter in the Dunhuang murals?
 
 [LANTERN_RIDDLES_ANSWER_10]
-ca=Knockback|Stun|Knockdown|Blow away|
+ca=Transformation paintings|Figures|Animals|Architecture|
 
 [LANTERN_RIDDLES_11]
-How can a Squash remain alive after hitting a zombie?
+In the Dunhuang murals, what is the image known as "Feitian"?
 
 [LANTERN_RIDDLES_ANSWER_11]
-ca=Upgrade the Squash|Flog the Squash|Chill the Squash|Marinate the Squash|
+Flying fairies|Flying birds|Flying instruments|Flying animals|
 
 [LANTERN_RIDDLES_12]
-How many bullets does a Repeater shoot each time?
+Why are some Feitian skins black in color?
 
 [LANTERN_RIDDLES_ANSWER_12]
-ca=3 bullets|4 bullets|2 bullets|N bullets|
+ca=pigment oxidation discoloration|artisan intentionally painted black|originally black skin|soiled by dust|
 
 [LANTERN_RIDDLES_13]
-Which plant does not need to rest when defending against zombies?
+In the new version, what instrument does the cactus hold?
 
 [LANTERN_RIDDLES_ANSWER_13]
-ca=Snapdragon|Coconut Cannon|Kernel-pult|Banana Launcher|
+ca=slender-waisted drum|yaogu drum|dalab drum|taogu drum|
 
 [LANTERN_RIDDLES_14]
-Other than preventing plants from being absorbed by a Black Hole or Qigong, what else can a White Radish do?
+Where do the pigments for Dunhuang murals mainly come from?
 
 [LANTERN_RIDDLES_ANSWER_14]
-ca=Attack zombies|Eat zombies|Turn into Radish Sauce|KongFu Master|
+natural minerals|synthetic|plant extracts|insects|
 
 [LANTERN_RIDDLES_15]
-How does a Cherry Bomb initiate its attack?
+Which color is not a primary color in the Dunhuang murals?
 
 [LANTERN_RIDDLES_ANSWER_15]
-ca=Click on the Cherry Bomb|Long press on the Cherry Bomb|Stroke the Cherry Bomb|When zombies approach, it explodes|
+ca=purple|earth yellow|cyan gold blue|ochre red|
 
 [LANTERN_RIDDLES_16]
-Which of the following plants increases sun each time it's planted?
+Which of the following characteristics is not of ionizing red palm?
 
 [LANTERN_RIDDLES_ANSWER_16]
-ca=Tile Turnip|Pea Pod|Power Lily|Magnifying Glass|
+ca=culture, life, religion|military warfare|agricultural production|the life of the emperor|
 
 [LANTERN_RIDDLES_17]
-Among the Peashooter family, who has eyebrows?
+What is Fei Tian’s main job?
 
 [LANTERN_RIDDLES_ANSWER_17]
-ca=Repeater|Peashooter|Pea Pod|Threepeater|
+scatter flowers, play music, dance | cleanliness | guide | decoration |
 
 [LANTERN_RIDDLES_18]
-Which plant has a mustache as its costume?
+In the Dunhuang murals, which is the largest in area?
 
 [LANTERN_RIDDLES_ANSWER_18]
-ca=Tall-nut|Resistant Radish|Pyro-shroom|Cryo-shroom|
+Mount Wutai Map|Deer King’s Birth Map|Five Hundred Robbers Attaining Buddhahood Map|Zhang Yichao’s Journey Map|
 
 [LANTERN_RIDDLES_19]
-Among the Peashooter family, who has eyebrows?
+Which dynasty opened the most caves in the Mogao Caves?
 
 [LANTERN_RIDDLES_ANSWER_19]
-ca=Split Pea|Peashooter|Pea Pod|Threepeater|
+Tang Dynasty|Song Dynasty|Northern and Southern Dynasties|Ming Dynasty|
 
 [LANTERN_RIDDLES_20]
-What is Scaredy-shroom most afraid of?
+What musical instruments frequently appear in the Dunhuang murals?
 
 [LANTERN_RIDDLES_ANSWER_20]
-ca=Puppies|Kittens|Bugs|Baa Baa Sheep|
+ca=pipa|piano|violin|guitar|
 
 [LANTERN_RIDDLES_21]
-Which plant cannot be eaten by zombies?
+Which painting is representative of the Dunhuang murals?
 
 [LANTERN_RIDDLES_ANSWER_21]
-ca=Spikeweed|Chili Bean|Potato-mine|Bamboo Shoot|
+{ca=《九色鹿本生故事画》|《蒙娜丽莎》|《清明上河图》|《富春山居图》| }
 
 [LANTERN_RIDDLES_22]
-What is the real name of a Squash?
+How many years did it take to excavate the Mogao Caves?
 
 [LANTERN_RIDDLES_ANSWER_22]
-ca=Xiao Ming|Xiao Hong|Xiao Fang|Xiao Qiang|
+ca=over a thousand years|three hundred years|several decades|more than ten years|
 
 [LANTERN_RIDDLES_23]
-Which plant, when eaten by zombies, causes them to have diarrhea?
+From which era did the portraits of donors in Dunhuang murals begin to become almost as large as real people?
 
 [LANTERN_RIDDLES_ANSWER_23]
-ca=Kernel-pult|Coffee Bean|Laser Bean|Sun Bean|
+Tang Dynasty|Song Dynasty|Northern and Southern Dynasties|Ming Dynasty|
 
 [LANTERN_RIDDLES_24]
-Where does the light of the Moonflower come from?
+What are the top decorations of the Dunhuang Caves?
 
 [LANTERN_RIDDLES_ANSWER_24]
-ca=Absorbing darkness|Devouring zombies|Fireflies|Absorbing oxygen|
+ca=wellhead|trim|pattern|border|
 
 [LANTERN_RIDDLES_25]
-How many eyes does a Kernel-pult have?
+What materials were mainly used to create the painted sculptures in the Mogao Caves of Dunhuang?
 
 [LANTERN_RIDDLES_ANSWER_25]
-ca=4|1|6|2|
+wood, grass, mud|stone|wood|metal|
 
 [LANTERN_RIDDLES_26]
-What is the ability of a Coffee Bean?
+What are the main figures of colored sculpture?
 
 [LANTERN_RIDDLES_ANSWER_26]
-ca=Awakening plants|Flying into the air|Stimulating zombies|Turning into latte|
+ca=Buddhist figures|ancient emperors|common people|animals|
 
 [LANTERN_RIDDLES_27]
-Which zombie can defeat the holographic walnut?
+What is the approximate height of the largest painted sculpture in the Mogao Caves?
 
 [LANTERN_RIDDLES_ANSWER_27]
-ca=Gargantuar zombie|Wizard zombie|Necromancer zombie|Chicken zombie|
+ca=30m|10m|50m|100m|
 
 [LANTERN_RIDDLES_28]
-Where does the peashooter prefer to shoot zombies?
+Why do so many sculptures in the Mogao Caves lack hands?
 
 [LANTERN_RIDDLES_ANSWER_28]
-ca=Knees|Eyes|Arms|Chest|
+natural shedding and man-made damage|craftsmen intentionally do not make|eaten by insects|most Buddhist statues have no hands|
 
 [LANTERN_RIDDLES_29]
-How many heads does a threepeater have when it advances to the third stage?
+Who is generally the sculpture in the very center of the Dunhuang Caves?
 
 [LANTERN_RIDDLES_ANSWER_29]
-ca=Three|Four|Six|Nine|
+ca=Shakyamuni Buddha|Yu Huang Dadi|Guanyin Bodhisattva|Taishang Laojun|
 
 [LANTERN_RIDDLES_30]
-Which attack characteristic does the ice melon lack?
+The steps in making colored clay figures, the first step is usually?
 
 [LANTERN_RIDDLES_ANSWER_30]
-ca=High attack speed|Projectile|Slowdown|Area attack|
+ca=skeleton making|coloring|drying|sanding|
 
 [LANTERN_RIDDLES_31]
-What profession has the kernel-pult worked as?
+What are the small sculptures pasted on the walls of the Mogao Caves called?
 
 [LANTERN_RIDDLES_ANSWER_31]
-ca=Usher|Firefighter|Chef|Baker|
+ca=shadow sculpture|round sculpture|relief sculpture|brick sculpture|
 
 [LANTERN_RIDDLES_32]
-Who is the second in command of the shooter family?
+What are Tianwang Caisu’s facial expressions mostly like?
 
 [LANTERN_RIDDLES_ANSWER_32]
-ca=Melon-pult|Kernel-pult|Cabbage-pult|Winter Melon|
+angry|painful|happy|sad|
 
 [LANTERN_RIDDLES_33]
-What is the function of the threepeater?
+What were the murals in Dunhuang painted with?
 
 [LANTERN_RIDDLES_ANSWER_33]
-ca=Blow away flying zombies|Slow down zombies|Cool down plants|Increase plant bullet speed|
+ca=brush|pen|pencil|colored pencil|
 
 [LANTERN_RIDDLES_34]
-What does the lightning reed like to listen to the most?
+What are the typical spatial components that make up the extant caves in the Mogao Caves?
 
 [LANTERN_RIDDLES_ANSWER_34]
-ca=Radio|CD player|MP3 player|Walkman|
+ca=front room, passageway, main room|staircase|corridor|door|
 
 [LANTERN_RIDDLES_35]
-What is the weakness of the spring bean?
+What was ancient Dunhuang in terms of cultural exchange between East and West?
 
 [LANTERN_RIDDLES_ANSWER_35]
-ca=It falls asleep after attacking|High sun cost|Cannot upgrade|All of the above|
+hub|endpoint|starting point|irrelevant place|
 
 [LANTERN_RIDDLES_36]
-On which zombie does the hypnotized mushroom have no effect?
+In which dynasty was the Dunhuang Library Cave discovered?
 
 [LANTERN_RIDDLES_ANSWER_36]
-ca=Zombie chicken|Buckethead zombie|Conehead zombie|All of the above|
+ca=Qing Dynasty|Tang Dynasty|Song Dynasty|Ming Dynasty|
 
 [LANTERN_RIDDLES_37]
-What is the nickname of the gloom-shroom?
+What was mainly stored in the Library Cave?
 
 [LANTERN_RIDDLES_ANSWER_37]
-ca=Balloon shroom|Silly shroom|Tall nut|Puff-shroom|
+ca=Buddhist scriptures|gold|grain|weapons|
 
 [LANTERN_RIDDLES_38]
-Who is the big brother of the bean family?
+What language were the scriptures discovered in the Dunhuang Library Cave mainly written in?
 
 [LANTERN_RIDDLES_ANSWER_38]
-ca=Sunflower|Coffee bean|Laser bean|Kernel-pult|
+ca=Chinese|Sogdian|Tokharistan|Uyghur
 
 [LANTERN_RIDDLES_39]
-Which item can't be attracted by the magnet-shroom?
+Who were the main residents of ancient Dunhuang?
 
 [LANTERN_RIDDLES_ANSWER_39]
-ca=Zombie dragon's nose ring|Bucket|Snowman zombie's head|Knight's helmet|
+multiple ethnic groups|only Han ethnicity|only Hui ethnicity|only Tibetan ethnicity|
 
 [LANTERN_RIDDLES_40]
-Who is the master of the bamboo shoot?
+Why are camels relatively well-suited for desert travel?
 
 [LANTERN_RIDDLES_ANSWER_40]
-ca=The Earth Deity|Sun Wukong|Jiang Ziya|Nezha|
+Drought-tolerant, large footpads prevent sinking | Likes desert sand | Runs exceptionally fast | Can swim in the desert |
 
 [LANTERN_RIDDLES_41]
-From which literary work does the peach originate?
+Dunhuang is located within the desert, why are there rivers flowing through it, and where does the water come from?
 
 [LANTERN_RIDDLES_ANSWER_41]
-ca=Journey to the West|Investiture of the Gods|Dream of the Red Chamber|Water Margin|
+snow-capped mountain meltwater|ocean|artificially excavated well water|rainwater|
 
 [LANTERN_RIDDLES_42]
-Which direction can't the starfruit hit?
+The climate characteristics of Dunhuang are
 
 [LANTERN_RIDDLES_ANSWER_42]
-ca=Directly above|Directly below|Behind|Directly in front|
+dry and sparse rainfall, large diurnal temperature difference | hot and rainy | cold and dry | warm and humid |
 
 [LANTERN_RIDDLES_43]
-What is the function of the stunion?
+Who discovered the Library Cave?
 
 [LANTERN_RIDDLES_ANSWER_43]
-ca=Paralyze mechanical zombies|Stun regular zombies|Slow down mechanical zombies|Cause mechanical zombies to explode|
+a Taoist|a farmer|a scholar|an official|
 
 [LANTERN_RIDDLES_44]
-What does the charged citrus like to do at home?
+What did the ancient people of Dunhuang mainly rely on for a living?
 
 [LANTERN_RIDDLES_ANSWER_44]
-ca=Watch TV|Listen to music|Read books|Blend juice|
+farming and business|fishing|hunting|herding|
 
 [LANTERN_RIDDLES_45]
-What is avocado's favorite food?
+What was the main reason for the cessation of excavation at the Mogao Caves of Dunhuang?
 
 [LANTERN_RIDDLES_ANSWER_45]
-ca=Mexican spicy rolls|Mexican chicken rolls|Old Beijing chicken rolls|All of the above|
+ca=the Silk Road declined|there was no more material|the artisans all left|war caused destruction|
 
 [LANTERN_RIDDLES_46]
-What course did the tangled kelp major in at university?
+Which dynasty did not excavate caves in the Mogao Caves?
 
 [LANTERN_RIDDLES_ANSWER_46]
-ca=Philosophy|Karate|Advanced mathematics|French|
+ca=Qing Dynasty|Tang Dynasty|Song Dynasty|Northern and Southern Dynasties|
 
 [LANTERN_RIDDLES_47]
-Which plant in Plants vs. Zombies 1 has the same attack method as the homing thistle?
+What does the name Dunhuang roughly mean?
 
 [LANTERN_RIDDLES_ANSWER_47]
-ca=Catapult|Cactus|Gatling pea|Peashooter|
+large, prosperous | small, weak | high, dangerous | low, level |
 
 [LANTERN_RIDDLES_48]
-How many times has the bowling bulb participated in bowling matches?
+In the new version, Bursting Grapes launched a Dunhuang-themed outfit, this accessory for
 
 [LANTERN_RIDDLES_ANSWER_48]
-ca=5 times|6 times|8 times|7 times|
+ca=awning|umbrella|sunshade|hat|
 
 [LANTERN_RIDDLES_49]
-Why doesn't the roadblock zombie's roadblock fall off its head?
+In Dunhuang culture, Buddhist culture occupies a large proportion, so where did Buddhism come from into China?
 
 [LANTERN_RIDDLES_ANSWER_49]
-ca=It's glued on with strong adhesive|Its head is too big for it to fall off|It's designed that way in the game|None of the above|
+ca=India|Persia|Greece|Rome|
 
 [LANTERN_RIDDLES_50]
-What does the flag zombie like to call itself?
+In the new version, what animal's horns does the sunflower have?
 
 [LANTERN_RIDDLES_ANSWER_50]
-ca=Me|Zom|Zombie|Sire|
+ca=antlers|horns|ivory|
 
 [LANTERN_RIDDLES_51]
-Who completed the paint job for the boss of the Dark Ages, the Dark Dragon?
+What can’t we do when visiting the Mogao Caves?
 
 [LANTERN_RIDDLES_ANSWER_51]
-ca=Neighbor Xiao Ming|Neighbor Xiao Fang|Neighbor Xiao Li|Neighbor Xiao Han|
+ca=Take photos (prohibited area)|Quiet viewing|Follow staff instructions|Protect cultural relics|
 
 [LANTERN_RIDDLES_52]
-Which animal is not present in Plants vs. Zombies 2?
+What are the main difficulties in protecting the Dunhuang murals?
 
 [LANTERN_RIDDLES_ANSWER_52]
-ca=Camel|Cow|Sheep|Shark|
+easily fades and falls off | no money | no one to protect | location too remote |
 
 [LANTERN_RIDDLES_53]
-What can the wizard zombie turn plants into?
+In the new version, what was the bell hanging on the streamer of the Angel Star Apple called in ancient times?
 
 [LANTERN_RIDDLES_ANSWER_53]
-ca=None of the above|Cows|Sheep|Chickens|
+ca=These are all |Wind Chimes|Iron Horses|Startled Bird Bells|
 
 [LANTERN_RIDDLES_54]
-Why did the wild west gargantuar become unemployed?
+Are the Mogao Caves in Dunhuang a star-rated scenic area?
 
 [LANTERN_RIDDLES_ANSWER_54]
-ca=Its horseshoes are too small|It eats too much|It doesn't work hard enough|It can't fit into its work clothes|
+no rating|5A scenic area|4A scenic area|3A scenic area|
 
 [LANTERN_RIDDLES_55]
-Who is the good friend of the torchwood?
+What shouldn't we do when visiting?
 
 [LANTERN_RIDDLES_ANSWER_55]
-ca=Snapdragon|Fire Gourd|Pyro-shroom|Peashooter|
+ca=Sign on the mural|Observe quietly|Follow the instructions of the staff|Protect the cultural relics|
 
 [LANTERN_RIDDLES_56]
-What is the dream of the cherry bomb brothers?
+What ways can we learn about Dunhuang culture?
 
 [LANTERN_RIDDLES_ANSWER_56]
-ca=All of the above|Form a band|Destroy zombies|Ignite fans|
+reading books, watching documentaries | not seeking to understand | only listening to what others say | guessing...
 
 [LANTERN_RIDDLES_57]
-Where is the origin of the cabbage-pult?
+Who is the sculpted figure of a young man often found next to the Buddhist statues inside the Dunhuang Caves?
 
 [LANTERN_RIDDLES_ANSWER_57]
-ca=Guangdong|Guangxi|Fujian|Shanghai|
+Ananda|Kasyapa|Guanyin Bodhisattva|Deva|
 
 [LANTERN_RIDDLES_58]
-Who granted the power to the sun god zombie?
+Are the caves currently open to tourists at Dunhuang Mogao Caves all of the caves?
 
 [LANTERN_RIDDLES_ANSWER_58]
-ca=None of the above|Sun God|Apollo|Athena|
+is only a part|is all|not opening any|only 10
 
 [LANTERN_RIDDLES_59]
-Which hero originates from Plants vs. Zombies 2?
+How can we children protect Dunhuang culture?
 
 [LANTERN_RIDDLES_ANSWER_59]
-ca=Chomper|Superman|Batman|Pianist Zombie|
+learn about Dunhuang knowledge|do not visit|damage cultural relics|do nothing|
 
 [LANTERN_RIDDLES_60]
-What was the previous occupation of the firemelon?
+What do the flying apsaras in the Dunhuang murals often hold in their hands?
 
 [LANTERN_RIDDLES_ANSWER_60]
-ca=A supporting role in an acrobatics troupe|Distillery employee|Pharmaceutical factory worker|Vegetable vendor in the market|
+ca=instrument|book|food|toy|
 
 [LANTERN_RIDDLES_61]
-Which of the following activities was not part of the 2016 Chinese New Year event?
+Who are the generals in the statues of the Dunhuang Caves?
 
 [LANTERN_RIDDLES_ANSWER_61]
-ca=Welcoming the God of Wealth|Gold Ingot Battle|Lighting firecrackers|Smashing golden eggs|
+ca=Heavenly King|Bodhisattva|Disciple|Offeror|
 
 [LANTERN_RIDDLES_62]
-What does the durian drop when it hits a zombie?
+What system is used to number the caves in the Mogao Caves of Dunhuang?
 
 [LANTERN_RIDDLES_ANSWER_62]
-ca=Fruit|Teeth|Conscience|Leaves|
+by cave geographical location|by excavation time sequence|by cave size|by number of Buddha statues|
 
 [LANTERN_RIDDLES_63]
-Which of the following plants does not belong to the meat shield category?
+What are the specialties of Dunhuang?
 
 [LANTERN_RIDDLES_ANSWER_63]
-ca=Aloe|Red Stinger|Durian|Litchi|
+ca=grapes|litchi|mango|banana|
 
 [LANTERN_RIDDLES_64]
-Which zombie can be enraged by the syringe of the syringe zombie?
+What games did children in ancient Dunhuang play?
 
 [LANTERN_RIDDLES_ANSWER_64]
-ca=All of the above|Explorer Zombie|Wizard Zombie|Regular Zombie|
+Hide-and-seek, kicking a shuttlecock | Mobile games | Computer games | Tablet games |
 
 [LANTERN_RIDDLES_65]
-Which plant can cause damage to the shovel zombie?
+What is the name of the dance depicted in the Dunhuang murals that features a main characteristic of continuous rotation and circling?
 
 [LANTERN_RIDDLES_ANSWER_65]
-ca=A. K. M. M.|Red Stinger|Cabbage-pult|Litchi|
+ca=whirling dance|modern dance|street dance|ballet|
 
 [LANTERN_RIDDLES_66]
-Which zombie would win in a race?
+What shapes are the caves in the Mogao Caves like?
 
 [LANTERN_RIDDLES_ANSWER_66]
-ca=Shovel Zombie|Gargantuar Zombie|Parasol Zombie|Guide Zombie|
+ca=square|circle|oval|irregular shape|
 
 [LANTERN_RIDDLES_67]
-What is different about plants food of the gold magnet from its normal move?
+What materials were used for the paintings unearthed from the Dunhuang Library Cave?
 
 [LANTERN_RIDDLES_ANSWER_67]
-ca=Poison spray|Eat one more zombie|Produce 25 sun|Increased range by one tile|
+silk, hemp, paper|wood|plastic|copper plate|
 
 [LANTERN_RIDDLES_68]
-Which ancient civilization is the Lost City world based on?
+Which animated series features elements of the Dunhuang flying apsaras?
 
 [LANTERN_RIDDLES_ANSWER_68]
-ca=Maya|Ancient Egypt|Atlantis|Minoan|
+=《Nine-Colored Deer》|《Peppa Pig》|《Bear Out of the Mountain》|《Pleasant Goat and Big Big Wolf》|
 
 [LANTERN_RIDDLES_69]
-What accessory does the lava guava wear?
+In the names of the Mogao Caves of Dunhuang, what does "Mogao" mean?
 
 [LANTERN_RIDDLES_ANSWER_69]
-ca=Headscarf|Hat|Necklace|Fireworks|
+{ca=desert high|not high|highest|no height}|
 
 [LANTERN_RIDDLES_70]
-Which activity was not part of the 2018 Chinese New Year event?
+In the new version, whose character has the streamers that were on the Golden Cicada Flower?
 
 [LANTERN_RIDDLES_ANSWER_70]
-ca=Welcoming the God of Wealth|Gold Ingot Battle|Lighting firecrackers|Guessing lantern riddles|
+ca=Flying Apsara|Buddha|Arhat|Devotee|
 
 [LANTERN_RIDDLES_71]
-How many members are needed for a plant exploration team?
+In the Dunhuang murals, there are many plant patterns; which of the following plants is the most common?
 
 [LANTERN_RIDDLES_ANSWER_71]
-ca=5|4|3|Any number|
+ca=lotus|rose|peony|chrysanthemum|
 
 [LANTERN_RIDDLES_72]
-Which plant has a bedhead among the following plants?
+Who is the elder who often stands beside the Buddha?
 
 [LANTERN_RIDDLES_ANSWER_72]
-ca=Laser Bean|Coffee Bean|Bamboo Shoot|Iceberg Lettuce|
+Maitreya|Ananda|Guanyin Bodhisattva|Heavenly King|
 
 [LANTERN_RIDDLES_73]
 What is the maximum number of red packets that can be obtained by completing the Gold Ingot Battle event?
@@ -17956,34 +17956,34 @@ What is the maximum number of red packets that can be obtained by completing the
 ca=10|7|5|13|
 
 [LANTERN_RIDDLES_74]
-Which plant is not a member of the weapon family?
+After the discovery of the Library Cave, the artifacts inside...
 
 [LANTERN_RIDDLES_ANSWER_74]
-ca=Oak Archer|Turnip the Great|Potato Mine|Aspearagus|
+mostly flowed to foreign countries|all remained in China|all flowed away|were destroyed|
 
 [LANTERN_RIDDLES_75]
-Which plant is the oldest among the following plants?
+What is the environment surrounding the Mogao Caves of Dunhuang?
 
 [LANTERN_RIDDLES_ANSWER_75]
-ca=Cryo-shroom|Jalapeno|Spikerock|Landlord Bamboo|
+ca=desert|forest|ocean|grassland|
 
 [LANTERN_RIDDLES_76]
-Which plant does not have a twin brother?
+What was the main religion practiced by the people of ancient Dunhuang?
 
 [LANTERN_RIDDLES_ANSWER_76]
-ca=Dual Peashooter|Twin Sunflower|Cherry Bomb|Ion Red Hand|
+ca=Buddhism|Christianity|Islam|Taoism|
 
 [LANTERN_RIDDLES_77]
-Which plant cannot be obtained through piece exchange?
+In the Dunhuang murals, what animals were mainly used to transport goods on the “Silk Road” caravans?
 
 [LANTERN_RIDDLES_ANSWER_77]
-ca=Threepeater|Ice Melon|Kernel-pult|Fire Peashooter|
+camel|horse|cow|donkey|
 
 [LANTERN_RIDDLES_78]
-Which world does not have Buckethead Zombies?
+The murals of the Mogao Caves are blurred in some places, mainly because of…?
 
 [LANTERN_RIDDLES_ANSWER_78]
-ca=Kongfu World|Wild West|Dark Ages|Big Wave Beach|
+ca=natural aging|human damage|washed away by rain|blown away by wind|
 
 [LANTERN_RIDDLES_79]
 Which plant's pieces cannot be obtained through the Plant Exploration feature?
@@ -17992,64 +17992,64 @@ Which plant's pieces cannot be obtained through the Plant Exploration feature?
 ca=Cherry Bomb|Snapdragon|Squash|Jalapeno|
 
 [LANTERN_RIDDLES_80]
-What is the title of the King of Vegetables?
+In Dunhuang culture, what does "zaojing" refer to on the top of a cave?
 
 [LANTERN_RIDDLES_ANSWER_80]
-ca=Asparagus|Ice Melon|Pepper-pult|Melon-pult|
+ca=decorative patterns|windows|lighting|ventilation openings|
 
 [LANTERN_RIDDLES_81]
-Which is not a reason why Turnip the Great failed to become a ballet dancer?
+Ancient Dunhuang had a thriving commercial sector, primarily because it was located at...
 
 [LANTERN_RIDDLES_ANSWER_81]
-ca=Couldn't spin around|No one wanted to hire|Ate too much ice cream|Didn't want to|
+land-based Silk Road key point|seashore|mountainous area|plain|
 
 [LANTERN_RIDDLES_82]
-Which alien plant does Plants vs. Zombies refer to?
+What were the caves of the Dunhuang Mogao Caves used for?
 
 [LANTERN_RIDDLES_ANSWER_82]
-ca=Starfruit|Stunion|Laser Bean|There are no alien plants|
+paying homage to the Buddha and practicing cultivation | residing | storing grain | warfare |
 
 [LANTERN_RIDDLES_83]
-Which plant is considered the best pilot in Plants vs. Zombies?
+What kind of pigment is the rarest in the Dunhuang murals?
 
 [LANTERN_RIDDLES_ANSWER_83]
-ca=Bean Shooter Squadron|Aspearagus|Starfruit|None of the above|
+ca=Lapis lazuli blue|Ochre red|Earth yellow|Ink black|
 
 [LANTERN_RIDDLES_84]
-Which is not a feature of Aspearagus?
+In Dunhuang painted sculptures, what does it mean for a Buddha statue's palm to be outstretched with the palm facing upwards?
 
 [LANTERN_RIDDLES_ANSWER_84]
-ca=Green plant|Weapon family|Flying plant|King of Fruits|
+ca=to indicate fulfilling the wishes of all sentient beings|to indicate anger|to indicate rejection|to indicate fatigue|
 
 [LANTERN_RIDDLES_85]
-Which plant has the lowest sun cost?
+What we often refer to as "Dunhuang Art" mainly includes
 
 [LANTERN_RIDDLES_ANSWER_85]
-ca=Turnip the Great|Aspearagus|Bean Shooter Squadron|Ion Red Hand|
+murals and painted sculptures | calligraphy and painting | only painted sculptures | only murals |
 
 [LANTERN_RIDDLES_86]
-Which characteristic is not of Kernel-pult?
+In what year were the Mogao Caves of Dunhuang listed as a World Cultural Heritage site?
 
 [LANTERN_RIDDLES_ANSWER_86]
-Freezing zombies|Short cooldown time|High damage|Area damage|
+ca=1987|1977|1997|2007|
 
 [LANTERN_RIDDLES_87]
-What is the attack range of the Plant Food's ultimate move?
+Children visiting Dunhuang should pay attention.
 
 [LANTERN_RIDDLES_ANSWER_87]
-3 tiles|4 tiles|8 tiles|9 tiles|
+ca=Protect cultural relics|Shout loudly|Take photos randomly|Litter|
 
 [LANTERN_RIDDLES_88]
-Which plant is not among the Flame Three Musketeers?
+In Dunhuang murals, the fluttering scarves of the apsaras are used to express...
 
 [LANTERN_RIDDLES_ANSWER_88]
-Torchwood|Flame Stump|Lantern Grass|Torchwood|
+ca=flying|good-looking|decorative|warming|
 
 [LANTERN_RIDDLES_89]
-What is the main use of the Lantern Grass?
+Which dynasty stopped excavating the Mogao Caves at Dunhuang?
 
 [LANTERN_RIDDLES_ANSWER_89]
-Increase visibility|Act as a meat shield|None of the above|All of the above|
+Ming Dynasty|Tang Dynasty|Song Dynasty|Northern and Southern Dynasties|
 
 [LANTERN_RIDDLES_90]
 Which characteristic is not of the Lightning Reed?
@@ -18891,7 +18891,7 @@ Redeem failed, no missing order found. Please try again later.
 Fun Competition Challenge Instructions
 
 [MINIGAME_RULE_TXT]
-The Fun Competition runs March 19-31, 2026, featuring a daily mini-game with unlimited attempts. Players earn points (base & time-based, 1000/2000 base score, max 500 time points) and enhancement energy by completing levels. Time points depend on completion time. Points unlock rewards, and energy, converted from points, enhances gameplay, providing benefits.
+The fun competition runs April 15-27, 2026, with a daily mini-game. Players have unlimited daily challenges and earn points & enhancement energy by completing levels. Points consist of a base (1000/2000 for normal/difficult) and time-based points (max 500). Time points depend on completion time. Points unlock rewards, and points convert to enhancement energy used for mini-game enhancements, granting beneficial effects.
 
 [SCORE_RANK_LIST]
 Leaderboard
@@ -27404,7 +27404,7 @@ The prize pool can only be reset {NUM} times
 Would you like to spend {NUM} gems to break the vase treasure?
 
 [ANNIVERSARY_TREASURE_CONFIRM_TEXT]
-Your treasure map tickets are insufficient. Are you sure you want to spend {NUMBER} diamonds to exchange for treasure map tickets and begin the treasure hunt?
+Insufficient Auspicious Cloud Coupons, confirm spending {NUMBER} diamonds to exchange for Auspicious Cloud Coupons and start a treasure hunt?
 
 [ANNIVERSARY_TREASURE_BUY]
 x{NUM}
@@ -27829,7 +27829,9 @@ Players earn experience through daily, weekly, and limited-time challenges, leve
 Players earn experience through daily, weekly, and limited-time challenges, leveling up every 500 points and receiving rewards (gems up to level 50). Premium benefits offer boosts: higher tier rewards, a 20-level increase, 20% experience bonus (applied after activation), and diamonds. Gems are used in a spin-the-wheel lottery with varying probabilities for rewards like gold, diamonds, plants, and attachments. Rewards up to level 50 include gems. Premium unlocks all 20 spin contents. Level and spin rewards offer choices of plants (Green to Orange quality) and attachments (Blue to Orange quality), plus pots, fragments, and super attachments. Beyond level 50, orange plant fragments are obtainable.
 
 [BATTLE_ORDER_DESCRIPTION_SPRING]
-Players earn experience through daily, weekly, and limited-time challenges, leveling up every 500 points and receiving rewards (gems up to level 50). Premium benefits unlock further advantages: higher-tier rewards, instant level boosts, experience bonuses, and diamonds. Gems are used in a spin-the-wheel lottery with varying probabilities for rewards like coins, diamonds, plants, and attachments. Rewards can often be chosen from a selection of plants and attachments categorized by quality (Green to Orange) and rarity (Normal to Super). Post-level 50, rewards include fragments for the Pocket Orchid.
+Players earn experience through daily, weekly, and limited-time challenges, leveling up every 500 points and receiving rewards. Early levels (1-50) grant gems; later levels offer fixed rewards in 10-level cycles. Premium benefits boost rewards, including experience gain and access to higher tiers in the "Garden Flower Fair."
+
+Gems fuel a "Treasure" spin-and-win lottery with varying probabilities for rewards like gold, diamonds, gadgets, and plants. Rewards are single-use, and probabilities shift as prizes are claimed. Level rewards and spin rewards offer choices of plants (Green to Orange quality) and gadgets (Blue to Orange quality), alongside pots and rare gadget fragments. Super Gadgets are also available. Beyond level 50, players can obtain Ice Ground Thorns fragments.
 
 [BATTLE_ORDER_DESCRIPTION_IOS_1_AUTUMN]
 Flash Sale Rewards Rules:
@@ -33252,13 +33254,13 @@ Planting cooldown reduced by 15%
 Laser Crownflower Costume 2
 
 [BATTLE_ORDER_SPRING]
-Children's Fun Celebration
+Garden Flower Fair
 
 [BATTLE_ORDER_SELECT_TITLE_]
 Choose 1-5 pieces
 
 [BATTLE_ORDER_TAB5_SPRING]
-Children's Fun Celebration
+Garden Flower Fair
 
 [SUMMER_MEMORIES_HEAD_ID_25383]
 Battin' a Thousand
@@ -33936,7 +33938,7 @@ The conditions for making a wish have not been fulfilled
 Need to select all the bubble rewards
 
 [WISHING_POOL_DESCRIPTION_1_VERSION1]
-Earn Wish Coins by buying gift packages and use them in the Wishing Pool for rewards. Coins expire with the event. The pool has 9 bubbles, each with 3 reward choices (default if unselected). Rewards are unique per draw; resets refill bubbles with defaults, which players can manually adjust. Ten wishes cost 10 coins, and every 10 draws guarantees a reward. Rewards vary across three tiers: Small Wishes (nutrients, fragments), Common Dreams (fragments, outfits, crystals), and Grand Aspirations (time items, fragments, resources).
+Earn Wish Coins by buying gift packs and use them in the Wishing Pool for rewards. Coins expire with the event. The pool has 9 bubbles, each offering 3 rewards (or a default). Rewards within a bubble are unique per draw; resets refresh bubbles with default rewards, allowing re-selection. Wishes cost 1 coin (10 for consecutive wishes), with a guaranteed reward every 10 draws. Bubbles offer varied items like nutrient liquids, fragments, outfits, crystals, and artifacts, detailed within the rules.
 
 [WISHING_POOL_DESCRIPTION_2_VERSION1]
 8. Lottery Random Reward Announcement
@@ -33960,7 +33962,7 @@ Cumulative 100 Attempts       Laser Crown Flower Fragment *40
 Cumulative 150 Attempts       Laser Crown Flower Fragment *60
 
 [WISHING_POOL_DESCRIPTION_1_VERSION2]
-Earn Wish Coins by buying gift packages and use them in the Wishing Pool for rewards. Coins expire with the event. The pool has 9 bubbles, each with 3 reward choices (default if unselected). Rewards are unique per draw round, resetting with each refresh where bubbles refill with defaults, modifiable by players. Wishes cost 1 coin (10 for consecutive). Every 10 draws guarantees a bubble reward. Rewards vary across three tiers: Small Wishes (nutrients, fragments), Common Dreams (fragments, outfits, crystals), and Grand Aspirations (time items, fragments).
+Earn Wish Coins by buying gift packs and use them in the Wishing Pool for rewards. Coins expire with the event. Nine bubbles offer rewards; each bubble has three options or a default. Rewards within a round cannot be redrawn until a reset, which refills bubbles with defaults. Players can freely reset and re-select. Wishes cost 1 Coin (10 for consecutive wishes), with a guaranteed reward every 10 draws. Bubble rewards include various items like Nutrient Liquids, Fragments, Crystals, Outfits, and Artifacts, detailed in the rules.
 
 [WISHING_POOL_DESCRIPTION_2_VERSION2]
 8. Lottery Random Reward Announcement
@@ -38242,22 +38244,22 @@ Gathering of Divinations
 Hologram Artifact Gift Pack
 
 [TREASURE_PAVILION]
-Cargo Treasure Hunt
+Dunhuang Painted World
 
 [TREASURE_PAVILION_BUNDLE]
-Treasure Ticket Shop
+Lucky Cloud Coupon Shop
 
 [TREASURE_PAVILION_EXPIRED]
-Freight treasure hunt ticket expiration settlement.
+Dunhuang Painted World Auspicious Cloud Vouchers Expiration Settlement
 
 [TREASURE_PAVILION_MAT_NOT_ENOUGH]
-The current number of treasure tickets is insufficient. Would you like to proceed to the treasure ticket shop to purchase more?
+The current number of Auspicious Cloud Vouchers is insufficient, would you like to go to the Auspicious Cloud Voucher shop to purchase?
 
 [TREASURE_PAVILION_DESCRIPTION]
-The Cargo Hunt runs August 1st-14th, using Treasure Tickets (obtained from the event store) to open chests for prize rewards. Single draws cost 1 ticket, ten draws 9. Guaranteed rewards trigger after 30, 60, 90, and 180 draws (Superior, Legendary, multiple Legendary Reward 2, and Legendary Reward 1 respectively). Higher-tier rewards override guarantees and reset lower tiers. Legendary/Epic rewards are limited to one each. Remaining tickets convert to diamonds (1:30 ratio). Duplicate Divine artifacts convert to 1500 diamonds. Prizes include diamonds, gold, resources, tickets, and costumes, with varying probabilities. Grand prizes offer Legendary (Electric Eagle Claw Flower Extreme Flying Car Costume, Soul-Devouring Bell), Epic, and Superior rewards.
+The Dunhuang Echoes event runs April 1st-30th, using Cloud Tickets (purchasable in the shop) to open treasure chests. Draws cost 1 Ticket, 10 for 9. Prizes are awarded randomly with guaranteed rewards after 30 (high-quality+), 60 (epic+), and 90 (legendary 2+) draws; 180 guarantees a Legendary 1. Higher-tier rewards override guarantees and reset lower tiers. Legendary/Epic rewards are limited to one each. Remaining Tickets convert to diamonds (1:30 ratio). Duplicate divine artifacts become 1500 diamonds. Prize pool includes Diamonds, Gold, Tickets, and Crystals. Grand Prizes include costumes, fragments, and other valuable items with varying probabilities (Legendary 7%/13%, Epic 5%/5%/5%/5%/5%, High-Quality 10%/10%/10%/10%/10%).
 
 [TREASURE_PAVILION_DESCRIPTION_TITLE]
-Freight Treasure Hunt Activity Instructions
+Dunhuang E-Scroll Activity Instructions
 
 [REWARD_POOL]
 Prize Pool
@@ -38281,28 +38283,28 @@ Draw {NUM} more times to win
 The remaining {NUM} will be drawn to get excellent prize and above rewards
 
 [MAT_TREASURE_PAVILION_TOKEN]
-Treasure Ticket
+Lucky cloud voucher
 
 [MAT_TREASURE_PAVILION_TOKEN_USE]
 Used in Treasure Pavilion
 
 [MAT_TREASURE_PAVILION_TOKEN_GOT_WAY]
-Purchased or obtained from a treasure ticket shop.
+Purchased or obtained from the Auspicious Cloud Coupon Shop.
 
 [PRODUCT_TREASURE_PAVILION]
-Treasure Hunt Voucher Package
+Lucky Cloud Voucher Pack
 
 [PRODUCT_TREASURE_PAVILION_30_SHORTDESC]
-Small Treasure Hunt Voucher Pack
+Small Auspicious Cloud Coupon Gift Pack
 
 [PRODUCT_TREASURE_PAVILION_98_SHORTDESC]
-Medium Treasure Hunting Ticket Package
+Medium-sized Xiangyun Voucher Gift Pack
 
 [PRODUCT_TREASURE_PAVILION_328_SHORTDESC]
-Grand Treasure Hunt Voucher Package
+Large Auspicious Cloud Voucher Gift Package
 
 [PRODUCT_TREASURE_PAVILION_648_SHORTDESC]
-Grand Treasure Hunt Voucher Package
+Mega Auspicious Cloud Ticket Gift Package
 
 [DAVEKITCHEN_EXCHANGE_2]
 BBQ Tacos: You can get Artifact Blessing Tickets, Orientational Pieces or Abyss Devil's Flower
@@ -65774,12 +65776,7 @@ Two-player Mode shop
 Information
 
 [NEW_PVP_SHOP_INFO_DETAIL]
-1. Shop items are refreshed daily at 00:00, and the number of items that can be purchased is limited.
-2. Purple Crystals can be obtained through daily and weekly treasure chests and used to exchange for various items in the shop.
-3. Seasonal Legendary Treasure Chests and Seasonal Common Treasure Chests typically contain newly released zombies for the season; regular Legendary Treasure Chests contain all released zombies.
-4. Seasonal Legendary Treasure Chest rewards consist of 310 cards of a randomly selected common zombie, 100 cards of a randomly selected rare zombie, 5 cards of a randomly selected legendary zombie, and 10 Purple Crystals.
-5. Seasonal Common Treasure Chest rewards consist of 50 cards of a randomly selected common zombie, 15 cards of a randomly selected rare zombie, 3 Purple Crystals, and 60 diamonds.
-6. Within the treasure chest prize pool, the probability of obtaining a zombie card of the same rarity (common, rare, legendary) is equal across all three rarity tiers.
+The in-game store refreshes daily with limited stock. Purple Crystals, earned from treasure chests (daily/weekly), are used for store purchases. Treasure chests offer zombie cards and Crystals. Seasonal Legendary/Common chests contain new seasonal zombies; Regular chests offer all released zombies. Legendary chests reward random common, rare, and legendary zombie cards, plus Crystals. Chosen Legendary chests let you select 3 legendary zombies for a guaranteed 5 cards from that group, alongside other rewards. Common chests provide fewer cards and diamonds. Card acquisition probability within chests is equal across common, rare, and legendary qualities.
 
 [NEW_PVP_SHOP_RESET_TIMER]
 Reset in
@@ -70104,7 +70101,7 @@ Welcome to Wonderland Rabbit Hole!
 Fairytale Forest
 
 [ARTIFACT_FREE_DEMO_LEVEL_WON_MESSAGE_TEXT3]
-This artifact can be obtained through a limited-time event cargo treasure hunt lottery.
+This artifact can be obtained through a lottery during the limited-time event Dunhuang Echoes.
 
 [VASEBREAKER_KONGFU_LEVEL_NAME_1]
 Kongfu Challenge: Gunpowder Gang
@@ -71211,7 +71208,7 @@ Each hard level has three challenge objectives. Complete them to collect badges 
 1. Event Duration
 
 [ANNIVERSARY_KEY_INFO_TEXT_2_UNCHARTED_NO42_UNIVERSE]
-The event will run from April 1th to May 10th.
+This secret realm will be open from April 1st to April 30th.
 
 [ANNIVERSARY_KEY_INFO_TEXT_3_UNCHARTED_NO42_UNIVERSE]
 2. Plant Rules
@@ -71301,46 +71298,46 @@ Speed Racing - Day 7 (Hard)
 {PLAYER}'s Parallel Universe No. 41
 
 [NO42_LEVEL_NAME_01]
-Letting zombies into the house will result in victory
+Prioritize purchasing the 42nd Destroyer Mushroom.
 
 [NO42_LEVEL_NAME_02]
-Prioritize planting sunflowers on the right side to block zombie attacks
+Nut trees are planted in the last row, so they can protect the small cart.
 
 [NO42_LEVEL_NAME_03]
-On the first day, prioritize purchasing the original No. 42 sunflower
+Shout at the microphone to scare away the zombies.
 
 [NO42_LEVEL_NAME_04]
-On the first day, prioritize purchasing the original No. 42 pea shooter
+Sunflowers refuse to produce sunlight.
 
 [NO42_LEVEL_NAME_05]
-Shoveling plants will return 999% of the sunlight
+Horror slime
 
 [NO42_LEVEL_NAME_06]
-Typing "mustache" will cause a remarkable change in zombies
+Clear the field, and no one will sing the Song of Joy for you.
 
 [NO42_LEVEL_NAME_07]
-Elite zombies are fire-element with toughness shields
+Parallel golden toads can spit out various colors of pearls.
 
 [NO42_LEVEL_NAME_01_H]
-Attacking the small demon cannon on the right side has no effect
+This level has no zombies.
 
 [NO42_LEVEL_NAME_02_H]
-Letting zombies eat 30 walnuts will cause them to choke
+I heard that the gold-absorbing magnet finally touched its own little treasury.
 
 [NO42_LEVEL_NAME_03_H]
-The zombies are here to apologize, please do not attack
+This is not a level title.
 
 [NO42_LEVEL_NAME_04_H]
-Players who pass this level agree to stop using the original pea shooter
+Every square on the lawn has household registration.
 
 [NO42_LEVEL_NAME_05_H]
-I'll secretly tell you: Cat Tail Grass is an undercover agent
+Repeatedly clicking the same zombie 50 times will remove its armor.
 
 [NO42_LEVEL_NAME_06_H]
-The new world will be set in Atlantis
+The New World will tell the story of rescuing Princess Pea from the Evil Zombie Castle.
 
 [NO42_LEVEL_NAME_07_H]
-Skipping the last level will grant unlimited diamonds
+I will return again.
 
 [NO42_LEVEL_NAME_MUGEN]
 Endless
@@ -72451,31 +72448,31 @@ Advanced Limited-Time Pack
 Enter the event for the first time
 
 [MAT_TOY_PARTS]
-Life's crystallization.
+Honeycomb crystal block
 
 [MAT_TOY_PARTS_USE]
-Redeem rewards within the All-Things Store while active in the Realm of Ten Thousand Things.
+Redeem rewards in the Sweet Rhapsody event Honeycomb Store.
 
 [MAT_TOY_PARTS_GOT_WAY]
-Obtained through drawing in activities within the myriad realms.
+Obtained through drawing in the Sweet Rhapsody event.
 
 [MAT_TOY_CLOCKWORK]
-Life Essence Coin
+Honeycoin
 
 [MAT_TOY_CLOCKWORK_USE]
-Items consumed when participating in draws within the myriad realms.
+Props consumed when drawing in the Sweet Rhapsody event.
 
 [MAT_TOY_CLOCKWORK_GOT_WAY]
-Acquire by purchasing from the Realm of Myriad Phenomena Activity Package Shop.
+Purchase to obtain in the Sweet Rhapsody event bundle shop.
 
 [TOY_NIGHT_EXPIRED]
-Expired Rewards from the Boundless Realm of All Things.
+Sweet Rhapsody Expiration Rewards
 
 [TOY_NIGHT_MAIN_TIPS_INFO]
-Spend Spirit Coins (earned from bundles, not carried over) to draw rewards, including the Ball Fruit Trainer Forest Child Super Outfit. Unused coins convert to Diamonds (1:10) and Life Crystals (1:1) at event end. Consecutive failed draws trigger a guaranteed prize pool with varying probabilities (Diamonds, Penny’s Tickets, Life Crystals). Duplicate Super Outfits yield Life Crystals. Overall probabilities for the Super Outfit and higher-tier rewards are low, while smaller Life Crystal rewards are more common.
+Earn Honey Coins by purchasing bundles and use them to draw rewards, potentially winning the Pearly Fat Fat Queen Bee Super Outfit or Hive Crystal Shards. Coins and shards expire, converting to Diamonds (1:10 & 1:1 ratio). After 20 unsuccessful grand prize draws, the next draw is guaranteed from a special pool. Duplicate Super Outfits become Hive Crystal Shards. The guaranteed pool offers rewards like Diamonds, Penny’s Treasure Tickets, and Hive Crystal Shards (varying amounts) with probabilities ranging from 3.72% to 35.18%. Standard draws have lower probabilities for the Super Outfit and larger shard amounts, with common rewards including smaller shard amounts, outfit tickets, and Penny’s Treasure Tickets.
 
 [TOY_NIGHT_GACHA_GOT_HINT]
-If already owned, it will automatically convert to a Life Crystal reward.
+If you already have one, it will automatically convert to a honeycomb crystal reward.
 
 [ACTIVITY_NEW_MINIGAME_TIPS]
 Event Description
@@ -73689,9 +73686,8 @@ Secret Shop
 Close in
 
 [PVZ2UNCHARTED_SHOP_TIPS_DESC]
-1. Players can obtain tokens by completing trial dungeons or settling the endless mode, and then exchange them for various items in the shop.
-2. Shop plants, once purchased, can only be used in trial dungeons and require stacking seeds before they can be planted on the field.
-3. Higher-tier shop buffs require purchasing the previous tier of the same type of buff before they can be bought.
+Players can obtain tokens by completing secret realm levels or settling endless mode, and exchange them for various items in the shop.
+Shop plants can only be used in the secret realm after purchase.
 
 [NEWYEAR_PACK_TITLE]
 Celebration Gift Package
@@ -73717,6 +73713,7 @@ During the event period, any recharge within the game can be stacked to progress
 
 [NEWYEARPACK_MAIN_TIPS_INFO]
 Daily free gifts include 15 diamonds. Welfare packages offer increasing diamond rewards (30, 90, 180) for 2, 3, and 6 yuan respectively. Each package has a 10% chance to grant a costume chest: Novice (Pea, Potato, Beet, Agave, Cabbage, Pufferfish), Intermediate (Primitive Nut, Thistle Cake, Kelp Guard, Flame Pea, Sunflower, Mushroom, Veggie Question, Stealth Archer), or Advanced (Maple Shadow, Venom Pea, Electric Hook, Thunder Dragon Grass Rabbit/Dragon/Fire Dragon/Ice Dragon, ?? Brothers). These chests contain various themed costumes.
+
 [PRODUCT_NEW_YEAR_PACK_2_SHORTDESC]
 2 Yuan Welfare Gift Box
 
@@ -74503,7 +74500,7 @@ Raise the base to level 3 in the Garden Laboratory
 Redeem 1 item in the Garden Redemption Shop
 
 [BATTLE_ORDER_DESCRIPTION_TITLE_SPRING]
-Children's Fun Celebration Activity Description
+Explanation of the Garden Flower Fair Activity.
 
 [NEW_AVATAR_SHORT_DESCRIPTION_OLIVEPIT_2]
 Olive Pit Glasses
@@ -75521,16 +75518,16 @@ It's a zombie that inflicts long-range damage on plants.
 Westward all the way.
 
 [GINGLEBELL_S2_2_TITLE]
-Sitting on the ground - Level Two
+Slightly forward, the chicken disappears - Level Two
 
 [GINGLEBELL_S2_3_TITLE]
-Sitting on the ground - Level Three
+Slightly forward, the chicken disappears - Level Three
 
 [GINGLEBELL_S3_1_TITLE]
-Spring Excursion and Scenic Viewing - Level One
+Chicken coming, chicken going - Level One
 
 [GINGLEBELL_S3_2_TITLE]
-Spring Excursion and Scenic Viewing - Level Two
+Chicken coming and going - Level Two
 
 [HERO_CAPE_1_DES]
 The cloak worn by a renowned hero when vanquishing demons still retains the hero's power. ^FF0000 Restricted to plants of rank four or higher; Super Tomatoes are not permitted to wear it.
@@ -75545,10 +75542,10 @@ Plant Fortune Bag Contents
 Plant lucky bag
 
 [NIGHTTHETOY_SHOP]
-Wanshang Department Store
+Honeycomb Shop
 
 [NIGHTTHETOY_TIP]
-Wanshang Department Store
+Honeycomb Shop
 
 [ONEYUAN_SHOR_DESCRIPTION]
 开扭蛋，有概率获得强力植物 苹果迫击炮、长枪球兰、公主弹簧草，还有各种稀有植物等你来拿！
@@ -75586,13 +75583,13 @@ Ice melts, clouds disperse - Level Three
 扭蛋
 
 [TOYNIGHT_TASK_2]
-Obtain the Forest's Child Super Outfit for Poké Balls.
+Get pear, chubby, bee queen's super makeover.
 
 [TOYNIGHT_TASK_3]
-Obtain 3 Ball Fruit Trainer outfits (Super, Normal, Full Body).
+Obtain 3 pears dressed (ordinary, superb).
 
 [TOYNIGHT_TITLE]
-Boundless realms of all things.
+Sweet Rhapsody
 
 [ZOMBIE_JOURNEY_TO_THE_WEST_DESCRIPTION]
 西游普通僵尸一路向西，翻越十万八千里，历经九九八十一难，寻求属于他的脑子。
@@ -76232,18 +76229,19 @@ Soaring through the starry sky.
 Qigong Master
 
 [GINGLEBELL_DESCRIPTION]
-Damage to Umbrella Zombies determines your score. Daily rewards use scores from the newest level, resetting daily. Three themed sets (each with three levels) unlock sequentially over six and two days, respectively. Theme mechanics are visible on the main interface. Leaderboard rankings use scores from the latest theme's levels. Leaderboards freeze daily from 0:00-10:00 for display, preventing gameplay. Rewards are distributed at 10:00. March 30, 2026, extends display, disabling challenges. Anomalous scores are excluded from the leaderboard.
+The event centers on scoring against Zombie Chickens within a time limit. Daily rewards use scores from the newest level. Three themes (Chicken Frenzy, Fleeting Chicken, Chicken Coming and Going), each with three levels, unlock sequentially over six and two days respectively. A special theme mechanic is visible on the main interface. Leaderboard rankings are based on the latest theme's scores, frozen for display (0:00-10:00) after a new theme unlocks, preventing gameplay. Rewards are distributed at 10:00. Anomalous scores are disqualified from the leaderboard. April 19, 2026, extends the display period to a full day, disabling gameplay.
+
 [GINGLEBELL_RANK_REWARD_TITLE]
-Spring Festival Dingdang Ranking Rewards
+Fool's Bell Ranking Rewards
 
 [GINGLEBELL_S1_2_TITLE]
-Gracefully entering a painting - Level Two
+Sudden chicken surge - Level Two
 
 [GINGLEBELL_S6_3_TITLE]
 Ice melts, clouds disperse - Level Three
 
 [GINGLEBELL_TITLE]
-Spring Joy
+Foolish Bell
 
 [HEAVENTREASURE_DESCRIPTION]
 Monthly server resets retain Treasure Keys and Celestial Coins. Earn Keys through the Celestial Treasure Hunt to draw for prizes; draw attempts, purchase, and redemption limits reset monthly, but guaranteed attempts persist. Every ten draws offer a random discount (1-90%), and every twenty guarantees a grand prize.
@@ -76282,19 +76280,19 @@ Evergreen tree, up to 20m tall with buttress roots. Leathery, spirally arranged,
 Name from Sanskrit "Pāramitā" ("to the other shore," "perfection" in Buddhism), aligning with its round, abundant fruit. Native to Southern India, cultivated in many tropical/subtropical areas. Single fruits can be 1m long, weighing up to 50kg, making it one of the world's largest and heaviest fruits, earning the title "King of Tropical Fruits." Its seeds are starchy and edible when cooked; wood yields morin.
 
 [PRODUCT_NIGHTTHETOY_SHORTDESC]
-Boundless realms of all things.
+Sweet Rhapsody
 
 [PRODUCT_TOY_NIGHT_30_SHORTDESC]
-Mid-Level Spring Sprout Gift Package
+Mid-level Sweet Gift Package
 
 [PRODUCT_TOY_NIGHT_6_SHORTDESC]
-Junior Spring Sprout Gift Package
+Starter Sweet Gift Package
 
 [PRODUCT_TOY_NIGHT_98_SHORTDESC]
-Premium Spring Sprout Gift Set
+Premium Sweet Gift Package
 
 [TRAINING_CHALLENGE_ZERO_NAME]
-Spring has arrived, and the sound of joyful laughter fills the air.
+Foolish Bell
 
 [UNCHARTED_CHILDRENSDAY_TASK_NAME_1_1]
 Complete three combined challenges: Sun collection reduced (1 star), Zombie attack increased (2 stars), Zombie speed increased (3 stars).
@@ -76796,7 +76794,7 @@ Sea God Token
 Heavy snow falls - Level One
 
 [SNOWMODERNSTAGE1_LEVEL_NAME]
-Gracefully entering a painting - Level {LEVEL_NUMBER}
+Sudden chicken thrust - Level {LEVEL_NUMBER}
 
 [MAT_FUTURE_GIFT_TOKEN_GOT_WAY]
 Obtained by purchasing the coin pack from Penny's Future Gift Box
@@ -77919,8 +77917,8 @@ The Box Grass Fireworks, when attacking, have a chance to launch a larger box, a
 It launches various gift boxes, which attract zombies and randomly trigger different effects.
 
 [ACTIVITY_COLORCUSTOMIZATION_SHORT_DESCRIPTION]
-1. Obtain the Aloe Physician’s Fortune and Prosperity Outfit, Dreamscape Iridescent Outfit, and other valuable rewards.
-2. The Plant Iridescent Outfit can only be used after obtaining the base outfit and can be switched on the outfit equipping page.
+Obtain Taiji Hibiscus Maid Outfit – Shimmering Iridescent Outfit and other great rewards.
+Plant Iridescent Outfits can only be used after obtaining the outfit itself, and can be switched in the outfit equipping page.
 
 [ACTIVITY_NFSLINKAGE_REASURE_SHORT_DESCRIPTION_4]
 During the event, players can log in to claim 14 days of valuable rewards. Completing event tasks will earn gears, which can then be exchanged for valuable rewards in the exchange shop!
@@ -78592,12 +78590,11 @@ A total of {NUMBER} purchases have been made.
 
 [COLORCUSTOMIZATION_DESCRIPTION]
 Event Rules:
-
-1. Purchasing the Iridescent Gift Package will reward you with diamonds, selectable rewards, and Iridescent Essence.
-2. Each purchase of the Iridescent Gift Package has a chance to grant you the Aloe Doctor Fortune Prosperity Outfit - Dream Iridescent Outfit. Purchasing the package ten times guarantees you will receive it.
-3. For every 5 Iridescent Gift Packages purchased (regardless of type), you can purchase one additional package for free.
-4. Duplicate Aloe Doctor Fortune Prosperity Outfits - Dream Iridescent Outfits will be converted into Aloe Doctor Fortune Prosperity Outfit - Dream Iridescent Outfit Fragments. These fragments can be exchanged for diamonds in the exchange shop during the event period. Please exchange them as needed.
-5. Any unused Iridescent Essence can be saved for use in the next event period.
+1. Purchasing the Iridescent Gift Pack will grant you diamonds, selectable rewards, and Iridescent Essence, among other rewards.
+2. Each purchase of the Iridescent Gift Pack has a chance to obtain the Taiji Mukun Servant Outfit - Shimmering Iridescent Outfit; guaranteed after purchasing the pack ten times.
+3. For every 5 purchases of any Iridescent Gift Pack, you can purchase another pack for free.
+4. Duplicate Taiji Mukun Servant Outfit - Shimmering Iridescent Outfits will be converted into Taiji Mukun Servant Outfit - Shimmering Iridescent Outfit Fragments, which can be exchanged for diamonds in the exchange shop during the event period. Exchange them as needed.
+5. Unused Iridescent Essence can be saved for use in the next period.
 
 [COLORCUSTOMIZATION_DESCRIPTION_1]
 Rainbow Attire Acquisition Probability Announcement:
@@ -78932,10 +78929,10 @@ There is a {Param_1}% probability that a turkey, upon landing, will transform in
 Are you sure you want to exchange the {PLANT} gene?
 
 [GINGLEBELL_HOWTOPLAY_1_DESCRIPTION]
-The Parasol Zombie periodically switches to a defensive form.
+Zombie chickens will crush and eliminate plants within a certain range centered on themselves, and the crushing range will increase as their size grows.
 
 [GINGLEBELL_HOWTOPLAY_2_DESCRIPTION]
-The flat-shot defense stance provides immunity to incoming flat-shot projectiles, while the thrown-projectile defense stance provides immunity to thrown projectiles.
+Zombie chickens will increase in size after taking a certain amount of damage.
 
 [GINGLEBELL_HOWTOPLAY_3_DESCRIPTION]
 Topic 1: Whenever a stake receives a certain amount of damage, it disappears from its current tile and reappears on another designated tile.
@@ -82559,7 +82556,7 @@ Generate a tombstone at the location where the plant was removed.
 Slow-motion of the Titan Arum's mucilage.
 
 [SNOWMODERNSTAGE2_LEVEL_NAME]
-Sitting on the ground - Level {LEVEL_NUMBER}
+A fleeting chicken – Level {LEVEL_NUMBER}
 
 [SPACETIMERIFT_BOSSTIPE_DES_DESCRIPTION]
 This week's Boss weakness: Fire.
@@ -83043,7 +83040,7 @@ Participating in the Stellaris Singularity event will grant you rewards.
 Participating in the activity "Snow Mountain Mystery" earns you...
 
 [TOYS_HEAD_DES_ID_25810]
-Participating in the activity, one obtains the Realm of Ten Thousand Things.
+Participating in activities, imagining obtaining a different world.
 
 [TOYS_HEAD_ID_25723]
 Molten Hammer
@@ -84633,6 +84630,7 @@ Off-lawn Boost
 
 [PEAPOD_NEW_SKILL_LEVEL5_DES]
 Once a pea pod contains five peas, you can continue planting more. Continued planting will cause the peas within the pod to evolve into double-firing peas and machine gun peas. The evolved peas will shoot a greater number of peas.
+
 [PEAPOD_SKILL1_LEVEL5]
 Evolution
 
@@ -84689,7 +84687,7 @@ I, Zombie: Summons 50 Zombies.
 I, Zombie: Summon 100 Zombies.
 
 [PVZ1_MINIGAME_ACHIEVEMENT_NAME_7]
-I, Plant: Clear any level with 500 sunlight remaining in "I, Plant" mode.
+{I am a plant}: Clear any level with 150 remaining sunlight under the “I am a plant” mode.
 
 [PVZ1_MINIGAME_ACHIEVEMENT_NAME_8]
 Vasebreaker: Smash 1000 vases
@@ -85385,13 +85383,13 @@ Strategic Trap Combat
 Glacial Wild Horses
 
 [S29_MEMORY_LEVEL_NAME_055]
-Submerged sand encroaches upon the bank.
+Submerged sand encroaches upon the bank
 
 [S29_MEMORY_LEVEL_NAME_056]
 Bloody Battle on the Deck
 
 [S29_MEMORY_LEVEL_NAME_057]
-First Encounter with the Green Turf.
+First Encounter with the Green Turf
 
 [S29_MEMORY_LEVEL_NAME_058]
 Potato Insurance
@@ -85400,19 +85398,19 @@ Potato Insurance
 Big Mouth Fast Food
 
 [S29_MEMORY_LEVEL_NAME_060]
-Soul returns to the frozen river.
+Soul returns to the frozen river
 
 [S29_MEMORY_LEVEL_NAME_061]
 Hey, zombie!
 
 [S29_MEMORY_LEVEL_NAME_062]
-Frontline combat.
+Frontline combat
 
 [S29_MEMORY_LEVEL_NAME_063]
-Counterattack.
+Counterattack
 
 [S29_MEMORY_LEVEL_NAME_064]
-The Escort Sect's Jar Shadow.
+The Escort Sect's Jar Shadow
 
 [STORE_PRODUCT_AVATAR_LEVITATER]
 Up to 8 zombies can be levitated on the field, with one levitated zombie having a 100% chance of instant kill, while the remaining zombies retain a 25% chance of instant kill.
@@ -85421,22 +85419,22 @@ Up to 8 zombies can be levitated on the field, with one levitated zombie having 
 Floating Potato Disguise
 
 [SUMMER_MEMORIES_HEAD_DES_ID_25837]
-To the players who journeyed with us in memories.
+To the players who journeyed with us in memories
 
 [SUMMER_MEMORIES_HEAD_ID_25837]
-Swallows bring spring peaches.
+Swallows bring spring peaches
 
 [TOYS_HEAD_DES_ID_25835]
 Participating in the activity, one obtains the Realm of Ten Thousand Things.
 
 [TOYS_HEAD_ID_25835]
-Innumerable and diverse; myriad things.
+Innumerable and diverse; myriad things
 
 [VANILLA_PRODUCT_SHORT_DESC]
-The umbrella that can blow away gentleman zombies.
+The umbrella that can blow away gentleman zombies
 
 [ZOMBIE_BOBSLED_PUNK]
-Ice carriage zombies.
+Ice carriage zombies
 
 [ZOMBIE_BOBSLED_PUNK_DESCRIPTION]
 Old Bing is undying, even gradually gaining popularity! The album production team of "Space Orcs" returns with a flamboyant mullet hairstyle and the coolest new ride, blowing everyone away! He transforms your lawn into an ice rink faster than your reaction time to feeling "frozen."
@@ -85467,3 +85465,879 @@ Sled Squad
 
 [rank_avatar_diy_60]
 Enjoy the blossoms to appreciate the arrival of spring.
+
+[ACTIVITY_NFSLINKAGE_REASURE_SHORT_DESCRIPTION_8]
+During the event, players can log in to claim 14 days of valuable rewards, and completing event tasks can earn them Jin Yun Zhu, which can be used in the exchange shop to redeem valuable rewards!
+
+[APSARLOTUS]
+Auspicious clouds flying lotuses.
+
+[APSARLOTUS_AVATAR_PLANTFOOD_DESCRIPTION]
+Auspicious Clouds gain reinforcement, with the duration extended to 15 seconds; plants on Auspicious Clouds are immune to all negative control effects.
+
+[APSARLOTUS_DESCRIPTION]
+{KEYWORD} Plant characteristics: {STAT} green plants, pink plants
+{FLAVOR} To maintain that semi-transparent auspicious cloud, she consumes an astonishing amount of sunlight every day to pay the "suspension fee."
+
+[APSARLOTUS_DESCRIPTION_HEADER]
+Reinforce surrounding plants to ensure that front plants 100% trigger the planting release energy beans.
+
+[APSARLOTUS_FAMILY]
+Rhododendron family
+
+[APSARLOTUS_GENUS]
+Cymbidium
+
+[APSARLOTUS_NEW_SKILL_LEVEL1_DES]
+Generate auspicious clouds in the adjacent square. Planting plants on it will consume 200% of their base sunlight cost (minimum 50 points) if the fourth-tier awakening has not been triggered, forcibly triggering the fourth-tier awakening and increasing attack power.
+【Whirlwind Dance】： Increases the attack speed and attack power of plants within a 3x3 range every 10 seconds, lasting 5 seconds.
+
+[APSARLOTUS_NEW_SKILL_LEVEL2_DES]
+Cloud Trigger cost reduced, the proportion of Sunlight deducted reduced from 200% to 100%. The trigger interval of 【Whirling Dance】 is shortened to trigger once every 8 seconds.
+
+[APSARLOTUS_NEW_SKILL_LEVEL3_DES]
+Cloud Trigger cost reduced, the proportion of Sunlight deducted reduced from 100% to 50%. The trigger interval of 【Whirling Dance】 is shortened, shortened to trigger once every 6 seconds.
+
+[APSARLOTUS_NEW_SKILL_LEVEL4_DES]
+When planting, there's a moderate chance of directly unleashing the Energy Bean ultimate ability.
+
+[APSARLOTUS_NEW_SKILL_LEVEL5_DES]
+Planting plants on the Auspicious Cloud will trigger its self-landing release energy bean ability, causing the Auspicious Cloud Lotus to deduct 50% of its sunlight consumption and seamlessly reconnect to automatically release the energy bean ultimate ability once more.
+
+[APSARLOTUS_PEDIA]
+Crystal Orchid is a unique, white, chlorophyll-free plant found in mountainous forests of southwestern and northwestern China, as well as parts of Russia, Japan, India, Southeast Asia, and North America. This herbaceous perennial, reaching 10-30 cm tall, lacks leaves and relies on decomposing organic matter for nutrients, being a saprophyte. It produces bell-shaped, semi-transparent white flowers (June-September) followed by small, oval fruits (September-November). Its roots form a dense, bird's nest-like structure.
+
+[APSARLOTUS_PLANTFOOD_DESCRIPTION]
+Generate auspicious clouds in the forward 1X3 horizontal area, lasting 10 seconds.
+
+[APSARLOTUS_PRODUCT_SHORT_DESC]
+Enhance plants with magical abilities.
+
+[APSARLOTUS_SKILL_LEVEL1]
+Nishō Yūi
+
+[APSARLOTUS_SKILL_LEVEL1_DES]
+[Heavenly Maiden Scattering Flowers] The trigger cost of powerful ultimate abilities is reduced, with the proportion of Sunlight consumed reduced from 200% to 100%. The trigger interval of [Whirling Dance] is shortened to once every 8 seconds.
+
+[APSARLOTUS_SKILL_LEVEL2]
+Tibetan Buddhist chanting.
+
+[APSARLOTUS_SKILL_LEVEL2_DES]
+The trigger cost of the powerful ultimate ability is reduced, with the proportion of Sunlight consumed reduced from 100% to 50%. The trigger interval is shortened, shortened to once every 6 seconds.
+
+[APSARLOTUS_SKILL_LEVEL5]
+Flying Celestial Miracle
+
+[APSARLOTUS_SKILL_LEVEL5_DES]
+Planting plants on the Auspicious Cloud will trigger its self-landing release energy bean ability, causing the Auspicious Cloud Lotus to deduct 50% of its sunlight consumption and seamlessly and automatically unleash the energy bean ultimate ability once more.
+
+[APSARLOTUS_TOOLTIP]
+Reinforce surrounding plants to ensure that plants in front trigger the planting release energy beans.
+
+[BATTLEORDER_TASK_NAME_3_20]
+Participate in 20 【2-Player Showdown】 matches.
+
+[BLOOMERANG_NEW_SKILL_LEVEL5_DES]
+The Boomerang Shooter has a 10% chance to fire a Tornado Boomerang with each shot. The Tornado Boomerang will spin zombies, and colliding with other zombies while spinning will deal additional damage and knockback. No new Tornado Boomerangs will be fired before the Tornado Boomerang returns.
+
+[BLOOMERANG_SKILL1_LEVEL5]
+Tornado Boomerang
+
+[BLOOMERANG_SKILL1_LEVEL5_DES]
+Boomerang shooters have a 10% chance to fire a tornado boomerang with each shot. The tornado boomerang will spin zombies, and collisions with other zombies while spinning will deal additional damage and knockback.
+
+[CHALLENGE_DESTROY_GLIDING]
+Destroy {GRID_ITEMS} rejuvenate the flying vehicle
+
+[CHALLENGE_DESTROY_HEAVYSHIELD]
+Destroy {GRID_ITEMS} energy shields
+
+[CHALLENGE_DESTROY_LOLLIPOPS]
+Destroy {GRID_ITEMS} lollipop
+
+[CHALLENGE_DESTROY_PRESENT]
+Destroy {GRID_ITEMS} Caveman Gift Box
+
+[CHALLENGE_DESTROY_PUMPKINHOUSE]
+Destroy {GRID_ITEMS} pumpkin houses
+
+[CHALLENGE_DESTROY_SPEAKER]
+Destroy {GRID_ITEMS} speakers
+
+[CHEMIST_POISON]
+The pharmacist is poisoned.
+
+[DANGERROOM_FAILED_BOOST_NETWORK_CONTENT]
+Network error, please maintain a correct network connection.
+
+[DANGERROOM_FAILED_BOOST_NETWORK_TITLE]
+System prompt
+
+[DEFEAT_X_DISCOS]
+Defeat {NUMBER} Blaster Zombie Dancers
+
+[DEFEAT_X_ZCORPZOMBIES]
+Defeat Z company zombies {NUMBER}
+
+[GENE_DESCRIPTION_DOUBLESAMARA]
+Whirlpool loquat planting cooling reduction {Param_1}%.
+
+[GENE_DESCRIPTION_DRACAENA]
+The basic attacks of the Swordleaf Dragonblood Tree (including the 5th-tier Flying Sword) increase the zombie’s life value by {Param_1}%.
+
+[GENE_DESCRIPTION_JACKFRUIT]
+Pineapple's health increases {Param_2}%, attack power increases {Param_1}%.
+
+[GENE_DESCRIPTION_SUNSHROOM]
+Sunshine mushrooms' growth rate increased by {Param_1}%.
+
+[LANTERN_RIDDLES_ACCMULATED_REWARD]
+Accumulated guessing {DAY} days
+
+[LANTERN_RIDDLES_INFO]
+Completing the guessing game will earn you a lucky bag; answering all questions correctly earns 3, answering 4 questions correctly earns 2, and answering 2-3 questions correctly earns 1.
+
+[LANTERN_RIDDLES_RED_PACK_OPEN]
+Open the lucky bag.
+
+[LANTERN_RIDDLES_RED_PACK_RETURN]
+Return
+
+[LAWN_MAIL_BTN_CLAIMED_REWARD]
+Received
+
+[LAWN_MAIL_BTN_CLAIM_ALL]
+Claim with one tap
+
+[LAWN_MAIL_BTN_CLAIM_REWARD]
+Receive
+
+[LAWN_MAIL_BTN_DELETE_CLAIMED]
+Mark as read
+
+[LAWN_MAIL_DEFAULT_DEL_CHECKED_CONFIRM_CONTENT]
+Are you sure you want to delete all read emails?
+
+[LAWN_MAIL_DEFAULT_DEL_CHECKED_CONFIRM_TITLE]
+System prompt
+
+[LAWN_MAIL_DEFAULT_DEL_CHECKED_SUCCESS]
+Deleted read emails!
+
+[LAWN_MAIL_DEFAULT_DEL_WARNING_HAS_COLLECTED]
+You have saved this email!
+
+[LAWN_MAIL_DEFAULT_DEL_WARNING_HAS_REWARD]
+You still have rewards to claim!
+
+[LAWN_MAIL_DEFAULT_MAIL_CONTENT]
+Default content
+
+[LAWN_MAIL_DEFAULT_MAIL_COUNT]
+Emails {NUM}/{MAX_NUM}
+
+[LAWN_MAIL_DEFAULT_MAIL_DATE]
+2026.01.01
+
+[LAWN_MAIL_DEFAULT_MAIL_RIGHT_DATE]
+Validity: {DATE}
+
+[LAWN_MAIL_DEFAULT_MAIL_RIGHT_SOURCE]
+Default sender
+
+[LAWN_MAIL_DEFAULT_MAIL_RIGHT_SOURCE_INFO]
+From:
+
+[LAWN_MAIL_DEFAULT_MAIL_RIGHT_TITLE]
+Default title
+
+[LAWN_MAIL_DEFAULT_MAIL_RIGHT_TITLE_INFO]
+Title:
+
+[LAWN_MAIL_DEFAULT_MAIL_TITLE]
+Default title
+
+[LAWN_MAIL_DEFAULT_UNCHECK_MAIL_COUNT]
+Unread {NUM}
+
+[LAWN_MAIL_TITLE]
+Email
+
+[LEVEL_EDITOR_HEAD_DES_ID_25847]
+Hues of Fantasy Custom Activity Limited Avatar
+
+[LEVEL_EDITOR_HEAD_DES_ID_25848]
+Tonight's electronic pickled mustard tuber has a destination!
+
+[LEVEL_EDITOR_HEAD_ID_25847]
+Radiant etiquette
+
+[LEVEL_EDITOR_HEAD_ID_25848]
+Joyful and optimistic film
+
+[LOTUS_POISON]
+Water lily lotus root poisoned by poison.
+
+[MAIL_ERROR_76056]
+Email does not exist
+
+[MAIL_ERROR_76057]
+Email does not exist
+
+[MAIL_ERROR_76058]
+Does not meet the award criteria.
+
+[MAIL_ERROR_76059]
+Email expired
+
+[MAT_NFSLINKAGE_TICKET_8]
+Golden cloud of a zhi.
+
+[MINI_GAMES_HEAD_DES_ID_25842]
+In the mini-game mode, summon 200 zombies to obtain
+
+[MINI_GAMES_HEAD_DES_ID_25849]
+In the mini-game mode, complete 20 different mini-games to obtain
+
+[MINI_GAMES_HEAD_DES_ID_25850]
+In the mini-game mode, complete 50 different mini-games to obtain
+
+[MINI_GAMES_HEAD_DES_ID_25851]
+In the mini-game mode, complete 100 different mini-games to obtain{
+
+[MINI_GAMES_HEAD_DES_ID_25852]
+In the mini-game mode, complete 140 different mini-games to obtain
+
+[MINI_GAMES_HEAD_DES_ID_25853]
+In the "I am a Plant" mode of the mini-game mode, clear any level with the remaining 150 sunlight to obtain.
+
+[MINI_GAMES_HEAD_DES_ID_25854]
+In the "Smash Cans" mode of the mini-game mode, smash 500 cans
+
+[MINI_GAMES_HEAD_DES_ID_25855]
+In the "Smash Cans" mode of the mini-game mode, smash 1000 cans
+
+[MINI_GAMES_HEAD_DES_ID_25856]
+In the mini-game mode's "Smash Cans" mode, smash 2000 cans
+
+[MINI_GAMES_HEAD_ID_25842]
+Zombie Summoner
+
+[MINI_GAMES_HEAD_ID_25849]
+Mini-game novice
+
+[MINI_GAMES_HEAD_ID_25850]
+Mini game expert
+
+[MINI_GAMES_HEAD_ID_25851]
+Mini-game expert
+
+[MINI_GAMES_HEAD_ID_25852]
+Mini-game master
+
+[MINI_GAMES_HEAD_ID_25853]
+careful calculation
+
+[MINI_GAMES_HEAD_ID_25854]
+Bashing cans to learn.
+
+[MINI_GAMES_HEAD_ID_25855]
+hammer-and-chisel craftsman
+
+[MINI_GAMES_HEAD_ID_25856]
+Can-smashing master
+
+[NEWYEAR_GIFT_HEAD_DES_ID_25844]
+During the celebration package event, receive rewards for reaching the cumulative recharge progress in the event.
+
+[NEWYEAR_GIFT_HEAD_ID_25844]
+Brilliant bells illuminate the moon.
+
+[NEW_AVATAR_DESCRIPTION_ASPARAGUS_1]
+Rest time reduced by 20%
+
+[NEW_AVATAR_DESCRIPTION_CACTUS_3]
+Attack increased by 15%
+
+[NEW_AVATAR_DESCRIPTION_CAULIPOWER_1]
+Reduced sunlight consumption by 25%
+
+[NEW_AVATAR_DESCRIPTION_DUCKPEAR_2]
+Attack speed increased by 30%
+
+[NEW_AVATAR_DESCRIPTION_GOLDENCASSIA_1]
+Health increases by 15%
+
+[NEW_AVATAR_DESCRIPTION_GRAPESHOT_2]
+Reduced sunlight consumption by 20
+
+[NEW_AVATAR_DESCRIPTION_HELICONIAGUNNER_2]
+Attack increased by 15%
+
+[NEW_AVATAR_DESCRIPTION_MAYBEE_1]
+Reduced sunlight consumption by 25%
+
+[NEW_AVATAR_DESCRIPTION_PEANUT_1]
+Health increases by 10%
+
+[NEW_AVATAR_DESCRIPTION_PEONYCHI_2]
+Planting cooling reduces 20%
+
+[NEW_AVATAR_DESCRIPTION_PEONYCHI_3]
+None
+
+[NEW_AVATAR_DESCRIPTION_PINKSTARFRUIT_3]
+Red stars, blue stars, damage amplification of stars pierced by attacks increased by 40%
+
+[NEW_AVATAR_DESCRIPTION_PRIMALSUNFLOWER_3]
+Planting cooling reduces 15%
+
+[NEW_AVATAR_SHORT_DESCRIPTION_ASPARAGUS_1]
+Asparagus battle tactic Mohawk disguise
+
+[NEW_AVATAR_SHORT_DESCRIPTION_CACTUS_3]
+Cactus Dunhuang attire
+
+[NEW_AVATAR_SHORT_DESCRIPTION_CAULIPOWER_1]
+Super broccoli Dunhuang makeover
+
+[NEW_AVATAR_SHORT_DESCRIPTION_DUCKPEAR_2]
+Pear, chubby, bee queen costume.
+
+[NEW_AVATAR_SHORT_DESCRIPTION_GOLDENCASSIA_1]
+Golden spider flower Dunhuang style.
+
+[NEW_AVATAR_SHORT_DESCRIPTION_GRAPESHOT_2]
+Bursting Grapes Dunhuang Style
+
+[NEW_AVATAR_SHORT_DESCRIPTION_HELICONIAGUNNER_2]
+Scorpion banana machine gunner, hungry brother disguise.
+
+[NEW_AVATAR_SHORT_DESCRIPTION_MAYBEE_1]
+Honeycomb lilycone beanie.
+
+[NEW_AVATAR_SHORT_DESCRIPTION_PEANUT_1]
+Peanut Archer Trinity Costume
+
+[NEW_AVATAR_SHORT_DESCRIPTION_PEONYCHI_2]
+Tai Chi hollyhock maid costume
+
+[NEW_AVATAR_SHORT_DESCRIPTION_PEONYCHI_3]
+Maid outfit - Sparkling attire
+
+[NEW_AVATAR_SHORT_DESCRIPTION_PINKSTARFRUIT_3]
+Angel star fruit dazzling lotus reflecting the Big Dipper.
+
+[NEW_AVATAR_SHORT_DESCRIPTION_PRIMALSUNFLOWER_3]
+Original Sunflower Dunhuang Style
+
+[NEW_PVP_FREE_CHEST_BUY_CONFIRM_CONTENT]
+The legendary card in the treasure chest is only 5 cards (5 cards of a random zombie obtained from the selected zombie), do you confirm the purchase?
+
+[NEW_PVP_FREE_CHEST_BUY_CONFIRM_TITLE]
+Purchase tips
+
+[NEW_PVP_SHOP_FREE_CHEST_DETAIL_KEY_1]
+Random legend quality zombie cards (choose 3 zombies as the range).
+
+[NEW_PVP_SHOP_FREE_CHEST_DETAIL_KEY_2]
+Random rare quality zombie card
+
+[NEW_PVP_SHOP_FREE_CHEST_DETAIL_KEY_3]
+Random common quality zombie card.
+
+[NEW_PVP_SHOP_FREE_CHEST_DETAIL_KEY_4]
+Ametrine
+
+[NEW_PVP_SHOP_FREE_CHEST_DETAIL_KEY_5]
+Diamond
+
+[NFSLINKAGE_DESCRIPTION_8]
+Event Rules
+1. Players can claim valuable rewards during the event period by logging in daily, with a total of 14 sign-in rewards.
+2. Dunhuang quests are divided into daily quests and event quests; daily quests refresh at 0:00 every day and can be completed once a day.
+3. Event quests have multiple stages; the next stage will only be displayed after completing the previous stage.
+4. Completing Dunhuang quests will earn you Jin Yun Zhu, which can be used to exchange for item rewards in the exchange shop.
+5. Exchange shop redemptions must be made during the event period, so remember to redeem them promptly, little zombies!
+
+[NFSLINKAGE_DESCRIPTION_TITLE_8]
+Dunhuang Encounter Activity Instructions
+
+[NFSLINKAGE_TITLE_8]
+Dunhuang Encounter
+
+[NFS_LINKAGE_TAB2_8]
+Dunhuang Mission
+
+[PARALLEL_DOOMSHROOM]
+42 Ruinshroom.
+
+[PARALLEL_DOOMSHROOM_DESCRIPTION]
+Maximum damage can reach tens of millions.
+
+[PARALLEL_DOOMSHROOM_DESCRIPTION_HEADER]
+The farmer who cultivated this doomsday mushroom received the Harmony Town Peace Prize.
+
+[PARALLEL_DOOMSHROOM_TOOLTIP]
+Maximum damage can reach tens of millions.
+
+[PARALLEL_JACKFRUIT]
+No. 42 Pineapple Duke
+
+[PARALLEL_JACKFRUIT_DESCRIPTION]
+Unlimited Firepower！！！
+
+[PARALLEL_JACKFRUIT_DESCRIPTION_HEADER]
+His epidermis is very tough.
+
+[PARALLEL_JACKFRUIT_TOOLTIP]
+Unlimited Firepower！！！
+
+[PRODUCT_NEW_PVP_CHEST_6]
+Standard selectable legendary chest
+
+[PRODUCT_NEW_PVP_CHEST_6_SHORTDESC]
+Standard selectable legendary chest
+
+[PVP_ERROR_76060]
+No eligibility to answer.
+
+[PVP_ERROR_76061]
+Exceeded the number of answerable questions.
+
+[PVP_ERROR_76062]
+No usable red envelopes.
+
+[PVP_ERROR_76063]
+No such task.
+
+[PVP_ERROR_76064]
+Task incomplete
+
+[PVP_ERROR_76065]
+Tasks cannot be claimed repeatedly.
+
+[PVP_ERROR_76066]
+Not yet answered, cannot reset.
+
+[PVP_ERROR_76067]
+Does not meet reset conditions.
+
+[PVZ1MODE_ARCADECABINET]
+Versatile arcade.
+
+[PVZ1MODE_ARCADECABINET_DESC]
+Street opportunities act according to changes on the field.
+
+[PVZ1MODE_DEATHHOLE]
+Death pit
+
+[PVZ1MODE_DEATHHOLE_DESC]
+Plants will briefly leave an unplantable pit after death.
+
+[PVZ1MODE_GIFT]
+Holiday gifts
+
+[PVZ1MODE_GIFT_DESC]
+Break open the gift and see what treasures are inside!
+
+[PVZ1MODE_INCREASEDCOST]
+Inflation
+
+[PVZ1MODE_INCREASEDCOST_DESC]
+Plants' sunlight consumption will increase as the number of plantings continues to grow.
+
+[PVZ1MODE_SALAD]
+Emperor Salad Dressing
+
+[PVZ1MODE_SALAD_DESC]
+Caesar's special salad dressing appears from time to time on the field, deeply loved by the zombies.
+
+[PVZ1MODE_ZCORPDROP]
+Air raid
+
+[PVZ1MODE_ZCORPDROP_DESC]
+Who knows what might fall from the sky?
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_19]
+Use the selected zombie to eliminate zombies!
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_20]
+Use different magic hats to resist zombies
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_21]
+Tap the Camel brand to pair!
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_22]
+Use coconut cannons to eliminate zombies!
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_23]
+Use plants on the conveyor belt to eliminate zombies.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_24]
+Use plants on the conveyor belt to eliminate zombies.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_25]
+Plant plants to resist the invasion of the Copperheads and zombies.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_26]
+Use a plant to fend off zombies.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_27]
+Use a plant to resist zombies.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_28]
+Use Bewitching Mushrooms to bewitch zombies.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_29]
+Use the oak archer to eliminate all the zombies.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_30]
+Use plants to eliminate zombies on fixed paths.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_61]
+Smash the jars and clear away all the zombies.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_62]
+Smash the jars and clear away all the zombies.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_63]
+Smash the jars and clear away all the zombies.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_64]
+Smash the jars and clear away all the zombies.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_65]
+Smash the jars and clear away all the zombies.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_66]
+Smash the jars and clear away all the zombies.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_67]
+Smash the jars and clear away all the zombies.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_68]
+Smash the jars and clear away all the zombies.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_69]
+Smash the jars and clear away all the zombies.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_70]
+Smash the jars and clear away all the zombies.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_71]
+Smash the jars and clear away all the zombies.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_72]
+Smash the jars and clear away all the zombies.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_73]
+Smash the jars and clear away all the zombies.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_74]
+Smash the jars and clear away all the zombies.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_75]
+Smash the jars and clear away all the zombies.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_76]
+Smash the jars and clear away all the zombies.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_77]
+Smash the jars and clear away all the zombies.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_78]
+Smash the jars and clear away all the zombies.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_79]
+Smash the jars and clear away all the zombies.
+
+[PVZ1_MODE_MINIGAME_MODE_DESC_80]
+Smash the jars and clear away all the zombies.
+
+[QUESTIONNAIRE_HEAD_DES_ID_25840]
+The Thousand Caves of Mogao and the Roaring Sands, cliff walls adorned with five-colored clouds.
+
+[QUESTIONNAIRE_HEAD_ID_25840]
+Tracing the Silk Road
+
+[RANK_AVATAR_CONTENT_CONTENT_61058]
+{双人对决第43赛季宗师段位奖励}
+
+[RANK_AVATAR_CONTENT_CONTENT_61059]
+{双人对决第44赛季宗师段位奖励}
+
+[RANK_AVATAR_CONTENT_TITLE_61058]
+Flying Miracle
+
+[RANK_AVATAR_CONTENT_TITLE_61059]
+Roam the ancient city.
+
+[REDPACK_NUM_DESC_NEW]
+Received the lucky bag.
+
+[S30_MEMORY_LEVEL_NAME_001]
+Joint invasion
+
+[S30_MEMORY_LEVEL_NAME_002]
+Medical advisor
+
+[S30_MEMORY_LEVEL_NAME_003]
+Timid service
+
+[S30_MEMORY_LEVEL_NAME_004]
+The uncrowned king
+
+[S30_MEMORY_LEVEL_NAME_005]
+Petrochemical crisis
+
+[S30_MEMORY_LEVEL_NAME_006]
+Curve attack.
+
+[S30_MEMORY_LEVEL_NAME_007]
+Sticky hammer.
+
+[S30_MEMORY_LEVEL_NAME_008]
+Mechanical beast fighting
+
+[S30_MEMORY_LEVEL_NAME_009]
+Gift box cake
+
+[S30_MEMORY_LEVEL_NAME_010]
+Toxic fog fills the sky.
+
+[S30_MEMORY_LEVEL_NAME_011]
+Mystery box waterways
+
+[S30_MEMORY_LEVEL_NAME_012]
+Unzip wizard
+
+[S30_MEMORY_LEVEL_NAME_013]
+Holiday arcade
+
+[S30_MEMORY_LEVEL_NAME_014]
+Steel Shells
+
+[S30_MEMORY_LEVEL_NAME_015]
+Burn, travel, boil!
+
+[S30_MEMORY_LEVEL_NAME_016]
+Parkour feast
+
+[S30_MEMORY_LEVEL_NAME_017]
+Back to the green field
+
+[S30_MEMORY_LEVEL_NAME_018]
+Dance Among the Tombs
+
+[S30_MEMORY_LEVEL_NAME_019]
+Small matters, big trouble.
+
+[S30_MEMORY_LEVEL_NAME_020]
+Frost speaks by the pool.
+
+[S30_MEMORY_LEVEL_NAME_021]
+Tracing footsteps in the mist.
+
+[S30_MEMORY_LEVEL_NAME_022]
+Heaven and earth.
+
+[S30_MEMORY_LEVEL_NAME_023]
+Ascend and view the distant scenery.
+
+[S30_MEMORY_LEVEL_NAME_024]
+Rooftop party
+
+[S30_MEMORY_LEVEL_NAME_025]
+Enjoy the New Year again.
+
+[S30_MEMORY_LEVEL_NAME_026]
+From an egg, one can see the chicken.
+
+[S30_MEMORY_LEVEL_NAME_027]
+Magical candy
+
+[S30_MEMORY_LEVEL_NAME_028]
+Fireworks display
+
+[S30_MEMORY_LEVEL_NAME_029]
+Anniversary renewal
+
+[S30_MEMORY_LEVEL_NAME_030]
+Bountiful harvest, auspicious meaning.
+
+[S30_MEMORY_LEVEL_NAME_031]
+Bean Pod Clash
+
+[S30_MEMORY_LEVEL_NAME_032]
+Christmas Carol
+
+[S30_MEMORY_LEVEL_NAME_10]
+Fight fire with fire.
+
+[S30_MEMORY_LEVEL_NAME_11]
+Shattered Heavens.
+
+[S30_MEMORY_LEVEL_NAME_12]
+Chain link
+
+[S30_MEMORY_LEVEL_NAME_13]
+indirect questioning
+
+[S30_MEMORY_LEVEL_NAME_14]
+Not enough room to maneuver.
+
+[S30_MEMORY_LEVEL_NAME_15]
+Bounce without stopping.
+
+[S30_MEMORY_LEVEL_NAME_16]
+Raging winds and tumultuous waves.
+
+[S30_MEMORY_LEVEL_NAME_17]
+Return to the Modern Era
+
+[S30_MEMORY_LEVEL_NAME_1]
+Electromagnetic induction
+
+[S30_MEMORY_LEVEL_NAME_2]
+intertwined ice and fire
+
+[S30_MEMORY_LEVEL_NAME_3]
+Promote movement
+
+[S30_MEMORY_LEVEL_NAME_4]
+Ants swallowing an elephant.
+
+[S30_MEMORY_LEVEL_NAME_5]
+Immortal Hegemony
+
+[S30_MEMORY_LEVEL_NAME_6]
+Meet force with force.
+
+[S30_MEMORY_LEVEL_NAME_7]
+to stake everything on a single throw
+
+[S30_MEMORY_LEVEL_NAME_8]
+Titanic body
+
+[S30_MEMORY_LEVEL_NAME_9]
+The Mystery of the Foggy City
+
+[S30_MEMORY_LEVEL_NAME_BOSS_1]
+Pursuit of the Terminator
+
+[S30_MEMORY_LEVEL_NAME_BOSS_2]
+Steam Fighters
+
+[S30_MEMORY_LEVEL_NAME_BOSS_3]
+Anniversary decrypter
+
+[S30_MEMORY_LEVEL_NAME_BOSS_4]
+Festival breakers.
+
+[STARCHALLENGE_DEFEAT_X_PUMPKIN_HOUSE_GHOST]
+Defeat {NUMBER} Pumpkin House Ghosts
+
+[STARCHALLENGE_DEFEAT_X_PVZ1ZOMBIES]
+Defeat {NUMBER} zombies.
+
+[STARCHALLENGE_DEFEAT_X_TERRACOTTA]
+Defeat {NUMBER} Clay Soldier Zombies
+
+[STORE_PRODUCT_AVATAR_APSARLOTUS]
+{【祥云】} gains reinforcement, with the duration extended to 15 seconds; and the plants above are immune to all negative control effects.
+
+[STORE_PRODUCT_AVATAR_APSARLOTUS_TITLE]
+Magnificent cloud flying lotus attire
+
+[STORE_PRODUCT_AVATAR_SUNFLOWERZOMBIE]
+No-Energy Bean Ultimate!
+
+[STORE_PRODUCT_AVATAR_SUNFLOWERZOMBIE_TITLE]
+Unadorned
+
+[SUMMER_MEMORIES_HEAD_DES_ID_25841]
+To the players who journeyed together in memories.
+
+[SUMMER_MEMORIES_HEAD_ID_25841]
+Real or fake potatoes?
+
+[SUNFLOWERZOMBIE]
+Sunflower zombies
+
+[SUNFLOWERZOMBIE_AVATAR_PLANTFOOD_DESCRIPTION]
+No-Energy Bean Ultimate!
+
+[SUNFLOWERZOMBIE_DESCRIPTION]
+{KEYWORD} Features: {STAT} Can walk to the right and attack zombies along the way, and can produce sunlight.
+{KEYWORD} Plant Characteristics: {STAT} Yellow plant
+{FLAVOR} A zombie pretending to be a sunflower
+
+[SUNFLOWERZOMBIE_DESCRIPTION_HEADER]
+You can walk to the right and attack zombies along the way, and also produce sunlight.
+
+[SUNFLOWERZOMBIE_NEW_SKILL_LEVEL1_DES]
+After generation, move right and attack the zombies along the way; produce sunlight every 10 seconds.
+
+[SUNFLOWERZOMBIE_SKILL_LEVEL1]
+Produce sunshine.
+
+[SUNFLOWERZOMBIE_SKILL_LEVEL1_DES]
+After generation, move right and attack the zombies along the way; produce sunlight every 10 seconds.
+
+[SUNFLOWERZOMBIE_TOOLTIP]
+You can walk to the right and attack zombies along the way, and also produce sunlight.
+
+[TIANGONG_HEAD_DES_ID_25846]
+Accumulate rewards from the drawing stage in the Celestial Palace Treasure Hunt activity.
+
+[TIANGONG_HEAD_ID_25846]
+Kosupu蕾
+
+[TOYS_HEAD_DES_ID_25845]
+Participate in the activity Sweet Rhapsody to obtain
+
+[TOYS_HEAD_ID_25845]
+Fat Bee Dance Music
+
+[UNCHARTED_FOOL_HEAD_DES_ID_25843]
+Hello everyone, I’m Lyon, a veteran of the zombie industry.
+
+[UNCHARTED_FOOL_ID_25843]
+ingenious acquisition, horizontal victory.
+
+[UNCHARTED_MODE_PERK_GATLINGPEA_1]
+Machine Gun Peas Enhanced 1
+
+[UNCHARTED_MODE_PERK_GATLINGPEA_2]
+Machine Gun Peas Enhanced 2
+
+[UNCHARTED_MODE_PERK_GATLINGPEA_3]
+Machine gun peas enhanced 3
+
+[WARNING_ZCORPDROP]
+Z Company support!
+
+[ZOMBIE_BEACH_IMP_QUIFF]
+airplane head little devil zombie
+
+[ZOMBIE_BEACH_IMP_QUIFF_DESCRIPTION]
+Even as he was being flung into the air, he didn't forget to smooth his bangs and strike a handsome landing pose.
+
+[ZOMBIE_BEACH_IMP_QUIFF_DESCRIPTION_HEADER]
+Ordinary but unique little ghost zombies.
+
+[ZOMBIE_TREASUREYETI_EGYPT]
+Pharaoh Snowman Zombie
+
+[ZOMBIE_TREASUREYETI_EGYPT_DESCRIPTION]
+The pharaoh, snowman, and zombie's obsession with gold was tighter than a mummy's bandages. He brought out a large amount of treasure from the pyramid, but if you showed even a little intention of snatching it, he would retreat at a speed beyond anything ancient Egyptians could have imagined. "These are my gold coins!" he shouted as he ran.
+
+[ZOMBIE_TREASUREYETI_EGYPT_DESCRIPTION_HEADER]
+A rare and peculiar creature.
+
+[rank_avatar_diy_61]
+Flying Miracle
+
+[rank_avatar_diy_62]
+Roam freely in the ancient city
