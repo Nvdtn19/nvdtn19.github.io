@@ -78715,10 +78715,10 @@ Devastation Shrooms can be planted on Ash Pits, and zombies that receive Devasta
 Being attacked by zombies will cause an explosion, resulting in devastating damage.
 
 [DUCKPEAR]
-Pear
+Duck Pear
 
 [DUCKPEAR_AVATAR_NAME]
-Duckling attire.
+Duckling attire
 
 [DUCKPEAR_AVATAR_PLANTFOOD_DESCRIPTION]
 The ultimate move's released water spheres have a chance of being special jelly spheres, and at least one will be a special sphere.
@@ -78750,25 +78750,25 @@ Upon attack, there is a 20% chance of emitting a special jelly water orb, which 
 The ultimate move's released water spheres have a chance of being special jelly spheres, and at least one will be a special sphere.
 
 [DUCKPEAR_SKILL_LEVEL1]
-Replenish hydration.
+Replenish hydration
 
 [DUCKPEAR_SKILL_LEVEL1_DES]
 After each charge, the Duck Pear has a 15% chance to trigger a special attack, launching a water orb that is one level higher.
 
 [DUCKPEAR_SKILL_LEVEL2]
-I enjoy drinking water.
+I enjoy drinking water
 
 [DUCKPEAR_SKILL_LEVEL2_DES]
 After each charge, the Duck Pear has a 25% chance to trigger a special attack, launching a water orb one level higher.
 
 [DUCKPEAR_SKILL_LEVEL5]
-Turbo duck.
+Turbo duck
 
 [DUCKPEAR_SKILL_LEVEL5_DES]
 Upon attack, there is a 20% chance of expelling a special jelly water orb, which can absorb a giant zombie into its internal space. Each special orb can absorb only one giant zombie, and a giant zombie occupies only one absorption capacity.
 
 [DUCKPEAR_SUPERSKILL]
-Turbo duck.
+Turbo duck
 
 [DUCKPEAR_SUPERSKILL_DES]
 Upon attack, there is a 20% chance of emitting a special jelly water orb, which can absorb a giant zombie into its internal space. Each special orb can absorb only one giant zombie, and a giant zombie occupies only one absorption capacity.
@@ -78801,13 +78801,13 @@ After specialized training, one can achieve immune control, shapeshifting, and i
 After specialized training, one can achieve immune control, shapeshifting, and instant kills.
 
 [END_BUTTON]
-Settle the current challenge.
+Settle the current challenge
 
 [EXIT_DANGER_ROOM_BODY_MAUSOLEUM]
 Do you want to settle the score for this Endless Challenge?
 
 [EXIT_DANGER_ROOM_HEADER_MAUSOLEUM]
-Settlement.
+Settlement
 
 [EXPLODEONUT_NEW_SKILL_LEVEL5_DES]
 Upon reaching 0 health, the Exploding Nut will fly upwards after its initial explosion and then descend to a random tile containing a zombie, where it will explode again.
