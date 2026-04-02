@@ -78715,10 +78715,10 @@ Devastation Shrooms can be planted on Ash Pits, and zombies that receive Devasta
 Being attacked by zombies will cause an explosion, resulting in devastating damage.
 
 [DUCKPEAR]
-Pear
+Duck Pear
 
 [DUCKPEAR_AVATAR_NAME]
-Duckling attire.
+Duckling attire
 
 [DUCKPEAR_AVATAR_PLANTFOOD_DESCRIPTION]
 The ultimate move's released water spheres have a chance of being special jelly spheres, and at least one will be a special sphere.
@@ -78750,25 +78750,25 @@ Upon attack, there is a 20% chance of emitting a special jelly water orb, which 
 The ultimate move's released water spheres have a chance of being special jelly spheres, and at least one will be a special sphere.
 
 [DUCKPEAR_SKILL_LEVEL1]
-Replenish hydration.
+Replenish hydration
 
 [DUCKPEAR_SKILL_LEVEL1_DES]
 After each charge, the Duck Pear has a 15% chance to trigger a special attack, launching a water orb that is one level higher.
 
 [DUCKPEAR_SKILL_LEVEL2]
-I enjoy drinking water.
+I enjoy drinking water
 
 [DUCKPEAR_SKILL_LEVEL2_DES]
 After each charge, the Duck Pear has a 25% chance to trigger a special attack, launching a water orb one level higher.
 
 [DUCKPEAR_SKILL_LEVEL5]
-Turbo duck.
+Turbo duck
 
 [DUCKPEAR_SKILL_LEVEL5_DES]
 Upon attack, there is a 20% chance of expelling a special jelly water orb, which can absorb a giant zombie into its internal space. Each special orb can absorb only one giant zombie, and a giant zombie occupies only one absorption capacity.
 
 [DUCKPEAR_SUPERSKILL]
-Turbo duck.
+Turbo duck
 
 [DUCKPEAR_SUPERSKILL_DES]
 Upon attack, there is a 20% chance of emitting a special jelly water orb, which can absorb a giant zombie into its internal space. Each special orb can absorb only one giant zombie, and a giant zombie occupies only one absorption capacity.
@@ -78801,13 +78801,13 @@ After specialized training, one can achieve immune control, shapeshifting, and i
 After specialized training, one can achieve immune control, shapeshifting, and instant kills.
 
 [END_BUTTON]
-Settle the current challenge.
+Settle the current challenge
 
 [EXIT_DANGER_ROOM_BODY_MAUSOLEUM]
 Do you want to settle the score for this Endless Challenge?
 
 [EXIT_DANGER_ROOM_HEADER_MAUSOLEUM]
-Settlement.
+Settlement
 
 [EXPLODEONUT_NEW_SKILL_LEVEL5_DES]
 Upon reaching 0 health, the Exploding Nut will fly upwards after its initial explosion and then descend to a random tile containing a zombie, where it will explode again.
@@ -84495,7 +84495,7 @@ Attack cooldown reduced to 7.5 seconds, instant kill chance increased to 15%, ma
 Attack cooldown reduced to 5 seconds, instant kill chance increased to 20%, maximum knockback of 8-tier zombies.
 
 [LEVITATER_NEW_SKILL_LEVEL4_DES]
-There's a moderate chance of instantly unleashing the ultimate ability, Energy Beans, when planting.
+There's a moderate chance of instantly unleashing the ultimate ability, Plant Food, when planting.
 
 [LEVITATER_NEW_SKILL_LEVEL5_DES]
 The chance of a one-hit kill has increased to 30%. If the targeted zombie is flying or floating, the Floating Potato will unleash two green cyclones, guaranteeing that small and medium-sized zombies are knocked out of the arena, with a 60% chance of knocking out giant zombies. It can knock back zombies up to level 10.
@@ -85480,7 +85480,7 @@ Auspicious Clouds gain reinforcement, with the duration extended to 15 seconds; 
 {FLAVOR} To maintain that semi-transparent auspicious cloud, she consumes an astonishing amount of sunlight every day to pay the "suspension fee."
 
 [APSARLOTUS_DESCRIPTION_HEADER]
-Reinforce surrounding plants to ensure that front plants 100% trigger the planting release energy beans.
+Reinforce surrounding plants to ensure that front plants 100% trigger the planting release Plant Food.
 
 [APSARLOTUS_FAMILY]
 Rhododendron family
@@ -85499,10 +85499,10 @@ Cloud Trigger cost reduced, the proportion of Sunlight deducted reduced from 200
 Cloud Trigger cost reduced, the proportion of Sunlight deducted reduced from 100% to 50%. The trigger interval of 【Whirling Dance】 is shortened, shortened to trigger once every 6 seconds.
 
 [APSARLOTUS_NEW_SKILL_LEVEL4_DES]
-When planting, there's a moderate chance of directly unleashing the Energy Bean ultimate ability.
+When planting, there's a moderate chance of directly unleashing the Plant Food ultimate ability.
 
 [APSARLOTUS_NEW_SKILL_LEVEL5_DES]
-Planting plants on the Auspicious Cloud will trigger its self-landing release energy bean ability, causing the Auspicious Cloud Lotus to deduct 50% of its sunlight consumption and seamlessly reconnect to automatically release the energy bean ultimate ability once more.
+Planting plants on the Auspicious Cloud will trigger its self-landing release Plant Food ability, causing the Auspicious Cloud Lotus to deduct 50% of its sunlight consumption and seamlessly reconnect to automatically release the Plant Food ultimate ability once more.
 
 [APSARLOTUS_PEDIA]
 Crystal Orchid is a unique, white, chlorophyll-free plant found in mountainous forests of southwestern and northwestern China, as well as parts of Russia, Japan, India, Southeast Asia, and North America. This herbaceous perennial, reaching 10-30 cm tall, lacks leaves and relies on decomposing organic matter for nutrients, being a saprophyte. It produces bell-shaped, semi-transparent white flowers (June-September) followed by small, oval fruits (September-November). Its roots form a dense, bird's nest-like structure.
@@ -85529,10 +85529,10 @@ The trigger cost of the powerful ultimate ability is reduced, with the proportio
 Flying Celestial Miracle
 
 [APSARLOTUS_SKILL_LEVEL5_DES]
-Planting plants on the Auspicious Cloud will trigger its self-landing release energy bean ability, causing the Auspicious Cloud Lotus to deduct 50% of its sunlight consumption and seamlessly and automatically unleash the energy bean ultimate ability once more.
+Planting plants on the Auspicious Cloud will trigger its self-landing release Plant Food ability, causing the Auspicious Cloud Lotus to deduct 50% of its sunlight consumption and seamlessly and automatically unleash the Plant Food ultimate ability once more.
 
 [APSARLOTUS_TOOLTIP]
-Reinforce surrounding plants to ensure that plants in front trigger the planting release energy beans.
+Reinforce surrounding plants to ensure that plants in front trigger the planting release Plant Food.
 
 [BATTLEORDER_TASK_NAME_3_20]
 Participate in 20 【2-Player Showdown】 matches.
@@ -86251,7 +86251,7 @@ Defeat {NUMBER} Clay Soldier Zombies
 Magnificent cloud flying lotus attire
 
 [STORE_PRODUCT_AVATAR_SUNFLOWERZOMBIE]
-No-Energy Bean Ultimate!
+No-Plant Food Ultimate!
 
 [STORE_PRODUCT_AVATAR_SUNFLOWERZOMBIE_TITLE]
 Unadorned
@@ -86266,7 +86266,7 @@ Real or fake potatoes?
 Sunflower zombies
 
 [SUNFLOWERZOMBIE_AVATAR_PLANTFOOD_DESCRIPTION]
-No-Energy Bean Ultimate!
+No-Plant Food Ultimate!
 
 [SUNFLOWERZOMBIE_DESCRIPTION]
 {KEYWORD} Features: {STAT} Can walk to the right and attack zombies along the way, and can produce sunlight.
