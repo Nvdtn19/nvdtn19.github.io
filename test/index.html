@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Thử Nghiệm Chặn Popup Playmogo</title>
+    <style>
+        /* css_co_ban: Định dạng khung trang web */
+        body {
+            font-family: sans-serif;
+            text-align: center;
+            background-color: #f4f4f4;
+            padding: 20px;
+        }
+        
+        /* vung_chua_iframe: Khung cố định kích thước cho video */
+        .vung_chua_iframe {
+            position: relative;
+            width: 600px;
+            height: 480px;
+            margin: 0 auto;
+            border: 2px solid #333;
+            background: #000;
+        }
+
+        /* lop_phu_bao_ve: Lớp màng mờ chặn các click đầu tiên */
+        .lop_phu_bao_ve {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(255, 0, 0, 0.3);
+            z-index: 10;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-weight: bold;
+            text-shadow: 1px 1px 2px black;
+        }
+    </style>
+</head>
+<body>
+
+    <h2>Cách 1: Ép thuộc tính Sandbox (Tước quyền Pop-up)</h2>
+    <p>Trình duyệt sẽ chặn đứng mọi lệnh mở tab mới từ Playmogo.</p>
+    
+    <div class="vung_chua_iframe">
+        <iframe 
+            width="100%" 
+            height="100%" 
+            src="https://playmogo.com/e/q0w08x4jsrbf" 
+            scrolling="no" 
+            frameborder="0" 
+            allowfullscreen="true"
+            sandbox="allow-scripts allow-same-origin">
+        </iframe>
+    </div>
+
+    <hr style="margin: 40px 0;">
+
+    <h2>Cách 2: Dùng Lớp Phủ CSS (Chặn cú click bẫy đầu tiên)</h2>
+    <p>Bắt cú click đầu tiên (thường là popup mồi của các cyberlocker) ở ngoài iframe.</p>
+
+    <div class="vung_chua_iframe">
+        <div class="lop_phu_bao_ve" id="mang_chan" onclick="go_mang_chan()">
+            Click để phá màng bảo vệ (Không sinh popup)<br>Sau đó mới click vào nút Play
+        </div>
+        <iframe 
+            width="100%" 
+            height="100%" 
+            src="https://playmogo.com/e/q0w08x4jsrbf" 
+            scrolling="no" 
+            frameborder="0" 
+            allowfullscreen="true">
+        </iframe>
+    </div>
+
+    <script>
+        // ham_go_mang_chan: Xóa lớp div che phủ khi người dùng click
+        function go_mang_chan() {
+            var phan_tu_mang = document.getElementById("mang_chan");
+            phan_tu_mang.style.display = "none";
+            alert("Màng chắn đã gỡ! Các click tiếp theo sẽ tác động trực tiếp vào iframe của Playmogo.");
+        }
+    </script>
+
+</body>
+</html>
