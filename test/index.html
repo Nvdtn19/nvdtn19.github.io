@@ -1,91 +1,70 @@
 <!DOCTYPE html>
-<html lang="vi">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Thử Nghiệm Chặn Popup Playmogo</title>
+    <title>Custom Video Player</title>
     <style>
-        /* css_co_ban: Định dạng khung trang web */
         body {
-            font-family: sans-serif;
-            text-align: center;
-            background-color: #f4f4f4;
-            padding: 20px;
-        }
-        
-        /* vung_chua_iframe: Khung cố định kích thước cho video */
-        .vung_chua_iframe {
-            position: relative;
-            width: 600px;
-            height: 480px;
-            margin: 0 auto;
-            border: 2px solid #333;
-            background: #000;
-        }
-
-        /* lop_phu_bao_ve: Lớp màng mờ chặn các click đầu tiên */
-        .lop_phu_bao_ve {
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            background: rgba(255, 0, 0, 0.3);
-            z-index: 10;
-            cursor: pointer;
             display: flex;
-            align-items: center;
             justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #121212;
+            margin: 0;
             color: white;
-            font-weight: bold;
-            text-shadow: 1px 1px 2px black;
+            font-family: sans-serif;
+        }
+        .player-container {
+            max-width: 800px;
+            width: 100%;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.5);
+        }
+        video {
+            width: 100%;
+            display: block;
         }
     </style>
 </head>
 <body>
 
-    <h2>Cách 1: Ép thuộc tính Sandbox (Tước quyền Pop-up)</h2>
-    <p>Trình duyệt sẽ chặn đứng mọi lệnh mở tab mới từ Playmogo.</p>
-    
-    <div class="vung_chua_iframe">
-        <iframe 
-            width="100%" 
-            height="100%" 
-            src="https://playmogo.com/e/q0w08x4jsrbf" 
-            scrolling="no" 
-            frameborder="0" 
-            allowfullscreen="true"
-            sandbox="allow-scripts allow-same-origin">
-        </iframe>
-    </div>
+    <div class="player-container">
+        <video id="myVideo" controls preload="metadata">
+            <source src="https://upos-bstar1-mirrorakam.akamaized.net/iupxcodeboss/vb/tw/n240522ad3eygif2blk9n71z4wbctwvb-1-151220110000.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&platform=pc&nbs=1&os=akam&oi=1984345766&trid=d1e8fbf724344adba6d51d52919ea998i&uipk=5&deadline=1775664975&gen=playurlv3&mid=1010330590&upsig=add31c37eeff51a0f83b5baf7a7c2fc6&uparams=e,platform,nbs,os,oi,trid,uipk,deadline,gen,mid&hdnts=exp=1775664975~hmac=3713824f8a8253c37d182174ca5b738d3d7a0d070935025bcad957dea2f60c73&bvc=vod&orderid=0,2&logo=00000000&f=i_0_0" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
 
-    <hr style="margin: 40px 0;">
-
-    <h2>Cách 2: Dùng Lớp Phủ CSS (Chặn cú click bẫy đầu tiên)</h2>
-    <p>Bắt cú click đầu tiên (thường là popup mồi của các cyberlocker) ở ngoài iframe.</p>
-
-    <div class="vung_chua_iframe">
-        <div class="lop_phu_bao_ve" id="mang_chan" onclick="go_mang_chan()">
-            Click để phá màng bảo vệ (Không sinh popup)<br>Sau đó mới click vào nút Play
-        </div>
-        <iframe 
-            width="100%" 
-            height="100%" 
-            src="https://playmogo.com/e/q0w08x4jsrbf" 
-            scrolling="no" 
-            frameborder="0" 
-            allowfullscreen="true">
-        </iframe>
+        <audio id="myAudio" preload="metadata">
+            <source src="https://upos-bstar1-mirrorakam.akamaized.net/iupxcodeboss/vb/tw/n240522ad3eygif2blk9n71z4wbctwvb-1-1d1301000022.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&mid=1010330590&os=akam&trid=285dc2dc0a0643cab3e0473bfa728d60i&deadline=1775664975&gen=playurlv3&oi=1984345766&platform=pc&uipk=5&nbs=1&upsig=de9d6853b083c2cd0338076375fcc47c&uparams=e,mid,os,trid,deadline,gen,oi,platform,uipk,nbs&hdnts=exp=1775664975~hmac=f1ae740d65bfd2f7cdbac03d9217007733b08741b5d85be9c9a038dcb7f53436&bvc=vod&orderid=0,2&logo=00000000&f=i_0_0" type="audio/mp4">
+        </audio>
     </div>
 
     <script>
-        // ham_go_mang_chan: Xóa lớp div che phủ khi người dùng click
-        function go_mang_chan() {
-            var phan_tu_mang = document.getElementById("mang_chan");
-            phan_tu_mang.style.display = "none";
-            alert("Màng chắn đã gỡ! Các click tiếp theo sẽ tác động trực tiếp vào iframe của Playmogo.");
-        }
-    </script>
+        const video = document.getElementById('myVideo');
+        const audio = document.getElementById('myAudio');
 
+        // Sync Play/Pause
+        video.addEventListener('play', () => audio.play());
+        video.addEventListener('pause', () => audio.pause());
+
+        // Sync Seeking (scrubbing through the timeline)
+        video.addEventListener('seeking', () => {
+            audio.currentTime = video.currentTime;
+        });
+        video.addEventListener('seeked', () => {
+            audio.currentTime = video.currentTime;
+        });
+
+        // Sync Playback Speed
+        video.addEventListener('ratechange', () => {
+            audio.playbackRate = video.playbackRate;
+        });
+
+        // Sync Volume and Mute
+        video.addEventListener('volumechange', () => {
+            audio.volume = video.volume;
+            audio.muted = video.muted;
+        });
+    </script>
 </body>
 </html>
