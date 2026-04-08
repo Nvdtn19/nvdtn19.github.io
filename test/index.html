@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Custom Video Player</title>
+    <title>Embedded Video</title>
     <style>
         body {
             display: flex;
@@ -12,8 +12,6 @@
             height: 100vh;
             background-color: #121212;
             margin: 0;
-            color: white;
-            font-family: sans-serif;
         }
         .player-container {
             max-width: 800px;
@@ -23,48 +21,18 @@
         video {
             width: 100%;
             display: block;
+            border-radius: 8px;
         }
     </style>
 </head>
 <body>
 
     <div class="player-container">
-        <video id="myVideo" controls preload="metadata">
-            <source src="https://upos-bstar1-mirrorakam.akamaized.net/iupxcodeboss/vb/tw/n240522ad3eygif2blk9n71z4wbctwvb-1-151220110000.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&platform=pc&nbs=1&os=akam&oi=1984345766&trid=d1e8fbf724344adba6d51d52919ea998i&uipk=5&deadline=1775664975&gen=playurlv3&mid=1010330590&upsig=add31c37eeff51a0f83b5baf7a7c2fc6&uparams=e,platform,nbs,os,oi,trid,uipk,deadline,gen,mid&hdnts=exp=1775664975~hmac=3713824f8a8253c37d182174ca5b738d3d7a0d070935025bcad957dea2f60c73&bvc=vod&orderid=0,2&logo=00000000&f=i_0_0" type="video/mp4">
+        <video controls preload="metadata">
+            <source src="https://github.com/Nvdtn19/nvdtn19.github.io/releases/download/test/merged_final.mp4" type="video/mp4">
             Your browser does not support the video tag.
         </video>
-
-        <audio id="myAudio" preload="metadata">
-            <source src="https://upos-bstar1-mirrorakam.akamaized.net/iupxcodeboss/vb/tw/n240522ad3eygif2blk9n71z4wbctwvb-1-1d1301000022.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&mid=1010330590&os=akam&trid=285dc2dc0a0643cab3e0473bfa728d60i&deadline=1775664975&gen=playurlv3&oi=1984345766&platform=pc&uipk=5&nbs=1&upsig=de9d6853b083c2cd0338076375fcc47c&uparams=e,mid,os,trid,deadline,gen,oi,platform,uipk,nbs&hdnts=exp=1775664975~hmac=f1ae740d65bfd2f7cdbac03d9217007733b08741b5d85be9c9a038dcb7f53436&bvc=vod&orderid=0,2&logo=00000000&f=i_0_0" type="audio/mp4">
-        </audio>
     </div>
 
-    <script>
-        const video = document.getElementById('myVideo');
-        const audio = document.getElementById('myAudio');
-
-        // Sync Play/Pause
-        video.addEventListener('play', () => audio.play());
-        video.addEventListener('pause', () => audio.pause());
-
-        // Sync Seeking (scrubbing through the timeline)
-        video.addEventListener('seeking', () => {
-            audio.currentTime = video.currentTime;
-        });
-        video.addEventListener('seeked', () => {
-            audio.currentTime = video.currentTime;
-        });
-
-        // Sync Playback Speed
-        video.addEventListener('ratechange', () => {
-            audio.playbackRate = video.playbackRate;
-        });
-
-        // Sync Volume and Mute
-        video.addEventListener('volumechange', () => {
-            audio.volume = video.volume;
-            audio.muted = video.muted;
-        });
-    </script>
 </body>
 </html>
