@@ -100,9 +100,10 @@ Approval Number: New Application Review Letter\[2013]1509 Number; Publication Nu
 Copyright Holder of the Game: Electronic Arts Inc.; Publishing Service Provider: Talkweb Information System Co., Ltd.
 
 [HEALTH_NOTICE_CONTENT_3_1]
-This online game is suitable for players over 12 years old. For your health, please reasonably restrict your game time. Avoid games with unhealthy messages, reject unlicensed games.
-Take care of yourself, beware of scams. Pay attention to self-protection and avoid being deceived. A bit of gaming trains your mind, too much will harm your health. Reasonably spend your time, enjoy a healthy life.
-Approval Number: New Application Review Letter\[2013]1509 Number; Publication Number: ISBN978-7-89989-834-5; ICP registration number: Hunan B2-20100081-55A.
+This online game is suitable for users aged 12 or older. For your health, please control your game time reasonably. Resist unhealthy games and refuse pirated games.
+Pay attention to self-protection and beware of scams. Moderate gaming is beneficial, while addiction is harmful. Arrange your time reasonably and enjoy a healthy life.
+Approval number: New Release Inspection No. [2013]1509; Publication number: ISBN978-7-89989-834-5; ICP filing number: Audio-Visual Filing [2023]B4327
+Copyright owner of the game: Electronic Arts Inc.; Publishing service unit: Topwise Information System Co., Ltd.
 
 [HEALTH_NOTICE_CONTENT_4]
 Game Copyright Owner: Electronic Arts Inc.; Publishing Service Provider: Talkweb Information System Co., Ltd.
@@ -17608,7 +17609,7 @@ Which color is not a primary color in the Dunhuang murals?
 ca=purple|earth yellow|cyan gold blue|ochre red|
 
 [LANTERN_RIDDLES_16]
-Which of the following characteristics is not of ionizing red palm?
+What did the documents in the Library Cave mainly record about ancient Dunhuang?
 
 [LANTERN_RIDDLES_ANSWER_16]
 ca=culture, life, religion|military warfare|agricultural production|the life of the emperor|
@@ -17950,10 +17951,10 @@ Who is the elder who often stands beside the Buddha?
 Maitreya|Ananda|Guanyin Bodhisattva|Heavenly King|
 
 [LANTERN_RIDDLES_73]
-What is the maximum number of red packets that can be obtained by completing the Gold Ingot Battle event?
+In Dunhuang murals, the fluttering scarves of the apsaras are used to express...
 
 [LANTERN_RIDDLES_ANSWER_73]
-ca=10|7|5|13|
+ca=flying|good-looking|decorative|warming|
 
 [LANTERN_RIDDLES_74]
 After the discovery of the Library Cave, the artifacts inside...
@@ -65776,7 +65777,7 @@ Two-player Mode shop
 Information
 
 [NEW_PVP_SHOP_INFO_DETAIL]
-The in-game store refreshes daily with limited stock. Purple Crystals, earned from treasure chests (daily/weekly), are used for store purchases. Treasure chests offer zombie cards and Crystals. Seasonal Legendary/Common chests contain new seasonal zombies; Regular chests offer all released zombies. Legendary chests reward random common, rare, and legendary zombie cards, plus Crystals. Chosen Legendary chests let you select 3 legendary zombies for a guaranteed 5 cards from that group, alongside other rewards. Common chests provide fewer cards and diamonds. Card acquisition probability within chests is equal across common, rare, and legendary qualities.
+The in-game store refreshes daily with limited items, purchasable with purple crystals earned from treasure chests. Seasonal and Regular Legendary Chests offer random zombie cards (common, rare, legendary) and crystals. Seasonal Chosen Legendary Chests (new next season) let you select 3 legendary zombies, guaranteeing 5 cards from that selection, alongside other rewards. Seasonal Common Chests provide common/rare zombie cards, crystals, and diamonds. All chest card rewards have equal probability within each quality tier.
 
 [NEW_PVP_SHOP_RESET_TIMER]
 Reset in
@@ -79021,11 +79022,10 @@ To roam freely by the water.
 Hay bales can be planted in tunnels and allow other plants to grow on them.
 
 [HEALTH_NOTICE_CONTENT_2_1]
-This online game is suitable for users aged 12 and above. For your health, please control your gaming time appropriately. Resist unhealthy games and refuse pirated games.
-
-Pay attention to your own safety and be wary of scams. Moderate gaming is beneficial for the mind, while excessive gaming is harmful to the body. Arrange your time reasonably and enjoy a healthy life.
-
-Approval Number: New Release Approval No. [2013]1509; Publication Number: ISBN978-7-89989-834-5; ICP Filing Number: Audiovisual Filing [2023]B4327
+This online game is suitable for users aged 12 or older. For your health, please control your game time reasonably. Resist unhealthy games and refuse pirated games.
+Pay attention to self-protection and beware of fraud. Moderate gaming is beneficial to the brain, while excessive gaming is harmful to your health. Arrange your time reasonably and enjoy a healthy life.
+Approval number: New Release Inspection No. [2013]1509; Publication number: ISBN978-7-89989-834-5; ICP filing number: Audio-Visual Filing [2023]B4327
+Copyright owner of the game: Electronic Arts Inc.; Publishing service unit: Topwise Information System Co., Ltd.
 
 [HERO_CROWN]
 King of Heroes
@@ -85517,7 +85517,6 @@ Enhance plants with magical abilities.
 Nishō Yūi
 
 [APSARLOTUS_SKILL_LEVEL1_DES]
-[Heavenly Maiden Scattering Flowers] The trigger cost of powerful ultimate abilities is reduced, with the proportion of Sunlight consumed reduced from 200% to 100%. The trigger interval of [Whirling Dance] is shortened to once every 8 seconds.
 
 [APSARLOTUS_SKILL_LEVEL2]
 Tibetan Buddhist chanting.
@@ -85595,7 +85594,7 @@ Sunshine mushrooms' growth rate increased by {Param_1}%.
 Accumulated guessing {DAY} days
 
 [LANTERN_RIDDLES_INFO]
-Completing the guessing game will earn you a lucky bag; answering all questions correctly earns 3, answering 4 questions correctly earns 2, and answering 2-3 questions correctly earns 1.
+Completing the guessing game activity can earn you lucky bags, and the more questions you answer correctly, the more lucky bags you’ll receive.
 
 [LANTERN_RIDDLES_RED_PACK_OPEN]
 Open the lucky bag.
