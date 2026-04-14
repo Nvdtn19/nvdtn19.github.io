@@ -85517,6 +85517,7 @@ Enhance plants with magical abilities.
 Nishō Yūi
 
 [APSARLOTUS_SKILL_LEVEL1_DES]
+The trigger cost of powerful ultimate abilities is reduced, with the proportion of Sunlight consumed reduced from 200% to 100%. The trigger interval of Whirling Dance is shortened to once every 8 seconds.
 
 [APSARLOTUS_SKILL_LEVEL2]
 Tibetan Buddhist chanting.
