@@ -83403,7 +83403,7 @@ Rewards are granted upon the first successful completion of each level.
 4. Task Rewards
 
 [UNCHARTED_MAUSOLEUM_KEY_INFO_TEXT8]
-Rewards for first completion of each level cannot be obtained repeatedly.
+Rewards for completing a level the first time cannot be obtained repeatedly, and the first-time completion reward plants are secret realm plants, usable only in this secret realm.
 
 [UNCHARTED_PHATBEET]
 Secret Realm's Enchanting Sound of Beetroot
@@ -86428,7 +86428,7 @@ Health increases to 12000, and when not bitten by zombies, the bronze bell will 
 Gain an 8000-point health bronze shell shield.
 
 [DOOMBELL_TOOLTIP]
-Cast spells to attack zombies.
+Block zombies and spectral zombies.
 
 [EXORCISLILY]
 Zhong Kui Lycoris
