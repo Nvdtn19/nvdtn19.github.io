@@ -87301,7 +87301,7 @@ A rare and peculiar creature, he always carried a mysterious Yeti treasure.
 Master of the Netherworld Palace
 
 [ZOMBIE_ZOMBOSS_QINSHIHUANG_GHOST_BIG_SKILL_WARNING]
-Finishing move is about to launch, please defeat the Dungeon Master as soon as possible, don't let him successfully repair the Qin King's Sword!
+Stop him from repairing the Qin King's Sword before he launches his ultimate move!
 
 [ZOMBIE_ZOMBOSS_QINSHIHUANG_GHOST_DESCRIPTION]
 {FLAVOR}He faced a huge trouble: when bathing in a pile of salted fish, the salted fish would always leak out from his semi-transparent belly.
